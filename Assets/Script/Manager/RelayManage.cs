@@ -16,7 +16,6 @@ public class RelayManager : MonoBehaviour
 
     [SerializeField] TMP_InputField joinInput;
 
-    [SerializeField] TextMeshProUGUI codeTxt;
 
 
     async void Start()
@@ -32,7 +31,6 @@ public class RelayManager : MonoBehaviour
     {
         Allocation allocation = await RelayService.Instance.CreateAllocationAsync(3);
         string joinCode = await RelayService.Instance.GetJoinCodeAsync(allocation.AllocationId);
-        codeTxt.text = "Code: " + joinCode;
         Debug.Log(joinCode);
         var relayServerData = AllocationUtils.ToRelayServerData(allocation, "dtls");
 
