@@ -1,18 +1,21 @@
 using TMPro;
 using UnityEngine;
 
-public class ChatUI : MonoBehaviour
+namespace Titidus
 {
-    [SerializeField] private TMP_InputField input;
-    [SerializeField] private ChatManager chatManager;
-
-    public void Send()
+    public class ChatUI : MonoBehaviour
     {
-        if (string.IsNullOrWhiteSpace(input.text))
-            return;
-        chatManager.SendMessageRpc(input.text);
+        [SerializeField] private TMP_InputField input;
+        [SerializeField] private ChatManager chatManager;
 
-        input.text = "";
-        input.ActivateInputField();
+        public void Send()
+        {
+            if (string.IsNullOrWhiteSpace(input.text))
+                return;
+            chatManager.SendMessageRpc(input.text);
+
+            input.text = "";
+            input.ActivateInputField();
+        }
     }
 }
