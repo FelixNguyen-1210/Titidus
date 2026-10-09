@@ -1,4 +1,3 @@
-using System.Threading.Tasks;
 using TMPro;
 using Unity.Netcode;
 using Unity.Netcode.Transports.UTP;
@@ -6,13 +5,14 @@ using Unity.Services.Authentication;
 using Unity.Services.Core;
 using Unity.Services.Relay;
 using Unity.Services.Relay.Models;
-using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine;
+using System.Threading.Tasks;
 
 namespace Titidus
 {
 
-    public class RelayManager : MonoBehaviour
+    public class RelayManager: MonoBehaviour
     {
         [SerializeField] Button hostBtn;
         [SerializeField] Button joinBtn;
@@ -82,9 +82,18 @@ namespace Titidus
                 isBusy = false;
             }
 
-
-
         }
+        public void ShutdownRelay()
+        {
+            if (NetworkManager.Singleton)
+            {
+                m_roomCode = null;
+                NetworkManager.Singleton.Shutdown();
+            }
+        }
+
+
+
         public async Task JoinRelay(string joinCode)
         {
             var joinAllocation = await RelayService.Instance.JoinAllocationAsync(joinCode);
