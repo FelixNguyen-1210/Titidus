@@ -12,8 +12,7 @@ namespace Titidus
         public void SetReadyRpc()
         {
             IsReady.Value = true;
-
-            GameManager.Instance.CheckAllPlayersReady();
+            //GameManager.Instance.CheckAllPlayersReady();
         }
     }
 }

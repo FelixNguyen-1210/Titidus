@@ -23,7 +23,7 @@ namespace Titidus
     public enum PlayerData
     {
         Name,
-        Avatar,
+        AvatarIndex,
         Language
     }
 }

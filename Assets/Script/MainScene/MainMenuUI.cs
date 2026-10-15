@@ -1,5 +1,6 @@
 using System;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
@@ -10,6 +11,7 @@ namespace Titidus
         [SerializeField] GameObject loadingPopup;
         [SerializeField] GameObject joinRoomDialog;
         [SerializeField] TMP_InputField playerNameInput;
+        [SerializeField] Image avatarIcon;
 
         private void OnEnable()
         {
@@ -22,15 +24,25 @@ namespace Titidus
         }
         void Start()
         {
+            SetAvatar();
+            SetName();
+        }
+        void SetAvatar()
+        {
+            if(avatarIcon != null)
+            {
+                PlayerDataManager data = PlayerDataManager.Instance;
+                avatarIcon.sprite = data.GetAvatar(data.PlayerAvatarIndex);
+            }
+        }
+        void SetName()
+        {
             if (playerNameInput && PlayerDataManager.Instance)
                 playerNameInput.text = PlayerDataManager.Instance.PlayerName;
             else
             {
                 Debug.LogWarning("Component missing");
             }
-        }
-        void CheckComponentsValid()
-        {
         }
         public void CreateRoom()
         {
