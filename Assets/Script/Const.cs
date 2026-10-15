@@ -20,4 +20,10 @@ namespace Titidus
         Guard,
         Witch
     }
+    public enum PlayerData
+    {
+        Name,
+        Avatar,
+        Language
+    }
 }

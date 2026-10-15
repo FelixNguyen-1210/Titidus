@@ -1,4 +1,7 @@
+using System;
+using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 namespace Titidus
 {
@@ -6,10 +9,32 @@ namespace Titidus
     {
         [SerializeField] GameObject loadingPopup;
         [SerializeField] GameObject joinRoomDialog;
+        [SerializeField] TMP_InputField playerNameInput;
 
-
+        private void OnEnable()
+        {
+            if (playerNameInput && PlayerDataManager.Instance)
+                playerNameInput.onEndEdit.AddListener(PlayerDataManager.Instance.SetPlayerName);
+            else
+            {
+                Debug.LogWarning("Component missing");
+            }
+        }
+        void Start()
+        {
+            if (playerNameInput && PlayerDataManager.Instance)
+                playerNameInput.text = PlayerDataManager.Instance.PlayerName;
+            else
+            {
+                Debug.LogWarning("Component missing");
+            }
+        }
+        void CheckComponentsValid()
+        {
+        }
         public void CreateRoom()
         {
+
             RelayManager relayManager = RelayManager.Instance;
             if (!relayManager)
             {
