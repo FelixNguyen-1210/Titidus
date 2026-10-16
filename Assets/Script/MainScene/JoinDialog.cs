@@ -10,6 +10,7 @@ namespace Titidus
 {
     public class JoinDialog : MonoBehaviour
     {
+
         [SerializeField] TMP_InputField m_joinRoomInput;
         [SerializeField] Button m_cancelBtn;
         [SerializeField] Button m_pasteBtn;
@@ -18,12 +19,18 @@ namespace Titidus
         [SerializeField] int WrongInputShakeVibrato = 2;
         [SerializeField] float WrongInputShakeDuration = 0.5f;
 
+        [SerializeField] GameObject loadingPopup;
 
         void OnEnable()
         {
             m_cancelBtn.onClick.AddListener(() => Cancel());
             m_pasteBtn.onClick.AddListener(() => Paste());
             m_joinBtn.onClick.AddListener(() => Join());
+        }
+        public void DisplayLoading()
+        {
+            if (loadingPopup) loadingPopup.gameObject.SetActive(true);
+            else Debug.LogWarning("Loading Icon Not Found");
         }
         public async void Join()
         {
@@ -37,6 +44,10 @@ namespace Titidus
             try
             {
                 string code = m_joinRoomInput.text.Trim().ToUpperInvariant();
+
+                DisplayLoading();
+                gameObject.SetActive(false);
+
                 await relayManager.JoinRelay(code);
             }
             catch
@@ -48,7 +59,7 @@ namespace Titidus
 
                 rect.DOShakeAnchorPos(
         duration: WrongInputShakeDuration,
-        strength: new Vector2(WrongInputShakeStrength, 0f),
+        strength: new Vector2(WrongInputShakeStrength, 0.1f),
         vibrato: WrongInputShakeVibrato,
         randomness: 0f,
         snapping: false,

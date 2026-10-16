@@ -1,8 +1,5 @@
-using System;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.InputSystem;
 using UnityEngine.UI;
 namespace Titidus
 {
@@ -12,6 +9,8 @@ namespace Titidus
         [SerializeField] GameObject joinRoomDialog;
         [SerializeField] TMP_InputField playerNameInput;
         [SerializeField] Image avatarIcon;
+        [SerializeField] Button m_joinBtn;
+        [SerializeField] Button m_createBtn;
 
         private void OnEnable()
         {
@@ -21,7 +20,9 @@ namespace Titidus
             {
                 Debug.LogWarning("Component missing");
             }
+
         }
+
         void Start()
         {
             SetAvatar();
@@ -54,17 +55,16 @@ namespace Titidus
                 return;
             }
 
-            if (relayManager.isBusy)
-            {
-                Debug.LogWarning("RelayManager is busy");
-                return;
-            }
+            DisplayLoading();
 
-            if (loadingPopup) loadingPopup.gameObject.SetActive(true);
-            else Debug.LogWarning("Loading Icon Not Found");
             relayManager.CreateRelay();
 
 
+        }
+        public void DisplayLoading()
+        {
+            if (loadingPopup) loadingPopup.gameObject.SetActive(true);
+            else Debug.LogWarning("Loading Icon Not Found");
         }
         public void JoinRoom()
         {

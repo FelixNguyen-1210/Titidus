@@ -4383,7 +4383,7 @@ MonoBehaviour:
   NetworkConfig:
     ProtocolVersion: 0
     NetworkTransport: {fileID: 1731515872}
-    PlayerPrefab: {fileID: 0}
+    PlayerPrefab: {fileID: 3005643883801189496, guid: 0feb95fcb561c1340873dd987a5f5d1f, type: 3}
     Prefabs:
       NetworkPrefabsLists:
       - {fileID: 11400000, guid: e91f8c8d3f50a39499f5e8bcab5723be, type: 2}
@@ -4852,8 +4852,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8732e3d57f4f1de47bbf6c138af9945f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RelayManage
-  hostBtn: {fileID: 832377697}
-  joinBtn: {fileID: 0}
   joinInput: {fileID: 0}
   isBusy: 0
 --- !u!4 &1953952573

@@ -14,15 +14,12 @@ namespace Titidus
 
     public class RelayManager: MonoBehaviour
     {
-        [SerializeField] Button hostBtn;
-        [SerializeField] Button joinBtn;
 
         [SerializeField] TMP_InputField joinInput;
         public static RelayManager Instance;
         private string m_roomCode = null;
-
+        private bool isBusy = false;
         public string roomCode { get => m_roomCode; }
-        public bool isBusy = false;
 
         async void Start()
         {
@@ -30,6 +27,7 @@ namespace Titidus
             await AuthenticationService.Instance.SignInAnonymouslyAsync();
 
         }
+
 
         void Awake()
         {
@@ -50,6 +48,8 @@ namespace Titidus
 
         public async void CreateRelay()
         {
+            if (isBusy) return;
+
             try
             {
                 isBusy = true;
@@ -96,6 +96,9 @@ namespace Titidus
 
         public async Task JoinRelay(string joinCode)
         {
+            if (isBusy) return;
+            isBusy = true;
+
             var joinAllocation = await RelayService.Instance.JoinAllocationAsync(joinCode);
             var relayServerData = AllocationUtils.ToRelayServerData(joinAllocation, "dtls");
 
@@ -105,6 +108,8 @@ namespace Titidus
             {
                 throw new System.Exception("Failed to start client.");
             }
+            isBusy = false;
+            m_roomCode = joinCode.Trim().ToUpperInvariant();
         }
     }
 }
