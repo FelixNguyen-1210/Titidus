@@ -9,7 +9,7 @@ namespace Titidus
         [SerializeField] TextMeshProUGUI idTxt;
         void Start()
         {
-            if (RelayManager.Instance)
+            if (RelayManager.Instance )
             {
                 if (idTxt)
                 {

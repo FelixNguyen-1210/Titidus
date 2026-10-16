@@ -1,5 +1,3 @@
-using UnityEngine;
-
 
 namespace Titidus
 {
@@ -10,6 +8,8 @@ namespace Titidus
 
     public class NPlayerProfile : NetworkBehaviour
     {
+
+        
         public NetworkVariable<FixedString64Bytes> PlayerName = new();
         public NetworkVariable<int> AvatarIndex = new();
 

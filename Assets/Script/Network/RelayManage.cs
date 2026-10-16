@@ -1,3 +1,5 @@
+using System;
+using System.Threading.Tasks;
 using TMPro;
 using Unity.Netcode;
 using Unity.Netcode.Transports.UTP;
@@ -5,9 +7,9 @@ using Unity.Services.Authentication;
 using Unity.Services.Core;
 using Unity.Services.Relay;
 using Unity.Services.Relay.Models;
-using UnityEngine.UI;
+using UnityEditor.PackageManager;
 using UnityEngine;
-using System.Threading.Tasks;
+using UnityEngine.UI;
 
 namespace Titidus
 {
@@ -102,7 +104,13 @@ namespace Titidus
             var joinAllocation = await RelayService.Instance.JoinAllocationAsync(joinCode);
             var relayServerData = AllocationUtils.ToRelayServerData(joinAllocation, "dtls");
 
-            NetworkManager.Singleton.GetComponent<UnityTransport>().SetRelayServerData(relayServerData);
+            NetworkManager manager = NetworkManager.Singleton;
+            manager.GetComponent<UnityTransport>().SetRelayServerData(relayServerData);
+
+
+            
+            manager.OnClientConnectedCallback -= OnClientConnected;
+            manager.OnClientConnectedCallback += OnClientConnected;
 
             if (!NetworkManager.Singleton.StartClient())
             {
@@ -110,6 +118,16 @@ namespace Titidus
             }
             isBusy = false;
             m_roomCode = joinCode.Trim().ToUpperInvariant();
+        }
+
+        private void OnClientConnected(ulong clientId)
+        {
+            if (clientId != NetworkManager.Singleton.LocalClientId)
+                return;
+            
+            NChatManager.Instance.PlayerJoinedRpc();
+
+            NetworkManager.Singleton.OnClientConnectedCallback -= OnClientConnected;
         }
     }
 }
