@@ -1,0 +1,2576 @@
+fileFormatVersion: 2
+guid: 96eb002b60863854e979f8444063abd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6430373912225310428
+    second: env_emote_sweat_0
+  - first:
+      213: -1021938321300624883
+    second: env_emote_sweat_1
+  - first:
+      213: -7487041875511097696
+    second: env_emote_sweat_2
+  - first:
+      213: -912260509712257761
+    second: env_emote_sweat_3
+  - first:
+      213: -1342451440795572557
+    second: env_emote_sweat_4
+  - first:
+      213: 3437752763717579860
+    second: env_emote_sweat_5
+  - first:
+      213: -5908737320919753755
+    second: env_emote_sweat_6
+  - first:
+      213: 3591419571014674097
+    second: env_emote_sweat_7
+  - first:
+      213: 8798240699525073304
+    second: env_emote_sweat_8
+  - first:
+      213: 7435261695085634370
+    second: env_emote_sweat_9
+  - first:
+      213: 8491056246424944240
+    second: env_emote_sweat_10
+  - first:
+      213: -6269198633980470192
+    second: env_emote_sweat_11
+  - first:
+      213: 8048581496662505036
+    second: env_emote_sweat_12
+  - first:
+      213: -5162920919509172830
+    second: env_emote_sweat_13
+  - first:
+      213: -455649235286322403
+    second: env_emote_sweat_14
+  - first:
+      213: -4698789823179265650
+    second: env_emote_sweat_15
+  - first:
+      213: -2873376722822316180
+    second: env_emote_sweat_16
+  - first:
+      213: -3956800564841080660
+    second: env_emote_sweat_17
+  - first:
+      213: -209212418638306319
+    second: env_emote_sweat_18
+  - first:
+      213: -1093405524558037236
+    second: env_emote_sweat_19
+  - first:
+      213: -3286939382565035304
+    second: env_emote_sweat_20
+  - first:
+      213: -1929340432673170786
+    second: env_emote_sweat_21
+  - first:
+      213: -3679531376987579786
+    second: env_emote_sweat_22
+  - first:
+      213: 2676382644638233588
+    second: env_emote_sweat_23
+  - first:
+      213: 6255661816668121862
+    second: env_emote_sweat_24
+  - first:
+      213: -521044988165573449
+    second: env_emote_sweat_25
+  - first:
+      213: -6673791262765783974
+    second: env_emote_sweat_26
+  - first:
+      213: 1651682646361718566
+    second: env_emote_sweat_27
+  - first:
+      213: -6202425897199591790
+    second: env_emote_sweat_28
+  - first:
+      213: 1254658930668765527
+    second: env_emote_sweat_29
+  - first:
+      213: -9080090071723889776
+    second: env_emote_sweat_30
+  - first:
+      213: -873627755810986862
+    second: env_emote_sweat_31
+  - first:
+      213: -7363277581970218534
+    second: env_emote_sweat_32
+  - first:
+      213: -9158075645403234039
+    second: env_emote_sweat_33
+  - first:
+      213: 3289197237829504238
+    second: env_emote_sweat_34
+  - first:
+      213: 5165119278145146486
+    second: env_emote_sweat_35
+  - first:
+      213: -6405406241226776741
+    second: env_emote_sweat_36
+  - first:
+      213: 4644022693494161656
+    second: env_emote_sweat_37
+  - first:
+      213: -961920342434729520
+    second: env_emote_sweat_38
+  - first:
+      213: 4653487446512404532
+    second: env_emote_sweat_39
+  - first:
+      213: -3864866028254042856
+    second: env_emote_sweat_40
+  - first:
+      213: -4625801733125317230
+    second: env_emote_sweat_41
+  - first:
+      213: -3820856390728529359
+    second: env_emote_sweat_42
+  - first:
+      213: -2603996937808346670
+    second: env_emote_sweat_43
+  - first:
+      213: -3938750139605133298
+    second: env_emote_sweat_44
+  - first:
+      213: -1089631209930799284
+    second: env_emote_sweat_45
+  - first:
+      213: -4542338770054566790
+    second: env_emote_sweat_46
+  - first:
+      213: 3811218909141035753
+    second: env_emote_sweat_47
+  - first:
+      213: -287915833589925771
+    second: env_emote_sweat_48
+  - first:
+      213: -5412217748265843587
+    second: env_emote_sweat_49
+  - first:
+      213: 6521671138107580282
+    second: env_emote_sweat_50
+  - first:
+      213: -652617785996064412
+    second: env_emote_sweat_51
+  - first:
+      213: 3110686534848694068
+    second: env_emote_sweat_52
+  - first:
+      213: -7876148329965070786
+    second: env_emote_sweat_53
+  - first:
+      213: -7799369709009110027
+    second: env_emote_sweat_54
+  - first:
+      213: -7319914675486029060
+    second: env_emote_sweat_55
+  - first:
+      213: 6650957195446816005
+    second: env_emote_sweat_56
+  - first:
+      213: 1546333495829859456
+    second: env_emote_sweat_57
+  - first:
+      213: 2641843343892049366
+    second: env_emote_sweat_58
+  - first:
+      213: 3240668900641068835
+    second: env_emote_sweat_59
+  - first:
+      213: -690255997168772772
+    second: env_emote_sweat_60
+  - first:
+      213: -7764085628830429721
+    second: env_emote_sweat_61
+  - first:
+      213: 8699703845053984916
+    second: env_emote_sweat_62
+  - first:
+      213: -3248719728921900750
+    second: env_emote_sweat_63
+  - first:
+      213: 6837746727935402957
+    second: env_emote_sweat_64
+  - first:
+      213: -1622765751769044016
+    second: env_emote_sweat_65
+  - first:
+      213: 4483652289150770918
+    second: env_emote_sweat_66
+  - first:
+      213: 658337743477334465
+    second: env_emote_sweat_67
+  - first:
+      213: 7992053938074490353
+    second: env_emote_sweat_68
+  - first:
+      213: -434958039962631551
+    second: env_emote_sweat_69
+  - first:
+      213: -7871008960279910993
+    second: env_emote_sweat_70
+  - first:
+      213: -1697578301638002654
+    second: env_emote_sweat_71
+  - first:
+      213: -2650014553367040878
+    second: env_emote_sweat_72
+  - first:
+      213: -7100407620947926198
+    second: env_emote_sweat_73
+  - first:
+      213: -7205675475094948175
+    second: env_emote_sweat_74
+  - first:
+      213: 2865606049908442035
+    second: env_emote_sweat_75
+  - first:
+      213: 4306802626428482545
+    second: env_emote_sweat_76
+  - first:
+      213: 9171397453584714588
+    second: env_emote_sweat_77
+  - first:
+      213: -824215910714433587
+    second: env_emote_sweat_78
+  - first:
+      213: -3244821885072923771
+    second: env_emote_sweat_79
+  - first:
+      213: -8092018761759890958
+    second: env_emote_sweat_80
+  - first:
+      213: 7166297063280126295
+    second: env_emote_sweat_81
+  - first:
+      213: -6543115808851909980
+    second: env_emote_sweat_82
+  - first:
+      213: 3500794188863925478
+    second: env_emote_sweat_83
+  - first:
+      213: -5978833316887462902
+    second: env_emote_sweat_84
+  - first:
+      213: 7520565433070029248
+    second: env_emote_sweat_85
+  - first:
+      213: 7129550756215514178
+    second: env_emote_sweat_86
+  - first:
+      213: -6725886774373969064
+    second: env_emote_sweat_87
+  - first:
+      213: 5152509393242202035
+    second: env_emote_sweat_88
+  - first:
+      213: -7040026476215413630
+    second: env_emote_sweat_89
+  - first:
+      213: -7655469828015791804
+    second: env_emote_sweat_90
+  - first:
+      213: -8897353704077452200
+    second: env_emote_sweat_91
+  - first:
+      213: 2289343693716666979
+    second: env_emote_sweat_92
+  - first:
+      213: 6545317515360589980
+    second: env_emote_sweat_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_emote_sweat_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 80
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6e02be0074d3950800000000000000
+      internalID: 6430373912225310428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 60
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a6480e28851d1f0800000000000000
+      internalID: -1021938321300624883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 52
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6cfaf051fa81890800000000000000
+      internalID: -7487041875511097696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 48
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1debf756eff653f0800000000000000
+      internalID: -912260509712257761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 47
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b62b27f687ae5de0800000000000000
+      internalID: -1342451440795572557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 48
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f003bce955bf20800000000000000
+      internalID: 3437752763717579860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 49
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb1c7366b2fffda0800000000000000
+      internalID: -5908737320919753755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 49
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b627b9521947d130800000000000000
+      internalID: 3591419571014674097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_8
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 49
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89983971d41a91a70800000000000000
+      internalID: 8798240699525073304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_9
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 49
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243e5a33e1b5f2760800000000000000
+      internalID: 7435261695085634370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_10
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 48
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e35082baa46d570800000000000000
+      internalID: 8491056246424944240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_11
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 48
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cda3bde055ff8a0800000000000000
+      internalID: -6269198633980470192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_12
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 47
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b95e5a3e42bf60800000000000000
+      internalID: 8048581496662505036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_13
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 45
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adf83d27ce9958b0800000000000000
+      internalID: -5162920919509172830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_14
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 43
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1394944f653da9f0800000000000000
+      internalID: -455649235286322403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_15
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 41
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89ed231d8b8aceb0800000000000000
+      internalID: -4698789823179265650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_16
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 38
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fbc4a2817bf18d0800000000000000
+      internalID: -2873376722822316180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_17
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 35
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8159da9de9619c0800000000000000
+      internalID: -3956800564841080660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_18
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 34
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3a678e96ab81df0800000000000000
+      internalID: -209212418638306319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_19
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 33
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fb441f77173d0f0800000000000000
+      internalID: -1093405524558037236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_20
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 32
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d228f7eb027262d0800000000000000
+      internalID: -3286939382565035304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_21
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 31
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a97bb391b9935e0800000000000000
+      internalID: -1929340432673170786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_22
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 31
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a50c625bdafecc0800000000000000
+      internalID: -3679531376987579786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_23
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 31
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3bea0d5db642520800000000000000
+      internalID: 2676382644638233588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_24
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 31
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b6a71474390d650800000000000000
+      internalID: 6255661816668121862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_25
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 31
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4b4680850e4c8f0800000000000000
+      internalID: -521044988165573449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_26
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 32
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a546dbda43ee163a0800000000000000
+      internalID: -6673791262765783974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_27
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 33
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f311aad94fbe610800000000000000
+      internalID: 1651682646361718566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_28
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 34
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e1cb3228e8ce9a0800000000000000
+      internalID: -6202425897199591790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_29
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 36
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75188c466a1796110800000000000000
+      internalID: 1254658930668765527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_30
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 39
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba85a203a0df180800000000000000
+      internalID: -9080090071723889776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_31
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 44
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e6fc4f2040e3f0800000000000000
+      internalID: -873627755810986862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad161103d0260d990800000000000000
+      internalID: -7363277581970218534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9018599d8baf7e080800000000000000
+      internalID: -9158075645403234039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec060df57395ad20800000000000000
+      internalID: 3289197237829504238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0d541e903ea740800000000000000
+      internalID: 5165119278145146486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 58
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f9b9df5fc6b17a0800000000000000
+      internalID: -6405406241226776741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 58
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0829ed802e27040800000000000000
+      internalID: 4644022693494161656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b4f68b8296a2f0800000000000000
+      internalID: -961920342434729520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4388c186d22849040800000000000000
+      internalID: 4653487446512404532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_40
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815617103dc3d5ac0800000000000000
+      internalID: -3864866028254042856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dddaf05d9ddcfb0800000000000000
+      internalID: -4625801733125317230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_42
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a48dc3b5799fac0800000000000000
+      internalID: -3820856390728529359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18ab5e49ebcdbd0800000000000000
+      internalID: -2603996937808346670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_44
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08d0ddcd9fb659c0800000000000000
+      internalID: -3938750139605133298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_45
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4745eb003ad0e0f0800000000000000
+      internalID: -1089631209930799284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_46
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ca96974fe56f0c0800000000000000
+      internalID: -4542338770054566790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_47
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea6a98b76b24e430800000000000000
+      internalID: 3811218909141035753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_48
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57879a5231e110cf0800000000000000
+      internalID: -287915833589925771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_49
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74cc8312a0f3e4b0800000000000000
+      internalID: -5412217748265843587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_50
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd1d8c851a18a50800000000000000
+      internalID: 6521671138107580282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_51
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 58
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4694a93d49f61f6f0800000000000000
+      internalID: -652617785996064412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_52
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 58
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4374f3d1ce06b2b20800000000000000
+      internalID: 3110686534848694068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_53
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e365522d2dc42b290800000000000000
+      internalID: -7876148329965070786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_54
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbf19e829213c390800000000000000
+      internalID: -7799369709009110027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_55
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa8c7d92607a6a90800000000000000
+      internalID: -7319914675486029060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_56
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d8feab452fc4c50800000000000000
+      internalID: 6650957195446816005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_57
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c0a332f1ea57510800000000000000
+      internalID: 1546333495829859456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_58
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6ae03686b9a420800000000000000
+      internalID: 2641843343892049366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_59
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327dd51023b29fc20800000000000000
+      internalID: 3240668900641068835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_60
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591ca4e3d7bb66f0800000000000000
+      internalID: -690255997168772772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_61
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edc8d7a14d604490800000000000000
+      internalID: -7764085628830429721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_62
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490fa87dd8e8bb870800000000000000
+      internalID: 8699703845053984916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_63
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2398ec67e9a3ae2d0800000000000000
+      internalID: -3248719728921900750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_64
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3edaecb6e84ee50800000000000000
+      internalID: 6837746727935402957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_65
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbe2248527ca79e0800000000000000
+      internalID: -1622765751769044016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_66
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 58
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eed2376002293e30800000000000000
+      internalID: 4483652289150770918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_67
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 58
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e23e80b2e22900800000000000000
+      internalID: 658337743477334465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_68
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f511b486ba79ee60800000000000000
+      internalID: 7992053938074490353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_69
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c3d797f7b6f9f0800000000000000
+      internalID: -434958039962631551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_70
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa569929d0f84c290800000000000000
+      internalID: -7871008960279910993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_71
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228b470678df078e0800000000000000
+      internalID: -1697578301638002654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_72
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c21f8ddc1493bd0800000000000000
+      internalID: -2650014553367040878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_73
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a432ce863e8467d90800000000000000
+      internalID: -7100407620947926198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_74
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6b83c255c400c90800000000000000
+      internalID: -7205675475094948175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_75
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c00f058da4c720800000000000000
+      internalID: 2865606049908442035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_76
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33df99b26d4cb30800000000000000
+      internalID: 4306802626428482545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_77
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bc6d25469574f70800000000000000
+      internalID: 9171397453584714588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_78
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf14affefbcf84f0800000000000000
+      internalID: -824215910714433587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_79
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583a0d4ffa318f2d0800000000000000
+      internalID: -3244821885072923771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_80
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1618d3fcf53bf80800000000000000
+      internalID: -8092018761759890958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_81
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759acbbd53dc37360800000000000000
+      internalID: 7166297063280126295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_82
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 58
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2a329b6de2235a0800000000000000
+      internalID: -6543115808851909980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_83
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 58
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec6cfa44c1559030800000000000000
+      internalID: 3500794188863925478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_84
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cf6a786cae60da0800000000000000
+      internalID: -5978833316887462902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_85
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9883c6a6a6e5860800000000000000
+      internalID: 7520565433070029248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_86
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244e75883a041f260800000000000000
+      internalID: 7129550756215514178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_87
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85311fd2d99d8a2a0800000000000000
+      internalID: -6725886774373969064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_88
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf90167ef3618740800000000000000
+      internalID: 5152509393242202035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_89
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284d5d3383dcc4e90800000000000000
+      internalID: -7040026476215413630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_90
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 60
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441e56870ce42c590800000000000000
+      internalID: -7655469828015791804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_91
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c157342ff368480800000000000000
+      internalID: -8897353704077452200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_92
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a33c0c5f165cf10800000000000000
+      internalID: 2289343693716666979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_sweat_93
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 49
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98d5350a93a5da50800000000000000
+      internalID: 6545317515360589980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_emote_sweat_0: 6430373912225310428
+      env_emote_sweat_1: -1021938321300624883
+      env_emote_sweat_10: 8491056246424944240
+      env_emote_sweat_11: -6269198633980470192
+      env_emote_sweat_12: 8048581496662505036
+      env_emote_sweat_13: -5162920919509172830
+      env_emote_sweat_14: -455649235286322403
+      env_emote_sweat_15: -4698789823179265650
+      env_emote_sweat_16: -2873376722822316180
+      env_emote_sweat_17: -3956800564841080660
+      env_emote_sweat_18: -209212418638306319
+      env_emote_sweat_19: -1093405524558037236
+      env_emote_sweat_2: -7487041875511097696
+      env_emote_sweat_20: -3286939382565035304
+      env_emote_sweat_21: -1929340432673170786
+      env_emote_sweat_22: -3679531376987579786
+      env_emote_sweat_23: 2676382644638233588
+      env_emote_sweat_24: 6255661816668121862
+      env_emote_sweat_25: -521044988165573449
+      env_emote_sweat_26: -6673791262765783974
+      env_emote_sweat_27: 1651682646361718566
+      env_emote_sweat_28: -6202425897199591790
+      env_emote_sweat_29: 1254658930668765527
+      env_emote_sweat_3: -912260509712257761
+      env_emote_sweat_30: -9080090071723889776
+      env_emote_sweat_31: -873627755810986862
+      env_emote_sweat_32: -7363277581970218534
+      env_emote_sweat_33: -9158075645403234039
+      env_emote_sweat_34: 3289197237829504238
+      env_emote_sweat_35: 5165119278145146486
+      env_emote_sweat_36: -6405406241226776741
+      env_emote_sweat_37: 4644022693494161656
+      env_emote_sweat_38: -961920342434729520
+      env_emote_sweat_39: 4653487446512404532
+      env_emote_sweat_4: -1342451440795572557
+      env_emote_sweat_40: -3864866028254042856
+      env_emote_sweat_41: -4625801733125317230
+      env_emote_sweat_42: -3820856390728529359
+      env_emote_sweat_43: -2603996937808346670
+      env_emote_sweat_44: -3938750139605133298
+      env_emote_sweat_45: -1089631209930799284
+      env_emote_sweat_46: -4542338770054566790
+      env_emote_sweat_47: 3811218909141035753
+      env_emote_sweat_48: -287915833589925771
+      env_emote_sweat_49: -5412217748265843587
+      env_emote_sweat_5: 3437752763717579860
+      env_emote_sweat_50: 6521671138107580282
+      env_emote_sweat_51: -652617785996064412
+      env_emote_sweat_52: 3110686534848694068
+      env_emote_sweat_53: -7876148329965070786
+      env_emote_sweat_54: -7799369709009110027
+      env_emote_sweat_55: -7319914675486029060
+      env_emote_sweat_56: 6650957195446816005
+      env_emote_sweat_57: 1546333495829859456
+      env_emote_sweat_58: 2641843343892049366
+      env_emote_sweat_59: 3240668900641068835
+      env_emote_sweat_6: -5908737320919753755
+      env_emote_sweat_60: -690255997168772772
+      env_emote_sweat_61: -7764085628830429721
+      env_emote_sweat_62: 8699703845053984916
+      env_emote_sweat_63: -3248719728921900750
+      env_emote_sweat_64: 6837746727935402957
+      env_emote_sweat_65: -1622765751769044016
+      env_emote_sweat_66: 4483652289150770918
+      env_emote_sweat_67: 658337743477334465
+      env_emote_sweat_68: 7992053938074490353
+      env_emote_sweat_69: -434958039962631551
+      env_emote_sweat_7: 3591419571014674097
+      env_emote_sweat_70: -7871008960279910993
+      env_emote_sweat_71: -1697578301638002654
+      env_emote_sweat_72: -2650014553367040878
+      env_emote_sweat_73: -7100407620947926198
+      env_emote_sweat_74: -7205675475094948175
+      env_emote_sweat_75: 2865606049908442035
+      env_emote_sweat_76: 4306802626428482545
+      env_emote_sweat_77: 9171397453584714588
+      env_emote_sweat_78: -824215910714433587
+      env_emote_sweat_79: -3244821885072923771
+      env_emote_sweat_8: 8798240699525073304
+      env_emote_sweat_80: -8092018761759890958
+      env_emote_sweat_81: 7166297063280126295
+      env_emote_sweat_82: -6543115808851909980
+      env_emote_sweat_83: 3500794188863925478
+      env_emote_sweat_84: -5978833316887462902
+      env_emote_sweat_85: 7520565433070029248
+      env_emote_sweat_86: 7129550756215514178
+      env_emote_sweat_87: -6725886774373969064
+      env_emote_sweat_88: 5152509393242202035
+      env_emote_sweat_89: -7040026476215413630
+      env_emote_sweat_9: 7435261695085634370
+      env_emote_sweat_90: -7655469828015791804
+      env_emote_sweat_91: -8897353704077452200
+      env_emote_sweat_92: 2289343693716666979
+      env_emote_sweat_93: 6545317515360589980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

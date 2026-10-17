@@ -1,0 +1,6840 @@
+fileFormatVersion: 2
+guid: 251e7e787130fc0489ef9d4bc351598a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6746507773972941522
+    second: env_falling_leaves_side_yellow_0
+  - first:
+      213: 8671217903255875837
+    second: env_falling_leaves_side_yellow_1
+  - first:
+      213: 4685972024687161640
+    second: env_falling_leaves_side_yellow_2
+  - first:
+      213: 8066904333342680728
+    second: env_falling_leaves_side_yellow_3
+  - first:
+      213: -1845886197713506675
+    second: env_falling_leaves_side_yellow_4
+  - first:
+      213: 8089318325226297392
+    second: env_falling_leaves_side_yellow_5
+  - first:
+      213: -855471854219799818
+    second: env_falling_leaves_side_yellow_6
+  - first:
+      213: -4908066330483599517
+    second: env_falling_leaves_side_yellow_7
+  - first:
+      213: 5143576715868505073
+    second: env_falling_leaves_side_yellow_8
+  - first:
+      213: -3173682768401887802
+    second: env_falling_leaves_side_yellow_9
+  - first:
+      213: 2235384065176496235
+    second: env_falling_leaves_side_yellow_10
+  - first:
+      213: 3248125945335808497
+    second: env_falling_leaves_side_yellow_11
+  - first:
+      213: 4043752305299566417
+    second: env_falling_leaves_side_yellow_12
+  - first:
+      213: 7618460438232898664
+    second: env_falling_leaves_side_yellow_13
+  - first:
+      213: -4325179433574305795
+    second: env_falling_leaves_side_yellow_14
+  - first:
+      213: -4836503763323992849
+    second: env_falling_leaves_side_yellow_15
+  - first:
+      213: 4278839815101036619
+    second: env_falling_leaves_side_yellow_16
+  - first:
+      213: 4893907549551445359
+    second: env_falling_leaves_side_yellow_17
+  - first:
+      213: -6876615233726133911
+    second: env_falling_leaves_side_yellow_18
+  - first:
+      213: -4476524043413194602
+    second: env_falling_leaves_side_yellow_19
+  - first:
+      213: -7222035924713251202
+    second: env_falling_leaves_side_yellow_20
+  - first:
+      213: -7791487691966875910
+    second: env_falling_leaves_side_yellow_21
+  - first:
+      213: -8710806835437230076
+    second: env_falling_leaves_side_yellow_22
+  - first:
+      213: 8149577709446527582
+    second: env_falling_leaves_side_yellow_23
+  - first:
+      213: 2177670499907682046
+    second: env_falling_leaves_side_yellow_24
+  - first:
+      213: -4146648035709624272
+    second: env_falling_leaves_side_yellow_25
+  - first:
+      213: -7396697513110749404
+    second: env_falling_leaves_side_yellow_26
+  - first:
+      213: 5130530269496068997
+    second: env_falling_leaves_side_yellow_27
+  - first:
+      213: 3761430086159017755
+    second: env_falling_leaves_side_yellow_28
+  - first:
+      213: -8957456174883694685
+    second: env_falling_leaves_side_yellow_29
+  - first:
+      213: 4445012893773985790
+    second: env_falling_leaves_side_yellow_30
+  - first:
+      213: 5059435668243760874
+    second: env_falling_leaves_side_yellow_31
+  - first:
+      213: 6746509209158223022
+    second: env_falling_leaves_side_yellow_32
+  - first:
+      213: 4376222427980495532
+    second: env_falling_leaves_side_yellow_33
+  - first:
+      213: 1448306898385132797
+    second: env_falling_leaves_side_yellow_34
+  - first:
+      213: 706883135257825054
+    second: env_falling_leaves_side_yellow_35
+  - first:
+      213: 2383657137380431865
+    second: env_falling_leaves_side_yellow_36
+  - first:
+      213: 948732155730181981
+    second: env_falling_leaves_side_yellow_37
+  - first:
+      213: 990067705032900908
+    second: env_falling_leaves_side_yellow_38
+  - first:
+      213: -6436235727840915434
+    second: env_falling_leaves_side_yellow_39
+  - first:
+      213: -5429547016431167735
+    second: env_falling_leaves_side_yellow_40
+  - first:
+      213: 3379870149511357975
+    second: env_falling_leaves_side_yellow_41
+  - first:
+      213: -39051539398911382
+    second: env_falling_leaves_side_yellow_42
+  - first:
+      213: 8328880351828091061
+    second: env_falling_leaves_side_yellow_43
+  - first:
+      213: -546042260091233461
+    second: env_falling_leaves_side_yellow_44
+  - first:
+      213: -1209977177809649288
+    second: env_falling_leaves_side_yellow_45
+  - first:
+      213: 7357136602814748052
+    second: env_falling_leaves_side_yellow_46
+  - first:
+      213: 4465225262032016437
+    second: env_falling_leaves_side_yellow_47
+  - first:
+      213: 7148722901973626924
+    second: env_falling_leaves_side_yellow_48
+  - first:
+      213: -487336680473278138
+    second: env_falling_leaves_side_yellow_49
+  - first:
+      213: 3601343675497476560
+    second: env_falling_leaves_side_yellow_50
+  - first:
+      213: 321891908141478653
+    second: env_falling_leaves_side_yellow_51
+  - first:
+      213: -4872838006371581605
+    second: env_falling_leaves_side_yellow_52
+  - first:
+      213: 7254525367173412864
+    second: env_falling_leaves_side_yellow_53
+  - first:
+      213: -6150965368278533630
+    second: env_falling_leaves_side_yellow_54
+  - first:
+      213: 2050159116615262014
+    second: env_falling_leaves_side_yellow_55
+  - first:
+      213: 2945169297479482331
+    second: env_falling_leaves_side_yellow_56
+  - first:
+      213: 802479135063292870
+    second: env_falling_leaves_side_yellow_57
+  - first:
+      213: 5295113748952545341
+    second: env_falling_leaves_side_yellow_58
+  - first:
+      213: -1847183519836211731
+    second: env_falling_leaves_side_yellow_59
+  - first:
+      213: 6651490733354702586
+    second: env_falling_leaves_side_yellow_60
+  - first:
+      213: -6824304158341519795
+    second: env_falling_leaves_side_yellow_61
+  - first:
+      213: -2924798629571309560
+    second: env_falling_leaves_side_yellow_62
+  - first:
+      213: -8280171938748654901
+    second: env_falling_leaves_side_yellow_63
+  - first:
+      213: 5425691559416769170
+    second: env_falling_leaves_side_yellow_64
+  - first:
+      213: -7607013556445306898
+    second: env_falling_leaves_side_yellow_65
+  - first:
+      213: -5059374297677562195
+    second: env_falling_leaves_side_yellow_66
+  - first:
+      213: 3304736923178283665
+    second: env_falling_leaves_side_yellow_67
+  - first:
+      213: 6233431428107974665
+    second: env_falling_leaves_side_yellow_68
+  - first:
+      213: -4514411607730617679
+    second: env_falling_leaves_side_yellow_69
+  - first:
+      213: -3756305528668054106
+    second: env_falling_leaves_side_yellow_70
+  - first:
+      213: 1243137542466595970
+    second: env_falling_leaves_side_yellow_71
+  - first:
+      213: 3869807475633613062
+    second: env_falling_leaves_side_yellow_72
+  - first:
+      213: 8352449495894457232
+    second: env_falling_leaves_side_yellow_73
+  - first:
+      213: -3408366259561199487
+    second: env_falling_leaves_side_yellow_74
+  - first:
+      213: 2784087052561082637
+    second: env_falling_leaves_side_yellow_75
+  - first:
+      213: 8776980135177374137
+    second: env_falling_leaves_side_yellow_76
+  - first:
+      213: -2890457480735296531
+    second: env_falling_leaves_side_yellow_77
+  - first:
+      213: 8525898396879317922
+    second: env_falling_leaves_side_yellow_78
+  - first:
+      213: -1695315708696830053
+    second: env_falling_leaves_side_yellow_79
+  - first:
+      213: 5417029647841279619
+    second: env_falling_leaves_side_yellow_80
+  - first:
+      213: 229027988251776899
+    second: env_falling_leaves_side_yellow_81
+  - first:
+      213: 249497390561047180
+    second: env_falling_leaves_side_yellow_82
+  - first:
+      213: 8502737832317620129
+    second: env_falling_leaves_side_yellow_83
+  - first:
+      213: 4355933909691866630
+    second: env_falling_leaves_side_yellow_84
+  - first:
+      213: 1689257318230223897
+    second: env_falling_leaves_side_yellow_85
+  - first:
+      213: -3147310631717246620
+    second: env_falling_leaves_side_yellow_86
+  - first:
+      213: -7362269944100609531
+    second: env_falling_leaves_side_yellow_87
+  - first:
+      213: -3388710220354555436
+    second: env_falling_leaves_side_yellow_88
+  - first:
+      213: -4257237108918679034
+    second: env_falling_leaves_side_yellow_89
+  - first:
+      213: 3985264891059274069
+    second: env_falling_leaves_side_yellow_90
+  - first:
+      213: -97024958104529574
+    second: env_falling_leaves_side_yellow_91
+  - first:
+      213: -4809428536106470214
+    second: env_falling_leaves_side_yellow_92
+  - first:
+      213: -5288781569308107645
+    second: env_falling_leaves_side_yellow_93
+  - first:
+      213: 4035834916679570624
+    second: env_falling_leaves_side_yellow_94
+  - first:
+      213: 4329513843146919621
+    second: env_falling_leaves_side_yellow_95
+  - first:
+      213: -1508554721195211558
+    second: env_falling_leaves_side_yellow_96
+  - first:
+      213: -3573703570612708070
+    second: env_falling_leaves_side_yellow_97
+  - first:
+      213: -6772740603760608191
+    second: env_falling_leaves_side_yellow_98
+  - first:
+      213: -3537247951408897944
+    second: env_falling_leaves_side_yellow_99
+  - first:
+      213: -2727491800084722147
+    second: env_falling_leaves_side_yellow_100
+  - first:
+      213: -8540115612856169469
+    second: env_falling_leaves_side_yellow_101
+  - first:
+      213: -7996425362298215136
+    second: env_falling_leaves_side_yellow_102
+  - first:
+      213: -7947874068336696316
+    second: env_falling_leaves_side_yellow_103
+  - first:
+      213: 6534181270791695966
+    second: env_falling_leaves_side_yellow_104
+  - first:
+      213: -204677829205196481
+    second: env_falling_leaves_side_yellow_105
+  - first:
+      213: -5032950915684679216
+    second: env_falling_leaves_side_yellow_106
+  - first:
+      213: -2354280983568579068
+    second: env_falling_leaves_side_yellow_107
+  - first:
+      213: -9212900370217268164
+    second: env_falling_leaves_side_yellow_108
+  - first:
+      213: 6986591533100068971
+    second: env_falling_leaves_side_yellow_109
+  - first:
+      213: -6987306731098749218
+    second: env_falling_leaves_side_yellow_110
+  - first:
+      213: -2274311719152980300
+    second: env_falling_leaves_side_yellow_111
+  - first:
+      213: 5957271485130148433
+    second: env_falling_leaves_side_yellow_112
+  - first:
+      213: -5051181810798108380
+    second: env_falling_leaves_side_yellow_113
+  - first:
+      213: -8923429807470572689
+    second: env_falling_leaves_side_yellow_114
+  - first:
+      213: 3389696809337548380
+    second: env_falling_leaves_side_yellow_115
+  - first:
+      213: -398472881652342777
+    second: env_falling_leaves_side_yellow_116
+  - first:
+      213: 4835626995182394172
+    second: env_falling_leaves_side_yellow_117
+  - first:
+      213: 2839568645140794109
+    second: env_falling_leaves_side_yellow_118
+  - first:
+      213: 30985427482951705
+    second: env_falling_leaves_side_yellow_119
+  - first:
+      213: 8971050773589045100
+    second: env_falling_leaves_side_yellow_120
+  - first:
+      213: -3556585602101798945
+    second: env_falling_leaves_side_yellow_121
+  - first:
+      213: 6707286613092185280
+    second: env_falling_leaves_side_yellow_122
+  - first:
+      213: 2179734220356559865
+    second: env_falling_leaves_side_yellow_123
+  - first:
+      213: -5300411968350492888
+    second: env_falling_leaves_side_yellow_124
+  - first:
+      213: -1147791212198504116
+    second: env_falling_leaves_side_yellow_125
+  - first:
+      213: -9173621953481851428
+    second: env_falling_leaves_side_yellow_126
+  - first:
+      213: 7164386889963847397
+    second: env_falling_leaves_side_yellow_127
+  - first:
+      213: 3344210071174833234
+    second: env_falling_leaves_side_yellow_128
+  - first:
+      213: -7708079093816340387
+    second: env_falling_leaves_side_yellow_129
+  - first:
+      213: -2788543950200743596
+    second: env_falling_leaves_side_yellow_130
+  - first:
+      213: -8360655598197872972
+    second: env_falling_leaves_side_yellow_131
+  - first:
+      213: 3787529018272449363
+    second: env_falling_leaves_side_yellow_132
+  - first:
+      213: -5492993040362061935
+    second: env_falling_leaves_side_yellow_133
+  - first:
+      213: -1742818436484886873
+    second: env_falling_leaves_side_yellow_134
+  - first:
+      213: -1745703062585830072
+    second: env_falling_leaves_side_yellow_135
+  - first:
+      213: 8898585784001507879
+    second: env_falling_leaves_side_yellow_136
+  - first:
+      213: -2245991323521153157
+    second: env_falling_leaves_side_yellow_137
+  - first:
+      213: 7028799227227404811
+    second: env_falling_leaves_side_yellow_138
+  - first:
+      213: -6390698217521219068
+    second: env_falling_leaves_side_yellow_139
+  - first:
+      213: 8328150945991575994
+    second: env_falling_leaves_side_yellow_140
+  - first:
+      213: -3758422737189916310
+    second: env_falling_leaves_side_yellow_141
+  - first:
+      213: -4109226600448452856
+    second: env_falling_leaves_side_yellow_142
+  - first:
+      213: -7221155115213672779
+    second: env_falling_leaves_side_yellow_143
+  - first:
+      213: -6137136495700250332
+    second: env_falling_leaves_side_yellow_144
+  - first:
+      213: 930912768927339626
+    second: env_falling_leaves_side_yellow_145
+  - first:
+      213: -6100085951813284126
+    second: env_falling_leaves_side_yellow_146
+  - first:
+      213: 2567043455151918056
+    second: env_falling_leaves_side_yellow_147
+  - first:
+      213: -3840885245514169568
+    second: env_falling_leaves_side_yellow_148
+  - first:
+      213: -5499981557647557832
+    second: env_falling_leaves_side_yellow_149
+  - first:
+      213: 2367301069440692841
+    second: env_falling_leaves_side_yellow_150
+  - first:
+      213: -4717583794000293075
+    second: env_falling_leaves_side_yellow_151
+  - first:
+      213: 5218924446049299677
+    second: env_falling_leaves_side_yellow_152
+  - first:
+      213: 8872583958603566527
+    second: env_falling_leaves_side_yellow_153
+  - first:
+      213: 3787195451705444904
+    second: env_falling_leaves_side_yellow_154
+  - first:
+      213: -490994469703279863
+    second: env_falling_leaves_side_yellow_155
+  - first:
+      213: 33549856440696864
+    second: env_falling_leaves_side_yellow_156
+  - first:
+      213: -3787360969848411019
+    second: env_falling_leaves_side_yellow_157
+  - first:
+      213: 7879419304718142859
+    second: env_falling_leaves_side_yellow_158
+  - first:
+      213: 8130953354805200962
+    second: env_falling_leaves_side_yellow_159
+  - first:
+      213: -7615101076314933022
+    second: env_falling_leaves_side_yellow_160
+  - first:
+      213: -3851381434613364516
+    second: env_falling_leaves_side_yellow_161
+  - first:
+      213: -8858318804252054600
+    second: env_falling_leaves_side_yellow_162
+  - first:
+      213: -4921595666945192430
+    second: env_falling_leaves_side_yellow_163
+  - first:
+      213: 8966563083441394599
+    second: env_falling_leaves_side_yellow_164
+  - first:
+      213: -3432943055780673277
+    second: env_falling_leaves_side_yellow_165
+  - first:
+      213: -7194419993460682729
+    second: env_falling_leaves_side_yellow_166
+  - first:
+      213: -2490745519247941628
+    second: env_falling_leaves_side_yellow_167
+  - first:
+      213: -1615241967475218145
+    second: env_falling_leaves_side_yellow_168
+  - first:
+      213: -3923227157660221709
+    second: env_falling_leaves_side_yellow_169
+  - first:
+      213: -6404001543022724027
+    second: env_falling_leaves_side_yellow_170
+  - first:
+      213: 1317106552456563321
+    second: env_falling_leaves_side_yellow_171
+  - first:
+      213: 3989969313847583005
+    second: env_falling_leaves_side_yellow_172
+  - first:
+      213: -7990274044726653861
+    second: env_falling_leaves_side_yellow_173
+  - first:
+      213: 948334216592537405
+    second: env_falling_leaves_side_yellow_174
+  - first:
+      213: 3835966277857994272
+    second: env_falling_leaves_side_yellow_175
+  - first:
+      213: 3690686852243811243
+    second: env_falling_leaves_side_yellow_176
+  - first:
+      213: 3310680593711161294
+    second: env_falling_leaves_side_yellow_177
+  - first:
+      213: 7947237001210421043
+    second: env_falling_leaves_side_yellow_178
+  - first:
+      213: -8810707388811794553
+    second: env_falling_leaves_side_yellow_179
+  - first:
+      213: -3930113969268755892
+    second: env_falling_leaves_side_yellow_180
+  - first:
+      213: -5783230719592497294
+    second: env_falling_leaves_side_yellow_181
+  - first:
+      213: -2251279642537701377
+    second: env_falling_leaves_side_yellow_182
+  - first:
+      213: 671520531066988955
+    second: env_falling_leaves_side_yellow_183
+  - first:
+      213: -8870394105981285482
+    second: env_falling_leaves_side_yellow_184
+  - first:
+      213: 4965443521958615327
+    second: env_falling_leaves_side_yellow_185
+  - first:
+      213: -8888181240488724855
+    second: env_falling_leaves_side_yellow_186
+  - first:
+      213: -7902119192023852029
+    second: env_falling_leaves_side_yellow_187
+  - first:
+      213: 899524631809121635
+    second: env_falling_leaves_side_yellow_188
+  - first:
+      213: -2977031728576851028
+    second: env_falling_leaves_side_yellow_189
+  - first:
+      213: -2886173589401523299
+    second: env_falling_leaves_side_yellow_190
+  - first:
+      213: -8255247807275962782
+    second: env_falling_leaves_side_yellow_191
+  - first:
+      213: 3365591611436403493
+    second: env_falling_leaves_side_yellow_192
+  - first:
+      213: -5383293015651824456
+    second: env_falling_leaves_side_yellow_193
+  - first:
+      213: 7439619558529583882
+    second: env_falling_leaves_side_yellow_194
+  - first:
+      213: -9074388607111693031
+    second: env_falling_leaves_side_yellow_195
+  - first:
+      213: -1274701933443970706
+    second: env_falling_leaves_side_yellow_196
+  - first:
+      213: -742628005536605060
+    second: env_falling_leaves_side_yellow_197
+  - first:
+      213: 2705681531390870513
+    second: env_falling_leaves_side_yellow_198
+  - first:
+      213: -8121060082711402173
+    second: env_falling_leaves_side_yellow_199
+  - first:
+      213: 6465264529629080630
+    second: env_falling_leaves_side_yellow_200
+  - first:
+      213: -4395908105356888046
+    second: env_falling_leaves_side_yellow_201
+  - first:
+      213: 5510959036825154263
+    second: env_falling_leaves_side_yellow_202
+  - first:
+      213: -4603725863532945520
+    second: env_falling_leaves_side_yellow_203
+  - first:
+      213: 605520022242764419
+    second: env_falling_leaves_side_yellow_204
+  - first:
+      213: -3281620143900243008
+    second: env_falling_leaves_side_yellow_205
+  - first:
+      213: 7844967665488146332
+    second: env_falling_leaves_side_yellow_206
+  - first:
+      213: -6846852475150342470
+    second: env_falling_leaves_side_yellow_207
+  - first:
+      213: -3622555942639574259
+    second: env_falling_leaves_side_yellow_208
+  - first:
+      213: 6164108052679251132
+    second: env_falling_leaves_side_yellow_209
+  - first:
+      213: -3641247163417642317
+    second: env_falling_leaves_side_yellow_210
+  - first:
+      213: 7248799366070890168
+    second: env_falling_leaves_side_yellow_211
+  - first:
+      213: -998034560631534672
+    second: env_falling_leaves_side_yellow_212
+  - first:
+      213: 4219881151029943444
+    second: env_falling_leaves_side_yellow_213
+  - first:
+      213: -2601756706841931248
+    second: env_falling_leaves_side_yellow_214
+  - first:
+      213: -5157729017949247322
+    second: env_falling_leaves_side_yellow_215
+  - first:
+      213: 3408584144658197185
+    second: env_falling_leaves_side_yellow_216
+  - first:
+      213: -5061037273692150152
+    second: env_falling_leaves_side_yellow_217
+  - first:
+      213: 7590464853380026406
+    second: env_falling_leaves_side_yellow_218
+  - first:
+      213: -8159741624884708241
+    second: env_falling_leaves_side_yellow_219
+  - first:
+      213: 3761499598643849623
+    second: env_falling_leaves_side_yellow_220
+  - first:
+      213: -2290143603998005706
+    second: env_falling_leaves_side_yellow_221
+  - first:
+      213: 1302910425019919157
+    second: env_falling_leaves_side_yellow_222
+  - first:
+      213: -2973901669381408355
+    second: env_falling_leaves_side_yellow_223
+  - first:
+      213: 5709054760158346225
+    second: env_falling_leaves_side_yellow_224
+  - first:
+      213: -4861827076004123600
+    second: env_falling_leaves_side_yellow_225
+  - first:
+      213: -4500523530128900760
+    second: env_falling_leaves_side_yellow_226
+  - first:
+      213: 7701056402594191192
+    second: env_falling_leaves_side_yellow_227
+  - first:
+      213: 8297730395749860106
+    second: env_falling_leaves_side_yellow_228
+  - first:
+      213: -2787066553403742452
+    second: env_falling_leaves_side_yellow_229
+  - first:
+      213: 966440477162212053
+    second: env_falling_leaves_side_yellow_230
+  - first:
+      213: 3309971436756634125
+    second: env_falling_leaves_side_yellow_231
+  - first:
+      213: 1816387241812157259
+    second: env_falling_leaves_side_yellow_232
+  - first:
+      213: -7273865801146329223
+    second: env_falling_leaves_side_yellow_233
+  - first:
+      213: 935710740348999393
+    second: env_falling_leaves_side_yellow_234
+  - first:
+      213: 1028136620166695771
+    second: env_falling_leaves_side_yellow_235
+  - first:
+      213: 6307365027553417678
+    second: env_falling_leaves_side_yellow_236
+  - first:
+      213: -3124698073673669606
+    second: env_falling_leaves_side_yellow_237
+  - first:
+      213: -1286085333441715659
+    second: env_falling_leaves_side_yellow_238
+  - first:
+      213: -6265827806835587400
+    second: env_falling_leaves_side_yellow_239
+  - first:
+      213: -19893712899428016
+    second: env_falling_leaves_side_yellow_240
+  - first:
+      213: -7423398816005431209
+    second: env_falling_leaves_side_yellow_241
+  - first:
+      213: 5468026375173928700
+    second: env_falling_leaves_side_yellow_242
+  - first:
+      213: 6756024132805593499
+    second: env_falling_leaves_side_yellow_243
+  - first:
+      213: -1452889168868464715
+    second: env_falling_leaves_side_yellow_244
+  - first:
+      213: -1351786928514527882
+    second: env_falling_leaves_side_yellow_245
+  - first:
+      213: -842321709661374238
+    second: env_falling_leaves_side_yellow_246
+  - first:
+      213: 519368960623191554
+    second: env_falling_leaves_side_yellow_247
+  - first:
+      213: -8594338020157216060
+    second: env_falling_leaves_side_yellow_248
+  - first:
+      213: 1264459919718480583
+    second: env_falling_leaves_side_yellow_249
+  - first:
+      213: -8913082202267312682
+    second: env_falling_leaves_side_yellow_250
+  - first:
+      213: 6690828896944701550
+    second: env_falling_leaves_side_yellow_251
+  - first:
+      213: -5065539952458832809
+    second: env_falling_leaves_side_yellow_252
+  - first:
+      213: -5998719477061991781
+    second: env_falling_leaves_side_yellow_253
+  - first:
+      213: -8537423545453204889
+    second: env_falling_leaves_side_yellow_254
+  - first:
+      213: -5284805933411189723
+    second: env_falling_leaves_side_yellow_255
+  - first:
+      213: 3693834533348983490
+    second: env_falling_leaves_side_yellow_256
+  - first:
+      213: 9132325013873844206
+    second: env_falling_leaves_side_yellow_257
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 94
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e257ee19ce69f52a0800000000000000
+      internalID: -6746507773972941522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 99
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0f29dadba565870800000000000000
+      internalID: 8671217903255875837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 96
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82175e6aabae70140800000000000000
+      internalID: 4685972024687161640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 95
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89623f930c663ff60800000000000000
+      internalID: 8066904333342680728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 94
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e6d7978481266e0800000000000000
+      internalID: -1845886197713506675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_5
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 94
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038db226828034070800000000000000
+      internalID: 8089318325226297392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_6
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 93
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f252ed81e0c024f0800000000000000
+      internalID: -855471854219799818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 99
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367587d2dab03ebb0800000000000000
+      internalID: -4908066330483599517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_8
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 92
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3005075c7a16740800000000000000
+      internalID: 5143576715868505073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 95
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd80a74650d4f3d0800000000000000
+      internalID: -3173682768401887802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_10
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 94
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68e965b6fda50f10800000000000000
+      internalID: 2235384065176496235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_11
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 93
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f188758659a31d20800000000000000
+      internalID: 3248125945335808497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_12
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 93
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2c050c4b4e1830800000000000000
+      internalID: 4043752305299566417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_13
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 92
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c1d3c77653ab960800000000000000
+      internalID: 7618460438232898664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_14
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 91
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff6aff8830e9f3c0800000000000000
+      internalID: -4325179433574305795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_15
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 99
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4cb30c37941ecb0800000000000000
+      internalID: -4836503763323992849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_16
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 96
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4835ed342e716b30800000000000000
+      internalID: 4278839815101036619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_17
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 94
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65cd9ebcf6aae340800000000000000
+      internalID: 4893907549551445359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_18
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 94
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969c6b8f0ea5190a0800000000000000
+      internalID: -6876615233726133911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_19
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 93
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6987cd3a91130e1c0800000000000000
+      internalID: -4476524043413194602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_20
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 92
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e5b58279c26cb90800000000000000
+      internalID: -7222035924713251202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_21
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 103
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af67c78a9331fd390800000000000000
+      internalID: -7791487691966875910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_22
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 99
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40828b2c55ffc1780800000000000000
+      internalID: -8710806835437230076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_23
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 97
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a70099fbd191170800000000000000
+      internalID: 8149577709446527582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_24
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 96
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe38d828c3a83e10800000000000000
+      internalID: 2177670499907682046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_25
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 96
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030e4f6d4952476c0800000000000000
+      internalID: -4146648035709624272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_26
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 95
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fb40c1dc6a95990800000000000000
+      internalID: -7396697513110749404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_27
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 94
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bc3bee81e433740800000000000000
+      internalID: 5130530269496068997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_28
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 100
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17a9f40cb8433430800000000000000
+      internalID: 3761430086159017755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_29
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 96
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a79dec4119b0b380800000000000000
+      internalID: -8957456174883694685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_30
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 94
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7fd6b1dabdfad30800000000000000
+      internalID: 4445012893773985790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_31
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 93
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64c992fe9b63640800000000000000
+      internalID: 5059435668243760874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_32
+      rect:
+        serializedVersion: 2
+        x: 4795
+        y: 93
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea407c5916a60ad50800000000000000
+      internalID: 6746509209158223022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_33
+      rect:
+        serializedVersion: 2
+        x: 4923
+        y: 92
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaffddac177bbc30800000000000000
+      internalID: 4376222427980495532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_34
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 91
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc5efb537b691410800000000000000
+      internalID: 1448306898385132797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_35
+      rect:
+        serializedVersion: 2
+        x: 5432
+        y: 105
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fc1ce577a5fc900800000000000000
+      internalID: 706883135257825054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_36
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 99
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f792eb8983741120800000000000000
+      internalID: 2383657137380431865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_37
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 97
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fb9497ed29a2d00800000000000000
+      internalID: 948732155730181981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_38
+      rect:
+        serializedVersion: 2
+        x: 5816
+        y: 96
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c218216055d6dbd00800000000000000
+      internalID: 990067705032900908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_39
+      rect:
+        serializedVersion: 2
+        x: 5947
+        y: 95
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6105d57c4b5eda6a0800000000000000
+      internalID: -6436235727840915434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_40
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 95
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907965a61cf56a4b0800000000000000
+      internalID: -5429547016431167735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_41
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 92
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71622906ef5b7ee20800000000000000
+      internalID: 3379870149511357975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_42
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 89
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a1232f4d2457ff0800000000000000
+      internalID: -39051539398911382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_43
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 84
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0a17b3d80269370800000000000000
+      internalID: 8328880351828091061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_44
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 79
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b19ee15711c68f0800000000000000
+      internalID: -546042260091233461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_45
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 89
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8718352ea2c453fe0800000000000000
+      internalID: -1209977177809649288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_46
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 84
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951ccea2ccc91660800000000000000
+      internalID: 7357136602814748052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_47
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 80
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534d481d7baa7fd30800000000000000
+      internalID: 4465225262032016437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_48
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 88
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2076d19a9d553360800000000000000
+      internalID: 7148722901973626924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_49
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 84
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494f520fd1ac39f0800000000000000
+      internalID: -487336680473278138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_50
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 80
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1702cfdfa8af130800000000000000
+      internalID: 3601343675497476560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_51
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 91
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df278d82cf6977400800000000000000
+      internalID: 321891908141478653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_52
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 89
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51033e86a3306cb0800000000000000
+      internalID: -4872838006371581605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_53
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 85
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087e64a2604da460800000000000000
+      internalID: 7254525367173412864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_54
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 80
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a3706369163aaa0800000000000000
+      internalID: -6150965368278533630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_55
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 92
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f91e6bad0a37c10800000000000000
+      internalID: 2050159116615262014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_56
+      rect:
+        serializedVersion: 2
+        x: 4390
+        y: 87
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb6a33fd75fd820800000000000000
+      internalID: 2945169297479482331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_57
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 83
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb3c19858af22b00800000000000000
+      internalID: 802479135063292870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_58
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 89
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d387a9366e50c7940800000000000000
+      internalID: 5295113748952545341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_59
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 85
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f431206c7d56e0800000000000000
+      internalID: -1847183519836211731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_60
+      rect:
+        serializedVersion: 2
+        x: 5441
+        y: 81
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d864b497de4c50800000000000000
+      internalID: 6651490733354702586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 69
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4625d256833b41a0800000000000000
+      internalID: -6824304158341519795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 68
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8005ad484270967d0800000000000000
+      internalID: -2924798629571309560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 67
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca9abfed7be61d80800000000000000
+      internalID: -8280171938748654901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_64
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 76
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a2fdb0abdeb4b40800000000000000
+      internalID: 5425691559416769170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_65
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 74
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef1f7e59757e6690800000000000000
+      internalID: -7607013556445306898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_66
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 72
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeff29c1ed79c9b0800000000000000
+      internalID: -5059374297677562195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_67
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 72
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192b82ee8b8ccdd20800000000000000
+      internalID: 3304736923178283665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_68
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 71
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908b1249bd8918650800000000000000
+      internalID: 6233431428107974665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_69
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 71
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20157af869951c0800000000000000
+      internalID: -4514411607730617679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_70
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 69
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad97eff50ceedbc0800000000000000
+      internalID: -3756305528668054106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_71
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 76
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c6ca92203804110800000000000000
+      internalID: 1243137542466595970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_72
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 67
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609ea4e556154b530800000000000000
+      internalID: 3869807475633613062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_73
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 73
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bfd27309cd9e370800000000000000
+      internalID: 8352449495894457232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_74
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 72
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1888d6af1fc03b0d0800000000000000
+      internalID: -3408366259561199487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_75
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 71
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09eaaf6c6013a620800000000000000
+      internalID: 2784087052561082637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_76
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 70
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b948e53ee81ec970800000000000000
+      internalID: 8776980135177374137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_77
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 69
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3f66e4c3803e7d0800000000000000
+      internalID: -2890457480735296531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_78
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 76
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab60197b63125670800000000000000
+      internalID: 8525898396879317922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_79
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 69
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f5cf858570978e0800000000000000
+      internalID: -1695315708696830053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_80
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 73
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eb65993c72d2b40800000000000000
+      internalID: 5417029647841279619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_81
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 67
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3879e5bedbbad2300800000000000000
+      internalID: 229027988251776899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_82
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 71
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8237c80e84667300800000000000000
+      internalID: 249497390561047180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_83
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 70
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0191520bcff570800000000000000
+      internalID: 8502737832317620129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_84
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 69
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e1348efc2637c30800000000000000
+      internalID: 4355933909691866630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_85
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 69
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c6753b492717710800000000000000
+      internalID: 1689257318230223897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_86
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 68
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469eea6d7a18254d0800000000000000
+      internalID: -3147310631717246620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_87
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 67
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50229592e76f3d990800000000000000
+      internalID: -7362269944100609531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_88
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 76
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1f70d3202e8f0d0800000000000000
+      internalID: -3388710220354555436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_89
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 73
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a8a4eb7614be4c0800000000000000
+      internalID: -4257237108918679034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_90
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 72
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5518c67bd418e4730800000000000000
+      internalID: 3985264891059274069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_91
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 71
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5515dd805c47aef0800000000000000
+      internalID: -97024958104529574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_92
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 70
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab43fb45a3a714db0800000000000000
+      internalID: -4809428536106470214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_93
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 70
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cd1c21f297a96b0800000000000000
+      internalID: -5288781569308107645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_94
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 69
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4ddc4597a220830800000000000000
+      internalID: 4035834916679570624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_95
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 67
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce88eec6e5851c30800000000000000
+      internalID: 4329513843146919621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_96
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 64
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4cbe64979801be0800000000000000
+      internalID: -1508554721195211558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_97
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 78
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d951d6987a76ec0800000000000000
+      internalID: -3573703570612708070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_98
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 75
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cfbfced446202a0800000000000000
+      internalID: -6772740603760608191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_99
+      rect:
+        serializedVersion: 2
+        x: 4890
+        y: 73
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8606bc5babb29eec0800000000000000
+      internalID: -3537247951408897944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_100
+      rect:
+        serializedVersion: 2
+        x: 5017
+        y: 73
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ec820a8a0062ad0800000000000000
+      internalID: -2727491800084722147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_101
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 72
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cc0faf81a6b7980800000000000000
+      internalID: -8540115612856169469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_102
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 72
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0256a47ff7df60190800000000000000
+      internalID: -7996425362298215136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_103
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 71
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404a04df4aa73b190800000000000000
+      internalID: -7947874068336696316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_104
+      rect:
+        serializedVersion: 2
+        x: 5529
+        y: 69
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eac870f331eaa50800000000000000
+      internalID: 6534181270791695966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_105
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 77
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3183d84996d82df0800000000000000
+      internalID: -204677829205196481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_106
+      rect:
+        serializedVersion: 2
+        x: 5658
+        y: 65
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d143a2decd572ab0800000000000000
+      internalID: -5032950915684679216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_107
+      rect:
+        serializedVersion: 2
+        x: 5704
+        y: 73
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40600f04be9e35fd0800000000000000
+      internalID: -2354280983568579068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_108
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 71
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c8222ece3352080800000000000000
+      internalID: -9212900370217268164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_109
+      rect:
+        serializedVersion: 2
+        x: 5966
+        y: 71
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b607e299bfb55f060800000000000000
+      internalID: 6986591533100068971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_110
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 70
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6c9246c89180f90800000000000000
+      internalID: -6987306731098749218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_111
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 65
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee06f8a850070e0800000000000000
+      internalID: -2274311719152980300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_112
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 60
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a0fbd4ada7ca250800000000000000
+      internalID: 5957271485130148433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_113
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 56
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421e677c7e896e9b0800000000000000
+      internalID: -5051181810798108380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_114
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 52
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b85935edb992480800000000000000
+      internalID: -8923429807470572689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_115
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 62
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ee6d8e94f9a0f20800000000000000
+      internalID: 3389696809337548380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_116
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 58
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006c7c7607587af0800000000000000
+      internalID: -398472881652342777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_117
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 53
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bd222c1299b1340800000000000000
+      internalID: 4835626995182394172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_118
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 63
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa44f853ac286720800000000000000
+      internalID: 2839568645140794109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_119
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 59
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c55605151e6000800000000000000
+      internalID: 30985427482951705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_120
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 54
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fa4cdd5239f7c70800000000000000
+      internalID: 8971050773589045100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_121
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 64
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7147d0d3874aec0800000000000000
+      internalID: -3556585602101798945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_122
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 59
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b71c43a1151d50800000000000000
+      internalID: 6707286613092185280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_123
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 55
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ad1589b8ff3e10800000000000000
+      internalID: 2179734220356559865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_124
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 59
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8276d37c5672176b0800000000000000
+      internalID: -5300411968350492888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_125
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 55
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49d79849f93210f0800000000000000
+      internalID: -1147791212198504116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_126
+      rect:
+        serializedVersion: 2
+        x: 5789
+        y: 61
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3dfeef6fb0b080800000000000000
+      internalID: -9173621953481851428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_127
+      rect:
+        serializedVersion: 2
+        x: 5919
+        y: 56
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeb2c9fae30d6360800000000000000
+      internalID: 7164386889963847397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_128
+      rect:
+        serializedVersion: 2
+        x: 6051
+        y: 52
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254e8a26755096e20800000000000000
+      internalID: 3344210071174833234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_129
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50567047e6670590800000000000000
+      internalID: -7708079093816340387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_130
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 48
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45958b73d0a1d49d0800000000000000
+      internalID: -2788543950200743596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_131
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 30
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e804b70cf8fb80800000000000000
+      internalID: -8360655598197872972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_132
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 47
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3530d9e2391009430800000000000000
+      internalID: 3787529018272449363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_133
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 46
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fb683dee7f4c3b0800000000000000
+      internalID: -5492993040362061935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_134
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 45
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae0159add340d7e0800000000000000
+      internalID: -1742818436484886873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_135
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 43
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845924f405406c7e0800000000000000
+      internalID: -1745703062585830072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_136
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 39
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72230c2bf902e7b70800000000000000
+      internalID: 8898585784001507879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_137
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 49
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7789e08ac2a4d0e0800000000000000
+      internalID: -2245991323521153157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_138
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 48
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0afd6038af4b8160800000000000000
+      internalID: 7028799227227404811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_139
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 30
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40afced94ddaf47a0800000000000000
+      internalID: -6390698217521219068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_140
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 47
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab949a33929839370800000000000000
+      internalID: 8328150945991575994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_141
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 46
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613b0afe6667dbc0800000000000000
+      internalID: -3758422737189916310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_142
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 45
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8071fa2bd2819f6c0800000000000000
+      internalID: -4109226600448452856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_143
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 43
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bea1b99ead49cb90800000000000000
+      internalID: -7221155115213672779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_144
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 40
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42173b38fd284daa0800000000000000
+      internalID: -6137136495700250332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_145
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 50
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a641acc2b344bec00800000000000000
+      internalID: 930912768927339626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_146
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 49
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee81de7524285ba0800000000000000
+      internalID: -6100085951813284126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_147
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 48
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4253fb68ff9320800000000000000
+      internalID: 2567043455151918056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_148
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 47
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023c616183f62bac0800000000000000
+      internalID: -3840885245514169568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_149
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 46
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb739d9e32ca3b0800000000000000
+      internalID: -5499981557647557832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_150
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 30
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9623a68b7c75ad020800000000000000
+      internalID: 2367301069440692841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_151
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 44
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d231970c886c78eb0800000000000000
+      internalID: -4717583794000293075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_152
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 51
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcee54f1285d6840800000000000000
+      internalID: 5218924446049299677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_153
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 41
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd0564f910c12b70800000000000000
+      internalID: 8872583958603566527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_154
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 49
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ac0e9a232de8430800000000000000
+      internalID: 3787195451705444904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_155
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 48
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b97a69123af29f0800000000000000
+      internalID: -490994469703279863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_156
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 47
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020c96baa61377000800000000000000
+      internalID: 33549856440696864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_157
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 47
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ca104a347907bc0800000000000000
+      internalID: -3787360969848411019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_158
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 46
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d84165c12595d60800000000000000
+      internalID: 7879419304718142859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_159
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 51
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2484f6e1ff2f6d070800000000000000
+      internalID: 8130953354805200962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_160
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 30
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8bd89eae9b15690800000000000000
+      internalID: -7615101076314933022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_161
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 49
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8065f9df42d8ac0800000000000000
+      internalID: -3851381434613364516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_162
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 42
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bba46d1bfde01580800000000000000
+      internalID: -8858318804252054600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_163
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 48
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e41af01daf2bbb0800000000000000
+      internalID: -4921595666945192430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_164
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 47
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3d7a41e91af6c70800000000000000
+      internalID: 8966563083441394599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_165
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 47
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3098c02ba7cbb50d0800000000000000
+      internalID: -3432943055780673277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_166
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 46
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710dec43229482c90800000000000000
+      internalID: -7194419993460682729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_167
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 45
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a45395281f6dd0800000000000000
+      internalID: -2490745519247941628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_168
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 43
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19265e0df18599e0800000000000000
+      internalID: -1615241967475218145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_169
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 51
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe3f7eafa5ed89c0800000000000000
+      internalID: -3923227157660221709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_170
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 39
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cb317c68a6027a0800000000000000
+      internalID: -6404001543022724027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_171
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 49
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a438e5e6d474210800000000000000
+      internalID: 1317106552456563321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_172
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 48
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11289083f73f5730800000000000000
+      internalID: 3989969313847583005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_173
+      rect:
+        serializedVersion: 2
+        x: 4915
+        y: 47
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c4b023718dc1190800000000000000
+      internalID: -7990274044726653861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_174
+      rect:
+        serializedVersion: 2
+        x: 5043
+        y: 46
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37b85c02f8292d00800000000000000
+      internalID: 948334216592537405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_175
+      rect:
+        serializedVersion: 2
+        x: 5173
+        y: 46
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0266a1281071c3530800000000000000
+      internalID: 3835966277857994272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_176
+      rect:
+        serializedVersion: 2
+        x: 5302
+        y: 45
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab62355324f73330800000000000000
+      internalID: 3690686852243811243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_177
+      rect:
+        serializedVersion: 2
+        x: 5432
+        y: 42
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfdee09576e1fd20800000000000000
+      internalID: 3310680593711161294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_178
+      rect:
+        serializedVersion: 2
+        x: 5561
+        y: 39
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fdcf242f14a4e60800000000000000
+      internalID: 7947237001210421043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_179
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787a6fd9f441ab580800000000000000
+      internalID: -8810707388811794553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_180
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c427fe6ea2e6579c0800000000000000
+      internalID: -3930113969268755892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_181
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fff882d46ddbfa0800000000000000
+      internalID: -5783230719592497294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_182
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffc878c719d1c0e0800000000000000
+      internalID: -2251279642537701377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_183
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9921a97d58b15900800000000000000
+      internalID: 671520531066988955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_184
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 30
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b4447de8706e480800000000000000
+      internalID: -8870394105981285482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_185
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 30
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f199b9e339cc8e440800000000000000
+      internalID: 4965443521958615327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_186
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 34
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986f06dd046d6a480800000000000000
+      internalID: -8888181240488724855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_187
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 30
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c1f9a4678065290800000000000000
+      internalID: -7902119192023852029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_188
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 30
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d52b103e0cb7c00800000000000000
+      internalID: 899524631809121635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_189
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 30
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca31c157a657fa6d0800000000000000
+      internalID: -2977031728576851028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_190
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bab9b796042f7d0800000000000000
+      internalID: -2886173589401523299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_191
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e6e728bd77f6d80800000000000000
+      internalID: -8255247807275962782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_192
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b83ba2dbbf4be20800000000000000
+      internalID: 3365591611436403493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_193
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc4b303683ba45b0800000000000000
+      internalID: -5383293015651824456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_194
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 35
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b443a5296de3760800000000000000
+      internalID: 7439619558529583882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_195
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d7147d3ab411280800000000000000
+      internalID: -9074388607111693031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_196
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 31
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69819e58595f4ee0800000000000000
+      internalID: -1274701933443970706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_197
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 30
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cdbb973c7a1b5f0800000000000000
+      internalID: -742628005536605060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_198
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 30
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f343e974038c8520800000000000000
+      internalID: 2705681531390870513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_199
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 30
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349e16ac1e23c4f80800000000000000
+      internalID: -8121060082711402173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_200
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 30
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c6973d5db39b950800000000000000
+      internalID: 6465264529629080630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_201
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21831f26ed89ef2c0800000000000000
+      internalID: -4395908105356888046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_202
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d231b1bb0cda7c40800000000000000
+      internalID: 5510959036825154263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_203
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f17dcf7b74c10c0800000000000000
+      internalID: -4603725863532945520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_204
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386aa26804d376800800000000000000
+      internalID: 605520022242764419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_205
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb4f0badd75572d0800000000000000
+      internalID: -3281620143900243008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_206
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 36
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fa8dff68ceedc60800000000000000
+      internalID: 7844967665488146332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_207
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 30
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6e82533f71bf0a0800000000000000
+      internalID: -6846852475150342470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_208
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 31
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03ecf330981abdc0800000000000000
+      internalID: -3622555942639574259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_209
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 30
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb452157d9f4b8550800000000000000
+      internalID: 6164108052679251132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_210
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 30
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bab71d3ff0b77dc0800000000000000
+      internalID: -3641247163417642317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_211
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 30
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be6bbe1e98e89460800000000000000
+      internalID: 7248799366070890168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_212
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb8efbdad44622f0800000000000000
+      internalID: -998034560631534672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_213
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c91898c87009a30800000000000000
+      internalID: 4219881151029943444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_214
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01252b05f04b4ebd0800000000000000
+      internalID: -2601756706841931248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_215
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 38
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a82965f8c01c68b0800000000000000
+      internalID: -5157729017949247322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_216
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca61695839bd4f20800000000000000
+      internalID: 3408584144658197185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_217
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 33
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87661920a6593c9b0800000000000000
+      internalID: -5061037273692150152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_218
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620ddc1719fb65960800000000000000
+      internalID: 7590464853380026406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_219
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 30
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c37cd6936c2ce80800000000000000
+      internalID: -8159741624884708241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_220
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 30
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799e0f7a4f7833430800000000000000
+      internalID: 3761499598643849623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_221
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 30
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e01f9686c730e0800000000000000
+      internalID: -2290143603998005706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_222
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 30
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b2771e02ed41210800000000000000
+      internalID: 1302910425019919157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_223
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 30
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99749720349ab6d0800000000000000
+      internalID: -2973901669381408355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_224
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbbd767e03aa3f40800000000000000
+      internalID: 5709054760158346225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_225
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ce56f8802578cb0800000000000000
+      internalID: -4861827076004123600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_226
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 30
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3163b1bdea81c0800000000000000
+      internalID: -4500523530128900760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_227
+      rect:
+        serializedVersion: 2
+        x: 4813
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857dfd70ff5afda60800000000000000
+      internalID: 7701056402594191192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_228
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 30
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03c1a8e4d5772370800000000000000
+      internalID: 8297730395749860106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_229
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c076ff67cb95259d0800000000000000
+      internalID: -2787066553403742452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_230
+      rect:
+        serializedVersion: 2
+        x: 5017
+        y: 30
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da00d95e7c796d00800000000000000
+      internalID: 966440477162212053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_231
+      rect:
+        serializedVersion: 2
+        x: 5069
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a81981c716fed20800000000000000
+      internalID: 3309971436756634125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_232
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43e3c2a29a153910800000000000000
+      internalID: 1816387241812157259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_233
+      rect:
+        serializedVersion: 2
+        x: 5197
+        y: 30
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779fcaa7990e0b90800000000000000
+      internalID: -7273865801146329223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_234
+      rect:
+        serializedVersion: 2
+        x: 5279
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e61503f5ff4cfc00800000000000000
+      internalID: 935710740348999393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_235
+      rect:
+        serializedVersion: 2
+        x: 5326
+        y: 30
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4b990fcca44e00800000000000000
+      internalID: 1028136620166695771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_236
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec91b002313488750800000000000000
+      internalID: 6307365027553417678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_237
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14655848a7d2a4d0800000000000000
+      internalID: -3124698073673669606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_238
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532ed550438e62ee0800000000000000
+      internalID: -1286085333441715659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_239
+      rect:
+        serializedVersion: 2
+        x: 5691
+        y: 30
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6ccc5bece4b09a0800000000000000
+      internalID: -6265827806835587400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_240
+      rect:
+        serializedVersion: 2
+        x: 5791
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051bd5506c259bff0800000000000000
+      internalID: -19893712899428016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_241
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 30
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750e0f19b1acaf890800000000000000
+      internalID: -7423398816005431209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_242
+      rect:
+        serializedVersion: 2
+        x: 5919
+        y: 30
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf675b2740552eb40800000000000000
+      internalID: 5468026375173928700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_243
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 30
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9908d1672832cd50800000000000000
+      internalID: 6756024132805593499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_244
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 30
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b72597affc46dbe0800000000000000
+      internalID: -1452889168868464715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_245
+      rect:
+        serializedVersion: 2
+        x: 6082
+        y: 30
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d00e953fc7d3de0800000000000000
+      internalID: -1351786928514527882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_246
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8b80d2ed87f44f0800000000000000
+      internalID: -842321709661374238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_247
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 30
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2062f45615b253700800000000000000
+      internalID: 519368960623191554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_248
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 30
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca25ecfa17cab880800000000000000
+      internalID: -8594338020157216060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_249
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 30
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf98bf8934c8110800000000000000
+      internalID: 1264459919718480583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_250
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 30
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd1008e5fe5e4480800000000000000
+      internalID: -8913082202267312682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_251
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 30
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ce47ae699adc50800000000000000
+      internalID: 6690828896944701550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_252
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 30
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754642a604693b9b0800000000000000
+      internalID: -5065539952458832809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_253
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 30
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c08e0b6440cca0800000000000000
+      internalID: -5998719477061991781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_254
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 30
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa434c48af48980800000000000000
+      internalID: -8537423545453204889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_255
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 30
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c3620f00998a6b0800000000000000
+      internalID: -5284805933411189723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_256
+      rect:
+        serializedVersion: 2
+        x: 5455
+        y: 30
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c24653ffe2234330800000000000000
+      internalID: 3693834533348983490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_side_yellow_257
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 30
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef5d5907398cbe70800000000000000
+      internalID: 9132325013873844206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_falling_leaves_side_yellow_0: -6746507773972941522
+      env_falling_leaves_side_yellow_1: 8671217903255875837
+      env_falling_leaves_side_yellow_10: 2235384065176496235
+      env_falling_leaves_side_yellow_100: -2727491800084722147
+      env_falling_leaves_side_yellow_101: -8540115612856169469
+      env_falling_leaves_side_yellow_102: -7996425362298215136
+      env_falling_leaves_side_yellow_103: -7947874068336696316
+      env_falling_leaves_side_yellow_104: 6534181270791695966
+      env_falling_leaves_side_yellow_105: -204677829205196481
+      env_falling_leaves_side_yellow_106: -5032950915684679216
+      env_falling_leaves_side_yellow_107: -2354280983568579068
+      env_falling_leaves_side_yellow_108: -9212900370217268164
+      env_falling_leaves_side_yellow_109: 6986591533100068971
+      env_falling_leaves_side_yellow_11: 3248125945335808497
+      env_falling_leaves_side_yellow_110: -6987306731098749218
+      env_falling_leaves_side_yellow_111: -2274311719152980300
+      env_falling_leaves_side_yellow_112: 5957271485130148433
+      env_falling_leaves_side_yellow_113: -5051181810798108380
+      env_falling_leaves_side_yellow_114: -8923429807470572689
+      env_falling_leaves_side_yellow_115: 3389696809337548380
+      env_falling_leaves_side_yellow_116: -398472881652342777
+      env_falling_leaves_side_yellow_117: 4835626995182394172
+      env_falling_leaves_side_yellow_118: 2839568645140794109
+      env_falling_leaves_side_yellow_119: 30985427482951705
+      env_falling_leaves_side_yellow_12: 4043752305299566417
+      env_falling_leaves_side_yellow_120: 8971050773589045100
+      env_falling_leaves_side_yellow_121: -3556585602101798945
+      env_falling_leaves_side_yellow_122: 6707286613092185280
+      env_falling_leaves_side_yellow_123: 2179734220356559865
+      env_falling_leaves_side_yellow_124: -5300411968350492888
+      env_falling_leaves_side_yellow_125: -1147791212198504116
+      env_falling_leaves_side_yellow_126: -9173621953481851428
+      env_falling_leaves_side_yellow_127: 7164386889963847397
+      env_falling_leaves_side_yellow_128: 3344210071174833234
+      env_falling_leaves_side_yellow_129: -7708079093816340387
+      env_falling_leaves_side_yellow_13: 7618460438232898664
+      env_falling_leaves_side_yellow_130: -2788543950200743596
+      env_falling_leaves_side_yellow_131: -8360655598197872972
+      env_falling_leaves_side_yellow_132: 3787529018272449363
+      env_falling_leaves_side_yellow_133: -5492993040362061935
+      env_falling_leaves_side_yellow_134: -1742818436484886873
+      env_falling_leaves_side_yellow_135: -1745703062585830072
+      env_falling_leaves_side_yellow_136: 8898585784001507879
+      env_falling_leaves_side_yellow_137: -2245991323521153157
+      env_falling_leaves_side_yellow_138: 7028799227227404811
+      env_falling_leaves_side_yellow_139: -6390698217521219068
+      env_falling_leaves_side_yellow_14: -4325179433574305795
+      env_falling_leaves_side_yellow_140: 8328150945991575994
+      env_falling_leaves_side_yellow_141: -3758422737189916310
+      env_falling_leaves_side_yellow_142: -4109226600448452856
+      env_falling_leaves_side_yellow_143: -7221155115213672779
+      env_falling_leaves_side_yellow_144: -6137136495700250332
+      env_falling_leaves_side_yellow_145: 930912768927339626
+      env_falling_leaves_side_yellow_146: -6100085951813284126
+      env_falling_leaves_side_yellow_147: 2567043455151918056
+      env_falling_leaves_side_yellow_148: -3840885245514169568
+      env_falling_leaves_side_yellow_149: -5499981557647557832
+      env_falling_leaves_side_yellow_15: -4836503763323992849
+      env_falling_leaves_side_yellow_150: 2367301069440692841
+      env_falling_leaves_side_yellow_151: -4717583794000293075
+      env_falling_leaves_side_yellow_152: 5218924446049299677
+      env_falling_leaves_side_yellow_153: 8872583958603566527
+      env_falling_leaves_side_yellow_154: 3787195451705444904
+      env_falling_leaves_side_yellow_155: -490994469703279863
+      env_falling_leaves_side_yellow_156: 33549856440696864
+      env_falling_leaves_side_yellow_157: -3787360969848411019
+      env_falling_leaves_side_yellow_158: 7879419304718142859
+      env_falling_leaves_side_yellow_159: 8130953354805200962
+      env_falling_leaves_side_yellow_16: 4278839815101036619
+      env_falling_leaves_side_yellow_160: -7615101076314933022
+      env_falling_leaves_side_yellow_161: -3851381434613364516
+      env_falling_leaves_side_yellow_162: -8858318804252054600
+      env_falling_leaves_side_yellow_163: -4921595666945192430
+      env_falling_leaves_side_yellow_164: 8966563083441394599
+      env_falling_leaves_side_yellow_165: -3432943055780673277
+      env_falling_leaves_side_yellow_166: -7194419993460682729
+      env_falling_leaves_side_yellow_167: -2490745519247941628
+      env_falling_leaves_side_yellow_168: -1615241967475218145
+      env_falling_leaves_side_yellow_169: -3923227157660221709
+      env_falling_leaves_side_yellow_17: 4893907549551445359
+      env_falling_leaves_side_yellow_170: -6404001543022724027
+      env_falling_leaves_side_yellow_171: 1317106552456563321
+      env_falling_leaves_side_yellow_172: 3989969313847583005
+      env_falling_leaves_side_yellow_173: -7990274044726653861
+      env_falling_leaves_side_yellow_174: 948334216592537405
+      env_falling_leaves_side_yellow_175: 3835966277857994272
+      env_falling_leaves_side_yellow_176: 3690686852243811243
+      env_falling_leaves_side_yellow_177: 3310680593711161294
+      env_falling_leaves_side_yellow_178: 7947237001210421043
+      env_falling_leaves_side_yellow_179: -8810707388811794553
+      env_falling_leaves_side_yellow_18: -6876615233726133911
+      env_falling_leaves_side_yellow_180: -3930113969268755892
+      env_falling_leaves_side_yellow_181: -5783230719592497294
+      env_falling_leaves_side_yellow_182: -2251279642537701377
+      env_falling_leaves_side_yellow_183: 671520531066988955
+      env_falling_leaves_side_yellow_184: -8870394105981285482
+      env_falling_leaves_side_yellow_185: 4965443521958615327
+      env_falling_leaves_side_yellow_186: -8888181240488724855
+      env_falling_leaves_side_yellow_187: -7902119192023852029
+      env_falling_leaves_side_yellow_188: 899524631809121635
+      env_falling_leaves_side_yellow_189: -2977031728576851028
+      env_falling_leaves_side_yellow_19: -4476524043413194602
+      env_falling_leaves_side_yellow_190: -2886173589401523299
+      env_falling_leaves_side_yellow_191: -8255247807275962782
+      env_falling_leaves_side_yellow_192: 3365591611436403493
+      env_falling_leaves_side_yellow_193: -5383293015651824456
+      env_falling_leaves_side_yellow_194: 7439619558529583882
+      env_falling_leaves_side_yellow_195: -9074388607111693031
+      env_falling_leaves_side_yellow_196: -1274701933443970706
+      env_falling_leaves_side_yellow_197: -742628005536605060
+      env_falling_leaves_side_yellow_198: 2705681531390870513
+      env_falling_leaves_side_yellow_199: -8121060082711402173
+      env_falling_leaves_side_yellow_2: 4685972024687161640
+      env_falling_leaves_side_yellow_20: -7222035924713251202
+      env_falling_leaves_side_yellow_200: 6465264529629080630
+      env_falling_leaves_side_yellow_201: -4395908105356888046
+      env_falling_leaves_side_yellow_202: 5510959036825154263
+      env_falling_leaves_side_yellow_203: -4603725863532945520
+      env_falling_leaves_side_yellow_204: 605520022242764419
+      env_falling_leaves_side_yellow_205: -3281620143900243008
+      env_falling_leaves_side_yellow_206: 7844967665488146332
+      env_falling_leaves_side_yellow_207: -6846852475150342470
+      env_falling_leaves_side_yellow_208: -3622555942639574259
+      env_falling_leaves_side_yellow_209: 6164108052679251132
+      env_falling_leaves_side_yellow_21: -7791487691966875910
+      env_falling_leaves_side_yellow_210: -3641247163417642317
+      env_falling_leaves_side_yellow_211: 7248799366070890168
+      env_falling_leaves_side_yellow_212: -998034560631534672
+      env_falling_leaves_side_yellow_213: 4219881151029943444
+      env_falling_leaves_side_yellow_214: -2601756706841931248
+      env_falling_leaves_side_yellow_215: -5157729017949247322
+      env_falling_leaves_side_yellow_216: 3408584144658197185
+      env_falling_leaves_side_yellow_217: -5061037273692150152
+      env_falling_leaves_side_yellow_218: 7590464853380026406
+      env_falling_leaves_side_yellow_219: -8159741624884708241
+      env_falling_leaves_side_yellow_22: -8710806835437230076
+      env_falling_leaves_side_yellow_220: 3761499598643849623
+      env_falling_leaves_side_yellow_221: -2290143603998005706
+      env_falling_leaves_side_yellow_222: 1302910425019919157
+      env_falling_leaves_side_yellow_223: -2973901669381408355
+      env_falling_leaves_side_yellow_224: 5709054760158346225
+      env_falling_leaves_side_yellow_225: -4861827076004123600
+      env_falling_leaves_side_yellow_226: -4500523530128900760
+      env_falling_leaves_side_yellow_227: 7701056402594191192
+      env_falling_leaves_side_yellow_228: 8297730395749860106
+      env_falling_leaves_side_yellow_229: -2787066553403742452
+      env_falling_leaves_side_yellow_23: 8149577709446527582
+      env_falling_leaves_side_yellow_230: 966440477162212053
+      env_falling_leaves_side_yellow_231: 3309971436756634125
+      env_falling_leaves_side_yellow_232: 1816387241812157259
+      env_falling_leaves_side_yellow_233: -7273865801146329223
+      env_falling_leaves_side_yellow_234: 935710740348999393
+      env_falling_leaves_side_yellow_235: 1028136620166695771
+      env_falling_leaves_side_yellow_236: 6307365027553417678
+      env_falling_leaves_side_yellow_237: -3124698073673669606
+      env_falling_leaves_side_yellow_238: -1286085333441715659
+      env_falling_leaves_side_yellow_239: -6265827806835587400
+      env_falling_leaves_side_yellow_24: 2177670499907682046
+      env_falling_leaves_side_yellow_240: -19893712899428016
+      env_falling_leaves_side_yellow_241: -7423398816005431209
+      env_falling_leaves_side_yellow_242: 5468026375173928700
+      env_falling_leaves_side_yellow_243: 6756024132805593499
+      env_falling_leaves_side_yellow_244: -1452889168868464715
+      env_falling_leaves_side_yellow_245: -1351786928514527882
+      env_falling_leaves_side_yellow_246: -842321709661374238
+      env_falling_leaves_side_yellow_247: 519368960623191554
+      env_falling_leaves_side_yellow_248: -8594338020157216060
+      env_falling_leaves_side_yellow_249: 1264459919718480583
+      env_falling_leaves_side_yellow_25: -4146648035709624272
+      env_falling_leaves_side_yellow_250: -8913082202267312682
+      env_falling_leaves_side_yellow_251: 6690828896944701550
+      env_falling_leaves_side_yellow_252: -5065539952458832809
+      env_falling_leaves_side_yellow_253: -5998719477061991781
+      env_falling_leaves_side_yellow_254: -8537423545453204889
+      env_falling_leaves_side_yellow_255: -5284805933411189723
+      env_falling_leaves_side_yellow_256: 3693834533348983490
+      env_falling_leaves_side_yellow_257: 9132325013873844206
+      env_falling_leaves_side_yellow_26: -7396697513110749404
+      env_falling_leaves_side_yellow_27: 5130530269496068997
+      env_falling_leaves_side_yellow_28: 3761430086159017755
+      env_falling_leaves_side_yellow_29: -8957456174883694685
+      env_falling_leaves_side_yellow_3: 8066904333342680728
+      env_falling_leaves_side_yellow_30: 4445012893773985790
+      env_falling_leaves_side_yellow_31: 5059435668243760874
+      env_falling_leaves_side_yellow_32: 6746509209158223022
+      env_falling_leaves_side_yellow_33: 4376222427980495532
+      env_falling_leaves_side_yellow_34: 1448306898385132797
+      env_falling_leaves_side_yellow_35: 706883135257825054
+      env_falling_leaves_side_yellow_36: 2383657137380431865
+      env_falling_leaves_side_yellow_37: 948732155730181981
+      env_falling_leaves_side_yellow_38: 990067705032900908
+      env_falling_leaves_side_yellow_39: -6436235727840915434
+      env_falling_leaves_side_yellow_4: -1845886197713506675
+      env_falling_leaves_side_yellow_40: -5429547016431167735
+      env_falling_leaves_side_yellow_41: 3379870149511357975
+      env_falling_leaves_side_yellow_42: -39051539398911382
+      env_falling_leaves_side_yellow_43: 8328880351828091061
+      env_falling_leaves_side_yellow_44: -546042260091233461
+      env_falling_leaves_side_yellow_45: -1209977177809649288
+      env_falling_leaves_side_yellow_46: 7357136602814748052
+      env_falling_leaves_side_yellow_47: 4465225262032016437
+      env_falling_leaves_side_yellow_48: 7148722901973626924
+      env_falling_leaves_side_yellow_49: -487336680473278138
+      env_falling_leaves_side_yellow_5: 8089318325226297392
+      env_falling_leaves_side_yellow_50: 3601343675497476560
+      env_falling_leaves_side_yellow_51: 321891908141478653
+      env_falling_leaves_side_yellow_52: -4872838006371581605
+      env_falling_leaves_side_yellow_53: 7254525367173412864
+      env_falling_leaves_side_yellow_54: -6150965368278533630
+      env_falling_leaves_side_yellow_55: 2050159116615262014
+      env_falling_leaves_side_yellow_56: 2945169297479482331
+      env_falling_leaves_side_yellow_57: 802479135063292870
+      env_falling_leaves_side_yellow_58: 5295113748952545341
+      env_falling_leaves_side_yellow_59: -1847183519836211731
+      env_falling_leaves_side_yellow_6: -855471854219799818
+      env_falling_leaves_side_yellow_60: 6651490733354702586
+      env_falling_leaves_side_yellow_61: -6824304158341519795
+      env_falling_leaves_side_yellow_62: -2924798629571309560
+      env_falling_leaves_side_yellow_63: -8280171938748654901
+      env_falling_leaves_side_yellow_64: 5425691559416769170
+      env_falling_leaves_side_yellow_65: -7607013556445306898
+      env_falling_leaves_side_yellow_66: -5059374297677562195
+      env_falling_leaves_side_yellow_67: 3304736923178283665
+      env_falling_leaves_side_yellow_68: 6233431428107974665
+      env_falling_leaves_side_yellow_69: -4514411607730617679
+      env_falling_leaves_side_yellow_7: -4908066330483599517
+      env_falling_leaves_side_yellow_70: -3756305528668054106
+      env_falling_leaves_side_yellow_71: 1243137542466595970
+      env_falling_leaves_side_yellow_72: 3869807475633613062
+      env_falling_leaves_side_yellow_73: 8352449495894457232
+      env_falling_leaves_side_yellow_74: -3408366259561199487
+      env_falling_leaves_side_yellow_75: 2784087052561082637
+      env_falling_leaves_side_yellow_76: 8776980135177374137
+      env_falling_leaves_side_yellow_77: -2890457480735296531
+      env_falling_leaves_side_yellow_78: 8525898396879317922
+      env_falling_leaves_side_yellow_79: -1695315708696830053
+      env_falling_leaves_side_yellow_8: 5143576715868505073
+      env_falling_leaves_side_yellow_80: 5417029647841279619
+      env_falling_leaves_side_yellow_81: 229027988251776899
+      env_falling_leaves_side_yellow_82: 249497390561047180
+      env_falling_leaves_side_yellow_83: 8502737832317620129
+      env_falling_leaves_side_yellow_84: 4355933909691866630
+      env_falling_leaves_side_yellow_85: 1689257318230223897
+      env_falling_leaves_side_yellow_86: -3147310631717246620
+      env_falling_leaves_side_yellow_87: -7362269944100609531
+      env_falling_leaves_side_yellow_88: -3388710220354555436
+      env_falling_leaves_side_yellow_89: -4257237108918679034
+      env_falling_leaves_side_yellow_9: -3173682768401887802
+      env_falling_leaves_side_yellow_90: 3985264891059274069
+      env_falling_leaves_side_yellow_91: -97024958104529574
+      env_falling_leaves_side_yellow_92: -4809428536106470214
+      env_falling_leaves_side_yellow_93: -5288781569308107645
+      env_falling_leaves_side_yellow_94: 4035834916679570624
+      env_falling_leaves_side_yellow_95: 4329513843146919621
+      env_falling_leaves_side_yellow_96: -1508554721195211558
+      env_falling_leaves_side_yellow_97: -3573703570612708070
+      env_falling_leaves_side_yellow_98: -6772740603760608191
+      env_falling_leaves_side_yellow_99: -3537247951408897944
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6996 @@
+fileFormatVersion: 2
+guid: 2dafa067dfa5f734381bc4b35184c056
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1680506894916897397
+    second: env_falling_leaves_top_red_0
+  - first:
+      213: 6977107304454440194
+    second: env_falling_leaves_top_red_1
+  - first:
+      213: -1386544324603289934
+    second: env_falling_leaves_top_red_2
+  - first:
+      213: 6623999497260461947
+    second: env_falling_leaves_top_red_3
+  - first:
+      213: -7224901999009891402
+    second: env_falling_leaves_top_red_4
+  - first:
+      213: 8827149455164389859
+    second: env_falling_leaves_top_red_5
+  - first:
+      213: -5382662071355499253
+    second: env_falling_leaves_top_red_6
+  - first:
+      213: 32567757434441407
+    second: env_falling_leaves_top_red_7
+  - first:
+      213: 1702379806227440692
+    second: env_falling_leaves_top_red_8
+  - first:
+      213: 2790975863151090338
+    second: env_falling_leaves_top_red_9
+  - first:
+      213: 4161247869910569625
+    second: env_falling_leaves_top_red_10
+  - first:
+      213: -2046015661768011725
+    second: env_falling_leaves_top_red_11
+  - first:
+      213: -7165558552788873678
+    second: env_falling_leaves_top_red_12
+  - first:
+      213: 7865103344892517848
+    second: env_falling_leaves_top_red_13
+  - first:
+      213: -4271250646992242610
+    second: env_falling_leaves_top_red_14
+  - first:
+      213: 8274085487198193780
+    second: env_falling_leaves_top_red_15
+  - first:
+      213: -6248509697798190478
+    second: env_falling_leaves_top_red_16
+  - first:
+      213: 1339219314815042571
+    second: env_falling_leaves_top_red_17
+  - first:
+      213: 1567532466590072891
+    second: env_falling_leaves_top_red_18
+  - first:
+      213: -913558338875785141
+    second: env_falling_leaves_top_red_19
+  - first:
+      213: -3453460502115254822
+    second: env_falling_leaves_top_red_20
+  - first:
+      213: -8518099700156496175
+    second: env_falling_leaves_top_red_21
+  - first:
+      213: 9029259530597767044
+    second: env_falling_leaves_top_red_22
+  - first:
+      213: -8259430960930015139
+    second: env_falling_leaves_top_red_23
+  - first:
+      213: -6519200779682767967
+    second: env_falling_leaves_top_red_24
+  - first:
+      213: 3245212557505846381
+    second: env_falling_leaves_top_red_25
+  - first:
+      213: 7982697888265705039
+    second: env_falling_leaves_top_red_26
+  - first:
+      213: 3169043724893456864
+    second: env_falling_leaves_top_red_27
+  - first:
+      213: -4906317456336948883
+    second: env_falling_leaves_top_red_28
+  - first:
+      213: 2407656515809059474
+    second: env_falling_leaves_top_red_29
+  - first:
+      213: -2814983288920751331
+    second: env_falling_leaves_top_red_30
+  - first:
+      213: 7689179644123829334
+    second: env_falling_leaves_top_red_31
+  - first:
+      213: 6241299432031547981
+    second: env_falling_leaves_top_red_32
+  - first:
+      213: -2652664860975284758
+    second: env_falling_leaves_top_red_33
+  - first:
+      213: 2636689546501922296
+    second: env_falling_leaves_top_red_34
+  - first:
+      213: 578187364813747077
+    second: env_falling_leaves_top_red_35
+  - first:
+      213: 3111689757586122090
+    second: env_falling_leaves_top_red_36
+  - first:
+      213: 8460838271997918775
+    second: env_falling_leaves_top_red_37
+  - first:
+      213: 491346581588966577
+    second: env_falling_leaves_top_red_38
+  - first:
+      213: 591529591268196792
+    second: env_falling_leaves_top_red_39
+  - first:
+      213: 8333663092215024843
+    second: env_falling_leaves_top_red_40
+  - first:
+      213: 1537701689340836371
+    second: env_falling_leaves_top_red_41
+  - first:
+      213: -7754442530371624592
+    second: env_falling_leaves_top_red_42
+  - first:
+      213: 6787557432418999008
+    second: env_falling_leaves_top_red_43
+  - first:
+      213: -4314644312507531214
+    second: env_falling_leaves_top_red_44
+  - first:
+      213: -6280489295447010531
+    second: env_falling_leaves_top_red_45
+  - first:
+      213: -3378536432048057438
+    second: env_falling_leaves_top_red_46
+  - first:
+      213: -6968357541030053935
+    second: env_falling_leaves_top_red_47
+  - first:
+      213: -2466628234218355510
+    second: env_falling_leaves_top_red_48
+  - first:
+      213: -1378755785060016348
+    second: env_falling_leaves_top_red_49
+  - first:
+      213: 7389374502224498464
+    second: env_falling_leaves_top_red_50
+  - first:
+      213: -2997529340378763437
+    second: env_falling_leaves_top_red_51
+  - first:
+      213: -2980532834752125947
+    second: env_falling_leaves_top_red_52
+  - first:
+      213: 7624117041396760950
+    second: env_falling_leaves_top_red_53
+  - first:
+      213: 7868561878622393344
+    second: env_falling_leaves_top_red_54
+  - first:
+      213: 5322989601555982492
+    second: env_falling_leaves_top_red_55
+  - first:
+      213: -7029528097997856600
+    second: env_falling_leaves_top_red_56
+  - first:
+      213: -3902648437697470320
+    second: env_falling_leaves_top_red_57
+  - first:
+      213: 6446805377083013448
+    second: env_falling_leaves_top_red_58
+  - first:
+      213: 4374137412019152407
+    second: env_falling_leaves_top_red_59
+  - first:
+      213: -5796404139143051494
+    second: env_falling_leaves_top_red_60
+  - first:
+      213: -996074519794166594
+    second: env_falling_leaves_top_red_61
+  - first:
+      213: 1005590741997521958
+    second: env_falling_leaves_top_red_62
+  - first:
+      213: 5632654484998565206
+    second: env_falling_leaves_top_red_63
+  - first:
+      213: -4034524276320669752
+    second: env_falling_leaves_top_red_64
+  - first:
+      213: 8975426422835408664
+    second: env_falling_leaves_top_red_65
+  - first:
+      213: 6044287673617094436
+    second: env_falling_leaves_top_red_66
+  - first:
+      213: 4722697355826316650
+    second: env_falling_leaves_top_red_67
+  - first:
+      213: 6700562172272820148
+    second: env_falling_leaves_top_red_68
+  - first:
+      213: 4420674991552965937
+    second: env_falling_leaves_top_red_69
+  - first:
+      213: -6874451849580115482
+    second: env_falling_leaves_top_red_70
+  - first:
+      213: -3879142490164804044
+    second: env_falling_leaves_top_red_71
+  - first:
+      213: 1719503585482094668
+    second: env_falling_leaves_top_red_72
+  - first:
+      213: 8900998127469950803
+    second: env_falling_leaves_top_red_73
+  - first:
+      213: 2612084243405272502
+    second: env_falling_leaves_top_red_74
+  - first:
+      213: 1690800155706963310
+    second: env_falling_leaves_top_red_75
+  - first:
+      213: 6346679471765585780
+    second: env_falling_leaves_top_red_76
+  - first:
+      213: -1114103455032028613
+    second: env_falling_leaves_top_red_77
+  - first:
+      213: 9217335116028500944
+    second: env_falling_leaves_top_red_78
+  - first:
+      213: 5149538271227843189
+    second: env_falling_leaves_top_red_79
+  - first:
+      213: -4577163387433215675
+    second: env_falling_leaves_top_red_80
+  - first:
+      213: -156489459267020379
+    second: env_falling_leaves_top_red_81
+  - first:
+      213: 445542124051920191
+    second: env_falling_leaves_top_red_82
+  - first:
+      213: 318275650896495902
+    second: env_falling_leaves_top_red_83
+  - first:
+      213: 5536230331497555245
+    second: env_falling_leaves_top_red_84
+  - first:
+      213: -1382979342394265112
+    second: env_falling_leaves_top_red_85
+  - first:
+      213: -2556277701384986632
+    second: env_falling_leaves_top_red_86
+  - first:
+      213: 6796291775622705938
+    second: env_falling_leaves_top_red_87
+  - first:
+      213: -4101141550926614935
+    second: env_falling_leaves_top_red_88
+  - first:
+      213: -2012955968720794508
+    second: env_falling_leaves_top_red_89
+  - first:
+      213: 8464210874698904782
+    second: env_falling_leaves_top_red_90
+  - first:
+      213: 7589178914769804959
+    second: env_falling_leaves_top_red_91
+  - first:
+      213: 1697807266304223774
+    second: env_falling_leaves_top_red_92
+  - first:
+      213: 338799925490928592
+    second: env_falling_leaves_top_red_93
+  - first:
+      213: -6711076465337906602
+    second: env_falling_leaves_top_red_94
+  - first:
+      213: -3907398876135145129
+    second: env_falling_leaves_top_red_95
+  - first:
+      213: 3038427068460949558
+    second: env_falling_leaves_top_red_96
+  - first:
+      213: -5806590159267800950
+    second: env_falling_leaves_top_red_97
+  - first:
+      213: 5633378236363180155
+    second: env_falling_leaves_top_red_98
+  - first:
+      213: 1110115104397367247
+    second: env_falling_leaves_top_red_99
+  - first:
+      213: -2588366850814054986
+    second: env_falling_leaves_top_red_100
+  - first:
+      213: 2758654777046967538
+    second: env_falling_leaves_top_red_101
+  - first:
+      213: -8553386490410285685
+    second: env_falling_leaves_top_red_102
+  - first:
+      213: -4765966129240091055
+    second: env_falling_leaves_top_red_103
+  - first:
+      213: 8607383696080457530
+    second: env_falling_leaves_top_red_104
+  - first:
+      213: -4676602545559152874
+    second: env_falling_leaves_top_red_105
+  - first:
+      213: -2556952101878635215
+    second: env_falling_leaves_top_red_106
+  - first:
+      213: -5506683024008050594
+    second: env_falling_leaves_top_red_107
+  - first:
+      213: -4441725674287307212
+    second: env_falling_leaves_top_red_108
+  - first:
+      213: -4060070680244172936
+    second: env_falling_leaves_top_red_109
+  - first:
+      213: 22877356878963235
+    second: env_falling_leaves_top_red_110
+  - first:
+      213: -884897422392851480
+    second: env_falling_leaves_top_red_111
+  - first:
+      213: 2660897672522788783
+    second: env_falling_leaves_top_red_112
+  - first:
+      213: -4590543940621391258
+    second: env_falling_leaves_top_red_113
+  - first:
+      213: 7243704771081496265
+    second: env_falling_leaves_top_red_114
+  - first:
+      213: 1785327008202643491
+    second: env_falling_leaves_top_red_115
+  - first:
+      213: 984574243174551415
+    second: env_falling_leaves_top_red_116
+  - first:
+      213: -1620117289118003846
+    second: env_falling_leaves_top_red_117
+  - first:
+      213: -7784483985871209944
+    second: env_falling_leaves_top_red_118
+  - first:
+      213: 4712789731524672093
+    second: env_falling_leaves_top_red_119
+  - first:
+      213: 4920743844217453838
+    second: env_falling_leaves_top_red_120
+  - first:
+      213: -2417002846167673555
+    second: env_falling_leaves_top_red_121
+  - first:
+      213: 1297585871123907898
+    second: env_falling_leaves_top_red_122
+  - first:
+      213: -4576358333131763012
+    second: env_falling_leaves_top_red_123
+  - first:
+      213: 8112748294149961168
+    second: env_falling_leaves_top_red_124
+  - first:
+      213: 7393531134943912699
+    second: env_falling_leaves_top_red_125
+  - first:
+      213: -6811891670335823856
+    second: env_falling_leaves_top_red_126
+  - first:
+      213: -830598027168538347
+    second: env_falling_leaves_top_red_127
+  - first:
+      213: -4272621565499280697
+    second: env_falling_leaves_top_red_128
+  - first:
+      213: -7811013072192951311
+    second: env_falling_leaves_top_red_129
+  - first:
+      213: -2558612717349777629
+    second: env_falling_leaves_top_red_130
+  - first:
+      213: -7744971256682402630
+    second: env_falling_leaves_top_red_131
+  - first:
+      213: -2886875228010502568
+    second: env_falling_leaves_top_red_132
+  - first:
+      213: 8993737273767921948
+    second: env_falling_leaves_top_red_133
+  - first:
+      213: -4933961867333321631
+    second: env_falling_leaves_top_red_134
+  - first:
+      213: -4048437153991100871
+    second: env_falling_leaves_top_red_135
+  - first:
+      213: -4456193996762575157
+    second: env_falling_leaves_top_red_136
+  - first:
+      213: 5490085199423100376
+    second: env_falling_leaves_top_red_137
+  - first:
+      213: -1849759131636112064
+    second: env_falling_leaves_top_red_138
+  - first:
+      213: 8618895593856751038
+    second: env_falling_leaves_top_red_139
+  - first:
+      213: 1603964702754177397
+    second: env_falling_leaves_top_red_140
+  - first:
+      213: -2439822608106159473
+    second: env_falling_leaves_top_red_141
+  - first:
+      213: -5121956470298313106
+    second: env_falling_leaves_top_red_142
+  - first:
+      213: -2049905672104943169
+    second: env_falling_leaves_top_red_143
+  - first:
+      213: -4330257370414258871
+    second: env_falling_leaves_top_red_144
+  - first:
+      213: 4592713055305228121
+    second: env_falling_leaves_top_red_145
+  - first:
+      213: 5137325859457136967
+    second: env_falling_leaves_top_red_146
+  - first:
+      213: 1802586288705324704
+    second: env_falling_leaves_top_red_147
+  - first:
+      213: 5522259235780381666
+    second: env_falling_leaves_top_red_148
+  - first:
+      213: -7737536128303471955
+    second: env_falling_leaves_top_red_149
+  - first:
+      213: 5154751119950923369
+    second: env_falling_leaves_top_red_150
+  - first:
+      213: -5199329388719022995
+    second: env_falling_leaves_top_red_151
+  - first:
+      213: 1034504995077560804
+    second: env_falling_leaves_top_red_152
+  - first:
+      213: 364918552209828093
+    second: env_falling_leaves_top_red_153
+  - first:
+      213: -685369705371784111
+    second: env_falling_leaves_top_red_154
+  - first:
+      213: 7211324155349254138
+    second: env_falling_leaves_top_red_155
+  - first:
+      213: 3813846930837653107
+    second: env_falling_leaves_top_red_156
+  - first:
+      213: -7901365821272782664
+    second: env_falling_leaves_top_red_157
+  - first:
+      213: 5088558080526937619
+    second: env_falling_leaves_top_red_158
+  - first:
+      213: 7533990159628334220
+    second: env_falling_leaves_top_red_159
+  - first:
+      213: 6566714125909494958
+    second: env_falling_leaves_top_red_160
+  - first:
+      213: 7748975862187741380
+    second: env_falling_leaves_top_red_161
+  - first:
+      213: 6693664185096023999
+    second: env_falling_leaves_top_red_162
+  - first:
+      213: 7194549898314815443
+    second: env_falling_leaves_top_red_163
+  - first:
+      213: 6300501562463243549
+    second: env_falling_leaves_top_red_164
+  - first:
+      213: 8402020102864512720
+    second: env_falling_leaves_top_red_165
+  - first:
+      213: -4624655656190535609
+    second: env_falling_leaves_top_red_166
+  - first:
+      213: -563355563925993154
+    second: env_falling_leaves_top_red_167
+  - first:
+      213: -6228037152278596105
+    second: env_falling_leaves_top_red_168
+  - first:
+      213: 1508358760019938592
+    second: env_falling_leaves_top_red_169
+  - first:
+      213: 8508678423390520529
+    second: env_falling_leaves_top_red_170
+  - first:
+      213: -3721622801883626327
+    second: env_falling_leaves_top_red_171
+  - first:
+      213: 3679812204029895781
+    second: env_falling_leaves_top_red_172
+  - first:
+      213: 6878496038727771825
+    second: env_falling_leaves_top_red_173
+  - first:
+      213: 3642444514766424122
+    second: env_falling_leaves_top_red_174
+  - first:
+      213: -289138593079347199
+    second: env_falling_leaves_top_red_175
+  - first:
+      213: 465895255088043767
+    second: env_falling_leaves_top_red_176
+  - first:
+      213: 4440700440791279164
+    second: env_falling_leaves_top_red_177
+  - first:
+      213: 49836440278656594
+    second: env_falling_leaves_top_red_178
+  - first:
+      213: -3943566091620262619
+    second: env_falling_leaves_top_red_179
+  - first:
+      213: -3549834065809731838
+    second: env_falling_leaves_top_red_180
+  - first:
+      213: 4721622759826943819
+    second: env_falling_leaves_top_red_181
+  - first:
+      213: 4359408166870973889
+    second: env_falling_leaves_top_red_182
+  - first:
+      213: 8823493340916875836
+    second: env_falling_leaves_top_red_183
+  - first:
+      213: 5242347302777410168
+    second: env_falling_leaves_top_red_184
+  - first:
+      213: 7214150712044931236
+    second: env_falling_leaves_top_red_185
+  - first:
+      213: 4923604953541836045
+    second: env_falling_leaves_top_red_186
+  - first:
+      213: 4175395862188331584
+    second: env_falling_leaves_top_red_187
+  - first:
+      213: 7908113643951650636
+    second: env_falling_leaves_top_red_188
+  - first:
+      213: 2506375155891148256
+    second: env_falling_leaves_top_red_189
+  - first:
+      213: -1213280458298343906
+    second: env_falling_leaves_top_red_190
+  - first:
+      213: -5573943082967914588
+    second: env_falling_leaves_top_red_191
+  - first:
+      213: -7265740184636552333
+    second: env_falling_leaves_top_red_192
+  - first:
+      213: 1763039978070688871
+    second: env_falling_leaves_top_red_193
+  - first:
+      213: 9018942314250442887
+    second: env_falling_leaves_top_red_194
+  - first:
+      213: 1583462756384120508
+    second: env_falling_leaves_top_red_195
+  - first:
+      213: -4780001022348808357
+    second: env_falling_leaves_top_red_196
+  - first:
+      213: -7366698333576249957
+    second: env_falling_leaves_top_red_197
+  - first:
+      213: 1104791427552188802
+    second: env_falling_leaves_top_red_198
+  - first:
+      213: -5894860106532037808
+    second: env_falling_leaves_top_red_199
+  - first:
+      213: -8686342129558034887
+    second: env_falling_leaves_top_red_200
+  - first:
+      213: -5409709284757598308
+    second: env_falling_leaves_top_red_201
+  - first:
+      213: 7866958668521782039
+    second: env_falling_leaves_top_red_202
+  - first:
+      213: -5440015556958672539
+    second: env_falling_leaves_top_red_203
+  - first:
+      213: -7155396170325417483
+    second: env_falling_leaves_top_red_204
+  - first:
+      213: -7909042390548687138
+    second: env_falling_leaves_top_red_205
+  - first:
+      213: -7263720319802261549
+    second: env_falling_leaves_top_red_206
+  - first:
+      213: 541778541987210958
+    second: env_falling_leaves_top_red_207
+  - first:
+      213: -6673450557219418795
+    second: env_falling_leaves_top_red_208
+  - first:
+      213: 2310603605741404129
+    second: env_falling_leaves_top_red_209
+  - first:
+      213: -1848117504379344810
+    second: env_falling_leaves_top_red_210
+  - first:
+      213: -609053091200848367
+    second: env_falling_leaves_top_red_211
+  - first:
+      213: -1479952047462390996
+    second: env_falling_leaves_top_red_212
+  - first:
+      213: 1509436395516374552
+    second: env_falling_leaves_top_red_213
+  - first:
+      213: 5058052299412937490
+    second: env_falling_leaves_top_red_214
+  - first:
+      213: 2550234118077637597
+    second: env_falling_leaves_top_red_215
+  - first:
+      213: 4763594564796375408
+    second: env_falling_leaves_top_red_216
+  - first:
+      213: 7283322626839264455
+    second: env_falling_leaves_top_red_217
+  - first:
+      213: 5850232208215625091
+    second: env_falling_leaves_top_red_218
+  - first:
+      213: 2190039570703388756
+    second: env_falling_leaves_top_red_219
+  - first:
+      213: 5084827249964363069
+    second: env_falling_leaves_top_red_220
+  - first:
+      213: -7539938112649284935
+    second: env_falling_leaves_top_red_221
+  - first:
+      213: 7001665317365109502
+    second: env_falling_leaves_top_red_222
+  - first:
+      213: -6523675659040312858
+    second: env_falling_leaves_top_red_223
+  - first:
+      213: -5480519487911746209
+    second: env_falling_leaves_top_red_224
+  - first:
+      213: -5488920188661197540
+    second: env_falling_leaves_top_red_225
+  - first:
+      213: 8265239462585851016
+    second: env_falling_leaves_top_red_226
+  - first:
+      213: -2476707764493033467
+    second: env_falling_leaves_top_red_227
+  - first:
+      213: 4975891829954764280
+    second: env_falling_leaves_top_red_228
+  - first:
+      213: -4653409218854202377
+    second: env_falling_leaves_top_red_229
+  - first:
+      213: 1443355957198073920
+    second: env_falling_leaves_top_red_230
+  - first:
+      213: -7278366467290681117
+    second: env_falling_leaves_top_red_231
+  - first:
+      213: 3710406290513986502
+    second: env_falling_leaves_top_red_232
+  - first:
+      213: -3313113988340201403
+    second: env_falling_leaves_top_red_233
+  - first:
+      213: -7801764259542191686
+    second: env_falling_leaves_top_red_234
+  - first:
+      213: -7849096602454055317
+    second: env_falling_leaves_top_red_235
+  - first:
+      213: -4782400430549005623
+    second: env_falling_leaves_top_red_236
+  - first:
+      213: 8917862846211610277
+    second: env_falling_leaves_top_red_237
+  - first:
+      213: 8123672477735021986
+    second: env_falling_leaves_top_red_238
+  - first:
+      213: -5813171944764660060
+    second: env_falling_leaves_top_red_239
+  - first:
+      213: -1795711931840264795
+    second: env_falling_leaves_top_red_240
+  - first:
+      213: 5262558914532006313
+    second: env_falling_leaves_top_red_241
+  - first:
+      213: 133307775807240579
+    second: env_falling_leaves_top_red_242
+  - first:
+      213: -6857156695923105853
+    second: env_falling_leaves_top_red_243
+  - first:
+      213: 5017421720500694964
+    second: env_falling_leaves_top_red_244
+  - first:
+      213: 2645640909555022604
+    second: env_falling_leaves_top_red_245
+  - first:
+      213: 2779481552419116807
+    second: env_falling_leaves_top_red_246
+  - first:
+      213: -9131424955928744897
+    second: env_falling_leaves_top_red_247
+  - first:
+      213: 3549552610956247997
+    second: env_falling_leaves_top_red_248
+  - first:
+      213: -4498148191756648702
+    second: env_falling_leaves_top_red_249
+  - first:
+      213: 2262788320467156517
+    second: env_falling_leaves_top_red_250
+  - first:
+      213: -965239247952633648
+    second: env_falling_leaves_top_red_251
+  - first:
+      213: -2877421875232325199
+    second: env_falling_leaves_top_red_252
+  - first:
+      213: 156714832803591754
+    second: env_falling_leaves_top_red_253
+  - first:
+      213: -4407690700156179379
+    second: env_falling_leaves_top_red_254
+  - first:
+      213: 6610594927179256840
+    second: env_falling_leaves_top_red_255
+  - first:
+      213: -1115980576637244730
+    second: env_falling_leaves_top_red_256
+  - first:
+      213: -3514142477123364703
+    second: env_falling_leaves_top_red_257
+  - first:
+      213: -7435182626000478096
+    second: env_falling_leaves_top_red_258
+  - first:
+      213: -3629077170992414713
+    second: env_falling_leaves_top_red_259
+  - first:
+      213: 3022407201562663084
+    second: env_falling_leaves_top_red_260
+  - first:
+      213: -3079562204241727008
+    second: env_falling_leaves_top_red_261
+  - first:
+      213: -2009194933907198325
+    second: env_falling_leaves_top_red_262
+  - first:
+      213: 6143438118418345307
+    second: env_falling_leaves_top_red_263
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_0
+      rect:
+        serializedVersion: 2
+        x: 10366
+        y: 201
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57acd120e1c525710800000000000000
+      internalID: 1680506894916897397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_1
+      rect:
+        serializedVersion: 2
+        x: 10614
+        y: 178
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2054ac9802aa3d060800000000000000
+      internalID: 6977107304454440194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_2
+      rect:
+        serializedVersion: 2
+        x: 10861
+        y: 173
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bedfa2784102cce0800000000000000
+      internalID: -1386544324603289934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_3
+      rect:
+        serializedVersion: 2
+        x: 11109
+        y: 170
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f6392827c2deb50800000000000000
+      internalID: 6623999497260461947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_4
+      rect:
+        serializedVersion: 2
+        x: 11363
+        y: 167
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb710c39edfbbb90800000000000000
+      internalID: -7224901999009891402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_5
+      rect:
+        serializedVersion: 2
+        x: 11884
+        y: 163
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e93b5649a5508a70800000000000000
+      internalID: 8827149455164389859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_6
+      rect:
+        serializedVersion: 2
+        x: 12140
+        y: 160
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d13ea5d51fc45b0800000000000000
+      internalID: -5382662071355499253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 157
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbec20de334b37000800000000000000
+      internalID: 32567757434441407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 157
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4342cf60a6110a710800000000000000
+      internalID: 1702379806227440692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_9
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 158
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa5fc3a2c98bb620800000000000000
+      internalID: 2790975863151090338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_10
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 157
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992de54f3e8bfb930800000000000000
+      internalID: 4161247869910569625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_11
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 159
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3309e6b88971b93e0800000000000000
+      internalID: -2046015661768011725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_12
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 158
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ec1c30672de8c90800000000000000
+      internalID: -7165558552788873678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_13
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 157
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd1e0232d5762d60800000000000000
+      internalID: 7865103344892517848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_14
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 157
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48be57aa2879b4c0800000000000000
+      internalID: -4271250646992242610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_15
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 157
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478c9a1a9e473d270800000000000000
+      internalID: 8274085487198193780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_16
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 157
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ac72f2985d849a0800000000000000
+      internalID: -6248509697798190478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_17
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 156
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0484ef0fdcd59210800000000000000
+      internalID: 1339219314815042571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_18
+      rect:
+        serializedVersion: 2
+        x: 4727
+        y: 156
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b304ef4297ef0c510800000000000000
+      internalID: 1567532466590072891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_19
+      rect:
+        serializedVersion: 2
+        x: 4983
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4086b1f7836253f0800000000000000
+      internalID: -913558338875785141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_20
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addf39578f7d210d0800000000000000
+      internalID: -3453460502115254822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_21
+      rect:
+        serializedVersion: 2
+        x: 5495
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d68fca1471a9c980800000000000000
+      internalID: -8518099700156496175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_22
+      rect:
+        serializedVersion: 2
+        x: 5751
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487171a34bf5e4d70800000000000000
+      internalID: 9029259530597767044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_23
+      rect:
+        serializedVersion: 2
+        x: 6007
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5837e62d4b906d80800000000000000
+      internalID: -8259430960930015139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_24
+      rect:
+        serializedVersion: 2
+        x: 6263
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab1f8b5e652785a0800000000000000
+      internalID: -6519200779682767967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_25
+      rect:
+        serializedVersion: 2
+        x: 6519
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cd5ce80af490d20800000000000000
+      internalID: 3245212557505846381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_26
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46965b6f6d38ce60800000000000000
+      internalID: 7982697888265705039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_27
+      rect:
+        serializedVersion: 2
+        x: 7031
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e984fb3a74bafb20800000000000000
+      internalID: 3169043724893456864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_28
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61fcbba44249ebb0800000000000000
+      internalID: -4906317456336948883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_29
+      rect:
+        serializedVersion: 2
+        x: 7543
+        y: 156
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29224f548d6b96120800000000000000
+      internalID: 2407656515809059474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_30
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 156
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c737fc9b2fe8d0800000000000000
+      internalID: -2814983288920751331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_31
+      rect:
+        serializedVersion: 2
+        x: 8057
+        y: 158
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6545a26b52475ba60800000000000000
+      internalID: 7689179644123829334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_32
+      rect:
+        serializedVersion: 2
+        x: 8315
+        y: 160
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42761ff3cc8d9650800000000000000
+      internalID: 6241299432031547981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_33
+      rect:
+        serializedVersion: 2
+        x: 10375
+        y: 185
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed38650d57df2bd0800000000000000
+      internalID: -2652664860975284758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_34
+      rect:
+        serializedVersion: 2
+        x: 11623
+        y: 165
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd9b3a3c27679420800000000000000
+      internalID: 2636689546501922296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 140
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583b75d4852260800800000000000000
+      internalID: 578187364813747077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_36
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 141
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65642c1951fe2b20800000000000000
+      internalID: 3111689757586122090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_37
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 141
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e3778b49fea6570800000000000000
+      internalID: 8460838271997918775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_38
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 141
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc7639dc1d91d600800000000000000
+      internalID: 491346581588966577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_39
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 157
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b14ca97709853800800000000000000
+      internalID: 591529591268196792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_40
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 142
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc8241cd6e17a370800000000000000
+      internalID: 8333663092215024843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_41
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 157
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31abda31a83075510800000000000000
+      internalID: 1537701689340836371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_42
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 142
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071a40a7a9fa26490800000000000000
+      internalID: -7754442530371624592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_43
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 157
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea95e3d58f323e50800000000000000
+      internalID: 6787557432418999008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_44
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 142
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23044d49bdd4f14c0800000000000000
+      internalID: -4314644312507531214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_45
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 158
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13dc31e24837d8a0800000000000000
+      internalID: -6280489295447010531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_46
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 143
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35f0be3070d11d0800000000000000
+      internalID: -3378536432048057438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_47
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 158
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d73df28cbb6b4f90800000000000000
+      internalID: -6968357541030053935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_48
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4477290b6c4cdd0800000000000000
+      internalID: -2466628234218355510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_49
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 158
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9b7f1becaddce0800000000000000
+      internalID: -1378755785060016348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_50
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f8b6d85f45c8660800000000000000
+      internalID: 7389374502224498464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_51
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 159
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fa9ee42f2a666d0800000000000000
+      internalID: -2997529340378763437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_52
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5042637ad2503a6d0800000000000000
+      internalID: -2980532834752125947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_53
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 143
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671c47a0e0e4ec960800000000000000
+      internalID: 7624117041396760950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_54
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 143
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004d774d65fb23d60800000000000000
+      internalID: 7868561878622393344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_55
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98a7d717de0fd940800000000000000
+      internalID: 5322989601555982492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_56
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e53c5079127e90800000000000000
+      internalID: -7029528097997856600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_57
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0902fcb4ce107d9c0800000000000000
+      internalID: -3902648437697470320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_58
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8497c157557a77950800000000000000
+      internalID: 6446805377083013448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_59
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716e5221dce04bc30800000000000000
+      internalID: 4374137412019152407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_60
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1746c765290f8fa0800000000000000
+      internalID: -5796404139143051494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_61
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d9dd608b3d22f0800000000000000
+      internalID: -996074519794166594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_62
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 143
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0f26b37394fd00800000000000000
+      internalID: 1005590741997521958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_63
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 144
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65da9d839653b2e40800000000000000
+      internalID: 5632654484998565206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_64
+      rect:
+        serializedVersion: 2
+        x: 5809
+        y: 145
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf6738eb8d7208c0800000000000000
+      internalID: -4034524276320669752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_65
+      rect:
+        serializedVersion: 2
+        x: 6067
+        y: 146
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f62c817ce1f8c70800000000000000
+      internalID: 8975426422835408664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_66
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 132
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427183a7d9f91e350800000000000000
+      internalID: 6044287673617094436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_67
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 134
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6544b329346a8140800000000000000
+      internalID: 4722697355826316650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_68
+      rect:
+        serializedVersion: 2
+        x: 7195
+        y: 136
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfbdb96bcd2dfc50800000000000000
+      internalID: 6700562172272820148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_69
+      rect:
+        serializedVersion: 2
+        x: 7459
+        y: 137
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13da7faab74695d30800000000000000
+      internalID: 4420674991552965937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_70
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 138
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e90048177a0990a0800000000000000
+      internalID: -6874451849580115482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_71
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 138
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4364a9035748a2ac0800000000000000
+      internalID: -3879142490164804044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_72
+      rect:
+        serializedVersion: 2
+        x: 8239
+        y: 137
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48bba29667ecd710800000000000000
+      internalID: 1719503585482094668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_73
+      rect:
+        serializedVersion: 2
+        x: 8497
+        y: 139
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357734e23a2b68b70800000000000000
+      internalID: 8900998127469950803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_74
+      rect:
+        serializedVersion: 2
+        x: 8575
+        y: 163
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5f09ba7ccff3420800000000000000
+      internalID: 2612084243405272502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_75
+      rect:
+        serializedVersion: 2
+        x: 8753
+        y: 138
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65b61b88cde67710800000000000000
+      internalID: 1690800155706963310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_76
+      rect:
+        serializedVersion: 2
+        x: 8835
+        y: 167
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff9d97a5fe31850800000000000000
+      internalID: 6346679471765585780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_77
+      rect:
+        serializedVersion: 2
+        x: 8888
+        y: 122
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32d7c77fc8e980f0800000000000000
+      internalID: -1114103455032028613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_78
+      rect:
+        serializedVersion: 2
+        x: 9146
+        y: 125
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbdc96d37d8aef70800000000000000
+      internalID: 9217335116028500944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_79
+      rect:
+        serializedVersion: 2
+        x: 9403
+        y: 129
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57290d536c5d67740800000000000000
+      internalID: 5149538271227843189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_80
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 133
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5499e156626aa70c0800000000000000
+      internalID: -4577163387433215675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_81
+      rect:
+        serializedVersion: 2
+        x: 10419
+        y: 141
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9db497aa904ddf0800000000000000
+      internalID: -156489459267020379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_82
+      rect:
+        serializedVersion: 2
+        x: 10676
+        y: 143
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3576948332ee2600800000000000000
+      internalID: 445542124051920191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_83
+      rect:
+        serializedVersion: 2
+        x: 10934
+        y: 145
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e158758a40eba6400800000000000000
+      internalID: 318275650896495902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_84
+      rect:
+        serializedVersion: 2
+        x: 11188
+        y: 143
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a7af7724a4dc40800000000000000
+      internalID: 5536230331497555245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_85
+      rect:
+        serializedVersion: 2
+        x: 11443
+        y: 142
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1f2ec8d9baecce0800000000000000
+      internalID: -1382979342394265112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_86
+      rect:
+        serializedVersion: 2
+        x: 11698
+        y: 141
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff12bd69f6468cd0800000000000000
+      internalID: -2556277701384986632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_87
+      rect:
+        serializedVersion: 2
+        x: 11953
+        y: 141
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21376e39c57415e50800000000000000
+      internalID: 6796291775622705938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_88
+      rect:
+        serializedVersion: 2
+        x: 12208
+        y: 140
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eac6bfc71d517c0800000000000000
+      internalID: -4101141550926614935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_89
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 125
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c05e7263b8014e0800000000000000
+      internalID: -2012955968720794508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 125
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec43d6af1fae67570800000000000000
+      internalID: 8464210874698904782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_91
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 125
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e1db7830e225960800000000000000
+      internalID: 7589178914769804959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_92
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ae32d96b2df8710800000000000000
+      internalID: 1697807266304223774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_93
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbc0d8bcb8a3b400800000000000000
+      internalID: 338799925490928592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_94
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65acc07f2877dd2a0800000000000000
+      internalID: -6711076465337906602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_95
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514438ac6126c9c0800000000000000
+      internalID: -3907398876135145129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_96
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630eb8b0259aa2a20800000000000000
+      internalID: 3038427068460949558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_97
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a885098c309da6fa0800000000000000
+      internalID: -5806590159267800950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_98
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7808d7b8a7cd2e40800000000000000
+      internalID: 5633378236363180155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_99
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc796694ecbe76f00800000000000000
+      internalID: 1110115104397367247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_100
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bde4dc1016441cd0800000000000000
+      internalID: -2588366850814054986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_101
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a1db57e5b84620800000000000000
+      internalID: 2758654777046967538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_102
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8548740e444c4980800000000000000
+      internalID: -8553386490410285685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_103
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 125
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d91f7e03ebddb0800000000000000
+      internalID: -4765966129240091055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_104
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 126
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f4d522ed1937770800000000000000
+      internalID: 8607383696080457530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_105
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 128
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617524433ce591fb0800000000000000
+      internalID: -4676602545559152874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_106
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e5d35c91e38cd0800000000000000
+      internalID: -2556952101878635215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_107
+      rect:
+        serializedVersion: 2
+        x: 4667
+        y: 135
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58835f17f45493b0800000000000000
+      internalID: -5506683024008050594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_108
+      rect:
+        serializedVersion: 2
+        x: 6326
+        y: 149
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4366f525802db52c0800000000000000
+      internalID: -4441725674287307212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_109
+      rect:
+        serializedVersion: 2
+        x: 6432
+        y: 145
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877411d3a3bb7a7c0800000000000000
+      internalID: -4060070680244172936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_110
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 152
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ab2ab5d6415000800000000000000
+      internalID: 22877356878963235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_111
+      rect:
+        serializedVersion: 2
+        x: 8369
+        y: 134
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e38d939b7638b3f0800000000000000
+      internalID: -884897422392851480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_112
+      rect:
+        serializedVersion: 2
+        x: 8626
+        y: 119
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf626ac5586de420800000000000000
+      internalID: 2660897672522788783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_113
+      rect:
+        serializedVersion: 2
+        x: 9008
+        y: 137
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa0759b9c1b40c0800000000000000
+      internalID: -4590543940621391258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_114
+      rect:
+        serializedVersion: 2
+        x: 9264
+        y: 136
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c66d1a4c1fc68460800000000000000
+      internalID: 7243704771081496265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_115
+      rect:
+        serializedVersion: 2
+        x: 9521
+        y: 136
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32854d37471c6c810800000000000000
+      internalID: 1785327008202643491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_116
+      rect:
+        serializedVersion: 2
+        x: 9778
+        y: 135
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f0b63ce09e9ad00800000000000000
+      internalID: 984574243174551415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_117
+      rect:
+        serializedVersion: 2
+        x: 9909
+        y: 136
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d07a7c8ef2489e0800000000000000
+      internalID: -1620117289118003846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_118
+      rect:
+        serializedVersion: 2
+        x: 10035
+        y: 134
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82afd6e0f05f7f390800000000000000
+      internalID: -7784483985871209944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_119
+      rect:
+        serializedVersion: 2
+        x: 10163
+        y: 139
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5af2a89a41376140800000000000000
+      internalID: 4712789731524672093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_120
+      rect:
+        serializedVersion: 2
+        x: 10293
+        y: 133
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d7541847ef94440800000000000000
+      internalID: 4920743844217453838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_121
+      rect:
+        serializedVersion: 2
+        x: 10549
+        y: 132
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25511d97b4157ed0800000000000000
+      internalID: -2417002846167673555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_122
+      rect:
+        serializedVersion: 2
+        x: 10804
+        y: 130
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3508e19973f10210800000000000000
+      internalID: 1297585871123907898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_123
+      rect:
+        serializedVersion: 2
+        x: 11060
+        y: 128
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb258c4b7528d70c0800000000000000
+      internalID: -4576358333131763012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_124
+      rect:
+        serializedVersion: 2
+        x: 11315
+        y: 127
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5f6f02795469070800000000000000
+      internalID: 8112748294149961168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_125
+      rect:
+        serializedVersion: 2
+        x: 11571
+        y: 126
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf26f1605691b9660800000000000000
+      internalID: 7393531134943912699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_126
+      rect:
+        serializedVersion: 2
+        x: 11827
+        y: 125
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010e035ed9c4771a0800000000000000
+      internalID: -6811891670335823856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_127
+      rect:
+        serializedVersion: 2
+        x: 12082
+        y: 125
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511aa77be7f1974f0800000000000000
+      internalID: -830598027168538347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_128
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2fdb0d25994b4c0800000000000000
+      internalID: -4272621565499280697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_129
+      rect:
+        serializedVersion: 2
+        x: 6439
+        y: 132
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fba100def4b99390800000000000000
+      internalID: -7811013072192951311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_130
+      rect:
+        serializedVersion: 2
+        x: 8119
+        y: 136
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fc1982a4bfd7cd0800000000000000
+      internalID: -2558612717349777629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_131
+      rect:
+        serializedVersion: 2
+        x: 8131
+        y: 119
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abca5d93da5548490800000000000000
+      internalID: -7744971256682402630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_132
+      rect:
+        serializedVersion: 2
+        x: 8380
+        y: 117
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562f838642cfe7d0800000000000000
+      internalID: -2886875228010502568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_133
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 82
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19802e466c20dc70800000000000000
+      internalID: 8993737273767921948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_134
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 83
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c364aa2db078bb0800000000000000
+      internalID: -4933961867333321631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_135
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 90
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936fdd4abdf01d7c0800000000000000
+      internalID: -4048437153991100871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_136
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 85
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce0dbc7b2b6822c0800000000000000
+      internalID: -4456193996762575157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_137
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 69
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d55e32b663b03c40800000000000000
+      internalID: 5490085199423100376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_138
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 87
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0456bc6ced55456e0800000000000000
+      internalID: -1849759131636112064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_139
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 66
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d204b0e77c9770800000000000000
+      internalID: 8618895593856751038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_140
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5718de3266d624610800000000000000
+      internalID: 1603964702754177397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_141
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 65
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f828dd0c342042ed0800000000000000
+      internalID: -2439822608106159473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_142
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 65
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6efad04ab72be8b0800000000000000
+      internalID: -5121956470298313106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_143
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 66
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1602fe6a54d83e0800000000000000
+      internalID: -2049905672104943169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_144
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 67
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e0724dd5d7e3c0800000000000000
+      internalID: -4330257370414258871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_145
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 68
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f54c8c0389cbf30800000000000000
+      internalID: 4592713055305228121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_146
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 70
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749fe5486a27b4740800000000000000
+      internalID: 5137325859457136967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_147
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 94
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a64547dda2140910800000000000000
+      internalID: 1802586288705324704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_148
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 70
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb4f4a448103ac40800000000000000
+      internalID: 5522259235780381666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_149
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 71
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da268b3f2efbe9490800000000000000
+      internalID: -7737536128303471955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_150
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 69
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966c83225da598740800000000000000
+      internalID: 5154751119950923369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_151
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 67
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c572bd77548d7b0800000000000000
+      internalID: -5199329388719022995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_152
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 70
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e917fddfcc4b5e00800000000000000
+      internalID: 1034504995077560804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_153
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 65
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8aa646d73701500800000000000000
+      internalID: 364918552209828093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_154
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 72
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c208b52e31d76f0800000000000000
+      internalID: -685369705371784111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_155
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 65
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff39cfac15c31460800000000000000
+      internalID: 7211324155349254138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_156
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 74
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ca44b3918de430800000000000000
+      internalID: 3813846930837653107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_157
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 66
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b88f9616a5b85290800000000000000
+      internalID: -7901365821272782664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_158
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 77
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e60c82d903e9640800000000000000
+      internalID: 5088558080526937619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_159
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 66
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c847fe5222c1e8860800000000000000
+      internalID: 7533990159628334220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_160
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 79
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac0060a4b7a12b50800000000000000
+      internalID: 6566714125909494958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_161
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 68
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0d6c6ad74e98b60800000000000000
+      internalID: 7748975862187741380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_162
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 82
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf276e9c1ca4ec50800000000000000
+      internalID: 6693664185096023999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_163
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 69
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d790ef930d28d360800000000000000
+      internalID: 7194549898314815443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_164
+      rect:
+        serializedVersion: 2
+        x: 4767
+        y: 82
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d4a612ac0ef6750800000000000000
+      internalID: 6300501562463243549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_165
+      rect:
+        serializedVersion: 2
+        x: 4907
+        y: 71
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d62eea84c8f99470800000000000000
+      internalID: 8402020102864512720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_166
+      rect:
+        serializedVersion: 2
+        x: 5022
+        y: 83
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7481344ee2ce1dfb0800000000000000
+      internalID: -4624655656190535609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_167
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 72
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3983f1791f8e28f0800000000000000
+      internalID: -563355563925993154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_168
+      rect:
+        serializedVersion: 2
+        x: 5278
+        y: 83
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5bf7225319199a0800000000000000
+      internalID: -6228037152278596105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_169
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 71
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d46d4fc44cee410800000000000000
+      internalID: 1508358760019938592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_170
+      rect:
+        serializedVersion: 2
+        x: 5534
+        y: 84
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d40936f1f5e41670800000000000000
+      internalID: 8508678423390520529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_171
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 71
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a48bb997c32a5cc0800000000000000
+      internalID: -3721622801883626327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_172
+      rect:
+        serializedVersion: 2
+        x: 5791
+        y: 84
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564695df3b1511330800000000000000
+      internalID: 3679812204029895781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_173
+      rect:
+        serializedVersion: 2
+        x: 5930
+        y: 72
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6ec4114b3557f50800000000000000
+      internalID: 6878496038727771825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_174
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 84
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3809b8dcff8c8230800000000000000
+      internalID: 3642444514766424122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_175
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 73
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10836a44bf5ccfbf0800000000000000
+      internalID: -289138593079347199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_176
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 84
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6101e1441377600800000000000000
+      internalID: 465895255088043767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_177
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 75
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36e847e58980ad30800000000000000
+      internalID: 4440700440791279164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_178
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 84
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256eda77afd01b000800000000000000
+      internalID: 49836440278656594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_179
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 77
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd2b89883a549c0800000000000000
+      internalID: -3943566091620262619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_180
+      rect:
+        serializedVersion: 2
+        x: 6766
+        y: 64
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f84d799b47cbec0800000000000000
+      internalID: -3549834065809731838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_181
+      rect:
+        serializedVersion: 2
+        x: 6815
+        y: 84
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f62e242e2968140800000000000000
+      internalID: 4721622759826943819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_182
+      rect:
+        serializedVersion: 2
+        x: 6955
+        y: 79
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdf74171aabf7c30800000000000000
+      internalID: 4359408166870973889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_183
+      rect:
+        serializedVersion: 2
+        x: 7024
+        y: 65
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c320067d178537a70800000000000000
+      internalID: 8823493340916875836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_184
+      rect:
+        serializedVersion: 2
+        x: 7071
+        y: 84
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8725643c81f80c840800000000000000
+      internalID: 5242347302777410168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_185
+      rect:
+        serializedVersion: 2
+        x: 7211
+        y: 80
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c193b9dfcd1460800000000000000
+      internalID: 7214150712044931236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_186
+      rect:
+        serializedVersion: 2
+        x: 7278
+        y: 64
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0df63e6e98245440800000000000000
+      internalID: 4923604953541836045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_187
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 84
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0421f5a1a6cf1f930800000000000000
+      internalID: 4175395862188331584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_188
+      rect:
+        serializedVersion: 2
+        x: 7468
+        y: 82
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47782fc5734fbd60800000000000000
+      internalID: 7908113643951650636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_189
+      rect:
+        serializedVersion: 2
+        x: 7533
+        y: 63
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e591c8ccee68c220800000000000000
+      internalID: 2506375155891148256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_190
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 84
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e3436f9df892fe0800000000000000
+      internalID: -1213280458298343906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_191
+      rect:
+        serializedVersion: 2
+        x: 7724
+        y: 83
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7a37d4c4065a2b0800000000000000
+      internalID: -5573943082967914588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_192
+      rect:
+        serializedVersion: 2
+        x: 7788
+        y: 63
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b05703cc7ea2b90800000000000000
+      internalID: -7265740184636552333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_193
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 84
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76447b1e483977810800000000000000
+      internalID: 1763039978070688871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_194
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 84
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78813aa1048b92d70800000000000000
+      internalID: 9018942314250442887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_195
+      rect:
+        serializedVersion: 2
+        x: 8043
+        y: 63
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe1655ccf699f510800000000000000
+      internalID: 1583462756384120508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_196
+      rect:
+        serializedVersion: 2
+        x: 8095
+        y: 84
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f25ec45660aadb0800000000000000
+      internalID: -4780001022348808357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_197
+      rect:
+        serializedVersion: 2
+        x: 8237
+        y: 84
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9db9b365ea34c990800000000000000
+      internalID: -7366698333576249957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_198
+      rect:
+        serializedVersion: 2
+        x: 8298
+        y: 64
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289152e23f1055f00800000000000000
+      internalID: 1104791427552188802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_199
+      rect:
+        serializedVersion: 2
+        x: 8351
+        y: 84
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b598527ff313ea0800000000000000
+      internalID: -5894860106532037808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_200
+      rect:
+        serializedVersion: 2
+        x: 8493
+        y: 84
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ee2afad9e37780800000000000000
+      internalID: -8686342129558034887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_201
+      rect:
+        serializedVersion: 2
+        x: 8553
+        y: 64
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f04ef311adce4b0800000000000000
+      internalID: -5409709284757598308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_202
+      rect:
+        serializedVersion: 2
+        x: 8607
+        y: 84
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bbbe36a3d0d2d60800000000000000
+      internalID: 7866958668521782039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_203
+      rect:
+        serializedVersion: 2
+        x: 8749
+        y: 84
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56921e26cae2184b0800000000000000
+      internalID: -5440015556958672539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_204
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 65
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f12090181de2bc90800000000000000
+      internalID: -7155396170325417483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_205
+      rect:
+        serializedVersion: 2
+        x: 8863
+        y: 84
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d6d589df6d3290800000000000000
+      internalID: -7909042390548687138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_206
+      rect:
+        serializedVersion: 2
+        x: 9004
+        y: 84
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df366e9ad4123b90800000000000000
+      internalID: -7263720319802261549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_207
+      rect:
+        serializedVersion: 2
+        x: 9064
+        y: 66
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a316a6b8c48700800000000000000
+      internalID: 541778541987210958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_208
+      rect:
+        serializedVersion: 2
+        x: 9119
+        y: 84
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dcdce53142363a0800000000000000
+      internalID: -6673450557219418795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_209
+      rect:
+        serializedVersion: 2
+        x: 9260
+        y: 84
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eff3f0ccb9e01020800000000000000
+      internalID: 2310603605741404129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_210
+      rect:
+        serializedVersion: 2
+        x: 9320
+        y: 67
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658a948ebea2a56e0800000000000000
+      internalID: -1848117504379344810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_211
+      rect:
+        serializedVersion: 2
+        x: 9375
+        y: 84
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eae91c0753c87f0800000000000000
+      internalID: -609053091200848367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_212
+      rect:
+        serializedVersion: 2
+        x: 9516
+        y: 84
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2364663477267be0800000000000000
+      internalID: -1479952047462390996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_213
+      rect:
+        serializedVersion: 2
+        x: 9631
+        y: 84
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eacc5876892f410800000000000000
+      internalID: 1509436395516374552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_214
+      rect:
+        serializedVersion: 2
+        x: 9772
+        y: 83
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b1bd184cfc13640800000000000000
+      internalID: 5058052299412937490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_215
+      rect:
+        serializedVersion: 2
+        x: 9887
+        y: 84
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3691e2b60446320800000000000000
+      internalID: 2550234118077637597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_216
+      rect:
+        serializedVersion: 2
+        x: 10028
+        y: 82
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0716ba0a400bb1240800000000000000
+      internalID: 4763594564796375408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_217
+      rect:
+        serializedVersion: 2
+        x: 10144
+        y: 84
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccb155275f831560800000000000000
+      internalID: 7283322626839264455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_218
+      rect:
+        serializedVersion: 2
+        x: 10284
+        y: 81
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dcd309233303150800000000000000
+      internalID: 5850232208215625091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_219
+      rect:
+        serializedVersion: 2
+        x: 10403
+        y: 85
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45013dfd265946e10800000000000000
+      internalID: 2190039570703388756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_220
+      rect:
+        serializedVersion: 2
+        x: 10540
+        y: 81
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d2a5a717fe09640800000000000000
+      internalID: 5084827249964363069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_221
+      rect:
+        serializedVersion: 2
+        x: 10662
+        y: 87
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b23c1f1c32cc5790800000000000000
+      internalID: -7539938112649284935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_222
+      rect:
+        serializedVersion: 2
+        x: 10796
+        y: 81
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef258bd7289ea2160800000000000000
+      internalID: 7001665317365109502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_223
+      rect:
+        serializedVersion: 2
+        x: 10922
+        y: 89
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e13a015d8f3775a0800000000000000
+      internalID: -6523675659040312858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_224
+      rect:
+        serializedVersion: 2
+        x: 11052
+        y: 81
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552a62109841f3b0800000000000000
+      internalID: -5480519487911746209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_225
+      rect:
+        serializedVersion: 2
+        x: 11111
+        y: 68
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1511628b2073d3b0800000000000000
+      internalID: -5488920188661197540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_226
+      rect:
+        serializedVersion: 2
+        x: 11308
+        y: 81
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c58f6008704b270800000000000000
+      internalID: 8265239462585851016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_227
+      rect:
+        serializedVersion: 2
+        x: 11564
+        y: 81
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e0fc0967f0add0800000000000000
+      internalID: -2476707764493033467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_228
+      rect:
+        serializedVersion: 2
+        x: 11820
+        y: 81
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdd835814bed0540800000000000000
+      internalID: 4975891829954764280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_229
+      rect:
+        serializedVersion: 2
+        x: 12076
+        y: 81
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3daa368f4cb6fb0800000000000000
+      internalID: -4653409218854202377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_230
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 65
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0403c398894d70410800000000000000
+      internalID: 1443355957198073920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_231
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 65
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0360ca24c0efa90800000000000000
+      internalID: -7278366467290681117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_232
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 75
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c30676dcd20e7330800000000000000
+      internalID: 3710406290513986502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_233
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 65
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548ca9891647502d0800000000000000
+      internalID: -3313113988340201403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_234
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 65
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab136a0ddb09ab390800000000000000
+      internalID: -7801764259542191686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_235
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 65
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662003f938621390800000000000000
+      internalID: -7849096602454055317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_236
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 65
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca837b852081adb0800000000000000
+      internalID: -4782400430549005623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_237
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 65
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6d810820d92cb70800000000000000
+      internalID: 8917862846211610277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_238
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 66
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad6303d3151db070800000000000000
+      internalID: 8123672477735021986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_239
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 67
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6290e6ae6735fa0800000000000000
+      internalID: -5813171944764660060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_240
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 68
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a50bb713895417e0800000000000000
+      internalID: -1795711931840264795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_241
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 78
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9de36537d580940800000000000000
+      internalID: 5262558914532006313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_242
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 71
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389b9ce37ba99d100800000000000000
+      internalID: 133307775807240579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_243
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 74
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfdf4ad05c76d0a0800000000000000
+      internalID: -6857156695923105853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_244
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 41
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe5caa87671a540800000000000000
+      internalID: 5017421720500694964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_245
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 44
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb449d36437b420800000000000000
+      internalID: 2645640909555022604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_246
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 48
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70751bfdeb3b29620800000000000000
+      internalID: 2779481552419116807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_247
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 52
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ceab80269a64180800000000000000
+      internalID: -9131424955928744897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_248
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 55
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db38b971b4b824130800000000000000
+      internalID: 3549552610956247997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_249
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 59
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f77434d0e5391c0800000000000000
+      internalID: -4498148191756648702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_250
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 61
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ef85b1df9076f10800000000000000
+      internalID: 2262788320467156517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_251
+      rect:
+        serializedVersion: 2
+        x: 9576
+        y: 68
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0a48e9408ca92f0800000000000000
+      internalID: -965239247952633648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_252
+      rect:
+        serializedVersion: 2
+        x: 9831
+        y: 68
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1c6d9bc085118d0800000000000000
+      internalID: -2877421875232325199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_253
+      rect:
+        serializedVersion: 2
+        x: 10087
+        y: 68
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46fa446f43cc2200800000000000000
+      internalID: 156714832803591754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_254
+      rect:
+        serializedVersion: 2
+        x: 10343
+        y: 68
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ce56149acb4d2c0800000000000000
+      internalID: -4407690700156179379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_255
+      rect:
+        serializedVersion: 2
+        x: 10599
+        y: 68
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804d484df0d8dbb50800000000000000
+      internalID: 6610594927179256840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_256
+      rect:
+        serializedVersion: 2
+        x: 10855
+        y: 68
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2d49049d3380f0800000000000000
+      internalID: -1115980576637244730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_257
+      rect:
+        serializedVersion: 2
+        x: 11367
+        y: 68
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a853f829024b3fc0800000000000000
+      internalID: -3514142477123364703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_258
+      rect:
+        serializedVersion: 2
+        x: 11623
+        y: 67
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e5118bcce0d890800000000000000
+      internalID: -7435182626000478096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_259
+      rect:
+        serializedVersion: 2
+        x: 11879
+        y: 66
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70084886a8de2adc0800000000000000
+      internalID: -3629077170992414713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_260
+      rect:
+        serializedVersion: 2
+        x: 12135
+        y: 66
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca899bf165fb1f920800000000000000
+      internalID: 3022407201562663084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_261
+      rect:
+        serializedVersion: 2
+        x: 4462
+        y: 57
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f370dd723345d0800000000000000
+      internalID: -3079562204241727008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_262
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 39
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e62ff4ad7ed14e0800000000000000
+      internalID: -2009194933907198325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_falling_leaves_top_red_263
+      rect:
+        serializedVersion: 2
+        x: 4474
+        y: 41
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d6beb5b60e14550800000000000000
+      internalID: 6143438118418345307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_falling_leaves_top_red_0: 1680506894916897397
+      env_falling_leaves_top_red_1: 6977107304454440194
+      env_falling_leaves_top_red_10: 4161247869910569625
+      env_falling_leaves_top_red_100: -2588366850814054986
+      env_falling_leaves_top_red_101: 2758654777046967538
+      env_falling_leaves_top_red_102: -8553386490410285685
+      env_falling_leaves_top_red_103: -4765966129240091055
+      env_falling_leaves_top_red_104: 8607383696080457530
+      env_falling_leaves_top_red_105: -4676602545559152874
+      env_falling_leaves_top_red_106: -2556952101878635215
+      env_falling_leaves_top_red_107: -5506683024008050594
+      env_falling_leaves_top_red_108: -4441725674287307212
+      env_falling_leaves_top_red_109: -4060070680244172936
+      env_falling_leaves_top_red_11: -2046015661768011725
+      env_falling_leaves_top_red_110: 22877356878963235
+      env_falling_leaves_top_red_111: -884897422392851480
+      env_falling_leaves_top_red_112: 2660897672522788783
+      env_falling_leaves_top_red_113: -4590543940621391258
+      env_falling_leaves_top_red_114: 7243704771081496265
+      env_falling_leaves_top_red_115: 1785327008202643491
+      env_falling_leaves_top_red_116: 984574243174551415
+      env_falling_leaves_top_red_117: -1620117289118003846
+      env_falling_leaves_top_red_118: -7784483985871209944
+      env_falling_leaves_top_red_119: 4712789731524672093
+      env_falling_leaves_top_red_12: -7165558552788873678
+      env_falling_leaves_top_red_120: 4920743844217453838
+      env_falling_leaves_top_red_121: -2417002846167673555
+      env_falling_leaves_top_red_122: 1297585871123907898
+      env_falling_leaves_top_red_123: -4576358333131763012
+      env_falling_leaves_top_red_124: 8112748294149961168
+      env_falling_leaves_top_red_125: 7393531134943912699
+      env_falling_leaves_top_red_126: -6811891670335823856
+      env_falling_leaves_top_red_127: -830598027168538347
+      env_falling_leaves_top_red_128: -4272621565499280697
+      env_falling_leaves_top_red_129: -7811013072192951311
+      env_falling_leaves_top_red_13: 7865103344892517848
+      env_falling_leaves_top_red_130: -2558612717349777629
+      env_falling_leaves_top_red_131: -7744971256682402630
+      env_falling_leaves_top_red_132: -2886875228010502568
+      env_falling_leaves_top_red_133: 8993737273767921948
+      env_falling_leaves_top_red_134: -4933961867333321631
+      env_falling_leaves_top_red_135: -4048437153991100871
+      env_falling_leaves_top_red_136: -4456193996762575157
+      env_falling_leaves_top_red_137: 5490085199423100376
+      env_falling_leaves_top_red_138: -1849759131636112064
+      env_falling_leaves_top_red_139: 8618895593856751038
+      env_falling_leaves_top_red_14: -4271250646992242610
+      env_falling_leaves_top_red_140: 1603964702754177397
+      env_falling_leaves_top_red_141: -2439822608106159473
+      env_falling_leaves_top_red_142: -5121956470298313106
+      env_falling_leaves_top_red_143: -2049905672104943169
+      env_falling_leaves_top_red_144: -4330257370414258871
+      env_falling_leaves_top_red_145: 4592713055305228121
+      env_falling_leaves_top_red_146: 5137325859457136967
+      env_falling_leaves_top_red_147: 1802586288705324704
+      env_falling_leaves_top_red_148: 5522259235780381666
+      env_falling_leaves_top_red_149: -7737536128303471955
+      env_falling_leaves_top_red_15: 8274085487198193780
+      env_falling_leaves_top_red_150: 5154751119950923369
+      env_falling_leaves_top_red_151: -5199329388719022995
+      env_falling_leaves_top_red_152: 1034504995077560804
+      env_falling_leaves_top_red_153: 364918552209828093
+      env_falling_leaves_top_red_154: -685369705371784111
+      env_falling_leaves_top_red_155: 7211324155349254138
+      env_falling_leaves_top_red_156: 3813846930837653107
+      env_falling_leaves_top_red_157: -7901365821272782664
+      env_falling_leaves_top_red_158: 5088558080526937619
+      env_falling_leaves_top_red_159: 7533990159628334220
+      env_falling_leaves_top_red_16: -6248509697798190478
+      env_falling_leaves_top_red_160: 6566714125909494958
+      env_falling_leaves_top_red_161: 7748975862187741380
+      env_falling_leaves_top_red_162: 6693664185096023999
+      env_falling_leaves_top_red_163: 7194549898314815443
+      env_falling_leaves_top_red_164: 6300501562463243549
+      env_falling_leaves_top_red_165: 8402020102864512720
+      env_falling_leaves_top_red_166: -4624655656190535609
+      env_falling_leaves_top_red_167: -563355563925993154
+      env_falling_leaves_top_red_168: -6228037152278596105
+      env_falling_leaves_top_red_169: 1508358760019938592
+      env_falling_leaves_top_red_17: 1339219314815042571
+      env_falling_leaves_top_red_170: 8508678423390520529
+      env_falling_leaves_top_red_171: -3721622801883626327
+      env_falling_leaves_top_red_172: 3679812204029895781
+      env_falling_leaves_top_red_173: 6878496038727771825
+      env_falling_leaves_top_red_174: 3642444514766424122
+      env_falling_leaves_top_red_175: -289138593079347199
+      env_falling_leaves_top_red_176: 465895255088043767
+      env_falling_leaves_top_red_177: 4440700440791279164
+      env_falling_leaves_top_red_178: 49836440278656594
+      env_falling_leaves_top_red_179: -3943566091620262619
+      env_falling_leaves_top_red_18: 1567532466590072891
+      env_falling_leaves_top_red_180: -3549834065809731838
+      env_falling_leaves_top_red_181: 4721622759826943819
+      env_falling_leaves_top_red_182: 4359408166870973889
+      env_falling_leaves_top_red_183: 8823493340916875836
+      env_falling_leaves_top_red_184: 5242347302777410168
+      env_falling_leaves_top_red_185: 7214150712044931236
+      env_falling_leaves_top_red_186: 4923604953541836045
+      env_falling_leaves_top_red_187: 4175395862188331584
+      env_falling_leaves_top_red_188: 7908113643951650636
+      env_falling_leaves_top_red_189: 2506375155891148256
+      env_falling_leaves_top_red_19: -913558338875785141
+      env_falling_leaves_top_red_190: -1213280458298343906
+      env_falling_leaves_top_red_191: -5573943082967914588
+      env_falling_leaves_top_red_192: -7265740184636552333
+      env_falling_leaves_top_red_193: 1763039978070688871
+      env_falling_leaves_top_red_194: 9018942314250442887
+      env_falling_leaves_top_red_195: 1583462756384120508
+      env_falling_leaves_top_red_196: -4780001022348808357
+      env_falling_leaves_top_red_197: -7366698333576249957
+      env_falling_leaves_top_red_198: 1104791427552188802
+      env_falling_leaves_top_red_199: -5894860106532037808
+      env_falling_leaves_top_red_2: -1386544324603289934
+      env_falling_leaves_top_red_20: -3453460502115254822
+      env_falling_leaves_top_red_200: -8686342129558034887
+      env_falling_leaves_top_red_201: -5409709284757598308
+      env_falling_leaves_top_red_202: 7866958668521782039
+      env_falling_leaves_top_red_203: -5440015556958672539
+      env_falling_leaves_top_red_204: -7155396170325417483
+      env_falling_leaves_top_red_205: -7909042390548687138
+      env_falling_leaves_top_red_206: -7263720319802261549
+      env_falling_leaves_top_red_207: 541778541987210958
+      env_falling_leaves_top_red_208: -6673450557219418795
+      env_falling_leaves_top_red_209: 2310603605741404129
+      env_falling_leaves_top_red_21: -8518099700156496175
+      env_falling_leaves_top_red_210: -1848117504379344810
+      env_falling_leaves_top_red_211: -609053091200848367
+      env_falling_leaves_top_red_212: -1479952047462390996
+      env_falling_leaves_top_red_213: 1509436395516374552
+      env_falling_leaves_top_red_214: 5058052299412937490
+      env_falling_leaves_top_red_215: 2550234118077637597
+      env_falling_leaves_top_red_216: 4763594564796375408
+      env_falling_leaves_top_red_217: 7283322626839264455
+      env_falling_leaves_top_red_218: 5850232208215625091
+      env_falling_leaves_top_red_219: 2190039570703388756
+      env_falling_leaves_top_red_22: 9029259530597767044
+      env_falling_leaves_top_red_220: 5084827249964363069
+      env_falling_leaves_top_red_221: -7539938112649284935
+      env_falling_leaves_top_red_222: 7001665317365109502
+      env_falling_leaves_top_red_223: -6523675659040312858
+      env_falling_leaves_top_red_224: -5480519487911746209
+      env_falling_leaves_top_red_225: -5488920188661197540
+      env_falling_leaves_top_red_226: 8265239462585851016
+      env_falling_leaves_top_red_227: -2476707764493033467
+      env_falling_leaves_top_red_228: 4975891829954764280
+      env_falling_leaves_top_red_229: -4653409218854202377
+      env_falling_leaves_top_red_23: -8259430960930015139
+      env_falling_leaves_top_red_230: 1443355957198073920
+      env_falling_leaves_top_red_231: -7278366467290681117
+      env_falling_leaves_top_red_232: 3710406290513986502
+      env_falling_leaves_top_red_233: -3313113988340201403
+      env_falling_leaves_top_red_234: -7801764259542191686
+      env_falling_leaves_top_red_235: -7849096602454055317
+      env_falling_leaves_top_red_236: -4782400430549005623
+      env_falling_leaves_top_red_237: 8917862846211610277
+      env_falling_leaves_top_red_238: 8123672477735021986
+      env_falling_leaves_top_red_239: -5813171944764660060
+      env_falling_leaves_top_red_24: -6519200779682767967
+      env_falling_leaves_top_red_240: -1795711931840264795
+      env_falling_leaves_top_red_241: 5262558914532006313
+      env_falling_leaves_top_red_242: 133307775807240579
+      env_falling_leaves_top_red_243: -6857156695923105853
+      env_falling_leaves_top_red_244: 5017421720500694964
+      env_falling_leaves_top_red_245: 2645640909555022604
+      env_falling_leaves_top_red_246: 2779481552419116807
+      env_falling_leaves_top_red_247: -9131424955928744897
+      env_falling_leaves_top_red_248: 3549552610956247997
+      env_falling_leaves_top_red_249: -4498148191756648702
+      env_falling_leaves_top_red_25: 3245212557505846381
+      env_falling_leaves_top_red_250: 2262788320467156517
+      env_falling_leaves_top_red_251: -965239247952633648
+      env_falling_leaves_top_red_252: -2877421875232325199
+      env_falling_leaves_top_red_253: 156714832803591754
+      env_falling_leaves_top_red_254: -4407690700156179379
+      env_falling_leaves_top_red_255: 6610594927179256840
+      env_falling_leaves_top_red_256: -1115980576637244730
+      env_falling_leaves_top_red_257: -3514142477123364703
+      env_falling_leaves_top_red_258: -7435182626000478096
+      env_falling_leaves_top_red_259: -3629077170992414713
+      env_falling_leaves_top_red_26: 7982697888265705039
+      env_falling_leaves_top_red_260: 3022407201562663084
+      env_falling_leaves_top_red_261: -3079562204241727008
+      env_falling_leaves_top_red_262: -2009194933907198325
+      env_falling_leaves_top_red_263: 6143438118418345307
+      env_falling_leaves_top_red_27: 3169043724893456864
+      env_falling_leaves_top_red_28: -4906317456336948883
+      env_falling_leaves_top_red_29: 2407656515809059474
+      env_falling_leaves_top_red_3: 6623999497260461947
+      env_falling_leaves_top_red_30: -2814983288920751331
+      env_falling_leaves_top_red_31: 7689179644123829334
+      env_falling_leaves_top_red_32: 6241299432031547981
+      env_falling_leaves_top_red_33: -2652664860975284758
+      env_falling_leaves_top_red_34: 2636689546501922296
+      env_falling_leaves_top_red_35: 578187364813747077
+      env_falling_leaves_top_red_36: 3111689757586122090
+      env_falling_leaves_top_red_37: 8460838271997918775
+      env_falling_leaves_top_red_38: 491346581588966577
+      env_falling_leaves_top_red_39: 591529591268196792
+      env_falling_leaves_top_red_4: -7224901999009891402
+      env_falling_leaves_top_red_40: 8333663092215024843
+      env_falling_leaves_top_red_41: 1537701689340836371
+      env_falling_leaves_top_red_42: -7754442530371624592
+      env_falling_leaves_top_red_43: 6787557432418999008
+      env_falling_leaves_top_red_44: -4314644312507531214
+      env_falling_leaves_top_red_45: -6280489295447010531
+      env_falling_leaves_top_red_46: -3378536432048057438
+      env_falling_leaves_top_red_47: -6968357541030053935
+      env_falling_leaves_top_red_48: -2466628234218355510
+      env_falling_leaves_top_red_49: -1378755785060016348
+      env_falling_leaves_top_red_5: 8827149455164389859
+      env_falling_leaves_top_red_50: 7389374502224498464
+      env_falling_leaves_top_red_51: -2997529340378763437
+      env_falling_leaves_top_red_52: -2980532834752125947
+      env_falling_leaves_top_red_53: 7624117041396760950
+      env_falling_leaves_top_red_54: 7868561878622393344
+      env_falling_leaves_top_red_55: 5322989601555982492
+      env_falling_leaves_top_red_56: -7029528097997856600
+      env_falling_leaves_top_red_57: -3902648437697470320
+      env_falling_leaves_top_red_58: 6446805377083013448
+      env_falling_leaves_top_red_59: 4374137412019152407
+      env_falling_leaves_top_red_6: -5382662071355499253
+      env_falling_leaves_top_red_60: -5796404139143051494
+      env_falling_leaves_top_red_61: -996074519794166594
+      env_falling_leaves_top_red_62: 1005590741997521958
+      env_falling_leaves_top_red_63: 5632654484998565206
+      env_falling_leaves_top_red_64: -4034524276320669752
+      env_falling_leaves_top_red_65: 8975426422835408664
+      env_falling_leaves_top_red_66: 6044287673617094436
+      env_falling_leaves_top_red_67: 4722697355826316650
+      env_falling_leaves_top_red_68: 6700562172272820148
+      env_falling_leaves_top_red_69: 4420674991552965937
+      env_falling_leaves_top_red_7: 32567757434441407
+      env_falling_leaves_top_red_70: -6874451849580115482
+      env_falling_leaves_top_red_71: -3879142490164804044
+      env_falling_leaves_top_red_72: 1719503585482094668
+      env_falling_leaves_top_red_73: 8900998127469950803
+      env_falling_leaves_top_red_74: 2612084243405272502
+      env_falling_leaves_top_red_75: 1690800155706963310
+      env_falling_leaves_top_red_76: 6346679471765585780
+      env_falling_leaves_top_red_77: -1114103455032028613
+      env_falling_leaves_top_red_78: 9217335116028500944
+      env_falling_leaves_top_red_79: 5149538271227843189
+      env_falling_leaves_top_red_8: 1702379806227440692
+      env_falling_leaves_top_red_80: -4577163387433215675
+      env_falling_leaves_top_red_81: -156489459267020379
+      env_falling_leaves_top_red_82: 445542124051920191
+      env_falling_leaves_top_red_83: 318275650896495902
+      env_falling_leaves_top_red_84: 5536230331497555245
+      env_falling_leaves_top_red_85: -1382979342394265112
+      env_falling_leaves_top_red_86: -2556277701384986632
+      env_falling_leaves_top_red_87: 6796291775622705938
+      env_falling_leaves_top_red_88: -4101141550926614935
+      env_falling_leaves_top_red_89: -2012955968720794508
+      env_falling_leaves_top_red_9: 2790975863151090338
+      env_falling_leaves_top_red_90: 8464210874698904782
+      env_falling_leaves_top_red_91: 7589178914769804959
+      env_falling_leaves_top_red_92: 1697807266304223774
+      env_falling_leaves_top_red_93: 338799925490928592
+      env_falling_leaves_top_red_94: -6711076465337906602
+      env_falling_leaves_top_red_95: -3907398876135145129
+      env_falling_leaves_top_red_96: 3038427068460949558
+      env_falling_leaves_top_red_97: -5806590159267800950
+      env_falling_leaves_top_red_98: 5633378236363180155
+      env_falling_leaves_top_red_99: 1110115104397367247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

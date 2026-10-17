@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: 7fce8521e33853247a863bf83405147b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4141435718490586873
+    second: env_snow_drift_0
+  - first:
+      213: 1202732380060534856
+    second: env_snow_drift_1
+  - first:
+      213: -2297713022580820926
+    second: env_snow_drift_2
+  - first:
+      213: 4597221487132877135
+    second: env_snow_drift_3
+  - first:
+      213: 2646443916688609234
+    second: env_snow_drift_4
+  - first:
+      213: -8425908246469552114
+    second: env_snow_drift_5
+  - first:
+      213: 3613828119960775145
+    second: env_snow_drift_6
+  - first:
+      213: 6267795889402780544
+    second: env_snow_drift_7
+  - first:
+      213: 6295784251434609091
+    second: env_snow_drift_8
+  - first:
+      213: -4686604205463532200
+    second: env_snow_drift_9
+  - first:
+      213: -6634867804432892921
+    second: env_snow_drift_10
+  - first:
+      213: 4450026907670337125
+    second: env_snow_drift_11
+  - first:
+      213: 8687583886399026434
+    second: env_snow_drift_12
+  - first:
+      213: -2715324167836277556
+    second: env_snow_drift_13
+  - first:
+      213: 1723995462441625523
+    second: env_snow_drift_14
+  - first:
+      213: -8022751153711362758
+    second: env_snow_drift_15
+  - first:
+      213: -1583659259627566249
+    second: env_snow_drift_16
+  - first:
+      213: -5724810877758949964
+    second: env_snow_drift_17
+  - first:
+      213: -4120725952334986189
+    second: env_snow_drift_18
+  - first:
+      213: 3826710249317262565
+    second: env_snow_drift_19
+  - first:
+      213: 9147571320986372814
+    second: env_snow_drift_20
+  - first:
+      213: -5969223919364149362
+    second: env_snow_drift_21
+  - first:
+      213: -7647667752037831587
+    second: env_snow_drift_22
+  - first:
+      213: 7313712163154338579
+    second: env_snow_drift_23
+  - first:
+      213: -6074078209642527381
+    second: env_snow_drift_24
+  - first:
+      213: -8708364697657109877
+    second: env_snow_drift_25
+  - first:
+      213: 7956535069229791177
+    second: env_snow_drift_26
+  - first:
+      213: 2145572452106500341
+    second: env_snow_drift_27
+  - first:
+      213: 2908451814336451212
+    second: env_snow_drift_28
+  - first:
+      213: 6477616851258231109
+    second: env_snow_drift_29
+  - first:
+      213: 1115366398941985867
+    second: env_snow_drift_30
+  - first:
+      213: -3555034785796418030
+    second: env_snow_drift_31
+  - first:
+      213: 5140855458695735644
+    second: env_snow_drift_32
+  - first:
+      213: 6263382429832952196
+    second: env_snow_drift_33
+  - first:
+      213: 2818852805796329235
+    second: env_snow_drift_34
+  - first:
+      213: 3602476625289077459
+    second: env_snow_drift_35
+  - first:
+      213: 1755746326082239294
+    second: env_snow_drift_36
+  - first:
+      213: -816214941431678052
+    second: env_snow_drift_37
+  - first:
+      213: -1280858285630193841
+    second: env_snow_drift_38
+  - first:
+      213: -6571315102850753510
+    second: env_snow_drift_39
+  - first:
+      213: 3367601479793209685
+    second: env_snow_drift_40
+  - first:
+      213: -1380970193199981295
+    second: env_snow_drift_41
+  - first:
+      213: -7574052799029519078
+    second: env_snow_drift_42
+  - first:
+      213: 5209618710437048374
+    second: env_snow_drift_43
+  - first:
+      213: -2753121237409495717
+    second: env_snow_drift_44
+  - first:
+      213: -8579420137359473638
+    second: env_snow_drift_45
+  - first:
+      213: 4598149937369152527
+    second: env_snow_drift_46
+  - first:
+      213: -459708306253160641
+    second: env_snow_drift_47
+  - first:
+      213: -6797008239823831795
+    second: env_snow_drift_48
+  - first:
+      213: 4990134440624261032
+    second: env_snow_drift_49
+  - first:
+      213: -6553373115879958592
+    second: env_snow_drift_50
+  - first:
+      213: 1416775617927009064
+    second: env_snow_drift_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_snow_drift_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 359
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7010143082aa686c0800000000000000
+      internalID: -4141435718490586873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 115
+        width: 378
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8484e513ab6f0b010800000000000000
+      internalID: 1202732380060534856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_2
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 116
+        width: 374
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f7450e22ec10e0800000000000000
+      internalID: -2297713022580820926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_3
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 117
+        width: 374
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41295ed59c9ccf30800000000000000
+      internalID: 4597221487132877135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_4
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 155
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfc73488be0ab420800000000000000
+      internalID: 2646443916688609234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_5
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 117
+        width: 290
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08d52b9719211b80800000000000000
+      internalID: -8425908246469552114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_6
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 114
+        width: 330
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e964993785e62230800000000000000
+      internalID: 3613828119960775145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_7
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 113
+        width: 330
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b9188372fabf650800000000000000
+      internalID: 6267795889402780544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_8
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 112
+        width: 340
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c922419b6e1f5750800000000000000
+      internalID: 6295784251434609091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_9
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 112
+        width: 357
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d8e7a4e46d5feb0800000000000000
+      internalID: -4686604205463532200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_10
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 112
+        width: 374
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cf91982e63ce3a0800000000000000
+      internalID: -6634867804432892921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_11
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 112
+        width: 373
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566de9035eba1cd30800000000000000
+      internalID: 4450026907670337125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_12
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 112
+        width: 360
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205b831148f709870800000000000000
+      internalID: 8687583886399026434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_13
+      rect:
+        serializedVersion: 2
+        x: 4642
+        y: 112
+        width: 347
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4e5164e0b315ad0800000000000000
+      internalID: -2715324167836277556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_14
+      rect:
+        serializedVersion: 2
+        x: 5038
+        y: 112
+        width: 335
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e73d2dbcdce710800000000000000
+      internalID: 1723995462441625523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_15
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 112
+        width: 374
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dcda1055679a090800000000000000
+      internalID: -8022751153711362758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_16
+      rect:
+        serializedVersion: 2
+        x: 5767
+        y: 113
+        width: 374
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b04a04b46b50ae0800000000000000
+      internalID: -1583659259627566249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_17
+      rect:
+        serializedVersion: 2
+        x: 6151
+        y: 114
+        width: 374
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5b2e886d26d80b0800000000000000
+      internalID: -5724810877758949964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_18
+      rect:
+        serializedVersion: 2
+        x: 6535
+        y: 114
+        width: 374
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3340752349d30d6c0800000000000000
+      internalID: -4120725952334986189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_19
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 114
+        width: 359
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4e6ec62b43b1530800000000000000
+      internalID: 3826710249317262565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_20
+      rect:
+        serializedVersion: 2
+        x: 7303
+        y: 115
+        width: 378
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca81f886a3b2fe70800000000000000
+      internalID: 9147571320986372814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_21
+      rect:
+        serializedVersion: 2
+        x: 7687
+        y: 116
+        width: 374
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe88db87e092da0800000000000000
+      internalID: -5969223919364149362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_22
+      rect:
+        serializedVersion: 2
+        x: 8071
+        y: 117
+        width: 374
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c2397d2b60ed590800000000000000
+      internalID: -7647667752037831587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_23
+      rect:
+        serializedVersion: 2
+        x: 8285
+        y: 201
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313a44276768f7560800000000000000
+      internalID: 7313712163154338579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_24
+      rect:
+        serializedVersion: 2
+        x: 8455
+        y: 117
+        width: 330
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650158dc0a84bba0800000000000000
+      internalID: -6074078209642527381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_25
+      rect:
+        serializedVersion: 2
+        x: 8839
+        y: 114
+        width: 334
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b829895427ca52780800000000000000
+      internalID: -8708364697657109877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_26
+      rect:
+        serializedVersion: 2
+        x: 9222
+        y: 113
+        width: 348
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7316c6d7a4b6e60800000000000000
+      internalID: 7956535069229791177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_27
+      rect:
+        serializedVersion: 2
+        x: 9606
+        y: 112
+        width: 361
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8fba707ca96cd10800000000000000
+      internalID: 2145572452106500341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_28
+      rect:
+        serializedVersion: 2
+        x: 9991
+        y: 112
+        width: 372
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c825dd7f385ec5820800000000000000
+      internalID: 2908451814336451212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_29
+      rect:
+        serializedVersion: 2
+        x: 10566
+        y: 193
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549c452d43e15e950800000000000000
+      internalID: 6477616851258231109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_30
+      rect:
+        serializedVersion: 2
+        x: 10590
+        y: 140
+        width: 159
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cf75394d39a7f00800000000000000
+      internalID: 1115366398941985867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_31
+      rect:
+        serializedVersion: 2
+        x: 10950
+        y: 191
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216927c92baf9aec0800000000000000
+      internalID: -3555034785796418030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_32
+      rect:
+        serializedVersion: 2
+        x: 10958
+        y: 197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ef216dccf75740800000000000000
+      internalID: 5140855458695735644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_33
+      rect:
+        serializedVersion: 2
+        x: 10986
+        y: 141
+        width: 147
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489bd9692210ce650800000000000000
+      internalID: 6263382429832952196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_34
+      rect:
+        serializedVersion: 2
+        x: 11342
+        y: 195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3177a9321b39e1720800000000000000
+      internalID: 2818852805796329235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_35
+      rect:
+        serializedVersion: 2
+        x: 11381
+        y: 140
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e00a67619ef130800000000000000
+      internalID: 3602476625289077459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_36
+      rect:
+        serializedVersion: 2
+        x: 11727
+        y: 193
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b34d13bf9ad5810800000000000000
+      internalID: 1755746326082239294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_37
+      rect:
+        serializedVersion: 2
+        x: 11767
+        y: 141
+        width: 134
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3993d5d83ca4f0800000000000000
+      internalID: -816214941431678052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_38
+      rect:
+        serializedVersion: 2
+        x: 12153
+        y: 144
+        width: 132
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f756dec2a793ee0800000000000000
+      internalID: -1280858285630193841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_39
+      rect:
+        serializedVersion: 2
+        x: 12335
+        y: 112
+        width: 334
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cdb63fabffdc4a0800000000000000
+      internalID: -6571315102850753510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_40
+      rect:
+        serializedVersion: 2
+        x: 12969
+        y: 152
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551772c14bf1cbe20800000000000000
+      internalID: 3367601479793209685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_41
+      rect:
+        serializedVersion: 2
+        x: 13063
+        y: 114
+        width: 374
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d99ec0deec5dce0800000000000000
+      internalID: -1380970193199981295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_42
+      rect:
+        serializedVersion: 2
+        x: 13447
+        y: 114
+        width: 374
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ddacbbb1f83e690800000000000000
+      internalID: -7574052799029519078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_43
+      rect:
+        serializedVersion: 2
+        x: 10385
+        y: 112
+        width: 320
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63034da8d984c4840800000000000000
+      internalID: 5209618710437048374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_44
+      rect:
+        serializedVersion: 2
+        x: 10781
+        y: 112
+        width: 308
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558f9c32d2fac9d0800000000000000
+      internalID: -2753121237409495717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_45
+      rect:
+        serializedVersion: 2
+        x: 11176
+        y: 112
+        width: 297
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a140bdd37d6cfe880800000000000000
+      internalID: -8579420137359473638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_46
+      rect:
+        serializedVersion: 2
+        x: 11335
+        y: 189
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7fd88109efcf30800000000000000
+      internalID: 4598149937369152527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_47
+      rect:
+        serializedVersion: 2
+        x: 11567
+        y: 112
+        width: 290
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fdb792bb9ce99f0800000000000000
+      internalID: -459708306253160641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_48
+      rect:
+        serializedVersion: 2
+        x: 11720
+        y: 188
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0db5e9940d2ca1a0800000000000000
+      internalID: -6797008239823831795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_49
+      rect:
+        serializedVersion: 2
+        x: 11951
+        y: 112
+        width: 290
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a70adab5d4804540800000000000000
+      internalID: 4990134440624261032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_50
+      rect:
+        serializedVersion: 2
+        x: 12295
+        y: 140
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c751635fddbd05a0800000000000000
+      internalID: -6553373115879958592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_snow_drift_51
+      rect:
+        serializedVersion: 2
+        x: 12679
+        y: 113
+        width: 330
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82359f80be569a310800000000000000
+      internalID: 1416775617927009064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_snow_drift_0: -4141435718490586873
+      env_snow_drift_1: 1202732380060534856
+      env_snow_drift_10: -6634867804432892921
+      env_snow_drift_11: 4450026907670337125
+      env_snow_drift_12: 8687583886399026434
+      env_snow_drift_13: -2715324167836277556
+      env_snow_drift_14: 1723995462441625523
+      env_snow_drift_15: -8022751153711362758
+      env_snow_drift_16: -1583659259627566249
+      env_snow_drift_17: -5724810877758949964
+      env_snow_drift_18: -4120725952334986189
+      env_snow_drift_19: 3826710249317262565
+      env_snow_drift_2: -2297713022580820926
+      env_snow_drift_20: 9147571320986372814
+      env_snow_drift_21: -5969223919364149362
+      env_snow_drift_22: -7647667752037831587
+      env_snow_drift_23: 7313712163154338579
+      env_snow_drift_24: -6074078209642527381
+      env_snow_drift_25: -8708364697657109877
+      env_snow_drift_26: 7956535069229791177
+      env_snow_drift_27: 2145572452106500341
+      env_snow_drift_28: 2908451814336451212
+      env_snow_drift_29: 6477616851258231109
+      env_snow_drift_3: 4597221487132877135
+      env_snow_drift_30: 1115366398941985867
+      env_snow_drift_31: -3555034785796418030
+      env_snow_drift_32: 5140855458695735644
+      env_snow_drift_33: 6263382429832952196
+      env_snow_drift_34: 2818852805796329235
+      env_snow_drift_35: 3602476625289077459
+      env_snow_drift_36: 1755746326082239294
+      env_snow_drift_37: -816214941431678052
+      env_snow_drift_38: -1280858285630193841
+      env_snow_drift_39: -6571315102850753510
+      env_snow_drift_4: 2646443916688609234
+      env_snow_drift_40: 3367601479793209685
+      env_snow_drift_41: -1380970193199981295
+      env_snow_drift_42: -7574052799029519078
+      env_snow_drift_43: 5209618710437048374
+      env_snow_drift_44: -2753121237409495717
+      env_snow_drift_45: -8579420137359473638
+      env_snow_drift_46: 4598149937369152527
+      env_snow_drift_47: -459708306253160641
+      env_snow_drift_48: -6797008239823831795
+      env_snow_drift_49: 4990134440624261032
+      env_snow_drift_5: -8425908246469552114
+      env_snow_drift_50: -6553373115879958592
+      env_snow_drift_51: 1416775617927009064
+      env_snow_drift_6: 3613828119960775145
+      env_snow_drift_7: 6267795889402780544
+      env_snow_drift_8: 6295784251434609091
+      env_snow_drift_9: -4686604205463532200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

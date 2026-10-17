@@ -1,0 +1,3980 @@
+fileFormatVersion: 2
+guid: 0cc5d76c770833d499254db21ae56b74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1850334555915798983
+    second: env_birds_0
+  - first:
+      213: 2767844405398756500
+    second: env_birds_1
+  - first:
+      213: -3743877794480948359
+    second: env_birds_2
+  - first:
+      213: -7428899655687286217
+    second: env_birds_3
+  - first:
+      213: -6109160311890639736
+    second: env_birds_4
+  - first:
+      213: -8239943289991605942
+    second: env_birds_5
+  - first:
+      213: 1478318559386640617
+    second: env_birds_6
+  - first:
+      213: -1401807529213785277
+    second: env_birds_7
+  - first:
+      213: -1672154468387677263
+    second: env_birds_8
+  - first:
+      213: -227455847210275449
+    second: env_birds_9
+  - first:
+      213: -5599776120834542458
+    second: env_birds_10
+  - first:
+      213: 1819864793924050746
+    second: env_birds_11
+  - first:
+      213: 2871964453894475649
+    second: env_birds_12
+  - first:
+      213: 6980159901724847230
+    second: env_birds_13
+  - first:
+      213: 8416710323541393593
+    second: env_birds_14
+  - first:
+      213: 3431856894061894693
+    second: env_birds_15
+  - first:
+      213: -2945758886109322419
+    second: env_birds_16
+  - first:
+      213: -3620024625076974969
+    second: env_birds_17
+  - first:
+      213: -3104376593598369265
+    second: env_birds_18
+  - first:
+      213: -4437467207621442634
+    second: env_birds_19
+  - first:
+      213: 4790530895515912591
+    second: env_birds_20
+  - first:
+      213: -8881682799251610935
+    second: env_birds_21
+  - first:
+      213: 5973807991927721192
+    second: env_birds_22
+  - first:
+      213: 4696372729156042491
+    second: env_birds_23
+  - first:
+      213: -2982064363008521524
+    second: env_birds_24
+  - first:
+      213: 2189011716389315646
+    second: env_birds_25
+  - first:
+      213: -5392928973529959903
+    second: env_birds_26
+  - first:
+      213: 2022104349464605938
+    second: env_birds_27
+  - first:
+      213: 9216228224962680191
+    second: env_birds_28
+  - first:
+      213: -1745792928060705792
+    second: env_birds_29
+  - first:
+      213: 347092209764542860
+    second: env_birds_30
+  - first:
+      213: 6203542613278521322
+    second: env_birds_31
+  - first:
+      213: -6196106796470976544
+    second: env_birds_32
+  - first:
+      213: -3846760872334343695
+    second: env_birds_33
+  - first:
+      213: 7527090233843021536
+    second: env_birds_34
+  - first:
+      213: 4666434384345443900
+    second: env_birds_35
+  - first:
+      213: -148341761214122189
+    second: env_birds_36
+  - first:
+      213: 5244214242687395653
+    second: env_birds_37
+  - first:
+      213: -4293206429306086464
+    second: env_birds_38
+  - first:
+      213: -9039380726798981046
+    second: env_birds_39
+  - first:
+      213: 6332293916573569518
+    second: env_birds_40
+  - first:
+      213: 2492415695811803063
+    second: env_birds_41
+  - first:
+      213: 2620319828438682269
+    second: env_birds_42
+  - first:
+      213: 3220258617769645767
+    second: env_birds_43
+  - first:
+      213: -4814401744077804804
+    second: env_birds_44
+  - first:
+      213: 6884126044273417960
+    second: env_birds_45
+  - first:
+      213: -4572528095711642771
+    second: env_birds_46
+  - first:
+      213: 5357516894524852483
+    second: env_birds_47
+  - first:
+      213: 5529895412711721225
+    second: env_birds_48
+  - first:
+      213: -3091261821801052132
+    second: env_birds_49
+  - first:
+      213: 788600497261260163
+    second: env_birds_50
+  - first:
+      213: -8074820488421340000
+    second: env_birds_51
+  - first:
+      213: -715397581047440143
+    second: env_birds_52
+  - first:
+      213: 2097879012921152626
+    second: env_birds_53
+  - first:
+      213: 4033199999469412955
+    second: env_birds_54
+  - first:
+      213: -4425001096623628624
+    second: env_birds_55
+  - first:
+      213: -2456380931129002874
+    second: env_birds_56
+  - first:
+      213: -6377403403893901086
+    second: env_birds_57
+  - first:
+      213: 2236044811949104155
+    second: env_birds_58
+  - first:
+      213: -2117142041598123823
+    second: env_birds_59
+  - first:
+      213: 5213761137449175183
+    second: env_birds_60
+  - first:
+      213: -1482283733969521430
+    second: env_birds_61
+  - first:
+      213: 2964478975238951165
+    second: env_birds_62
+  - first:
+      213: -7695109241837705869
+    second: env_birds_63
+  - first:
+      213: 1598855866822186034
+    second: env_birds_64
+  - first:
+      213: 5923252186466436509
+    second: env_birds_65
+  - first:
+      213: -7497809811459401455
+    second: env_birds_66
+  - first:
+      213: -6019237324204714426
+    second: env_birds_67
+  - first:
+      213: 1112971549463933562
+    second: env_birds_68
+  - first:
+      213: -2122097058829618455
+    second: env_birds_69
+  - first:
+      213: -4242362233870722888
+    second: env_birds_70
+  - first:
+      213: 1861122357567415320
+    second: env_birds_71
+  - first:
+      213: 1489695981228393397
+    second: env_birds_72
+  - first:
+      213: -307584344678926396
+    second: env_birds_73
+  - first:
+      213: -6721712835307174602
+    second: env_birds_74
+  - first:
+      213: 7445224049776971982
+    second: env_birds_75
+  - first:
+      213: -5068754743184155850
+    second: env_birds_76
+  - first:
+      213: 8189360959724637940
+    second: env_birds_77
+  - first:
+      213: -8905108060485220097
+    second: env_birds_78
+  - first:
+      213: 7940291936695985309
+    second: env_birds_79
+  - first:
+      213: 6044418817753089143
+    second: env_birds_80
+  - first:
+      213: -6459026943391276914
+    second: env_birds_81
+  - first:
+      213: 3477508892666885616
+    second: env_birds_82
+  - first:
+      213: -3173813983286304380
+    second: env_birds_83
+  - first:
+      213: -4293534389799452873
+    second: env_birds_84
+  - first:
+      213: 5119937089544137329
+    second: env_birds_85
+  - first:
+      213: -1571442087635249035
+    second: env_birds_86
+  - first:
+      213: 936651388151809095
+    second: env_birds_87
+  - first:
+      213: 4936232860858602410
+    second: env_birds_88
+  - first:
+      213: -5149566930329637907
+    second: env_birds_89
+  - first:
+      213: 7097881724979455979
+    second: env_birds_90
+  - first:
+      213: 8889215594426465937
+    second: env_birds_91
+  - first:
+      213: -3669720905763371019
+    second: env_birds_92
+  - first:
+      213: 4599516726854903090
+    second: env_birds_93
+  - first:
+      213: 7321642608399288740
+    second: env_birds_94
+  - first:
+      213: -2368563787869057145
+    second: env_birds_95
+  - first:
+      213: -4735452608935802323
+    second: env_birds_96
+  - first:
+      213: 7053509098229625380
+    second: env_birds_97
+  - first:
+      213: 6380053211718684943
+    second: env_birds_98
+  - first:
+      213: 6166135079528253401
+    second: env_birds_99
+  - first:
+      213: -6466967369073193423
+    second: env_birds_100
+  - first:
+      213: -212366537502624772
+    second: env_birds_101
+  - first:
+      213: -9048767122310491759
+    second: env_birds_102
+  - first:
+      213: -6607971243994892795
+    second: env_birds_103
+  - first:
+      213: 6850698497333029119
+    second: env_birds_104
+  - first:
+      213: 1073393531636783178
+    second: env_birds_105
+  - first:
+      213: -5219209313292882332
+    second: env_birds_106
+  - first:
+      213: -579998695476934065
+    second: env_birds_107
+  - first:
+      213: -4418878638876705764
+    second: env_birds_108
+  - first:
+      213: 3294209311761538037
+    second: env_birds_109
+  - first:
+      213: 1972893557125099134
+    second: env_birds_110
+  - first:
+      213: 4331814121092168234
+    second: env_birds_111
+  - first:
+      213: -7731648576259982067
+    second: env_birds_112
+  - first:
+      213: 2542324886453922618
+    second: env_birds_113
+  - first:
+      213: 3087381652391355135
+    second: env_birds_114
+  - first:
+      213: 60400971857064028
+    second: env_birds_115
+  - first:
+      213: 5351491649203378726
+    second: env_birds_116
+  - first:
+      213: -554832451776871056
+    second: env_birds_117
+  - first:
+      213: 5699885122649943661
+    second: env_birds_118
+  - first:
+      213: -8719958854323200049
+    second: env_birds_119
+  - first:
+      213: -5361698129371232584
+    second: env_birds_120
+  - first:
+      213: -2529779261356949419
+    second: env_birds_121
+  - first:
+      213: -2217614554016922154
+    second: env_birds_122
+  - first:
+      213: 9005178623977967967
+    second: env_birds_123
+  - first:
+      213: -8353662402077558100
+    second: env_birds_124
+  - first:
+      213: -8542361807076070650
+    second: env_birds_125
+  - first:
+      213: 6868864217437043548
+    second: env_birds_126
+  - first:
+      213: 5381686582007484672
+    second: env_birds_127
+  - first:
+      213: -3839947554461143560
+    second: env_birds_128
+  - first:
+      213: 7676526081521628238
+    second: env_birds_129
+  - first:
+      213: 2483489716910788497
+    second: env_birds_130
+  - first:
+      213: 4265579913595745348
+    second: env_birds_131
+  - first:
+      213: 42733354114617917
+    second: env_birds_132
+  - first:
+      213: 4808134432798102322
+    second: env_birds_133
+  - first:
+      213: 749617747183881768
+    second: env_birds_134
+  - first:
+      213: 2833041595044100588
+    second: env_birds_135
+  - first:
+      213: -7434818185049829328
+    second: env_birds_136
+  - first:
+      213: -4029672484771087028
+    second: env_birds_137
+  - first:
+      213: 2869764769619033825
+    second: env_birds_138
+  - first:
+      213: -8471097890024640891
+    second: env_birds_139
+  - first:
+      213: -2074356525582620887
+    second: env_birds_140
+  - first:
+      213: -2320176753687024565
+    second: env_birds_141
+  - first:
+      213: 8311426926212677873
+    second: env_birds_142
+  - first:
+      213: 335220434537460920
+    second: env_birds_143
+  - first:
+      213: 453413895305126483
+    second: env_birds_144
+  - first:
+      213: 6919403423052559535
+    second: env_birds_145
+  - first:
+      213: 3272160718713069844
+    second: env_birds_146
+  - first:
+      213: -7118084366350836460
+    second: env_birds_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_birds_0
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 233
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9cdf0a975bda910800000000000000
+      internalID: 1850334555915798983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_1
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 231
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c585172db596620800000000000000
+      internalID: 2767844405398756500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_2
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 236
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b7d795bf21b0cc0800000000000000
+      internalID: -3743877794480948359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_3
+      rect:
+        serializedVersion: 2
+        x: 5649
+        y: 238
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732dcb68f1f37e890800000000000000
+      internalID: -7428899655687286217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_4
+      rect:
+        serializedVersion: 2
+        x: 6043
+        y: 241
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88408d56017e73ba0800000000000000
+      internalID: -6109160311890639736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_5
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 243
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41dfae1c37d5ad80800000000000000
+      internalID: -8239943289991605942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_6
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 245
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ab15b5ea048410800000000000000
+      internalID: 1478318559386640617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_7
+      rect:
+        serializedVersion: 2
+        x: 7230
+        y: 248
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b8eb1ba77cb8ce0800000000000000
+      internalID: -1401807529213785277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_8
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 253
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb9b26de505bc8e0800000000000000
+      internalID: -1672154468387677263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_9
+      rect:
+        serializedVersion: 2
+        x: 8475
+        y: 254
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d22f0bc1ae7dcf0800000000000000
+      internalID: -227455847210275449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_10
+      rect:
+        serializedVersion: 2
+        x: 8863
+        y: 252
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68431f779499942b0800000000000000
+      internalID: -5599776120834542458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_11
+      rect:
+        serializedVersion: 2
+        x: 9258
+        y: 252
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f15155365714910800000000000000
+      internalID: 1819864793924050746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_12
+      rect:
+        serializedVersion: 2
+        x: 9652
+        y: 251
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fcde954744bd720800000000000000
+      internalID: 2871964453894475649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_13
+      rect:
+        serializedVersion: 2
+        x: 10047
+        y: 250
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c2cb9b2728ed060800000000000000
+      internalID: 6980159901724847230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_14
+      rect:
+        serializedVersion: 2
+        x: 10441
+        y: 248
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b04c0412792ec470800000000000000
+      internalID: 8416710323541393593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_15
+      rect:
+        serializedVersion: 2
+        x: 10836
+        y: 246
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd88299a760af20800000000000000
+      internalID: 3431856894061894693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_16
+      rect:
+        serializedVersion: 2
+        x: 11230
+        y: 244
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e08f76ef8e17d0800000000000000
+      internalID: -2945758886109322419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_17
+      rect:
+        serializedVersion: 2
+        x: 11625
+        y: 242
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ace1088c613cdc0800000000000000
+      internalID: -3620024625076974969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_18
+      rect:
+        serializedVersion: 2
+        x: 12019
+        y: 239
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0238819fe90be4d0800000000000000
+      internalID: -3104376593598369265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 237
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3874bd513fa62c0800000000000000
+      internalID: -4437467207621442634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 235
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8982c8d7726b7240800000000000000
+      internalID: 4790530895515912591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_21
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 230
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c229ee1d8cedb480800000000000000
+      internalID: -8881682799251610935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_22
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 229
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eccd33d7ba37e250800000000000000
+      internalID: 5973807991927721192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_23
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 228
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7d2e5d1edc2140800000000000000
+      internalID: 4696372729156042491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_24
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 228
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca8681f2449d96d0800000000000000
+      internalID: -2982064363008521524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_25
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 228
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34ad84ee8ee06e10800000000000000
+      internalID: 2189011716389315646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_26
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 229
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122b5d9eba77825b0800000000000000
+      internalID: -5392928973529959903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_27
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 230
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f43c983135ff0c10800000000000000
+      internalID: 2022104349464605938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_28
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 232
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7554ddadbe96ef70800000000000000
+      internalID: 9216228224962680191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_29
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 234
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0047d8fd492b5c7e0800000000000000
+      internalID: -1745792928060705792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_30
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 218
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89225b968e11d400800000000000000
+      internalID: 347092209764542860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_31
+      rect:
+        serializedVersion: 2
+        x: 7721
+        y: 220
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7f6759329671650800000000000000
+      internalID: 6203542613278521322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_32
+      rect:
+        serializedVersion: 2
+        x: 8905
+        y: 222
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb6fd62b1030aa0800000000000000
+      internalID: -6196106796470976544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_33
+      rect:
+        serializedVersion: 2
+        x: 9299
+        y: 222
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1c3ac1e5f8d9ac0800000000000000
+      internalID: -3846760872334343695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_34
+      rect:
+        serializedVersion: 2
+        x: 9694
+        y: 221
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6768cffa8957860800000000000000
+      internalID: 7527090233843021536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_35
+      rect:
+        serializedVersion: 2
+        x: 11666
+        y: 213
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e2496495182c040800000000000000
+      internalID: 4666434384345443900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 209
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f97144fbf0fdf0800000000000000
+      internalID: -148341761214122189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 206
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5472d65911137c840800000000000000
+      internalID: 5244214242687395653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_38
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 204
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb99c9bf777b64c0800000000000000
+      internalID: -4293206429306086464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_39
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 202
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4862a52f1bad8280800000000000000
+      internalID: -9039380726798981046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_40
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 201
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee11cb664c3d0e750800000000000000
+      internalID: 6332293916573569518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_41
+      rect:
+        serializedVersion: 2
+        x: 5296
+        y: 205
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b77875bed6d69220800000000000000
+      internalID: 2492415695811803063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_42
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 209
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a000c300f3d5420800000000000000
+      internalID: 2620319828438682269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_43
+      rect:
+        serializedVersion: 2
+        x: 6937
+        y: 218
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6dc05b628a0bc20800000000000000
+      internalID: 3220258617769645767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_44
+      rect:
+        serializedVersion: 2
+        x: 8116
+        y: 221
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa83e1f1fcf2db0800000000000000
+      internalID: -4814401744077804804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_45
+      rect:
+        serializedVersion: 2
+        x: 8510
+        y: 221
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee9ee1e924598f50800000000000000
+      internalID: 6884126044273417960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_46
+      rect:
+        serializedVersion: 2
+        x: 10088
+        y: 220
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3d995ced1b80c0800000000000000
+      internalID: -4572528095711642771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_47
+      rect:
+        serializedVersion: 2
+        x: 10483
+        y: 219
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309ce40fa39b95a40800000000000000
+      internalID: 5357516894524852483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_48
+      rect:
+        serializedVersion: 2
+        x: 10877
+        y: 217
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9098eb744922ebc40800000000000000
+      internalID: 5529895412711721225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_49
+      rect:
+        serializedVersion: 2
+        x: 11272
+        y: 215
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1842d350c1a915d0800000000000000
+      internalID: -3091261821801052132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_50
+      rect:
+        serializedVersion: 2
+        x: 12061
+        y: 211
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d24fc59fba1fa00800000000000000
+      internalID: 788600497261260163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_51
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 199
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac899a4c8970ff80800000000000000
+      internalID: -8074820488421340000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_52
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 198
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc5e7cb0b56216f0800000000000000
+      internalID: -715397581047440143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_53
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 198
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27499e2e8d92d1d10800000000000000
+      internalID: 2097879012921152626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_54
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 198
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52ea7cd70ec8f730800000000000000
+      internalID: 4033199999469412955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_55
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 199
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bed80182fc3792c0800000000000000
+      internalID: -4425001096623628624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_56
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 200
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684330fbe8e29edd0800000000000000
+      internalID: -2456380931129002874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_57
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 201
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e87981a469ee77a0800000000000000
+      internalID: -6377403403893901086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_58
+      rect:
+        serializedVersion: 2
+        x: 4901
+        y: 203
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cd41ec8e6080f10800000000000000
+      internalID: 2236044811949104155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_59
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 187
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0af7fb7866e92e0800000000000000
+      internalID: -2117142041598123823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_60
+      rect:
+        serializedVersion: 2
+        x: 7763
+        y: 189
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88056d71200b5840800000000000000
+      internalID: 5213761137449175183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_61
+      rect:
+        serializedVersion: 2
+        x: 8158
+        y: 190
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae438642ccedd6be0800000000000000
+      internalID: -1482283733969521430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_62
+      rect:
+        serializedVersion: 2
+        x: 8552
+        y: 191
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05b37ebe1f32920800000000000000
+      internalID: 2964478975238951165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_63
+      rect:
+        serializedVersion: 2
+        x: 8947
+        y: 192
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375207c3aea753590800000000000000
+      internalID: -7695109241837705869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_64
+      rect:
+        serializedVersion: 2
+        x: 9341
+        y: 192
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2345cf490f6403610800000000000000
+      internalID: 1598855866822186034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_65
+      rect:
+        serializedVersion: 2
+        x: 9736
+        y: 192
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9543691b7e933250800000000000000
+      internalID: 5923252186466436509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_66
+      rect:
+        serializedVersion: 2
+        x: 10130
+        y: 191
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119168a93bd62f790800000000000000
+      internalID: -7497809811459401455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_67
+      rect:
+        serializedVersion: 2
+        x: 10525
+        y: 190
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64651008b8f577ca0800000000000000
+      internalID: -6019237324204714426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_68
+      rect:
+        serializedVersion: 2
+        x: 10919
+        y: 189
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72f9ea3ab1127f00800000000000000
+      internalID: 1112971549463933562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_69
+      rect:
+        serializedVersion: 2
+        x: 11314
+        y: 187
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e23f85e7fbcc82e0800000000000000
+      internalID: -2122097058829618455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_70
+      rect:
+        serializedVersion: 2
+        x: 11708
+        y: 185
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b85a99760a1025c0800000000000000
+      internalID: -4242362233870722888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 180
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814e75e6ce804d910800000000000000
+      internalID: 1861122357567415320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_72
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 178
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b302782a967ca410800000000000000
+      internalID: 1489695981228393397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_73
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 175
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7f0fc0bad3bbbf0800000000000000
+      internalID: -307584344678926396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_74
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 173
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63505591acda7b2a0800000000000000
+      internalID: -6721712835307174602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_75
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 172
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0d628a3dfb25760800000000000000
+      internalID: 7445224049776971982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_76
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 170
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b9eee9a6a28a9b0800000000000000
+      internalID: -5068754743184155850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_77
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 168
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fec6dd576476a170800000000000000
+      internalID: 8189360959724637940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_78
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 168
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff88f487663ba6480800000000000000
+      internalID: -8905108060485220097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_79
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 171
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a9ab6275913e60800000000000000
+      internalID: 7940291936695985309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_80
+      rect:
+        serializedVersion: 2
+        x: 5017
+        y: 178
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7740cd9d3e612e350800000000000000
+      internalID: 6044418817753089143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_81
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 177
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e806c74673dec56a0800000000000000
+      internalID: -6459026943391276914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_82
+      rect:
+        serializedVersion: 2
+        x: 5791
+        y: 178
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5fbaac9e7924030800000000000000
+      internalID: 3477508892666885616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_83
+      rect:
+        serializedVersion: 2
+        x: 6185
+        y: 180
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4816d0f6ff854f3d0800000000000000
+      internalID: -3173813983286304380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_84
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 182
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f7419783d4a64c0800000000000000
+      internalID: -4293534389799452873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_85
+      rect:
+        serializedVersion: 2
+        x: 6974
+        y: 185
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a20a608abad0740800000000000000
+      internalID: 5119937089544137329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_86
+      rect:
+        serializedVersion: 2
+        x: 8905
+        y: 162
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57817654fbd113ae0800000000000000
+      internalID: -1571442087635249035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_87
+      rect:
+        serializedVersion: 2
+        x: 12103
+        y: 182
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7444a259977affc00800000000000000
+      internalID: 936651388151809095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_88
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 169
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3561832a5018440800000000000000
+      internalID: 4936232860858602410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_89
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 168
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb6a9219201988b0800000000000000
+      internalID: -5149566930329637907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_90
+      rect:
+        serializedVersion: 2
+        x: 5296
+        y: 148
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7232b92ddb08260800000000000000
+      internalID: 7097881724979455979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_91
+      rect:
+        serializedVersion: 2
+        x: 6937
+        y: 160
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef6ad6c76dc5b70800000000000000
+      internalID: 8889215594426465937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_92
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 160
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7462b7748821dc0800000000000000
+      internalID: -3669720905763371019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_93
+      rect:
+        serializedVersion: 2
+        x: 7721
+        y: 161
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23567a20814c4df30800000000000000
+      internalID: 4599516726854903090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_94
+      rect:
+        serializedVersion: 2
+        x: 8116
+        y: 162
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9010e1923bb9560800000000000000
+      internalID: 7321642608399288740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_95
+      rect:
+        serializedVersion: 2
+        x: 8510
+        y: 162
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f063cb8cb212fd0800000000000000
+      internalID: -2368563787869057145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_96
+      rect:
+        serializedVersion: 2
+        x: 9299
+        y: 161
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a4fa111fa484eb0800000000000000
+      internalID: -4735452608935802323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_97
+      rect:
+        serializedVersion: 2
+        x: 9694
+        y: 160
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42276fb572913e160800000000000000
+      internalID: 7053509098229625380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_98
+      rect:
+        serializedVersion: 2
+        x: 10088
+        y: 158
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f011594d7908a8850800000000000000
+      internalID: 6380053211718684943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_99
+      rect:
+        serializedVersion: 2
+        x: 10483
+        y: 157
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d74b5c6f23829550800000000000000
+      internalID: 6166135079528253401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_100
+      rect:
+        serializedVersion: 2
+        x: 10877
+        y: 155
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e8958f077b046a0800000000000000
+      internalID: -6466967369073193423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_101
+      rect:
+        serializedVersion: 2
+        x: 11272
+        y: 153
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f9f162c58d0df0800000000000000
+      internalID: -212366537502624772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_102
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 146
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1911373ae325c6280800000000000000
+      internalID: -9048767122310491759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_103
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 144
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50630b30a25cb44a0800000000000000
+      internalID: -6607971243994892795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_104
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 142
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff866dc9cf1921f50800000000000000
+      internalID: 6850698497333029119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_105
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 140
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48996ddab575ee00800000000000000
+      internalID: 1073393531636783178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_106
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 139
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e64c838c4a197b0800000000000000
+      internalID: -5219209313292882332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_107
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 138
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a48e9624e63f7f0800000000000000
+      internalID: -579998695476934065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_108
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 138
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c31384a4dfca2c0800000000000000
+      internalID: -4418878638876705764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_109
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 138
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb94536ae167bd20800000000000000
+      internalID: 3294209311761538037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_110
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 139
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e2914cc30216b10800000000000000
+      internalID: 1972893557125099134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_111
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 140
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a38b00ef1bd1c30800000000000000
+      internalID: 4331814121092168234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_112
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 141
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d7edb759aa3b490800000000000000
+      internalID: -7731648576259982067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_113
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 143
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ba8b0b307284320800000000000000
+      internalID: 2542324886453922618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_114
+      rect:
+        serializedVersion: 2
+        x: 4901
+        y: 145
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff268d4514598da20800000000000000
+      internalID: 3087381652391355135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_115
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 152
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50f0a72d5696d000800000000000000
+      internalID: 60400971857064028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_116
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 128
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a9c313d41544a40800000000000000
+      internalID: 5351491649203378726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_117
+      rect:
+        serializedVersion: 2
+        x: 11666
+        y: 150
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0750bf123d6dc48f0800000000000000
+      internalID: -554832451776871056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_118
+      rect:
+        serializedVersion: 2
+        x: 12061
+        y: 148
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e651cd15f0a1f40800000000000000
+      internalID: 5699885122649943661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_119
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 112
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf1b005f9b7cf680800000000000000
+      internalID: -8719958854323200049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_120
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 114
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b683f575fb6795b0800000000000000
+      internalID: -5361698129371232584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_121
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 117
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5504ba64a2b64ecd0800000000000000
+      internalID: -2529779261356949419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_122
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 119
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5c51300537931e0800000000000000
+      internalID: -2217614554016922154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_123
+      rect:
+        serializedVersion: 2
+        x: 5649
+        y: 121
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d52d3f32d8fc70800000000000000
+      internalID: 9005178623977967967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_124
+      rect:
+        serializedVersion: 2
+        x: 6043
+        y: 124
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa71ae0e44d11c80800000000000000
+      internalID: -8353662402077558100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_125
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 126
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bed52223f637980800000000000000
+      internalID: -8542361807076070650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_126
+      rect:
+        serializedVersion: 2
+        x: 7230
+        y: 130
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bf9baec9b135f50800000000000000
+      internalID: 6868864217437043548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_127
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 135
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001da05de679faa40800000000000000
+      internalID: 5381686582007484672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_128
+      rect:
+        serializedVersion: 2
+        x: 8475
+        y: 134
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda63c4b04c5bac0800000000000000
+      internalID: -3839947554461143560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_129
+      rect:
+        serializedVersion: 2
+        x: 8863
+        y: 131
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e443e169ccf788a60800000000000000
+      internalID: 7676526081521628238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_130
+      rect:
+        serializedVersion: 2
+        x: 9258
+        y: 131
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f8dcb4db0277220800000000000000
+      internalID: 2483489716910788497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_131
+      rect:
+        serializedVersion: 2
+        x: 9652
+        y: 129
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4447ae6d452623b30800000000000000
+      internalID: 4265579913595745348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_132
+      rect:
+        serializedVersion: 2
+        x: 10047
+        y: 128
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32101852c1d79000800000000000000
+      internalID: 42733354114617917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_133
+      rect:
+        serializedVersion: 2
+        x: 10441
+        y: 126
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2335143cacce9b240800000000000000
+      internalID: 4808134432798102322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_134
+      rect:
+        serializedVersion: 2
+        x: 10836
+        y: 123
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e49329e5d276a00800000000000000
+      internalID: 749617747183881768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_135
+      rect:
+        serializedVersion: 2
+        x: 11230
+        y: 121
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce97282125cf05720800000000000000
+      internalID: 2833041595044100588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_136
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 114
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0309d76804832d890800000000000000
+      internalID: -7434818185049829328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_137
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 111
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dbd08a93ab318c0800000000000000
+      internalID: -4029672484771087028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_138
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 109
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeb2127ad373d720800000000000000
+      internalID: 2869764769619033825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_139
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 108
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e258fc95d907a80800000000000000
+      internalID: -8471097890024640891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_140
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 108
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927622bfab76633e0800000000000000
+      internalID: -2074356525582620887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_141
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 108
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cad5c09831dcfd0800000000000000
+      internalID: -2320176753687024565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_142
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 109
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f00689e0ce185370800000000000000
+      internalID: 8311426926212677873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_143
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 110
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4be0a8531f6a400800000000000000
+      internalID: 335220434537460920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_144
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 111
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35263e51989da4600800000000000000
+      internalID: 453413895305126483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_145
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 113
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa47ba0b0c8a60060800000000000000
+      internalID: 6919403423052559535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_146
+      rect:
+        serializedVersion: 2
+        x: 11625
+        y: 119
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41121e646dc096d20800000000000000
+      internalID: 3272160718713069844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_birds_147
+      rect:
+        serializedVersion: 2
+        x: 12019
+        y: 116
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d95666bfb773d90800000000000000
+      internalID: -7118084366350836460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_birds_0: 1850334555915798983
+      env_birds_1: 2767844405398756500
+      env_birds_10: -5599776120834542458
+      env_birds_100: -6466967369073193423
+      env_birds_101: -212366537502624772
+      env_birds_102: -9048767122310491759
+      env_birds_103: -6607971243994892795
+      env_birds_104: 6850698497333029119
+      env_birds_105: 1073393531636783178
+      env_birds_106: -5219209313292882332
+      env_birds_107: -579998695476934065
+      env_birds_108: -4418878638876705764
+      env_birds_109: 3294209311761538037
+      env_birds_11: 1819864793924050746
+      env_birds_110: 1972893557125099134
+      env_birds_111: 4331814121092168234
+      env_birds_112: -7731648576259982067
+      env_birds_113: 2542324886453922618
+      env_birds_114: 3087381652391355135
+      env_birds_115: 60400971857064028
+      env_birds_116: 5351491649203378726
+      env_birds_117: -554832451776871056
+      env_birds_118: 5699885122649943661
+      env_birds_119: -8719958854323200049
+      env_birds_12: 2871964453894475649
+      env_birds_120: -5361698129371232584
+      env_birds_121: -2529779261356949419
+      env_birds_122: -2217614554016922154
+      env_birds_123: 9005178623977967967
+      env_birds_124: -8353662402077558100
+      env_birds_125: -8542361807076070650
+      env_birds_126: 6868864217437043548
+      env_birds_127: 5381686582007484672
+      env_birds_128: -3839947554461143560
+      env_birds_129: 7676526081521628238
+      env_birds_13: 6980159901724847230
+      env_birds_130: 2483489716910788497
+      env_birds_131: 4265579913595745348
+      env_birds_132: 42733354114617917
+      env_birds_133: 4808134432798102322
+      env_birds_134: 749617747183881768
+      env_birds_135: 2833041595044100588
+      env_birds_136: -7434818185049829328
+      env_birds_137: -4029672484771087028
+      env_birds_138: 2869764769619033825
+      env_birds_139: -8471097890024640891
+      env_birds_14: 8416710323541393593
+      env_birds_140: -2074356525582620887
+      env_birds_141: -2320176753687024565
+      env_birds_142: 8311426926212677873
+      env_birds_143: 335220434537460920
+      env_birds_144: 453413895305126483
+      env_birds_145: 6919403423052559535
+      env_birds_146: 3272160718713069844
+      env_birds_147: -7118084366350836460
+      env_birds_15: 3431856894061894693
+      env_birds_16: -2945758886109322419
+      env_birds_17: -3620024625076974969
+      env_birds_18: -3104376593598369265
+      env_birds_19: -4437467207621442634
+      env_birds_2: -3743877794480948359
+      env_birds_20: 4790530895515912591
+      env_birds_21: -8881682799251610935
+      env_birds_22: 5973807991927721192
+      env_birds_23: 4696372729156042491
+      env_birds_24: -2982064363008521524
+      env_birds_25: 2189011716389315646
+      env_birds_26: -5392928973529959903
+      env_birds_27: 2022104349464605938
+      env_birds_28: 9216228224962680191
+      env_birds_29: -1745792928060705792
+      env_birds_3: -7428899655687286217
+      env_birds_30: 347092209764542860
+      env_birds_31: 6203542613278521322
+      env_birds_32: -6196106796470976544
+      env_birds_33: -3846760872334343695
+      env_birds_34: 7527090233843021536
+      env_birds_35: 4666434384345443900
+      env_birds_36: -148341761214122189
+      env_birds_37: 5244214242687395653
+      env_birds_38: -4293206429306086464
+      env_birds_39: -9039380726798981046
+      env_birds_4: -6109160311890639736
+      env_birds_40: 6332293916573569518
+      env_birds_41: 2492415695811803063
+      env_birds_42: 2620319828438682269
+      env_birds_43: 3220258617769645767
+      env_birds_44: -4814401744077804804
+      env_birds_45: 6884126044273417960
+      env_birds_46: -4572528095711642771
+      env_birds_47: 5357516894524852483
+      env_birds_48: 5529895412711721225
+      env_birds_49: -3091261821801052132
+      env_birds_5: -8239943289991605942
+      env_birds_50: 788600497261260163
+      env_birds_51: -8074820488421340000
+      env_birds_52: -715397581047440143
+      env_birds_53: 2097879012921152626
+      env_birds_54: 4033199999469412955
+      env_birds_55: -4425001096623628624
+      env_birds_56: -2456380931129002874
+      env_birds_57: -6377403403893901086
+      env_birds_58: 2236044811949104155
+      env_birds_59: -2117142041598123823
+      env_birds_6: 1478318559386640617
+      env_birds_60: 5213761137449175183
+      env_birds_61: -1482283733969521430
+      env_birds_62: 2964478975238951165
+      env_birds_63: -7695109241837705869
+      env_birds_64: 1598855866822186034
+      env_birds_65: 5923252186466436509
+      env_birds_66: -7497809811459401455
+      env_birds_67: -6019237324204714426
+      env_birds_68: 1112971549463933562
+      env_birds_69: -2122097058829618455
+      env_birds_7: -1401807529213785277
+      env_birds_70: -4242362233870722888
+      env_birds_71: 1861122357567415320
+      env_birds_72: 1489695981228393397
+      env_birds_73: -307584344678926396
+      env_birds_74: -6721712835307174602
+      env_birds_75: 7445224049776971982
+      env_birds_76: -5068754743184155850
+      env_birds_77: 8189360959724637940
+      env_birds_78: -8905108060485220097
+      env_birds_79: 7940291936695985309
+      env_birds_8: -1672154468387677263
+      env_birds_80: 6044418817753089143
+      env_birds_81: -6459026943391276914
+      env_birds_82: 3477508892666885616
+      env_birds_83: -3173813983286304380
+      env_birds_84: -4293534389799452873
+      env_birds_85: 5119937089544137329
+      env_birds_86: -1571442087635249035
+      env_birds_87: 936651388151809095
+      env_birds_88: 4936232860858602410
+      env_birds_89: -5149566930329637907
+      env_birds_9: -227455847210275449
+      env_birds_90: 7097881724979455979
+      env_birds_91: 8889215594426465937
+      env_birds_92: -3669720905763371019
+      env_birds_93: 4599516726854903090
+      env_birds_94: 7321642608399288740
+      env_birds_95: -2368563787869057145
+      env_birds_96: -4735452608935802323
+      env_birds_97: 7053509098229625380
+      env_birds_98: 6380053211718684943
+      env_birds_99: 6166135079528253401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

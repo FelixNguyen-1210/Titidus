@@ -1,0 +1,7178 @@
+fileFormatVersion: 2
+guid: d9ada86c33eb8fb4ba5152e95d24c76a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -799177635682114486
+    second: env_petals_purple_0
+  - first:
+      213: 7191076296736234527
+    second: env_petals_purple_1
+  - first:
+      213: 5806120586810923223
+    second: env_petals_purple_2
+  - first:
+      213: -1919055450332874748
+    second: env_petals_purple_3
+  - first:
+      213: -5764970579472777409
+    second: env_petals_purple_4
+  - first:
+      213: 1517515182840109224
+    second: env_petals_purple_5
+  - first:
+      213: 4869816820822934610
+    second: env_petals_purple_6
+  - first:
+      213: 2881448350510248882
+    second: env_petals_purple_7
+  - first:
+      213: 8955966596036421557
+    second: env_petals_purple_8
+  - first:
+      213: -5269397723278658300
+    second: env_petals_purple_9
+  - first:
+      213: 8037411787334458847
+    second: env_petals_purple_10
+  - first:
+      213: -8157658639619207423
+    second: env_petals_purple_11
+  - first:
+      213: 3552002167095637345
+    second: env_petals_purple_12
+  - first:
+      213: -3405364955793324544
+    second: env_petals_purple_13
+  - first:
+      213: 845461140853563714
+    second: env_petals_purple_14
+  - first:
+      213: -4427627312576227163
+    second: env_petals_purple_15
+  - first:
+      213: 732741148363679483
+    second: env_petals_purple_16
+  - first:
+      213: 6221732146298356341
+    second: env_petals_purple_17
+  - first:
+      213: 6439137034261325461
+    second: env_petals_purple_18
+  - first:
+      213: 6132937235976683244
+    second: env_petals_purple_19
+  - first:
+      213: -796971537646267912
+    second: env_petals_purple_20
+  - first:
+      213: -1957886921566639601
+    second: env_petals_purple_21
+  - first:
+      213: -3936019765396856688
+    second: env_petals_purple_22
+  - first:
+      213: -1600047273042321649
+    second: env_petals_purple_23
+  - first:
+      213: -7313494301729593260
+    second: env_petals_purple_24
+  - first:
+      213: -8307010303376924923
+    second: env_petals_purple_25
+  - first:
+      213: -3191877855015343910
+    second: env_petals_purple_26
+  - first:
+      213: 7805540271759819778
+    second: env_petals_purple_27
+  - first:
+      213: -5086499356534476225
+    second: env_petals_purple_28
+  - first:
+      213: 102550498936634909
+    second: env_petals_purple_29
+  - first:
+      213: 6010562484209415107
+    second: env_petals_purple_30
+  - first:
+      213: 4691866688223809901
+    second: env_petals_purple_31
+  - first:
+      213: -2958617767814816231
+    second: env_petals_purple_32
+  - first:
+      213: 647538769799496878
+    second: env_petals_purple_33
+  - first:
+      213: -3813414058363493124
+    second: env_petals_purple_34
+  - first:
+      213: 8371785042145160563
+    second: env_petals_purple_35
+  - first:
+      213: 7089333734855097546
+    second: env_petals_purple_36
+  - first:
+      213: -7072904140605215030
+    second: env_petals_purple_37
+  - first:
+      213: 5517469258526649701
+    second: env_petals_purple_38
+  - first:
+      213: 3375839738521707191
+    second: env_petals_purple_39
+  - first:
+      213: -7897021997220207923
+    second: env_petals_purple_40
+  - first:
+      213: 2827745369564768538
+    second: env_petals_purple_41
+  - first:
+      213: 8754846797369673639
+    second: env_petals_purple_42
+  - first:
+      213: -6430500814299336428
+    second: env_petals_purple_43
+  - first:
+      213: -632181218002118582
+    second: env_petals_purple_44
+  - first:
+      213: -119587003427070991
+    second: env_petals_purple_45
+  - first:
+      213: -1428810861312808942
+    second: env_petals_purple_46
+  - first:
+      213: 3143781779852639963
+    second: env_petals_purple_47
+  - first:
+      213: 5658916981792260751
+    second: env_petals_purple_48
+  - first:
+      213: 6351552455810884838
+    second: env_petals_purple_49
+  - first:
+      213: 8449784444518843368
+    second: env_petals_purple_50
+  - first:
+      213: 5674012585450733882
+    second: env_petals_purple_51
+  - first:
+      213: 4064416426562452550
+    second: env_petals_purple_52
+  - first:
+      213: -8839130272217587441
+    second: env_petals_purple_53
+  - first:
+      213: 3455346366692204308
+    second: env_petals_purple_54
+  - first:
+      213: -6279984976499515748
+    second: env_petals_purple_55
+  - first:
+      213: 5569117429487856932
+    second: env_petals_purple_56
+  - first:
+      213: -4531768135599923065
+    second: env_petals_purple_57
+  - first:
+      213: 3088814876940131892
+    second: env_petals_purple_58
+  - first:
+      213: -8965136244128140393
+    second: env_petals_purple_59
+  - first:
+      213: -5924834180461131225
+    second: env_petals_purple_60
+  - first:
+      213: -1928449193892908204
+    second: env_petals_purple_61
+  - first:
+      213: 3146627405561966841
+    second: env_petals_purple_62
+  - first:
+      213: -1501228782980380097
+    second: env_petals_purple_63
+  - first:
+      213: -2526331304837839105
+    second: env_petals_purple_64
+  - first:
+      213: -2718791679828225083
+    second: env_petals_purple_65
+  - first:
+      213: 8386874607492263979
+    second: env_petals_purple_66
+  - first:
+      213: 489901827238946913
+    second: env_petals_purple_67
+  - first:
+      213: -941932294331368057
+    second: env_petals_purple_68
+  - first:
+      213: 177998955282542792
+    second: env_petals_purple_69
+  - first:
+      213: 1493475900196792921
+    second: env_petals_purple_70
+  - first:
+      213: 1609170817633593104
+    second: env_petals_purple_71
+  - first:
+      213: 4993019787038464834
+    second: env_petals_purple_72
+  - first:
+      213: 7647355982964443964
+    second: env_petals_purple_73
+  - first:
+      213: -1938203093242131459
+    second: env_petals_purple_74
+  - first:
+      213: 1255039315536326789
+    second: env_petals_purple_75
+  - first:
+      213: -5212830264449165703
+    second: env_petals_purple_76
+  - first:
+      213: 6114496876334653452
+    second: env_petals_purple_77
+  - first:
+      213: 816737049981235292
+    second: env_petals_purple_78
+  - first:
+      213: -4905479513412756889
+    second: env_petals_purple_79
+  - first:
+      213: 4267568338791701333
+    second: env_petals_purple_80
+  - first:
+      213: 5429887004692954199
+    second: env_petals_purple_81
+  - first:
+      213: 7921418995336798679
+    second: env_petals_purple_82
+  - first:
+      213: 5431731745969713160
+    second: env_petals_purple_83
+  - first:
+      213: -1002290927677065787
+    second: env_petals_purple_84
+  - first:
+      213: -7344591343397292477
+    second: env_petals_purple_85
+  - first:
+      213: -7431634151427194673
+    second: env_petals_purple_86
+  - first:
+      213: 8527719183775880900
+    second: env_petals_purple_87
+  - first:
+      213: 3002284619995177917
+    second: env_petals_purple_88
+  - first:
+      213: 6550165244485008813
+    second: env_petals_purple_89
+  - first:
+      213: 512689320107334398
+    second: env_petals_purple_90
+  - first:
+      213: -5610768307631440162
+    second: env_petals_purple_91
+  - first:
+      213: 6903655259682293997
+    second: env_petals_purple_92
+  - first:
+      213: 172394720238209299
+    second: env_petals_purple_93
+  - first:
+      213: 8579905074961005483
+    second: env_petals_purple_94
+  - first:
+      213: -7964714418085685706
+    second: env_petals_purple_95
+  - first:
+      213: -1619292187878608889
+    second: env_petals_purple_96
+  - first:
+      213: -8815474738899853882
+    second: env_petals_purple_97
+  - first:
+      213: -7720036104321446113
+    second: env_petals_purple_98
+  - first:
+      213: -4494259876738455249
+    second: env_petals_purple_99
+  - first:
+      213: 7503834543869523894
+    second: env_petals_purple_100
+  - first:
+      213: 4100623403208883961
+    second: env_petals_purple_101
+  - first:
+      213: 3801938495415785700
+    second: env_petals_purple_102
+  - first:
+      213: -3680856105943897687
+    second: env_petals_purple_103
+  - first:
+      213: 5408210891729853222
+    second: env_petals_purple_104
+  - first:
+      213: -2928253624363668514
+    second: env_petals_purple_105
+  - first:
+      213: 3385279286537478739
+    second: env_petals_purple_106
+  - first:
+      213: 6444667270505220826
+    second: env_petals_purple_107
+  - first:
+      213: 4088266030841950180
+    second: env_petals_purple_108
+  - first:
+      213: -2148263816575572752
+    second: env_petals_purple_109
+  - first:
+      213: -5913298562430545212
+    second: env_petals_purple_110
+  - first:
+      213: -8010396654446285583
+    second: env_petals_purple_111
+  - first:
+      213: 3286378831577545139
+    second: env_petals_purple_112
+  - first:
+      213: -3765446394813310637
+    second: env_petals_purple_113
+  - first:
+      213: -3628997019828179953
+    second: env_petals_purple_114
+  - first:
+      213: 881677402932773415
+    second: env_petals_purple_115
+  - first:
+      213: 7360067194415707064
+    second: env_petals_purple_116
+  - first:
+      213: -2320468418962855875
+    second: env_petals_purple_117
+  - first:
+      213: 8190026051003075016
+    second: env_petals_purple_118
+  - first:
+      213: -5122489065604636142
+    second: env_petals_purple_119
+  - first:
+      213: 5038721110247513834
+    second: env_petals_purple_120
+  - first:
+      213: 2079358353582056507
+    second: env_petals_purple_121
+  - first:
+      213: -286064690918111025
+    second: env_petals_purple_122
+  - first:
+      213: -5430599006524478672
+    second: env_petals_purple_123
+  - first:
+      213: -5837884417279066407
+    second: env_petals_purple_124
+  - first:
+      213: -6772300986149996633
+    second: env_petals_purple_125
+  - first:
+      213: 8443454959820499080
+    second: env_petals_purple_126
+  - first:
+      213: 8022813952081964806
+    second: env_petals_purple_127
+  - first:
+      213: -7893110245730061901
+    second: env_petals_purple_128
+  - first:
+      213: 3335723154197539276
+    second: env_petals_purple_129
+  - first:
+      213: -3632634026547383997
+    second: env_petals_purple_130
+  - first:
+      213: -7722931990013398670
+    second: env_petals_purple_131
+  - first:
+      213: 4020916265058552717
+    second: env_petals_purple_132
+  - first:
+      213: -70390977859865820
+    second: env_petals_purple_133
+  - first:
+      213: 7702924874005871527
+    second: env_petals_purple_134
+  - first:
+      213: 4911159737681864054
+    second: env_petals_purple_135
+  - first:
+      213: 258830375017054953
+    second: env_petals_purple_136
+  - first:
+      213: -2153396952023737514
+    second: env_petals_purple_137
+  - first:
+      213: -1270710199011078496
+    second: env_petals_purple_138
+  - first:
+      213: 5603012861870523663
+    second: env_petals_purple_139
+  - first:
+      213: -4163838466972552655
+    second: env_petals_purple_140
+  - first:
+      213: 3507969967773559765
+    second: env_petals_purple_141
+  - first:
+      213: 3463104008349015988
+    second: env_petals_purple_142
+  - first:
+      213: -3024148734018577451
+    second: env_petals_purple_143
+  - first:
+      213: -623936566619872116
+    second: env_petals_purple_144
+  - first:
+      213: 1121275203541699399
+    second: env_petals_purple_145
+  - first:
+      213: -5314563867080390815
+    second: env_petals_purple_146
+  - first:
+      213: 1259133165917617430
+    second: env_petals_purple_147
+  - first:
+      213: 7719321947363070666
+    second: env_petals_purple_148
+  - first:
+      213: 5498451008478408453
+    second: env_petals_purple_149
+  - first:
+      213: -8107497650715901981
+    second: env_petals_purple_150
+  - first:
+      213: 7852566527624010590
+    second: env_petals_purple_151
+  - first:
+      213: 6851715191804303542
+    second: env_petals_purple_152
+  - first:
+      213: -9056339662256967760
+    second: env_petals_purple_153
+  - first:
+      213: 2548358612755186829
+    second: env_petals_purple_154
+  - first:
+      213: 5726792372758967897
+    second: env_petals_purple_155
+  - first:
+      213: -1682848617997984679
+    second: env_petals_purple_156
+  - first:
+      213: 1356368740734980855
+    second: env_petals_purple_157
+  - first:
+      213: 4529716294653172869
+    second: env_petals_purple_158
+  - first:
+      213: 2377233349020684171
+    second: env_petals_purple_159
+  - first:
+      213: -2896046149372196593
+    second: env_petals_purple_160
+  - first:
+      213: -4307195309851081716
+    second: env_petals_purple_161
+  - first:
+      213: 2546966881814768914
+    second: env_petals_purple_162
+  - first:
+      213: -2030165755306146722
+    second: env_petals_purple_163
+  - first:
+      213: 5790080298182615811
+    second: env_petals_purple_164
+  - first:
+      213: 3469804397137606013
+    second: env_petals_purple_165
+  - first:
+      213: 8173051854719593393
+    second: env_petals_purple_166
+  - first:
+      213: 2126610034547318145
+    second: env_petals_purple_167
+  - first:
+      213: 1044501477873976907
+    second: env_petals_purple_168
+  - first:
+      213: 1375448785873192686
+    second: env_petals_purple_169
+  - first:
+      213: -2562004996310518379
+    second: env_petals_purple_170
+  - first:
+      213: 7203846562132444421
+    second: env_petals_purple_171
+  - first:
+      213: -4068405743419770411
+    second: env_petals_purple_172
+  - first:
+      213: -1227677052434118110
+    second: env_petals_purple_173
+  - first:
+      213: -4013007629842543250
+    second: env_petals_purple_174
+  - first:
+      213: -3793098832740181777
+    second: env_petals_purple_175
+  - first:
+      213: -1132479030190542674
+    second: env_petals_purple_176
+  - first:
+      213: -4269023641318551217
+    second: env_petals_purple_177
+  - first:
+      213: 5142590442563865009
+    second: env_petals_purple_178
+  - first:
+      213: 5639719979490326036
+    second: env_petals_purple_179
+  - first:
+      213: -845648415406451532
+    second: env_petals_purple_180
+  - first:
+      213: 2642788714430887648
+    second: env_petals_purple_181
+  - first:
+      213: 8660036372198820252
+    second: env_petals_purple_182
+  - first:
+      213: 3267769994981383854
+    second: env_petals_purple_183
+  - first:
+      213: 3821412246930704798
+    second: env_petals_purple_184
+  - first:
+      213: -1869503589295326752
+    second: env_petals_purple_185
+  - first:
+      213: -2020396138222733537
+    second: env_petals_purple_186
+  - first:
+      213: -5012510199338159182
+    second: env_petals_purple_187
+  - first:
+      213: -3098307316654709373
+    second: env_petals_purple_188
+  - first:
+      213: 789278887696625602
+    second: env_petals_purple_189
+  - first:
+      213: 7429650444182084711
+    second: env_petals_purple_190
+  - first:
+      213: -1618670557106328145
+    second: env_petals_purple_191
+  - first:
+      213: -8107643373157793034
+    second: env_petals_purple_192
+  - first:
+      213: -2942272929435412224
+    second: env_petals_purple_193
+  - first:
+      213: 6349636879571204215
+    second: env_petals_purple_194
+  - first:
+      213: 875679831838877877
+    second: env_petals_purple_195
+  - first:
+      213: -1274066229764146498
+    second: env_petals_purple_196
+  - first:
+      213: 201117760756185444
+    second: env_petals_purple_197
+  - first:
+      213: -7963658244136371575
+    second: env_petals_purple_198
+  - first:
+      213: 4810477778595281219
+    second: env_petals_purple_199
+  - first:
+      213: -412451252300105482
+    second: env_petals_purple_200
+  - first:
+      213: -216758689989677241
+    second: env_petals_purple_201
+  - first:
+      213: -578512256067226024
+    second: env_petals_purple_202
+  - first:
+      213: -4579094560225950356
+    second: env_petals_purple_203
+  - first:
+      213: -7512583638958740387
+    second: env_petals_purple_204
+  - first:
+      213: 7104415229950793735
+    second: env_petals_purple_205
+  - first:
+      213: 2854736762907224785
+    second: env_petals_purple_206
+  - first:
+      213: 2515773773687865233
+    second: env_petals_purple_207
+  - first:
+      213: -7588507590292840281
+    second: env_petals_purple_208
+  - first:
+      213: -436459628386930997
+    second: env_petals_purple_209
+  - first:
+      213: 3524808641164618075
+    second: env_petals_purple_210
+  - first:
+      213: 2036876969038317293
+    second: env_petals_purple_211
+  - first:
+      213: 7148866754742743601
+    second: env_petals_purple_212
+  - first:
+      213: 6480871048248425450
+    second: env_petals_purple_213
+  - first:
+      213: 6588226012267559367
+    second: env_petals_purple_214
+  - first:
+      213: 721826797779975987
+    second: env_petals_purple_215
+  - first:
+      213: -6539796172981411702
+    second: env_petals_purple_216
+  - first:
+      213: 7412281203094713616
+    second: env_petals_purple_217
+  - first:
+      213: -7872993162728805010
+    second: env_petals_purple_218
+  - first:
+      213: -2845386166954767494
+    second: env_petals_purple_219
+  - first:
+      213: -1652707169938012283
+    second: env_petals_purple_220
+  - first:
+      213: -8334917803557588955
+    second: env_petals_purple_221
+  - first:
+      213: 5871289262262977963
+    second: env_petals_purple_222
+  - first:
+      213: -4977830315222049989
+    second: env_petals_purple_223
+  - first:
+      213: -9222784471009074563
+    second: env_petals_purple_224
+  - first:
+      213: 4110797264146622816
+    second: env_petals_purple_225
+  - first:
+      213: 8080794327973443922
+    second: env_petals_purple_226
+  - first:
+      213: -4658706733685511989
+    second: env_petals_purple_227
+  - first:
+      213: 8179406419022885117
+    second: env_petals_purple_228
+  - first:
+      213: 9003634898663873713
+    second: env_petals_purple_229
+  - first:
+      213: -5497143992076829510
+    second: env_petals_purple_230
+  - first:
+      213: -3776542509416097569
+    second: env_petals_purple_231
+  - first:
+      213: -2425849712296834108
+    second: env_petals_purple_232
+  - first:
+      213: -5353690116900657775
+    second: env_petals_purple_233
+  - first:
+      213: -3499902233361109516
+    second: env_petals_purple_234
+  - first:
+      213: 5992050095216874179
+    second: env_petals_purple_235
+  - first:
+      213: -2258381366691067148
+    second: env_petals_purple_236
+  - first:
+      213: -7699604218933691166
+    second: env_petals_purple_237
+  - first:
+      213: -5678804533832601512
+    second: env_petals_purple_238
+  - first:
+      213: 2460428117540113489
+    second: env_petals_purple_239
+  - first:
+      213: 5880498072465250871
+    second: env_petals_purple_240
+  - first:
+      213: -2633352695867622511
+    second: env_petals_purple_241
+  - first:
+      213: 4024198994849642554
+    second: env_petals_purple_242
+  - first:
+      213: 5118254478951795721
+    second: env_petals_purple_243
+  - first:
+      213: -4098150879841532890
+    second: env_petals_purple_244
+  - first:
+      213: 5029103723477009128
+    second: env_petals_purple_245
+  - first:
+      213: 8400698346448578365
+    second: env_petals_purple_246
+  - first:
+      213: -4818373699825626980
+    second: env_petals_purple_247
+  - first:
+      213: -5921706796364627433
+    second: env_petals_purple_248
+  - first:
+      213: 537793969507635532
+    second: env_petals_purple_249
+  - first:
+      213: 5405769826617256317
+    second: env_petals_purple_250
+  - first:
+      213: -6698527378226905991
+    second: env_petals_purple_251
+  - first:
+      213: -7243003457102091536
+    second: env_petals_purple_252
+  - first:
+      213: 8523402392662474958
+    second: env_petals_purple_253
+  - first:
+      213: -8801501524500390732
+    second: env_petals_purple_254
+  - first:
+      213: 690617636846528131
+    second: env_petals_purple_255
+  - first:
+      213: 4422892914433947277
+    second: env_petals_purple_256
+  - first:
+      213: 6469205071899676777
+    second: env_petals_purple_257
+  - first:
+      213: -4624687487277325757
+    second: env_petals_purple_258
+  - first:
+      213: 7382642237249537269
+    second: env_petals_purple_259
+  - first:
+      213: -5024882351384466095
+    second: env_petals_purple_260
+  - first:
+      213: 1102180726217109601
+    second: env_petals_purple_261
+  - first:
+      213: -4425342064209133903
+    second: env_petals_purple_262
+  - first:
+      213: 4957377465519637436
+    second: env_petals_purple_263
+  - first:
+      213: -4932266663092249845
+    second: env_petals_purple_264
+  - first:
+      213: -9213470261314939738
+    second: env_petals_purple_265
+  - first:
+      213: -3717419312954725193
+    second: env_petals_purple_266
+  - first:
+      213: 7367701489497176193
+    second: env_petals_purple_267
+  - first:
+      213: -6740551997946858216
+    second: env_petals_purple_268
+  - first:
+      213: -1179013062677856466
+    second: env_petals_purple_269
+  - first:
+      213: 150780489691098682
+    second: env_petals_purple_270
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_petals_purple_0
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 145
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a442bb0bc20c8e4f0800000000000000
+      internalID: -799177635682114486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_1
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 142
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cd1bbbac5dbc360800000000000000
+      internalID: 7191076296736234527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_2
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 141
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d892fb59eb739050800000000000000
+      internalID: 5806120586810923223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_3
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 163
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408b1aa4c352e55e0800000000000000
+      internalID: -1919055450332874748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_4
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 156
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f72f55dc5beffa0800000000000000
+      internalID: -5764970579472777409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_5
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 151
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a85276c40c4f0510800000000000000
+      internalID: 1517515182840109224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_6
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 149
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2548f5ed890159340800000000000000
+      internalID: 4869816820822934610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_7
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 148
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b37cca1206fcf720800000000000000
+      internalID: 2881448350510248882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 150
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7e3091b2cf94c70800000000000000
+      internalID: 8955966596036421557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 146
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40539bb60b65fd6b0800000000000000
+      internalID: -5269397723278658300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 146
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd9b91cf6f9a8f60800000000000000
+      internalID: 8037411787334458847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_11
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 149
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc99a30bc2ace80800000000000000
+      internalID: -8157658639619207423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_12
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 149
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1653723d62f3b4130800000000000000
+      internalID: 3552002167095637345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_13
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 148
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00600677d96bdb0d0800000000000000
+      internalID: -3405364955793324544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_14
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 145
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24129fb9d6eabbb00800000000000000
+      internalID: 845461140853563714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_15
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 141
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a89314fa68ed82c0800000000000000
+      internalID: -4427627312576227163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_16
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 141
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6678431383b2a00800000000000000
+      internalID: 732741148363679483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_17
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 142
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5720eb34c68085650800000000000000
+      internalID: 6221732146298356341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_18
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 142
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596653344096c5950800000000000000
+      internalID: 6439137034261325461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_19
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 140
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceef7242ce19c1550800000000000000
+      internalID: 6132937235976683244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_20
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 136
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f15f7aeb9690f4f0800000000000000
+      internalID: -796971537646267912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_21
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 145
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a23a9d73034d4e0800000000000000
+      internalID: -1957886921566639601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_22
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 132
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090aa9690e27069c0800000000000000
+      internalID: -3936019765396856688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_23
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 142
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fda7a8b7d7bc9e0800000000000000
+      internalID: -1600047273042321649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_24
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 138
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458609e5eaf318a90800000000000000
+      internalID: -7313494301729593260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_25
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 135
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f55b9342297bc80800000000000000
+      internalID: -8307010303376924923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_26
+      rect:
+        serializedVersion: 2
+        x: 4085
+        y: 131
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ef5d800c24b3d0800000000000000
+      internalID: -3191877855015343910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_27
+      rect:
+        serializedVersion: 2
+        x: 4281
+        y: 129
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204004a8589d25c60800000000000000
+      internalID: 7805540271759819778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_28
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 110
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32728fd8cf1969b0800000000000000
+      internalID: -5086499356534476225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_29
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 108
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e38aca2255c6100800000000000000
+      internalID: 102550498936634909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_30
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 110
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3779bebbec96350800000000000000
+      internalID: 6010562484209415107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_31
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 114
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d619115f4ebdc1140800000000000000
+      internalID: 4691866688223809901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_32
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 121
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e1d3bc0d0e0f6d0800000000000000
+      internalID: -2958617767814816231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_33
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 121
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4413094158cf800800000000000000
+      internalID: 647538769799496878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_34
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 120
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf463c54e18041bc0800000000000000
+      internalID: -3813414058363493124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_35
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 120
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dadf4e32e8e2470800000000000000
+      internalID: 8371785042145160563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_36
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 120
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc3b30987f526260800000000000000
+      internalID: 7089333734855097546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 115
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace26d0782ff7dd90800000000000000
+      internalID: -7072904140605215030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 120
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d6e9dce0df19c40800000000000000
+      internalID: 5517469258526649701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 113
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2eb313b5469de20800000000000000
+      internalID: 3375839738521707191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 119
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc26e307554286290800000000000000
+      internalID: -7897021997220207923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 111
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19e92c7e6b2e3720800000000000000
+      internalID: 2827745369564768538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_42
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 119
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78f2ce6c67f7970800000000000000
+      internalID: 8754846797369673639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_43
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 112
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411f3d3649542c6a0800000000000000
+      internalID: -6430500814299336428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_44
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 110
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a485f4b188a0a37f0800000000000000
+      internalID: -632181218002118582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_45
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 119
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbd9f40144275ef0800000000000000
+      internalID: -119587003427070991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_46
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 110
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218ea308718db2ce0800000000000000
+      internalID: -1428810861312808942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_47
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 108
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde367f4fd4f0ab20800000000000000
+      internalID: 3143781779852639963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_48
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 119
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8247214303888e40800000000000000
+      internalID: 5658916981792260751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_49
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 110
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e42edc7e4f352850800000000000000
+      internalID: 6351552455810884838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_50
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 97
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3ca24fe2aa34570800000000000000
+      internalID: 8449784444518843368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_51
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 118
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3103ee52642ebe40800000000000000
+      internalID: 5674012585450733882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_52
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 108
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c748ca435b76830800000000000000
+      internalID: 4064416426562452550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_53
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 117
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01a11169d9155580800000000000000
+      internalID: -8839130272217587441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_54
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 110
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f10aa963bd3ff20800000000000000
+      internalID: 3455346366692204308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_55
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 116
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed4f8cfe209d8a0800000000000000
+      internalID: -6279984976499515748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_56
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 117
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d6f01bbca794d40800000000000000
+      internalID: 5569117429487856932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_57
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 106
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780e12914eceb11c0800000000000000
+      internalID: -4531768135599923065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_58
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 128
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e55fce3ccadda20800000000000000
+      internalID: 3088814876940131892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_59
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 134
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79333c5d510759380800000000000000
+      internalID: -8965136244128140393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_60
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 125
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a858834b2c6cda0800000000000000
+      internalID: -5924834180461131225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_61
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ff9eeca5cc35e0800000000000000
+      internalID: -1928449193892908204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_62
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 122
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0b70d24f01bab20800000000000000
+      internalID: 3146627405561966841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_63
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 112
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3accdf20609a2be0800000000000000
+      internalID: -1501228782980380097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_64
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 120
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60136301ba0fcd0800000000000000
+      internalID: -2526331304837839105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_65
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 110
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c31d893f59e44ad0800000000000000
+      internalID: -2718791679828225083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_66
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 118
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20f15b150a246470800000000000000
+      internalID: 8386874607492263979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_67
+      rect:
+        serializedVersion: 2
+        x: 4521
+        y: 115
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1686463cd1b7cc600800000000000000
+      internalID: 489901827238946913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_68
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 94
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df8e1a1959de2f0800000000000000
+      internalID: -941932294331368057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_69
+      rect:
+        serializedVersion: 2
+        x: 5036
+        y: 117
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0b1045b11687200800000000000000
+      internalID: 177998955282542792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_70
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 106
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a26df1b64e9b410800000000000000
+      internalID: 1493475900196792921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_71
+      rect:
+        serializedVersion: 2
+        x: 5646
+        y: 103
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017a9f7355ce45610800000000000000
+      internalID: 1609170817633593104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_72
+      rect:
+        serializedVersion: 2
+        x: 5846
+        y: 104
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b9ceaca05ca4540800000000000000
+      internalID: 4993019787038464834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_73
+      rect:
+        serializedVersion: 2
+        x: 6046
+        y: 119
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bcd83cfbdd02a60800000000000000
+      internalID: 7647355982964443964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_74
+      rect:
+        serializedVersion: 2
+        x: 6243
+        y: 119
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb4db44e8e1a15e0800000000000000
+      internalID: -1938203093242131459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_75
+      rect:
+        serializedVersion: 2
+        x: 6408
+        y: 119
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58031b5ab9bca6110800000000000000
+      internalID: 1255039315536326789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_76
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 120
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9761a154e7e48a7b0800000000000000
+      internalID: -5212830264449165703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_77
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 118
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00a926538e0bd450800000000000000
+      internalID: 6114496876334653452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_78
+      rect:
+        serializedVersion: 2
+        x: 6639
+        y: 120
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50380b0502a55b00800000000000000
+      internalID: 816737049981235292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_79
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 117
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a93167f5c3cebb0800000000000000
+      internalID: -4905479513412756889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_80
+      rect:
+        serializedVersion: 2
+        x: 6838
+        y: 120
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b12682bc2793b30800000000000000
+      internalID: 4267568338791701333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cbb354675da5b40800000000000000
+      internalID: 5429887004692954199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 106
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1e4165b988eed60800000000000000
+      internalID: 7921418995336798679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_83
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 114
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800bcb19e33616b40800000000000000
+      internalID: 5431731745969713160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_84
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 108
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5363e26b52712f0800000000000000
+      internalID: -1002290927677065787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_85
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 100
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34635642615c21a90800000000000000
+      internalID: -7344591343397292477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_86
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 94
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0458f1d188dd890800000000000000
+      internalID: -7431634151427194673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_87
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 88
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6de357a6b885670800000000000000
+      internalID: 8527719183775880900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_88
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 87
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db36e6184f14aa920800000000000000
+      internalID: 3002284619995177917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_89
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 117
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad73a9e59cd6ea50800000000000000
+      internalID: 6550165244485008813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_90
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 67
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa522568307d1700800000000000000
+      internalID: 512689320107334398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_91
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 79
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edebb9a83fb8222b0800000000000000
+      internalID: -5610768307631440162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_92
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 114
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8ce1da1e5becf50800000000000000
+      internalID: 6903655259682293997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_93
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 66
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31983fca518746200800000000000000
+      internalID: 172394720238209299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_94
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 120
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab3f971532f11770800000000000000
+      internalID: 8579905074961005483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_95
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 65
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63612948f66a77190800000000000000
+      internalID: -7964714418085685706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_96
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 103
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003ee1a55e1789e0800000000000000
+      internalID: -1619292187878608889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_97
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 104
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdd17d6e6429a580800000000000000
+      internalID: -8815474738899853882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_98
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 114
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fcabcc01cecd490800000000000000
+      internalID: -7720036104321446113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_99
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 111
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29a6b6247e21a1c0800000000000000
+      internalID: -4494259876738455249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_100
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 105
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7f5a8b2c9f22860800000000000000
+      internalID: 7503834543869523894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_101
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 103
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe3be9524758e830800000000000000
+      internalID: 4100623403208883961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_102
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 106
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e814250be233c430800000000000000
+      internalID: 3801938495415785700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_103
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 114
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9e2e7afd8faecc0800000000000000
+      internalID: -3680856105943897687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_104
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 108
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd4ffe623dd0b40800000000000000
+      internalID: 5408210891729853222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_105
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 100
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbad8bd7d0cc57d0800000000000000
+      internalID: -2928253624363668514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_106
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 97
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352ed8b339deafe20800000000000000
+      internalID: 3385279286537478739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_107
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 68
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adacc0abcbe007950800000000000000
+      internalID: 6444667270505220826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_108
+      rect:
+        serializedVersion: 2
+        x: 5013
+        y: 106
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef61a36b407cb830800000000000000
+      internalID: 4088266030841950180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_109
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 70
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f42039d075df22e0800000000000000
+      internalID: -2148263816575572752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_110
+      rect:
+        serializedVersion: 2
+        x: 5206
+        y: 84
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2df77994ebfeda0800000000000000
+      internalID: -5913298562430545212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_111
+      rect:
+        serializedVersion: 2
+        x: 5272
+        y: 72
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc60c50faa55d090800000000000000
+      internalID: -8010396654446285583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_112
+      rect:
+        serializedVersion: 2
+        x: 5468
+        y: 68
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9fa85a2209b9d20800000000000000
+      internalID: 3286378831577545139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_113
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 63
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359906044727ebbc0800000000000000
+      internalID: -3765446394813310637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_114
+      rect:
+        serializedVersion: 2
+        x: 5897
+        y: 97
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca03e007633adc0800000000000000
+      internalID: -3628997019828179953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_115
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 95
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7220c483de85c3c00800000000000000
+      internalID: 881677402932773415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_116
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 94
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b377263e16342660800000000000000
+      internalID: 7360067194415707064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_117
+      rect:
+        serializedVersion: 2
+        x: 6357
+        y: 114
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38e43f644a0ccfd0800000000000000
+      internalID: -2320468418962855875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_118
+      rect:
+        serializedVersion: 2
+        x: 6489
+        y: 94
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9cb3ffc41d8a170800000000000000
+      internalID: 8190026051003075016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_119
+      rect:
+        serializedVersion: 2
+        x: 6545
+        y: 111
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21220deb55349e8b0800000000000000
+      internalID: -5122489065604636142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_120
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 105
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee909a47222de540800000000000000
+      internalID: 5038721110247513834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_121
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 71
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34eff9d76d5bdc10800000000000000
+      internalID: 2079358353582056507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_122
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 78
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc84b03eda1b70cf0800000000000000
+      internalID: -286064690918111025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_123
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 72
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03be482e9f2a2a4b0800000000000000
+      internalID: -5430599006524478672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_124
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 75
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9defa4c8d0babfea0800000000000000
+      internalID: -5837884417279066407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_125
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 71
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a770806224f302a0800000000000000
+      internalID: -6772300986149996633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_126
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 74
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886c15fc8d2d2570800000000000000
+      internalID: 8443454959820499080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_127
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 69
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa4e068c2c65f60800000000000000
+      internalID: 8022813952081964806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_128
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 72
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1734e0d0a067290800000000000000
+      internalID: -7893110245730061901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_129
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 69
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc96dfa098eda4e20800000000000000
+      internalID: 3335723154197539276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_130
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 45
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34175a0799a469dc0800000000000000
+      internalID: -3632634026547383997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_131
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 68
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27130ced542a2d490800000000000000
+      internalID: -7722931990013398670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_132
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 59
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bc7621a0a2dc730800000000000000
+      internalID: 4020916265058552717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_133
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 74
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423354157cbe50ff0800000000000000
+      internalID: -70390977859865820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_134
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 102
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abf3ae6c5946ea60800000000000000
+      internalID: 7702924874005871527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_135
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 43
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6756abfc2c1f72440800000000000000
+      internalID: 4911159737681864054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_136
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 72
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e209ffcadc879300800000000000000
+      internalID: 258830375017054953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_137
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 91
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b573e91e89d12e0800000000000000
+      internalID: -2153396952023737514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_138
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 41
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae8a777ec78d5ee0800000000000000
+      internalID: -1270710199011078496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_139
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 47
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ccb70386e1cd40800000000000000
+      internalID: 5603012861870523663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_140
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 38
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1327ef9a9f21736c0800000000000000
+      internalID: -4163838466972552655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_141
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 44
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dba1e38910dea030800000000000000
+      internalID: 3507969967773559765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_142
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 36
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfdfdd4fba6f0030800000000000000
+      internalID: 3463104008349015988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_143
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 70
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db10e0cfb01806d0800000000000000
+      internalID: -3024148734018577451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_144
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 71
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ee389ff45757f0800000000000000
+      internalID: -623936566619872116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_145
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 72
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8e8a5bd19f8f00800000000000000
+      internalID: 1121275203541699399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_146
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 71
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1670c861250ee36b0800000000000000
+      internalID: -5314563867080390815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_147
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 69
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dbe6771f6597110800000000000000
+      internalID: 1259133165917617430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_148
+      rect:
+        serializedVersion: 2
+        x: 4438
+        y: 104
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2d373996a802b60800000000000000
+      internalID: 7719321947363070666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_149
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 99
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f6e376f0c6e4c40800000000000000
+      internalID: 5498451008478408453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_150
+      rect:
+        serializedVersion: 2
+        x: 4821
+        y: 95
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efb3cf87d16c7f80800000000000000
+      internalID: -8107497650715901981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_151
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 71
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd626f6abe9fc60800000000000000
+      internalID: 7852566527624010590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_152
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 81
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b894ad3aae261f50800000000000000
+      internalID: 6851715191804303542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_153
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 79
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf64e94f0b615280800000000000000
+      internalID: -9056339662256967760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_154
+      rect:
+        serializedVersion: 2
+        x: 5801
+        y: 77
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84849118a69d5320800000000000000
+      internalID: 2548358612755186829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_155
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 74
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956f6b83257a97f40800000000000000
+      internalID: 5726792372758967897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_156
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 102
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c1979191255a8e0800000000000000
+      internalID: -1682848617997984679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_157
+      rect:
+        serializedVersion: 2
+        x: 6193
+        y: 72
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2d3ffee2ac2d210800000000000000
+      internalID: 1356368740734980855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_158
+      rect:
+        serializedVersion: 2
+        x: 6247
+        y: 91
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cd91478f8ccde30800000000000000
+      internalID: 4529716294653172869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_159
+      rect:
+        serializedVersion: 2
+        x: 6389
+        y: 70
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f0794c221adf020800000000000000
+      internalID: 2377233349020684171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_160
+      rect:
+        serializedVersion: 2
+        x: 6448
+        y: 83
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09488dfe5d2fc7d0800000000000000
+      internalID: -2896046149372196593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_161
+      rect:
+        serializedVersion: 2
+        x: 6585
+        y: 70
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04091aafa4c934c0800000000000000
+      internalID: -4307195309851081716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_162
+      rect:
+        serializedVersion: 2
+        x: 6649
+        y: 79
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21de04572e4a85320800000000000000
+      internalID: 2546966881814768914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_163
+      rect:
+        serializedVersion: 2
+        x: 6686
+        y: 97
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5480d7700763d3e0800000000000000
+      internalID: -2030165755306146722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_164
+      rect:
+        serializedVersion: 2
+        x: 6742
+        y: 81
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303a922aa5f7a5050800000000000000
+      internalID: 5790080298182615811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_165
+      rect:
+        serializedVersion: 2
+        x: 6781
+        y: 70
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75b97327b8372030800000000000000
+      internalID: 3469804397137606013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_166
+      rect:
+        serializedVersion: 2
+        x: 6851
+        y: 74
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba863fb538c6170800000000000000
+      internalID: 8173051854719593393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_167
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 69
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d59f42f8c338d10800000000000000
+      internalID: 2126610034547318145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_168
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 68
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b468c046f80de7e00800000000000000
+      internalID: 1044501477873976907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_169
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 67
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c6b02263961310800000000000000
+      internalID: 1375448785873192686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_170
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 73
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595b22aa70ee17cd0800000000000000
+      internalID: -2562004996310518379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_171
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 67
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c258d74439f360800000000000000
+      internalID: 7203846562132444421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_172
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 68
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d93e4d188e1a87c0800000000000000
+      internalID: -4068405743419770411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_173
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 73
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a04cea93a66fee0800000000000000
+      internalID: -1227677052434118110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 68
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d8d4e82deee48c0800000000000000
+      internalID: -4013007629842543250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_175
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 71
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8929455b43c5bc0800000000000000
+      internalID: -3793098832740181777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_176
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 67
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0f9e97250a840f0800000000000000
+      internalID: -1132479030190542674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_177
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 68
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f419671dd9161c4c0800000000000000
+      internalID: -4269023641318551217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_178
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 66
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9865ac2c62e5740800000000000000
+      internalID: 5142590442563865009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_179
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 63
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416b13ad07f444e40800000000000000
+      internalID: 5639719979490326036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_180
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 61
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b493d22f37a344f0800000000000000
+      internalID: -845648415406451532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_181
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 59
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6701c65521da420800000000000000
+      internalID: 2642788714430887648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_182
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 44
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c998fda9231ae2870800000000000000
+      internalID: 8660036372198820252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_183
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 68
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae9b8e3f73795d20800000000000000
+      internalID: 3267769994981383854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_184
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 67
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99c1ae1132680530800000000000000
+      internalID: 3821412246930704798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_185
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 67
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9fbbdf3603e06e0800000000000000
+      internalID: -1869503589295326752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_186
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 67
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17b9a3ba6c16f3e0800000000000000
+      internalID: -2020396138222733537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_187
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 67
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b33d67f78cff6ab0800000000000000
+      internalID: -5012510199338159182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_188
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 35
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3856dc939e99005d0800000000000000
+      internalID: -3098307316654709373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_189
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 89
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf6fd177f414fa00800000000000000
+      internalID: 789278887696625602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_190
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cdbca07bb6b1760800000000000000
+      internalID: 7429650444182084711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_191
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 32
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad2b4354b35989e0800000000000000
+      internalID: -1618670557106328145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_192
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 69
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24169ee4ddb7f80800000000000000
+      internalID: -8107643373157793034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_193
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 57
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00911c80c52fa27d0800000000000000
+      internalID: -2942272929435412224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_194
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 70
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778bf83a9117e1850800000000000000
+      internalID: 6349636879571204215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_195
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 69
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8eab1ea2a072c00800000000000000
+      internalID: 875679831838877877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_196
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 69
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba369aa38b915ee0800000000000000
+      internalID: -1274066229764146498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_197
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 68
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469f4efa9838ac200800000000000000
+      internalID: 201117760756185444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_198
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 68
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98af3ad25076b7190800000000000000
+      internalID: -7963658244136371575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_199
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 67
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f4197d0042c240800000000000000
+      internalID: 4810477778595281219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_200
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 68
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8bc7375cda64af0800000000000000
+      internalID: -412451252300105482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_201
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 59
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74faf21be1bedfcf0800000000000000
+      internalID: -216758689989677241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_202
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 45
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85637ee0b26b8f7f0800000000000000
+      internalID: -578512256067226024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_203
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 87
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650fc032c9c370c0800000000000000
+      internalID: -4579094560225950356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_204
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 68
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce376dbf0fdb790800000000000000
+      internalID: -7512583638958740387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_205
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 69
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7089716c204f79260800000000000000
+      internalID: 7104415229950793735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_206
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 67
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da6558f5ff0e9720800000000000000
+      internalID: 2854736762907224785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_207
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 66
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fb8e30be2d9e220800000000000000
+      internalID: 2515773773687865233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_208
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 67
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a06d316d8430b690800000000000000
+      internalID: -7588507590292840281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_209
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 56
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcea23bc74261f9f0800000000000000
+      internalID: -436459628386930997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_210
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 54
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5928dda8c2aae030800000000000000
+      internalID: 3524808641164618075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_211
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 51
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de604bebfc0744c10800000000000000
+      internalID: 2036876969038317293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_212
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 49
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1327a07ef60e53360800000000000000
+      internalID: 7148866754742743601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_213
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf5f991eda0f950800000000000000
+      internalID: 6480871048248425450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_214
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 42
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c93239f6a41e6b50800000000000000
+      internalID: 6588226012267559367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_215
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 60
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f780fe5a1740a00800000000000000
+      internalID: 721826797779975987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_216
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 66
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ebfda70afd35a0800000000000000
+      internalID: -6539796172981411702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_217
+      rect:
+        serializedVersion: 2
+        x: 5206
+        y: 65
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f3c57b76bdd660800000000000000
+      internalID: 7412281203094713616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_218
+      rect:
+        serializedVersion: 2
+        x: 5397
+        y: 62
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d68707e628db290800000000000000
+      internalID: -7872993162728805010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_219
+      rect:
+        serializedVersion: 2
+        x: 5591
+        y: 60
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bc9dd4b582388d0800000000000000
+      internalID: -2845386166954767494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_220
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 70
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5878a1ad5976019e0800000000000000
+      internalID: -1652707169938012283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_221
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 66
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520fedefa6c645c80800000000000000
+      internalID: -8334917803557588955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_222
+      rect:
+        serializedVersion: 2
+        x: 6055
+        y: 63
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba500c20a720b7150800000000000000
+      internalID: 5871289262262977963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_223
+      rect:
+        serializedVersion: 2
+        x: 6251
+        y: 59
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bd405b3b13beab0800000000000000
+      internalID: -4977830315222049989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_224
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72e3855366120080800000000000000
+      internalID: -9222784471009074563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_225
+      rect:
+        serializedVersion: 2
+        x: 6375
+        y: 50
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0696b11f45c7c0930800000000000000
+      internalID: 4110797264146622816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_226
+      rect:
+        serializedVersion: 2
+        x: 6448
+        y: 57
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25939dd90afb42070800000000000000
+      internalID: 8080794327973443922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_227
+      rect:
+        serializedVersion: 2
+        x: 6571
+        y: 48
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc864f998e2f85fb0800000000000000
+      internalID: -4658706733685511989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_228
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 56
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b86f3dc6138170800000000000000
+      internalID: 8179406419022885117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_229
+      rect:
+        serializedVersion: 2
+        x: 6840
+        y: 55
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc9b2eac3653fc70800000000000000
+      internalID: 9003634898663873713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_230
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 47
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc76111aa836b3b0800000000000000
+      internalID: -5497143992076829510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_231
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 56
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8571fb896079bc0800000000000000
+      internalID: -3776542509416097569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_232
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 49
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb40141a86a55ed0800000000000000
+      internalID: -2425849712296834108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_233
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 55
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ed98243fd3b5b0800000000000000
+      internalID: -5353690116900657775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_234
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 52
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd2ae74679dd6fc0800000000000000
+      internalID: -3499902233361109516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_235
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 51
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c25fb970d9082350800000000000000
+      internalID: 5992050095216874179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_236
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 53
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa8407cc1e98a0e0800000000000000
+      internalID: -2258381366691067148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_237
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 45
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecbb53d1c2852590800000000000000
+      internalID: -7699604218933691166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_238
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 51
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b7043d55d031b0800000000000000
+      internalID: -5678804533832601512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_239
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 41
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c8c554652352220800000000000000
+      internalID: 2460428117540113489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_240
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 48
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a19a737d9bb9150800000000000000
+      internalID: 5880498072465250871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_241
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 47
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b3e7adca3747bd0800000000000000
+      internalID: -2633352695867622511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_242
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 46
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a383f792aa3d8d730800000000000000
+      internalID: 4024198994849642554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_243
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 45
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c49f7b451b70740800000000000000
+      internalID: 5118254478951795721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_244
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 45
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624471bdc717027c0800000000000000
+      internalID: -4098150879841532890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_245
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 45
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e20170f037fac540800000000000000
+      internalID: 5029103723477009128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_246
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 41
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37674523a6459470800000000000000
+      internalID: 8400698346448578365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_247
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 40
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c901fca16a2b12db0800000000000000
+      internalID: -4818373699825626980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_248
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 39
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7128ba21b0fd1dda0800000000000000
+      internalID: -5921706796364627433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_249
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 39
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4199d214c0a67700800000000000000
+      internalID: 537793969507635532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_250
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 38
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79eb0d2407250b40800000000000000
+      internalID: 5405769826617256317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_251
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 37
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c7e8ef6dc0a03a0800000000000000
+      internalID: -6698527378226905991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_252
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 37
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fae0881bbeab7b90800000000000000
+      internalID: -7243003457102091536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_253
+      rect:
+        serializedVersion: 2
+        x: 5317
+        y: 36
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec08c543155394670800000000000000
+      internalID: 8523402392662474958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_254
+      rect:
+        serializedVersion: 2
+        x: 5787
+        y: 59
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc581eeef8cad580800000000000000
+      internalID: -8801501524500390732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_255
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 57
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866bd7e411959900800000000000000
+      internalID: 690617636846528131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_256
+      rect:
+        serializedVersion: 2
+        x: 6179
+        y: 53
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d867d641ca5416d30800000000000000
+      internalID: 4422892914433947277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_257
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 47
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9605cb1dcbb37c950800000000000000
+      internalID: 6469205071899676777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_258
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 40
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34224a3ab3fc1dfb0800000000000000
+      internalID: -4624687487277325757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_259
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4cd07fff9647660800000000000000
+      internalID: 7382642237249537269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_260
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 30
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d6997df18044ab0800000000000000
+      internalID: -5024882351384466095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_261
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 28
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f378e78bbb4f00800000000000000
+      internalID: 1102180726217109601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_262
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 24
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be783dc6d60692c0800000000000000
+      internalID: -4425342064209133903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_263
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 22
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb303d12a842cc440800000000000000
+      internalID: 4957377465519637436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_264
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 38
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b92e82a911d8bb0800000000000000
+      internalID: -4932266663092249845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_265
+      rect:
+        serializedVersion: 2
+        x: 4571
+        y: 24
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a492b5cc9d232080800000000000000
+      internalID: -9213470261314939738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_266
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 37
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc2822a4d2196cc0800000000000000
+      internalID: -3717419312954725193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_267
+      rect:
+        serializedVersion: 2
+        x: 5513
+        y: 38
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188789c08755f3660800000000000000
+      internalID: 7367701489497176193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_268
+      rect:
+        serializedVersion: 2
+        x: 5709
+        y: 39
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815f35cbbafb472a0800000000000000
+      internalID: -6740551997946858216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_269
+      rect:
+        serializedVersion: 2
+        x: 5909
+        y: 43
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f7a8dbddd43afe0800000000000000
+      internalID: -1179013062677856466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_petals_purple_270
+      rect:
+        serializedVersion: 2
+        x: 4769
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ee8177e0ea71200800000000000000
+      internalID: 150780489691098682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_petals_purple_0: -799177635682114486
+      env_petals_purple_1: 7191076296736234527
+      env_petals_purple_10: 8037411787334458847
+      env_petals_purple_100: 7503834543869523894
+      env_petals_purple_101: 4100623403208883961
+      env_petals_purple_102: 3801938495415785700
+      env_petals_purple_103: -3680856105943897687
+      env_petals_purple_104: 5408210891729853222
+      env_petals_purple_105: -2928253624363668514
+      env_petals_purple_106: 3385279286537478739
+      env_petals_purple_107: 6444667270505220826
+      env_petals_purple_108: 4088266030841950180
+      env_petals_purple_109: -2148263816575572752
+      env_petals_purple_11: -8157658639619207423
+      env_petals_purple_110: -5913298562430545212
+      env_petals_purple_111: -8010396654446285583
+      env_petals_purple_112: 3286378831577545139
+      env_petals_purple_113: -3765446394813310637
+      env_petals_purple_114: -3628997019828179953
+      env_petals_purple_115: 881677402932773415
+      env_petals_purple_116: 7360067194415707064
+      env_petals_purple_117: -2320468418962855875
+      env_petals_purple_118: 8190026051003075016
+      env_petals_purple_119: -5122489065604636142
+      env_petals_purple_12: 3552002167095637345
+      env_petals_purple_120: 5038721110247513834
+      env_petals_purple_121: 2079358353582056507
+      env_petals_purple_122: -286064690918111025
+      env_petals_purple_123: -5430599006524478672
+      env_petals_purple_124: -5837884417279066407
+      env_petals_purple_125: -6772300986149996633
+      env_petals_purple_126: 8443454959820499080
+      env_petals_purple_127: 8022813952081964806
+      env_petals_purple_128: -7893110245730061901
+      env_petals_purple_129: 3335723154197539276
+      env_petals_purple_13: -3405364955793324544
+      env_petals_purple_130: -3632634026547383997
+      env_petals_purple_131: -7722931990013398670
+      env_petals_purple_132: 4020916265058552717
+      env_petals_purple_133: -70390977859865820
+      env_petals_purple_134: 7702924874005871527
+      env_petals_purple_135: 4911159737681864054
+      env_petals_purple_136: 258830375017054953
+      env_petals_purple_137: -2153396952023737514
+      env_petals_purple_138: -1270710199011078496
+      env_petals_purple_139: 5603012861870523663
+      env_petals_purple_14: 845461140853563714
+      env_petals_purple_140: -4163838466972552655
+      env_petals_purple_141: 3507969967773559765
+      env_petals_purple_142: 3463104008349015988
+      env_petals_purple_143: -3024148734018577451
+      env_petals_purple_144: -623936566619872116
+      env_petals_purple_145: 1121275203541699399
+      env_petals_purple_146: -5314563867080390815
+      env_petals_purple_147: 1259133165917617430
+      env_petals_purple_148: 7719321947363070666
+      env_petals_purple_149: 5498451008478408453
+      env_petals_purple_15: -4427627312576227163
+      env_petals_purple_150: -8107497650715901981
+      env_petals_purple_151: 7852566527624010590
+      env_petals_purple_152: 6851715191804303542
+      env_petals_purple_153: -9056339662256967760
+      env_petals_purple_154: 2548358612755186829
+      env_petals_purple_155: 5726792372758967897
+      env_petals_purple_156: -1682848617997984679
+      env_petals_purple_157: 1356368740734980855
+      env_petals_purple_158: 4529716294653172869
+      env_petals_purple_159: 2377233349020684171
+      env_petals_purple_16: 732741148363679483
+      env_petals_purple_160: -2896046149372196593
+      env_petals_purple_161: -4307195309851081716
+      env_petals_purple_162: 2546966881814768914
+      env_petals_purple_163: -2030165755306146722
+      env_petals_purple_164: 5790080298182615811
+      env_petals_purple_165: 3469804397137606013
+      env_petals_purple_166: 8173051854719593393
+      env_petals_purple_167: 2126610034547318145
+      env_petals_purple_168: 1044501477873976907
+      env_petals_purple_169: 1375448785873192686
+      env_petals_purple_17: 6221732146298356341
+      env_petals_purple_170: -2562004996310518379
+      env_petals_purple_171: 7203846562132444421
+      env_petals_purple_172: -4068405743419770411
+      env_petals_purple_173: -1227677052434118110
+      env_petals_purple_174: -4013007629842543250
+      env_petals_purple_175: -3793098832740181777
+      env_petals_purple_176: -1132479030190542674
+      env_petals_purple_177: -4269023641318551217
+      env_petals_purple_178: 5142590442563865009
+      env_petals_purple_179: 5639719979490326036
+      env_petals_purple_18: 6439137034261325461
+      env_petals_purple_180: -845648415406451532
+      env_petals_purple_181: 2642788714430887648
+      env_petals_purple_182: 8660036372198820252
+      env_petals_purple_183: 3267769994981383854
+      env_petals_purple_184: 3821412246930704798
+      env_petals_purple_185: -1869503589295326752
+      env_petals_purple_186: -2020396138222733537
+      env_petals_purple_187: -5012510199338159182
+      env_petals_purple_188: -3098307316654709373
+      env_petals_purple_189: 789278887696625602
+      env_petals_purple_19: 6132937235976683244
+      env_petals_purple_190: 7429650444182084711
+      env_petals_purple_191: -1618670557106328145
+      env_petals_purple_192: -8107643373157793034
+      env_petals_purple_193: -2942272929435412224
+      env_petals_purple_194: 6349636879571204215
+      env_petals_purple_195: 875679831838877877
+      env_petals_purple_196: -1274066229764146498
+      env_petals_purple_197: 201117760756185444
+      env_petals_purple_198: -7963658244136371575
+      env_petals_purple_199: 4810477778595281219
+      env_petals_purple_2: 5806120586810923223
+      env_petals_purple_20: -796971537646267912
+      env_petals_purple_200: -412451252300105482
+      env_petals_purple_201: -216758689989677241
+      env_petals_purple_202: -578512256067226024
+      env_petals_purple_203: -4579094560225950356
+      env_petals_purple_204: -7512583638958740387
+      env_petals_purple_205: 7104415229950793735
+      env_petals_purple_206: 2854736762907224785
+      env_petals_purple_207: 2515773773687865233
+      env_petals_purple_208: -7588507590292840281
+      env_petals_purple_209: -436459628386930997
+      env_petals_purple_21: -1957886921566639601
+      env_petals_purple_210: 3524808641164618075
+      env_petals_purple_211: 2036876969038317293
+      env_petals_purple_212: 7148866754742743601
+      env_petals_purple_213: 6480871048248425450
+      env_petals_purple_214: 6588226012267559367
+      env_petals_purple_215: 721826797779975987
+      env_petals_purple_216: -6539796172981411702
+      env_petals_purple_217: 7412281203094713616
+      env_petals_purple_218: -7872993162728805010
+      env_petals_purple_219: -2845386166954767494
+      env_petals_purple_22: -3936019765396856688
+      env_petals_purple_220: -1652707169938012283
+      env_petals_purple_221: -8334917803557588955
+      env_petals_purple_222: 5871289262262977963
+      env_petals_purple_223: -4977830315222049989
+      env_petals_purple_224: -9222784471009074563
+      env_petals_purple_225: 4110797264146622816
+      env_petals_purple_226: 8080794327973443922
+      env_petals_purple_227: -4658706733685511989
+      env_petals_purple_228: 8179406419022885117
+      env_petals_purple_229: 9003634898663873713
+      env_petals_purple_23: -1600047273042321649
+      env_petals_purple_230: -5497143992076829510
+      env_petals_purple_231: -3776542509416097569
+      env_petals_purple_232: -2425849712296834108
+      env_petals_purple_233: -5353690116900657775
+      env_petals_purple_234: -3499902233361109516
+      env_petals_purple_235: 5992050095216874179
+      env_petals_purple_236: -2258381366691067148
+      env_petals_purple_237: -7699604218933691166
+      env_petals_purple_238: -5678804533832601512
+      env_petals_purple_239: 2460428117540113489
+      env_petals_purple_24: -7313494301729593260
+      env_petals_purple_240: 5880498072465250871
+      env_petals_purple_241: -2633352695867622511
+      env_petals_purple_242: 4024198994849642554
+      env_petals_purple_243: 5118254478951795721
+      env_petals_purple_244: -4098150879841532890
+      env_petals_purple_245: 5029103723477009128
+      env_petals_purple_246: 8400698346448578365
+      env_petals_purple_247: -4818373699825626980
+      env_petals_purple_248: -5921706796364627433
+      env_petals_purple_249: 537793969507635532
+      env_petals_purple_25: -8307010303376924923
+      env_petals_purple_250: 5405769826617256317
+      env_petals_purple_251: -6698527378226905991
+      env_petals_purple_252: -7243003457102091536
+      env_petals_purple_253: 8523402392662474958
+      env_petals_purple_254: -8801501524500390732
+      env_petals_purple_255: 690617636846528131
+      env_petals_purple_256: 4422892914433947277
+      env_petals_purple_257: 6469205071899676777
+      env_petals_purple_258: -4624687487277325757
+      env_petals_purple_259: 7382642237249537269
+      env_petals_purple_26: -3191877855015343910
+      env_petals_purple_260: -5024882351384466095
+      env_petals_purple_261: 1102180726217109601
+      env_petals_purple_262: -4425342064209133903
+      env_petals_purple_263: 4957377465519637436
+      env_petals_purple_264: -4932266663092249845
+      env_petals_purple_265: -9213470261314939738
+      env_petals_purple_266: -3717419312954725193
+      env_petals_purple_267: 7367701489497176193
+      env_petals_purple_268: -6740551997946858216
+      env_petals_purple_269: -1179013062677856466
+      env_petals_purple_27: 7805540271759819778
+      env_petals_purple_270: 150780489691098682
+      env_petals_purple_28: -5086499356534476225
+      env_petals_purple_29: 102550498936634909
+      env_petals_purple_3: -1919055450332874748
+      env_petals_purple_30: 6010562484209415107
+      env_petals_purple_31: 4691866688223809901
+      env_petals_purple_32: -2958617767814816231
+      env_petals_purple_33: 647538769799496878
+      env_petals_purple_34: -3813414058363493124
+      env_petals_purple_35: 8371785042145160563
+      env_petals_purple_36: 7089333734855097546
+      env_petals_purple_37: -7072904140605215030
+      env_petals_purple_38: 5517469258526649701
+      env_petals_purple_39: 3375839738521707191
+      env_petals_purple_4: -5764970579472777409
+      env_petals_purple_40: -7897021997220207923
+      env_petals_purple_41: 2827745369564768538
+      env_petals_purple_42: 8754846797369673639
+      env_petals_purple_43: -6430500814299336428
+      env_petals_purple_44: -632181218002118582
+      env_petals_purple_45: -119587003427070991
+      env_petals_purple_46: -1428810861312808942
+      env_petals_purple_47: 3143781779852639963
+      env_petals_purple_48: 5658916981792260751
+      env_petals_purple_49: 6351552455810884838
+      env_petals_purple_5: 1517515182840109224
+      env_petals_purple_50: 8449784444518843368
+      env_petals_purple_51: 5674012585450733882
+      env_petals_purple_52: 4064416426562452550
+      env_petals_purple_53: -8839130272217587441
+      env_petals_purple_54: 3455346366692204308
+      env_petals_purple_55: -6279984976499515748
+      env_petals_purple_56: 5569117429487856932
+      env_petals_purple_57: -4531768135599923065
+      env_petals_purple_58: 3088814876940131892
+      env_petals_purple_59: -8965136244128140393
+      env_petals_purple_6: 4869816820822934610
+      env_petals_purple_60: -5924834180461131225
+      env_petals_purple_61: -1928449193892908204
+      env_petals_purple_62: 3146627405561966841
+      env_petals_purple_63: -1501228782980380097
+      env_petals_purple_64: -2526331304837839105
+      env_petals_purple_65: -2718791679828225083
+      env_petals_purple_66: 8386874607492263979
+      env_petals_purple_67: 489901827238946913
+      env_petals_purple_68: -941932294331368057
+      env_petals_purple_69: 177998955282542792
+      env_petals_purple_7: 2881448350510248882
+      env_petals_purple_70: 1493475900196792921
+      env_petals_purple_71: 1609170817633593104
+      env_petals_purple_72: 4993019787038464834
+      env_petals_purple_73: 7647355982964443964
+      env_petals_purple_74: -1938203093242131459
+      env_petals_purple_75: 1255039315536326789
+      env_petals_purple_76: -5212830264449165703
+      env_petals_purple_77: 6114496876334653452
+      env_petals_purple_78: 816737049981235292
+      env_petals_purple_79: -4905479513412756889
+      env_petals_purple_8: 8955966596036421557
+      env_petals_purple_80: 4267568338791701333
+      env_petals_purple_81: 5429887004692954199
+      env_petals_purple_82: 7921418995336798679
+      env_petals_purple_83: 5431731745969713160
+      env_petals_purple_84: -1002290927677065787
+      env_petals_purple_85: -7344591343397292477
+      env_petals_purple_86: -7431634151427194673
+      env_petals_purple_87: 8527719183775880900
+      env_petals_purple_88: 3002284619995177917
+      env_petals_purple_89: 6550165244485008813
+      env_petals_purple_9: -5269397723278658300
+      env_petals_purple_90: 512689320107334398
+      env_petals_purple_91: -5610768307631440162
+      env_petals_purple_92: 6903655259682293997
+      env_petals_purple_93: 172394720238209299
+      env_petals_purple_94: 8579905074961005483
+      env_petals_purple_95: -7964714418085685706
+      env_petals_purple_96: -1619292187878608889
+      env_petals_purple_97: -8815474738899853882
+      env_petals_purple_98: -7720036104321446113
+      env_petals_purple_99: -4494259876738455249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

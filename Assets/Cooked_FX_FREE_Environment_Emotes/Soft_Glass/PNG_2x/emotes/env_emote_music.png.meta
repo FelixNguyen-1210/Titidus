@@ -1,0 +1,1614 @@
+fileFormatVersion: 2
+guid: 2151e0fcf9af77142b1e9a8b1b72d49d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1063060825270801249
+    second: env_emote_music_0
+  - first:
+      213: 4493827388646511843
+    second: env_emote_music_1
+  - first:
+      213: 6685072605092192365
+    second: env_emote_music_2
+  - first:
+      213: -174397961424458806
+    second: env_emote_music_3
+  - first:
+      213: 6493560289934044799
+    second: env_emote_music_4
+  - first:
+      213: 2912373769355222765
+    second: env_emote_music_5
+  - first:
+      213: -2224317054656875596
+    second: env_emote_music_6
+  - first:
+      213: -8713491140115153446
+    second: env_emote_music_7
+  - first:
+      213: 3786541821904518693
+    second: env_emote_music_8
+  - first:
+      213: -7549663750044910401
+    second: env_emote_music_9
+  - first:
+      213: -2148148695512725248
+    second: env_emote_music_10
+  - first:
+      213: 4163452009037688827
+    second: env_emote_music_11
+  - first:
+      213: -4417679694107715477
+    second: env_emote_music_12
+  - first:
+      213: -3244612142366421007
+    second: env_emote_music_13
+  - first:
+      213: 5233062982155907023
+    second: env_emote_music_14
+  - first:
+      213: -1390005914119915286
+    second: env_emote_music_15
+  - first:
+      213: -5439981680163978497
+    second: env_emote_music_16
+  - first:
+      213: 7442575131514494061
+    second: env_emote_music_17
+  - first:
+      213: -8047340151491187930
+    second: env_emote_music_18
+  - first:
+      213: 169438739448595691
+    second: env_emote_music_19
+  - first:
+      213: -6763455334206793741
+    second: env_emote_music_20
+  - first:
+      213: -8791485089860404607
+    second: env_emote_music_21
+  - first:
+      213: -5605672252848014676
+    second: env_emote_music_22
+  - first:
+      213: 7878051508924602842
+    second: env_emote_music_23
+  - first:
+      213: 7078752549916227175
+    second: env_emote_music_24
+  - first:
+      213: 946747225402955504
+    second: env_emote_music_25
+  - first:
+      213: -3428142076696031963
+    second: env_emote_music_26
+  - first:
+      213: 4783831277608532828
+    second: env_emote_music_27
+  - first:
+      213: -2495852114454739763
+    second: env_emote_music_28
+  - first:
+      213: 759669139001235011
+    second: env_emote_music_29
+  - first:
+      213: 3411822587357052215
+    second: env_emote_music_30
+  - first:
+      213: -6531689985717472199
+    second: env_emote_music_31
+  - first:
+      213: -443204947715973149
+    second: env_emote_music_32
+  - first:
+      213: -8156232582112644492
+    second: env_emote_music_33
+  - first:
+      213: -5002510067898097990
+    second: env_emote_music_34
+  - first:
+      213: -4748509959171199675
+    second: env_emote_music_35
+  - first:
+      213: -8920121105111822267
+    second: env_emote_music_36
+  - first:
+      213: 6297382525690918831
+    second: env_emote_music_37
+  - first:
+      213: 8123994381984370844
+    second: env_emote_music_38
+  - first:
+      213: 6925595597474444430
+    second: env_emote_music_39
+  - first:
+      213: -9114392495144582441
+    second: env_emote_music_40
+  - first:
+      213: 493301856899976096
+    second: env_emote_music_41
+  - first:
+      213: -6303139859419736848
+    second: env_emote_music_42
+  - first:
+      213: -802906039753169559
+    second: env_emote_music_43
+  - first:
+      213: -9043581956071984253
+    second: env_emote_music_44
+  - first:
+      213: -1704998580788831737
+    second: env_emote_music_45
+  - first:
+      213: -8057704421742635086
+    second: env_emote_music_46
+  - first:
+      213: 8375440651247932184
+    second: env_emote_music_47
+  - first:
+      213: 7922827734912036045
+    second: env_emote_music_48
+  - first:
+      213: 2083986817477272507
+    second: env_emote_music_49
+  - first:
+      213: -3038791895878392140
+    second: env_emote_music_50
+  - first:
+      213: -1868661747900082212
+    second: env_emote_music_51
+  - first:
+      213: 4059501166243880742
+    second: env_emote_music_52
+  - first:
+      213: -4002578071433444371
+    second: env_emote_music_53
+  - first:
+      213: -2719216507742061533
+    second: env_emote_music_54
+  - first:
+      213: -3945904770351058522
+    second: env_emote_music_55
+  - first:
+      213: -2837192419437305268
+    second: env_emote_music_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_emote_music_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 89
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16356e03030c0ce00800000000000000
+      internalID: 1063060825270801249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 55
+        width: 100
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4523e53384d5e30800000000000000
+      internalID: 4493827388646511843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 51
+        width: 100
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6027348d1626cc50800000000000000
+      internalID: 6685072605092192365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 56
+        width: 92
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2eb36af9649df0800000000000000
+      internalID: -174397961424458806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 63
+        width: 89
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee919eda2cd1a50800000000000000
+      internalID: 6493560289934044799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_5
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 70
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee55974384da6820800000000000000
+      internalID: 2912373769355222765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_6
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 77
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b375597c63a121e0800000000000000
+      internalID: -2224317054656875596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_7
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add3cef59f5731780800000000000000
+      internalID: -8713491140115153446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_8
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 85
+        width: 88
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e77cd99bf7c8430800000000000000
+      internalID: 3786541821904518693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_9
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcfde4b1d43a3790800000000000000
+      internalID: -7549663750044910401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_10
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 92
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009ce3f842e3032e0800000000000000
+      internalID: -2148148695512725248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_11
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 55
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe3161b8d87c930800000000000000
+      internalID: 4163452009037688827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_12
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 51
+        width: 99
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68d04d59bf31b2c0800000000000000
+      internalID: -4417679694107715477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_13
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 56
+        width: 94
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff845c7272d8f2d0800000000000000
+      internalID: -3244612142366421007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_14
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 62
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf26aa6e039f9840800000000000000
+      internalID: 5233062982155907023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_15
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 68
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8b0355cf4b5bce0800000000000000
+      internalID: -1390005914119915286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_16
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 75
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff28131fb7d4184b0800000000000000
+      internalID: -5439981680163978497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_17
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cd31056a6594760800000000000000
+      internalID: 7442575131514494061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_18
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 82
+        width: 93
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b21a3d4ca125090800000000000000
+      internalID: -8047340151491187930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_19
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 89
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be40604c2a7f95200800000000000000
+      internalID: 169438739448595691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_20
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 55
+        width: 100
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7126635316322a0800000000000000
+      internalID: -6763455334206793741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_21
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 51
+        width: 100
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a3abad3ee5ef580800000000000000
+      internalID: -8791485089860404607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_22
+      rect:
+        serializedVersion: 2
+        x: 4953
+        y: 56
+        width: 92
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caafab149c6a432b0800000000000000
+      internalID: -5605672252848014676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_23
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 63
+        width: 89
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad95eaf8b16745d60800000000000000
+      internalID: 7878051508924602842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_24
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 70
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766b5a670f7cc3260800000000000000
+      internalID: 7078752549916227175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_25
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 77
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6da3ed595832d00800000000000000
+      internalID: 946747225402955504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_26
+      rect:
+        serializedVersion: 2
+        x: 5974
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d86feb1facc60d0800000000000000
+      internalID: -3428142076696031963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_27
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 85
+        width: 88
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b724f7335936240800000000000000
+      internalID: 4783831277608532828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_28
+      rect:
+        serializedVersion: 2
+        x: 6224
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4840ab9b3fc5dd0800000000000000
+      internalID: -2495852114454739763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_29
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 92
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346def89e03ea8a00800000000000000
+      internalID: 759669139001235011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_30
+      rect:
+        serializedVersion: 2
+        x: 6478
+        y: 55
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d321c019a395f20800000000000000
+      internalID: 3411822587357052215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_31
+      rect:
+        serializedVersion: 2
+        x: 6730
+        y: 51
+        width: 99
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934755a7096ca55a0800000000000000
+      internalID: -6531689985717472199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_32
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 56
+        width: 94
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef91b0c27b69d9f0800000000000000
+      internalID: -443204947715973149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_33
+      rect:
+        serializedVersion: 2
+        x: 7257
+        y: 62
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47275bd1ead3fce80800000000000000
+      internalID: -8156232582112644492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_34
+      rect:
+        serializedVersion: 2
+        x: 7519
+        y: 68
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5e910993839ab0800000000000000
+      internalID: -5002510067898097990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_35
+      rect:
+        serializedVersion: 2
+        x: 7778
+        y: 75
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d223fc957e91eb0800000000000000
+      internalID: -4748509959171199675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_36
+      rect:
+        serializedVersion: 2
+        x: 8022
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5405850ad1d553480800000000000000
+      internalID: -8920121105111822267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_37
+      rect:
+        serializedVersion: 2
+        x: 8035
+        y: 82
+        width: 93
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa73f8aca0cc46750800000000000000
+      internalID: 6297382525690918831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_38
+      rect:
+        serializedVersion: 2
+        x: 8272
+        y: 89
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90927ff8d93eb070800000000000000
+      internalID: 8123994381984370844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_39
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 55
+        width: 100
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e843975a088ac1060800000000000000
+      internalID: 6925595597474444430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_40
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 51
+        width: 100
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2cb67d05c238180800000000000000
+      internalID: -9114392495144582441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_41
+      rect:
+        serializedVersion: 2
+        x: 9049
+        y: 56
+        width: 92
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab409bdc6f88d600800000000000000
+      internalID: 493301856899976096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_42
+      rect:
+        serializedVersion: 2
+        x: 9312
+        y: 63
+        width: 89
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45ead71bfb688a0800000000000000
+      internalID: -6303139859419736848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_43
+      rect:
+        serializedVersion: 2
+        x: 9574
+        y: 70
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9652f78f5318bd4f0800000000000000
+      internalID: -802906039753169559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_44
+      rect:
+        serializedVersion: 2
+        x: 9833
+        y: 77
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383723b302ebe7280800000000000000
+      internalID: -9043581956071984253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_45
+      rect:
+        serializedVersion: 2
+        x: 10070
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a598103d0a658e0800000000000000
+      internalID: -1704998580788831737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_46
+      rect:
+        serializedVersion: 2
+        x: 10090
+        y: 85
+        width: 88
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b79fec15884d2090800000000000000
+      internalID: -8057704421742635086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_47
+      rect:
+        serializedVersion: 2
+        x: 10320
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813dff6b5ea8b3470800000000000000
+      internalID: 8375440651247932184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_48
+      rect:
+        serializedVersion: 2
+        x: 10351
+        y: 92
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc6b0419d983fd60800000000000000
+      internalID: 7922827734912036045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_49
+      rect:
+        serializedVersion: 2
+        x: 10574
+        y: 55
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3645418fecbec10800000000000000
+      internalID: 2083986817477272507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_50
+      rect:
+        serializedVersion: 2
+        x: 10826
+        y: 51
+        width: 99
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b625d3feda04d5d0800000000000000
+      internalID: -3038791895878392140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_51
+      rect:
+        serializedVersion: 2
+        x: 11089
+        y: 56
+        width: 94
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd71e077a0e2116e0800000000000000
+      internalID: -1868661747900082212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_52
+      rect:
+        serializedVersion: 2
+        x: 11353
+        y: 62
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f10437dce365830800000000000000
+      internalID: 4059501166243880742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_53
+      rect:
+        serializedVersion: 2
+        x: 11615
+        y: 68
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3017a537cf378c0800000000000000
+      internalID: -4002578071433444371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_54
+      rect:
+        serializedVersion: 2
+        x: 11874
+        y: 75
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cf7a44ef6634ad0800000000000000
+      internalID: -2719216507742061533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_55
+      rect:
+        serializedVersion: 2
+        x: 12118
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1b4b584845d39c0800000000000000
+      internalID: -3945904770351058522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_music_56
+      rect:
+        serializedVersion: 2
+        x: 12131
+        y: 82
+        width: 93
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c422200d68440a8d0800000000000000
+      internalID: -2837192419437305268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_emote_music_0: 1063060825270801249
+      env_emote_music_1: 4493827388646511843
+      env_emote_music_10: -2148148695512725248
+      env_emote_music_11: 4163452009037688827
+      env_emote_music_12: -4417679694107715477
+      env_emote_music_13: -3244612142366421007
+      env_emote_music_14: 5233062982155907023
+      env_emote_music_15: -1390005914119915286
+      env_emote_music_16: -5439981680163978497
+      env_emote_music_17: 7442575131514494061
+      env_emote_music_18: -8047340151491187930
+      env_emote_music_19: 169438739448595691
+      env_emote_music_2: 6685072605092192365
+      env_emote_music_20: -6763455334206793741
+      env_emote_music_21: -8791485089860404607
+      env_emote_music_22: -5605672252848014676
+      env_emote_music_23: 7878051508924602842
+      env_emote_music_24: 7078752549916227175
+      env_emote_music_25: 946747225402955504
+      env_emote_music_26: -3428142076696031963
+      env_emote_music_27: 4783831277608532828
+      env_emote_music_28: -2495852114454739763
+      env_emote_music_29: 759669139001235011
+      env_emote_music_3: -174397961424458806
+      env_emote_music_30: 3411822587357052215
+      env_emote_music_31: -6531689985717472199
+      env_emote_music_32: -443204947715973149
+      env_emote_music_33: -8156232582112644492
+      env_emote_music_34: -5002510067898097990
+      env_emote_music_35: -4748509959171199675
+      env_emote_music_36: -8920121105111822267
+      env_emote_music_37: 6297382525690918831
+      env_emote_music_38: 8123994381984370844
+      env_emote_music_39: 6925595597474444430
+      env_emote_music_4: 6493560289934044799
+      env_emote_music_40: -9114392495144582441
+      env_emote_music_41: 493301856899976096
+      env_emote_music_42: -6303139859419736848
+      env_emote_music_43: -802906039753169559
+      env_emote_music_44: -9043581956071984253
+      env_emote_music_45: -1704998580788831737
+      env_emote_music_46: -8057704421742635086
+      env_emote_music_47: 8375440651247932184
+      env_emote_music_48: 7922827734912036045
+      env_emote_music_49: 2083986817477272507
+      env_emote_music_5: 2912373769355222765
+      env_emote_music_50: -3038791895878392140
+      env_emote_music_51: -1868661747900082212
+      env_emote_music_52: 4059501166243880742
+      env_emote_music_53: -4002578071433444371
+      env_emote_music_54: -2719216507742061533
+      env_emote_music_55: -3945904770351058522
+      env_emote_music_56: -2837192419437305268
+      env_emote_music_6: -2224317054656875596
+      env_emote_music_7: -8713491140115153446
+      env_emote_music_8: 3786541821904518693
+      env_emote_music_9: -7549663750044910401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

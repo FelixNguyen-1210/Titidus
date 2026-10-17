@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: d6fe3537d15721542a481a70c2c83317
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8700233474731913203
+    second: env_butterflies_green_0
+  - first:
+      213: -1349260421596086775
+    second: env_butterflies_green_1
+  - first:
+      213: -5810929906297798540
+    second: env_butterflies_green_2
+  - first:
+      213: 2179837227230024825
+    second: env_butterflies_green_3
+  - first:
+      213: 3773538969032522788
+    second: env_butterflies_green_4
+  - first:
+      213: 6369025305573521713
+    second: env_butterflies_green_5
+  - first:
+      213: 6363530218499314750
+    second: env_butterflies_green_6
+  - first:
+      213: 4755297854647055955
+    second: env_butterflies_green_7
+  - first:
+      213: 5386482306437754706
+    second: env_butterflies_green_8
+  - first:
+      213: 524806375734808239
+    second: env_butterflies_green_9
+  - first:
+      213: -5718758538655972323
+    second: env_butterflies_green_10
+  - first:
+      213: -4753246996561598508
+    second: env_butterflies_green_11
+  - first:
+      213: -6524581289632068408
+    second: env_butterflies_green_12
+  - first:
+      213: -3598350895458962421
+    second: env_butterflies_green_13
+  - first:
+      213: 3118603692724530390
+    second: env_butterflies_green_14
+  - first:
+      213: -3366668446533089540
+    second: env_butterflies_green_15
+  - first:
+      213: 2050128556399025322
+    second: env_butterflies_green_16
+  - first:
+      213: -4901217722224876743
+    second: env_butterflies_green_17
+  - first:
+      213: -8480763728269396922
+    second: env_butterflies_green_18
+  - first:
+      213: 1357070938285791324
+    second: env_butterflies_green_19
+  - first:
+      213: 6404245707804610901
+    second: env_butterflies_green_20
+  - first:
+      213: -1443086221135835264
+    second: env_butterflies_green_21
+  - first:
+      213: 4669564909716061727
+    second: env_butterflies_green_22
+  - first:
+      213: 2609470357100370625
+    second: env_butterflies_green_23
+  - first:
+      213: 7494751714196906106
+    second: env_butterflies_green_24
+  - first:
+      213: -2367179408336075225
+    second: env_butterflies_green_25
+  - first:
+      213: -2416522701883345229
+    second: env_butterflies_green_26
+  - first:
+      213: -7196330871086244844
+    second: env_butterflies_green_27
+  - first:
+      213: -1907192173381945764
+    second: env_butterflies_green_28
+  - first:
+      213: -4924994723833816733
+    second: env_butterflies_green_29
+  - first:
+      213: -8081314341955340023
+    second: env_butterflies_green_30
+  - first:
+      213: -4247320222855795386
+    second: env_butterflies_green_31
+  - first:
+      213: -8058149291580741570
+    second: env_butterflies_green_32
+  - first:
+      213: 7402924937438484553
+    second: env_butterflies_green_33
+  - first:
+      213: -3447815628732696035
+    second: env_butterflies_green_34
+  - first:
+      213: 1007374502489622720
+    second: env_butterflies_green_35
+  - first:
+      213: 2982654403394165873
+    second: env_butterflies_green_36
+  - first:
+      213: -3787109449322860050
+    second: env_butterflies_green_37
+  - first:
+      213: -3837620763353822749
+    second: env_butterflies_green_38
+  - first:
+      213: -8474799622211881040
+    second: env_butterflies_green_39
+  - first:
+      213: -4315703606480718447
+    second: env_butterflies_green_40
+  - first:
+      213: -304200483679991340
+    second: env_butterflies_green_41
+  - first:
+      213: 6420220932269219305
+    second: env_butterflies_green_42
+  - first:
+      213: -5913132393164858995
+    second: env_butterflies_green_43
+  - first:
+      213: -6991079485782320222
+    second: env_butterflies_green_44
+  - first:
+      213: 1739534355705175165
+    second: env_butterflies_green_45
+  - first:
+      213: -6832088573187596697
+    second: env_butterflies_green_46
+  - first:
+      213: 6923039092454682494
+    second: env_butterflies_green_47
+  - first:
+      213: 877878549593825127
+    second: env_butterflies_green_48
+  - first:
+      213: 1157036123869320142
+    second: env_butterflies_green_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_butterflies_green_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 22
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffab5cdf307db870800000000000000
+      internalID: 8700233474731913203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 24
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e75459bc6764de0800000000000000
+      internalID: -1349260421596086775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 25
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4700d60b90e6b5fa0800000000000000
+      internalID: -5810929906297798540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 43
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974d73da866504e10800000000000000
+      internalID: 2179837227230024825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 29
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf64303bd4e5430800000000000000
+      internalID: 3773538969032522788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 39
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139fe2855c2536850800000000000000
+      internalID: 6369025305573521713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 37
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e349d1fa40dcf4850800000000000000
+      internalID: 6363530218499314750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 36
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3563a6344363ef140800000000000000
+      internalID: 4755297854647055955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_8
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 42
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f26207e11a0ca40800000000000000
+      internalID: 5386482306437754706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_9
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 38
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae88814e9c784700800000000000000
+      internalID: 524806375734808239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_10
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 45
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14cd2b8863e2a0b0800000000000000
+      internalID: -5718758538655972323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 43
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7e0485a03190eb0800000000000000
+      internalID: -4753246996561598508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_12
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 47
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc0253c2e70475a0800000000000000
+      internalID: -6524581289632068408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_13
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 46
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04b5faece6101ec0800000000000000
+      internalID: -3598350895458962421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_14
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 50
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc21141981874b20800000000000000
+      internalID: 3118603692724530390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_15
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 51
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf601ef92e03741d0800000000000000
+      internalID: -3366668446533089540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_16
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 50
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac5c0c5f05837c10800000000000000
+      internalID: 2050128556399025322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_17
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 57
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933efeb03706bfbb0800000000000000
+      internalID: -4901217722224876743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_18
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 45
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443c7872564e4a80800000000000000
+      internalID: -8480763728269396922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_19
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 63
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58d78b04d845d210800000000000000
+      internalID: 1357070938285791324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_20
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 39
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55193044a8370e850800000000000000
+      internalID: 6404245707804610901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_21
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 36
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f00f84ab029fbe0800000000000000
+      internalID: -1443086221135835264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_22
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 31
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e31438b80adc040800000000000000
+      internalID: 4669564909716061727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_23
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 25
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca11e6d673b63420800000000000000
+      internalID: 2609470357100370625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_24
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 21
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e474a9f4b20860800000000000000
+      internalID: 7494751714196906106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_25
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 22
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264286bed6162fd0800000000000000
+      internalID: -2367179408336075225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_26
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 24
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6739ae769c67ed0800000000000000
+      internalID: -2416522701883345229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_27
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 43
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c1ab6533f712c90800000000000000
+      internalID: -7196330871086244844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_28
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 25
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56f923b2da4885e0800000000000000
+      internalID: -1907192173381945764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_29
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 39
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36956357467e6abb0800000000000000
+      internalID: -4924994723833816733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_30
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 29
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9097b713c6769df80800000000000000
+      internalID: -8081314341955340023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_31
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 36
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64de855b2cc7e05c0800000000000000
+      internalID: -4247320222855795386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_32
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 37
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38a348c9e3bb2090800000000000000
+      internalID: -8058149291580741570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_33
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 38
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d6ea12097cb660800000000000000
+      internalID: 7402924937438484553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_34
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 42
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1af856f3f5e620d0800000000000000
+      internalID: -3447815628732696035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_35
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 43
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c80ea0d5c9eafd00800000000000000
+      internalID: 1007374502489622720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_36
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 45
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c501a8064846920800000000000000
+      internalID: 2982654403394165873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_37
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 46
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1f593550c717bc0800000000000000
+      internalID: -3787109449322860050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_38
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 47
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9c1a19f380ebac0800000000000000
+      internalID: -3837620763353822749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_39
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 51
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7327f15a6736a80800000000000000
+      internalID: -8474799622211881040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_40
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 50
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19538db7f6a8b14c0800000000000000
+      internalID: -4315703606480718447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_41
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 57
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d980c5954347cbf0800000000000000
+      internalID: -304200483679991340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_42
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 50
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed1f6f0ce4391950800000000000000
+      internalID: 6420220932269219305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_43
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 63
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899d83ea6550fda0800000000000000
+      internalID: -5913132393164858995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_44
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 45
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9c6d7f32bafe90800000000000000
+      internalID: -6991079485782320222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_45
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 39
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c1562b741142810800000000000000
+      internalID: 1739534355705175165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_46
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 36
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ed52104ab8f21a0800000000000000
+      internalID: -6832088573187596697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_47
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 31
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f67efef53931060800000000000000
+      internalID: 6923039092454682494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_48
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 25
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f9970c3e9de2c00800000000000000
+      internalID: 877878549593825127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_butterflies_green_49
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 21
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec39683793e9e0010800000000000000
+      internalID: 1157036123869320142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_butterflies_green_0: 8700233474731913203
+      env_butterflies_green_1: -1349260421596086775
+      env_butterflies_green_10: -5718758538655972323
+      env_butterflies_green_11: -4753246996561598508
+      env_butterflies_green_12: -6524581289632068408
+      env_butterflies_green_13: -3598350895458962421
+      env_butterflies_green_14: 3118603692724530390
+      env_butterflies_green_15: -3366668446533089540
+      env_butterflies_green_16: 2050128556399025322
+      env_butterflies_green_17: -4901217722224876743
+      env_butterflies_green_18: -8480763728269396922
+      env_butterflies_green_19: 1357070938285791324
+      env_butterflies_green_2: -5810929906297798540
+      env_butterflies_green_20: 6404245707804610901
+      env_butterflies_green_21: -1443086221135835264
+      env_butterflies_green_22: 4669564909716061727
+      env_butterflies_green_23: 2609470357100370625
+      env_butterflies_green_24: 7494751714196906106
+      env_butterflies_green_25: -2367179408336075225
+      env_butterflies_green_26: -2416522701883345229
+      env_butterflies_green_27: -7196330871086244844
+      env_butterflies_green_28: -1907192173381945764
+      env_butterflies_green_29: -4924994723833816733
+      env_butterflies_green_3: 2179837227230024825
+      env_butterflies_green_30: -8081314341955340023
+      env_butterflies_green_31: -4247320222855795386
+      env_butterflies_green_32: -8058149291580741570
+      env_butterflies_green_33: 7402924937438484553
+      env_butterflies_green_34: -3447815628732696035
+      env_butterflies_green_35: 1007374502489622720
+      env_butterflies_green_36: 2982654403394165873
+      env_butterflies_green_37: -3787109449322860050
+      env_butterflies_green_38: -3837620763353822749
+      env_butterflies_green_39: -8474799622211881040
+      env_butterflies_green_4: 3773538969032522788
+      env_butterflies_green_40: -4315703606480718447
+      env_butterflies_green_41: -304200483679991340
+      env_butterflies_green_42: 6420220932269219305
+      env_butterflies_green_43: -5913132393164858995
+      env_butterflies_green_44: -6991079485782320222
+      env_butterflies_green_45: 1739534355705175165
+      env_butterflies_green_46: -6832088573187596697
+      env_butterflies_green_47: 6923039092454682494
+      env_butterflies_green_48: 877878549593825127
+      env_butterflies_green_49: 1157036123869320142
+      env_butterflies_green_5: 6369025305573521713
+      env_butterflies_green_6: 6363530218499314750
+      env_butterflies_green_7: 4755297854647055955
+      env_butterflies_green_8: 5386482306437754706
+      env_butterflies_green_9: 524806375734808239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

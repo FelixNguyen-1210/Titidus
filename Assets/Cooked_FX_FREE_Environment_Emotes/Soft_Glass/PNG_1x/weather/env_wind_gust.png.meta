@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: ba9e4c58845f2e14ebae197d92cebcbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1246600857369119962
+    second: env_wind_gust_0
+  - first:
+      213: -7611479113370911884
+    second: env_wind_gust_1
+  - first:
+      213: -7062355852971548296
+    second: env_wind_gust_2
+  - first:
+      213: -7148160760641883499
+    second: env_wind_gust_3
+  - first:
+      213: 2707035502445639291
+    second: env_wind_gust_4
+  - first:
+      213: -5197137060316289715
+    second: env_wind_gust_5
+  - first:
+      213: -7936084136384269505
+    second: env_wind_gust_6
+  - first:
+      213: -3213227903241226648
+    second: env_wind_gust_7
+  - first:
+      213: -505169802208258770
+    second: env_wind_gust_8
+  - first:
+      213: 8896858356969774403
+    second: env_wind_gust_9
+  - first:
+      213: -1399832328016032788
+    second: env_wind_gust_10
+  - first:
+      213: 8200494998473670959
+    second: env_wind_gust_11
+  - first:
+      213: 4037380741202014338
+    second: env_wind_gust_12
+  - first:
+      213: -1874729550776810082
+    second: env_wind_gust_13
+  - first:
+      213: 2515932692951739139
+    second: env_wind_gust_14
+  - first:
+      213: -1947575689827729347
+    second: env_wind_gust_15
+  - first:
+      213: -5155425836775865562
+    second: env_wind_gust_16
+  - first:
+      213: 7411238991945852011
+    second: env_wind_gust_17
+  - first:
+      213: -1575882132289989381
+    second: env_wind_gust_18
+  - first:
+      213: -8129406184681514735
+    second: env_wind_gust_19
+  - first:
+      213: -931888231183501993
+    second: env_wind_gust_20
+  - first:
+      213: -8575824763395486082
+    second: env_wind_gust_21
+  - first:
+      213: -5654483757705131018
+    second: env_wind_gust_22
+  - first:
+      213: -2042974978197886907
+    second: env_wind_gust_23
+  - first:
+      213: 4510643382699443707
+    second: env_wind_gust_24
+  - first:
+      213: 5693657345381619836
+    second: env_wind_gust_25
+  - first:
+      213: 741259891022278382
+    second: env_wind_gust_26
+  - first:
+      213: -5411380230273131858
+    second: env_wind_gust_27
+  - first:
+      213: 2565514623763997325
+    second: env_wind_gust_28
+  - first:
+      213: 222920934429119252
+    second: env_wind_gust_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_wind_gust_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 80
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f0dfff1f23bee0800000000000000
+      internalID: -1246600857369119962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 80
+        width: 131
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bb830e2189e5690800000000000000
+      internalID: -7611479113370911884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 60
+        width: 147
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871ea3a05c87dfd90800000000000000
+      internalID: -7062355852971548296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 60
+        width: 149
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592fd8829a1accc90800000000000000
+      internalID: -7148160760641883499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 60
+        width: 149
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76b4ad6272519520800000000000000
+      internalID: 2707035502445639291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_5
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 52
+        width: 149
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4564d6116f00e7b0800000000000000
+      internalID: -5197137060316289715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_6
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 46
+        width: 149
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33f33f668d5dd190800000000000000
+      internalID: -7936084136384269505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_7
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 46
+        width: 149
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866fee41f325863d0800000000000000
+      internalID: -3213227903241226648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_8
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 45
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e255f1ccdb64df8f0800000000000000
+      internalID: -505169802208258770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_9
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 45
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d1620c98df77b70800000000000000
+      internalID: 8896858356969774403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_10
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 45
+        width: 148
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb0f7f0aebc29ce0800000000000000
+      internalID: -1399832328016032788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_11
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 45
+        width: 143
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f210466c0c20ec170800000000000000
+      internalID: 8200494998473670959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_12
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 45
+        width: 140
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2807956a468a70830800000000000000
+      internalID: 4037380741202014338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_13
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 45
+        width: 132
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e954504086f9bf5e0800000000000000
+      internalID: -1874729550776810082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_14
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 45
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b2e2a44736ae220800000000000000
+      internalID: 2515932692951739139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_15
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 45
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30c1a29a32d8f4e0800000000000000
+      internalID: -1947575689827729347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_16
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 46
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6238a1d148f3478b0800000000000000
+      internalID: -5155425836775865562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_17
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 46
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e474c8920ad660800000000000000
+      internalID: 7411238991945852011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_18
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 46
+        width: 61
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf458f0dc87512ae0800000000000000
+      internalID: -1575882132289989381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_19
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 48
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119d13f752c8e2f80800000000000000
+      internalID: -8129406184681514735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_20
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 108
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755b0f157944113f0800000000000000
+      internalID: -931888231183501993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_21
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 111
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e40d970dc8cf880800000000000000
+      internalID: -8575824763395486082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_22
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 111
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb05c92bfc3781b0800000000000000
+      internalID: -5654483757705131018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_23
+      rect:
+        serializedVersion: 2
+        x: 4133
+        y: 49
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548e08bd415e5a3e0800000000000000
+      internalID: -2042974978197886907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_24
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 100
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf544461246099e30800000000000000
+      internalID: 4510643382699443707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_25
+      rect:
+        serializedVersion: 2
+        x: 4326
+        y: 52
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d348703fe30f40800000000000000
+      internalID: 5693657345381619836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_26
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 102
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea0aa81fb794a00800000000000000
+      internalID: 741259891022278382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_27
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 75
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa9ffde95ae6e4b0800000000000000
+      internalID: -5411380230273131858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 80
+        width: 78
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82e58725f98a9320800000000000000
+      internalID: 2565514623763997325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_wind_gust_29
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 55
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41355a5a869f71300800000000000000
+      internalID: 222920934429119252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_wind_gust_0: -1246600857369119962
+      env_wind_gust_1: -7611479113370911884
+      env_wind_gust_10: -1399832328016032788
+      env_wind_gust_11: 8200494998473670959
+      env_wind_gust_12: 4037380741202014338
+      env_wind_gust_13: -1874729550776810082
+      env_wind_gust_14: 2515932692951739139
+      env_wind_gust_15: -1947575689827729347
+      env_wind_gust_16: -5155425836775865562
+      env_wind_gust_17: 7411238991945852011
+      env_wind_gust_18: -1575882132289989381
+      env_wind_gust_19: -8129406184681514735
+      env_wind_gust_2: -7062355852971548296
+      env_wind_gust_20: -931888231183501993
+      env_wind_gust_21: -8575824763395486082
+      env_wind_gust_22: -5654483757705131018
+      env_wind_gust_23: -2042974978197886907
+      env_wind_gust_24: 4510643382699443707
+      env_wind_gust_25: 5693657345381619836
+      env_wind_gust_26: 741259891022278382
+      env_wind_gust_27: -5411380230273131858
+      env_wind_gust_28: 2565514623763997325
+      env_wind_gust_29: 222920934429119252
+      env_wind_gust_3: -7148160760641883499
+      env_wind_gust_4: 2707035502445639291
+      env_wind_gust_5: -5197137060316289715
+      env_wind_gust_6: -7936084136384269505
+      env_wind_gust_7: -3213227903241226648
+      env_wind_gust_8: -505169802208258770
+      env_wind_gust_9: 8896858356969774403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

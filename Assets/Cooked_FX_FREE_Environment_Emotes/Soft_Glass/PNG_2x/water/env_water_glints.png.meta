@@ -1,0 +1,2368 @@
+fileFormatVersion: 2
+guid: 32f3fdfc5b3a8284e9cb544c096cbd8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1827382099710793067
+    second: env_water_glints_0
+  - first:
+      213: -2773660960595947627
+    second: env_water_glints_1
+  - first:
+      213: 4075355660746356203
+    second: env_water_glints_2
+  - first:
+      213: -6203039512228982751
+    second: env_water_glints_3
+  - first:
+      213: -4782157883288262896
+    second: env_water_glints_4
+  - first:
+      213: 6190535489821014751
+    second: env_water_glints_5
+  - first:
+      213: 8784367614951926270
+    second: env_water_glints_6
+  - first:
+      213: -6157137392299211530
+    second: env_water_glints_7
+  - first:
+      213: 5059230700985648966
+    second: env_water_glints_8
+  - first:
+      213: 3527166615293659474
+    second: env_water_glints_9
+  - first:
+      213: 6915162013576502238
+    second: env_water_glints_10
+  - first:
+      213: -1167383084022078090
+    second: env_water_glints_11
+  - first:
+      213: -530000792089098756
+    second: env_water_glints_12
+  - first:
+      213: 6903439361130998883
+    second: env_water_glints_13
+  - first:
+      213: -5372590174458390421
+    second: env_water_glints_14
+  - first:
+      213: 194473653651288699
+    second: env_water_glints_15
+  - first:
+      213: 4020050178607758135
+    second: env_water_glints_16
+  - first:
+      213: 6059228163037516345
+    second: env_water_glints_17
+  - first:
+      213: -8724785917401725854
+    second: env_water_glints_18
+  - first:
+      213: 9073454413785403688
+    second: env_water_glints_19
+  - first:
+      213: -7030609172041325368
+    second: env_water_glints_20
+  - first:
+      213: 5900211359566850392
+    second: env_water_glints_21
+  - first:
+      213: -3212054256809554869
+    second: env_water_glints_22
+  - first:
+      213: 9090287466443853494
+    second: env_water_glints_23
+  - first:
+      213: -5517116205154679198
+    second: env_water_glints_24
+  - first:
+      213: 2160127944300469934
+    second: env_water_glints_25
+  - first:
+      213: -8474276087478814617
+    second: env_water_glints_26
+  - first:
+      213: 4190746468105415347
+    second: env_water_glints_27
+  - first:
+      213: -2891787448372267104
+    second: env_water_glints_28
+  - first:
+      213: 612491751149725767
+    second: env_water_glints_29
+  - first:
+      213: -2902107065118988736
+    second: env_water_glints_30
+  - first:
+      213: -8290907723792040706
+    second: env_water_glints_31
+  - first:
+      213: -7692286837482053258
+    second: env_water_glints_32
+  - first:
+      213: 7454719952593059470
+    second: env_water_glints_33
+  - first:
+      213: 453022304394714068
+    second: env_water_glints_34
+  - first:
+      213: 6980632139931546395
+    second: env_water_glints_35
+  - first:
+      213: -257764028144944923
+    second: env_water_glints_36
+  - first:
+      213: -1080984812615546581
+    second: env_water_glints_37
+  - first:
+      213: -638467639339084650
+    second: env_water_glints_38
+  - first:
+      213: 3538218612012556595
+    second: env_water_glints_39
+  - first:
+      213: 1898326736273987866
+    second: env_water_glints_40
+  - first:
+      213: 8383517389887333444
+    second: env_water_glints_41
+  - first:
+      213: 7423793870283641035
+    second: env_water_glints_42
+  - first:
+      213: -5873105958531851775
+    second: env_water_glints_43
+  - first:
+      213: -4591011034892092960
+    second: env_water_glints_44
+  - first:
+      213: -5057943661875204481
+    second: env_water_glints_45
+  - first:
+      213: -1959507643390589219
+    second: env_water_glints_46
+  - first:
+      213: 2231882899159044600
+    second: env_water_glints_47
+  - first:
+      213: -1892112661552316074
+    second: env_water_glints_48
+  - first:
+      213: -6701344475341524679
+    second: env_water_glints_49
+  - first:
+      213: 2877032737182779666
+    second: env_water_glints_50
+  - first:
+      213: 4974218457277212556
+    second: env_water_glints_51
+  - first:
+      213: 4630106151384867487
+    second: env_water_glints_52
+  - first:
+      213: -624292258500240850
+    second: env_water_glints_53
+  - first:
+      213: -5026831783662502669
+    second: env_water_glints_54
+  - first:
+      213: 4584123681092868465
+    second: env_water_glints_55
+  - first:
+      213: 3730911410919183772
+    second: env_water_glints_56
+  - first:
+      213: -777212718410940862
+    second: env_water_glints_57
+  - first:
+      213: 8790414051549701449
+    second: env_water_glints_58
+  - first:
+      213: -4064488982758201899
+    second: env_water_glints_59
+  - first:
+      213: 7121420255045952001
+    second: env_water_glints_60
+  - first:
+      213: 1743605886848281225
+    second: env_water_glints_61
+  - first:
+      213: 5638872255212255853
+    second: env_water_glints_62
+  - first:
+      213: 3765615968889868639
+    second: env_water_glints_63
+  - first:
+      213: 8623252675552394115
+    second: env_water_glints_64
+  - first:
+      213: -3975625478716377495
+    second: env_water_glints_65
+  - first:
+      213: -6314198140015705131
+    second: env_water_glints_66
+  - first:
+      213: -4878022472666361479
+    second: env_water_glints_67
+  - first:
+      213: 4571406858848561952
+    second: env_water_glints_68
+  - first:
+      213: 7307367910273326878
+    second: env_water_glints_69
+  - first:
+      213: 3178272102261577016
+    second: env_water_glints_70
+  - first:
+      213: -1848832552700753427
+    second: env_water_glints_71
+  - first:
+      213: -7856785704758201251
+    second: env_water_glints_72
+  - first:
+      213: 2185593247239233997
+    second: env_water_glints_73
+  - first:
+      213: -1593631883134827647
+    second: env_water_glints_74
+  - first:
+      213: -131997715793464097
+    second: env_water_glints_75
+  - first:
+      213: 8490795446873465474
+    second: env_water_glints_76
+  - first:
+      213: -1249792809517529391
+    second: env_water_glints_77
+  - first:
+      213: 2038355957180823837
+    second: env_water_glints_78
+  - first:
+      213: -2368303778876301907
+    second: env_water_glints_79
+  - first:
+      213: -1084592473303597270
+    second: env_water_glints_80
+  - first:
+      213: 3475094790230489054
+    second: env_water_glints_81
+  - first:
+      213: 924395193999476106
+    second: env_water_glints_82
+  - first:
+      213: 7812664639920091772
+    second: env_water_glints_83
+  - first:
+      213: -3284228869160508742
+    second: env_water_glints_84
+  - first:
+      213: -3114025171946991809
+    second: env_water_glints_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_water_glints_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 67
+        width: 232
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b655b2a765a2c5910800000000000000
+      internalID: 1827382099710793067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 271
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f4f444d0af189d0800000000000000
+      internalID: -2773660960595947627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 115
+        width: 181
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5f92c91629e8830800000000000000
+      internalID: 4075355660746356203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_3
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 271
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12011e1cd606ae9a0800000000000000
+      internalID: -6203039512228982751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_4
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 116
+        width: 211
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017e4cafdbc52adb0800000000000000
+      internalID: -4782157883288262896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_5
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 67
+        width: 332
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdafa38aa3339e550800000000000000
+      internalID: 6190535489821014751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_6
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 67
+        width: 337
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9a7a1edc758e970800000000000000
+      internalID: 8784367614951926270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_7
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 67
+        width: 267
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f40bb2e9247d8aa0800000000000000
+      internalID: -6157137392299211530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_8
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 156
+        width: 166
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6470001848ff53640800000000000000
+      internalID: 5059230700985648966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_9
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 67
+        width: 347
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2590230595303f030800000000000000
+      internalID: 3527166615293659474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_10
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 156
+        width: 170
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb9087963797ff50800000000000000
+      internalID: 6915162013576502238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_11
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 67
+        width: 348
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6756018254f9ccfe0800000000000000
+      internalID: -1167383084022078090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_12
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 156
+        width: 173
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf58ad0761f05a8f0800000000000000
+      internalID: -530000792089098756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_13
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 67
+        width: 348
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca9a0e581fdcf50800000000000000
+      internalID: 6903439361130998883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_14
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 67
+        width: 345
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6857a793b9b075b0800000000000000
+      internalID: -5372590174458390421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_15
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 67
+        width: 307
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72be04f1c8e2b200800000000000000
+      internalID: 194473653651288699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_16
+      rect:
+        serializedVersion: 2
+        x: 4287
+        y: 67
+        width: 306
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b392b96561ac730800000000000000
+      internalID: 4020050178607758135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_17
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 67
+        width: 309
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d4ee39e3b61450800000000000000
+      internalID: 6059228163037516345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_18
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 67
+        width: 311
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26480fb1f655be680800000000000000
+      internalID: -8724785917401725854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_19
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 67
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821116357b26bed70800000000000000
+      internalID: 9073454413785403688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_20
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 67
+        width: 321
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4afd135324e6e90800000000000000
+      internalID: -7030609172041325368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_21
+      rect:
+        serializedVersion: 2
+        x: 6183
+        y: 67
+        width: 322
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859e4ba88f2c1e150800000000000000
+      internalID: 5900211359566850392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_22
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 67
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc59febad7c63d0800000000000000
+      internalID: -3212054256809554869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_23
+      rect:
+        serializedVersion: 2
+        x: 6948
+        y: 67
+        width: 293
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be429fc940372e70800000000000000
+      internalID: 9090287466443853494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_24
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 115
+        width: 217
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664437da044f63b0800000000000000
+      internalID: -5517116205154679198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_25
+      rect:
+        serializedVersion: 2
+        x: 7687
+        y: 67
+        width: 336
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae9c65abe05afd10800000000000000
+      internalID: 2160127944300469934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_26
+      rect:
+        serializedVersion: 2
+        x: 8070
+        y: 66
+        width: 307
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768fc3d0cc2556a80800000000000000
+      internalID: -8474276087478814617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_27
+      rect:
+        serializedVersion: 2
+        x: 8454
+        y: 66
+        width: 306
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba652f85b5882a30800000000000000
+      internalID: 4190746468105415347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_28
+      rect:
+        serializedVersion: 2
+        x: 8840
+        y: 66
+        width: 273
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a776d513ae4ed7d0800000000000000
+      internalID: -2891787448372267104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_29
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 236
+        width: 125
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e227a002008800800000000000000
+      internalID: 612491751149725767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_30
+      rect:
+        serializedVersion: 2
+        x: 9227
+        y: 67
+        width: 274
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0466e631005a9b7d0800000000000000
+      internalID: -2902107065118988736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_31
+      rect:
+        serializedVersion: 2
+        x: 9402
+        y: 236
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc35d13a57c0fc80800000000000000
+      internalID: -8290907723792040706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_32
+      rect:
+        serializedVersion: 2
+        x: 9473
+        y: 155
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671287570e18f3590800000000000000
+      internalID: -7692286837482053258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_33
+      rect:
+        serializedVersion: 2
+        x: 9655
+        y: 67
+        width: 233
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e7352dc4c747760800000000000000
+      internalID: 7454719952593059470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_34
+      rect:
+        serializedVersion: 2
+        x: 9785
+        y: 155
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db96c8b265794600800000000000000
+      internalID: 453022304394714068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_35
+      rect:
+        serializedVersion: 2
+        x: 10037
+        y: 67
+        width: 237
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b137b4042ff20e060800000000000000
+      internalID: 6980632139931546395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_36
+      rect:
+        serializedVersion: 2
+        x: 10169
+        y: 67
+        width: 191
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8fb8a6bfc3c6cf0800000000000000
+      internalID: -257764028144944923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_37
+      rect:
+        serializedVersion: 2
+        x: 10420
+        y: 67
+        width: 323
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29457c4a029ff0f0800000000000000
+      internalID: -1080984812615546581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_38
+      rect:
+        serializedVersion: 2
+        x: 10803
+        y: 67
+        width: 321
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6949c949015b327f0800000000000000
+      internalID: -638467639339084650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_39
+      rect:
+        serializedVersion: 2
+        x: 11187
+        y: 155
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3312fa2d4174a1130800000000000000
+      internalID: 3538218612012556595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_40
+      rect:
+        serializedVersion: 2
+        x: 11312
+        y: 67
+        width: 193
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19dc3fdb16385a10800000000000000
+      internalID: 1898326736273987866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_41
+      rect:
+        serializedVersion: 2
+        x: 11566
+        y: 155
+        width: 145
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4446b88f5ac385470800000000000000
+      internalID: 8383517389887333444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_42
+      rect:
+        serializedVersion: 2
+        x: 11683
+        y: 67
+        width: 201
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc09afb213d960760800000000000000
+      internalID: 7423793870283641035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_43
+      rect:
+        serializedVersion: 2
+        x: 11947
+        y: 67
+        width: 317
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a9a7d6f398e7ea0800000000000000
+      internalID: -5873105958531851775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_44
+      rect:
+        serializedVersion: 2
+        x: 12322
+        y: 67
+        width: 190
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9bb59b9c37940c0800000000000000
+      internalID: -4591011034892092960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_45
+      rect:
+        serializedVersion: 2
+        x: 12467
+        y: 67
+        width: 179
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e6df3a9039ec9b0800000000000000
+      internalID: -5057943661875204481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_46
+      rect:
+        serializedVersion: 2
+        x: 12702
+        y: 109
+        width: 194
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd68a052e2e6ec4e0800000000000000
+      internalID: -1959507643390589219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_47
+      rect:
+        serializedVersion: 2
+        x: 12852
+        y: 67
+        width: 175
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d4a8fbad39fe10800000000000000
+      internalID: 2231882899159044600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_48
+      rect:
+        serializedVersion: 2
+        x: 13083
+        y: 159
+        width: 198
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651c7252f8dddb5e0800000000000000
+      internalID: -1892112661552316074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_49
+      rect:
+        serializedVersion: 2
+        x: 13311
+        y: 268
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931fdb574ba0003a0800000000000000
+      internalID: -6701344475341524679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_50
+      rect:
+        serializedVersion: 2
+        x: 13466
+        y: 67
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21903f208064de720800000000000000
+      internalID: 2877032737182779666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8723351559f70540800000000000000
+      internalID: 4974218457277212556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 67
+        width: 144
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9265a96301714040800000000000000
+      internalID: 4630106151384867487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 67
+        width: 149
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a1110af711657f0800000000000000
+      internalID: -624292258500240850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_54
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 159
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc3725402b1d3ab0800000000000000
+      internalID: -5026831783662502669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_55
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 67
+        width: 152
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1791ff143341e9f30800000000000000
+      internalID: 4584123681092868465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_56
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 67
+        width: 136
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c951a48392cd6c330800000000000000
+      internalID: 3730911410919183772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_57
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 67
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e33348629c635f0800000000000000
+      internalID: -777212718410940862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_58
+      rect:
+        serializedVersion: 2
+        x: 7332
+        y: 67
+        width: 203
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e83b9103ddf970800000000000000
+      internalID: 8790414051549701449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_59
+      rect:
+        serializedVersion: 2
+        x: 8323
+        y: 155
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d565350ec80897c0800000000000000
+      internalID: -4064488982758201899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_60
+      rect:
+        serializedVersion: 2
+        x: 8706
+        y: 155
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022946bdfd54d260800000000000000
+      internalID: 7121420255045952001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_61
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 155
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a2fd9e058823810800000000000000
+      internalID: 1743605886848281225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_62
+      rect:
+        serializedVersion: 2
+        x: 9615
+        y: 66
+        width: 136
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a7bb9a07c414e40800000000000000
+      internalID: 5638872255212255853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_63
+      rect:
+        serializedVersion: 2
+        x: 10004
+        y: 66
+        width: 133
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51183ac5c7224430800000000000000
+      internalID: 3765615968889868639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_64
+      rect:
+        serializedVersion: 2
+        x: 10391
+        y: 66
+        width: 132
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bbcb6de92fba770800000000000000
+      internalID: 8623252675552394115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_65
+      rect:
+        serializedVersion: 2
+        x: 10777
+        y: 67
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663e1dd0bdb3d8c0800000000000000
+      internalID: -3975625478716377495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_66
+      rect:
+        serializedVersion: 2
+        x: 11164
+        y: 115
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38ee6ee367f58a0800000000000000
+      internalID: -6314198140015705131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_67
+      rect:
+        serializedVersion: 2
+        x: 13128
+        y: 109
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971595ee768cd4cb0800000000000000
+      internalID: -4878022472666361479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_68
+      rect:
+        serializedVersion: 2
+        x: 13248
+        y: 67
+        width: 159
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02be3795156e07f30800000000000000
+      internalID: 4571406858848561952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 67
+        width: 117
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f1ee6f56cf86560800000000000000
+      internalID: 7307367910273326878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_70
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 67
+        width: 122
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835d5d643ad7b1c20800000000000000
+      internalID: 3178272102261577016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_71
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 68
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c71fb690a756e0800000000000000
+      internalID: -1848832552700753427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_72
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 67
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54358f470717f290800000000000000
+      internalID: -7856785704758201251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_73
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 67
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1ef258a79c45e10800000000000000
+      internalID: 2185593247239233997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_74
+      rect:
+        serializedVersion: 2
+        x: 6546
+        y: 67
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1830307ee3842e9e0800000000000000
+      internalID: -1593631883134827647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_75
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 67
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b7fed6cc0b2ef0800000000000000
+      internalID: -131997715793464097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_76
+      rect:
+        serializedVersion: 2
+        x: 7305
+        y: 67
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a567097d55d570800000000000000
+      internalID: 8490795446873465474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_77
+      rect:
+        serializedVersion: 2
+        x: 8377
+        y: 68
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ced9bf08d7aee0800000000000000
+      internalID: -1249792809517529391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_78
+      rect:
+        serializedVersion: 2
+        x: 8755
+        y: 67
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19709181f1b94c10800000000000000
+      internalID: 2038355957180823837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_79
+      rect:
+        serializedVersion: 2
+        x: 9134
+        y: 67
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daddcdbc248122fd0800000000000000
+      internalID: -2368303778876301907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_80
+      rect:
+        serializedVersion: 2
+        x: 9515
+        y: 67
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f3da654e0c2f0f0800000000000000
+      internalID: -1084592473303597270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_81
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 67
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7bf74cc440a3030800000000000000
+      internalID: 3475094790230489054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_82
+      rect:
+        serializedVersion: 2
+        x: 11201
+        y: 67
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ca62088c14dc00800000000000000
+      internalID: 924395193999476106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_83
+      rect:
+        serializedVersion: 2
+        x: 11591
+        y: 67
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7231b3c8192c6c60800000000000000
+      internalID: 7812664639920091772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_84
+      rect:
+        serializedVersion: 2
+        x: 13211
+        y: 67
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2ea9c7e331c62d0800000000000000
+      internalID: -3284228869160508742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_water_glints_85
+      rect:
+        serializedVersion: 2
+        x: 13591
+        y: 67
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f897cda92c8c4d0800000000000000
+      internalID: -3114025171946991809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_water_glints_0: 1827382099710793067
+      env_water_glints_1: -2773660960595947627
+      env_water_glints_10: 6915162013576502238
+      env_water_glints_11: -1167383084022078090
+      env_water_glints_12: -530000792089098756
+      env_water_glints_13: 6903439361130998883
+      env_water_glints_14: -5372590174458390421
+      env_water_glints_15: 194473653651288699
+      env_water_glints_16: 4020050178607758135
+      env_water_glints_17: 6059228163037516345
+      env_water_glints_18: -8724785917401725854
+      env_water_glints_19: 9073454413785403688
+      env_water_glints_2: 4075355660746356203
+      env_water_glints_20: -7030609172041325368
+      env_water_glints_21: 5900211359566850392
+      env_water_glints_22: -3212054256809554869
+      env_water_glints_23: 9090287466443853494
+      env_water_glints_24: -5517116205154679198
+      env_water_glints_25: 2160127944300469934
+      env_water_glints_26: -8474276087478814617
+      env_water_glints_27: 4190746468105415347
+      env_water_glints_28: -2891787448372267104
+      env_water_glints_29: 612491751149725767
+      env_water_glints_3: -6203039512228982751
+      env_water_glints_30: -2902107065118988736
+      env_water_glints_31: -8290907723792040706
+      env_water_glints_32: -7692286837482053258
+      env_water_glints_33: 7454719952593059470
+      env_water_glints_34: 453022304394714068
+      env_water_glints_35: 6980632139931546395
+      env_water_glints_36: -257764028144944923
+      env_water_glints_37: -1080984812615546581
+      env_water_glints_38: -638467639339084650
+      env_water_glints_39: 3538218612012556595
+      env_water_glints_4: -4782157883288262896
+      env_water_glints_40: 1898326736273987866
+      env_water_glints_41: 8383517389887333444
+      env_water_glints_42: 7423793870283641035
+      env_water_glints_43: -5873105958531851775
+      env_water_glints_44: -4591011034892092960
+      env_water_glints_45: -5057943661875204481
+      env_water_glints_46: -1959507643390589219
+      env_water_glints_47: 2231882899159044600
+      env_water_glints_48: -1892112661552316074
+      env_water_glints_49: -6701344475341524679
+      env_water_glints_5: 6190535489821014751
+      env_water_glints_50: 2877032737182779666
+      env_water_glints_51: 4974218457277212556
+      env_water_glints_52: 4630106151384867487
+      env_water_glints_53: -624292258500240850
+      env_water_glints_54: -5026831783662502669
+      env_water_glints_55: 4584123681092868465
+      env_water_glints_56: 3730911410919183772
+      env_water_glints_57: -777212718410940862
+      env_water_glints_58: 8790414051549701449
+      env_water_glints_59: -4064488982758201899
+      env_water_glints_6: 8784367614951926270
+      env_water_glints_60: 7121420255045952001
+      env_water_glints_61: 1743605886848281225
+      env_water_glints_62: 5638872255212255853
+      env_water_glints_63: 3765615968889868639
+      env_water_glints_64: 8623252675552394115
+      env_water_glints_65: -3975625478716377495
+      env_water_glints_66: -6314198140015705131
+      env_water_glints_67: -4878022472666361479
+      env_water_glints_68: 4571406858848561952
+      env_water_glints_69: 7307367910273326878
+      env_water_glints_7: -6157137392299211530
+      env_water_glints_70: 3178272102261577016
+      env_water_glints_71: -1848832552700753427
+      env_water_glints_72: -7856785704758201251
+      env_water_glints_73: 2185593247239233997
+      env_water_glints_74: -1593631883134827647
+      env_water_glints_75: -131997715793464097
+      env_water_glints_76: 8490795446873465474
+      env_water_glints_77: -1249792809517529391
+      env_water_glints_78: 2038355957180823837
+      env_water_glints_79: -2368303778876301907
+      env_water_glints_8: 5059230700985648966
+      env_water_glints_80: -1084592473303597270
+      env_water_glints_81: 3475094790230489054
+      env_water_glints_82: 924395193999476106
+      env_water_glints_83: 7812664639920091772
+      env_water_glints_84: -3284228869160508742
+      env_water_glints_85: -3114025171946991809
+      env_water_glints_9: 3527166615293659474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

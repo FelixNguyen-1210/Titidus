@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: b3561ab11def7574dbd922dad4000bf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3077695195655700966
+    second: env_sun_rays_0
+  - first:
+      213: 4321656739554360788
+    second: env_sun_rays_1
+  - first:
+      213: -4474556720600198685
+    second: env_sun_rays_2
+  - first:
+      213: 4979799181304503953
+    second: env_sun_rays_3
+  - first:
+      213: 6124388843863289775
+    second: env_sun_rays_4
+  - first:
+      213: 582260063331618501
+    second: env_sun_rays_5
+  - first:
+      213: 5083685003672898862
+    second: env_sun_rays_6
+  - first:
+      213: 4882398778986138179
+    second: env_sun_rays_7
+  - first:
+      213: 2003032249465805036
+    second: env_sun_rays_8
+  - first:
+      213: -6267839383056364953
+    second: env_sun_rays_9
+  - first:
+      213: 740673105359938809
+    second: env_sun_rays_10
+  - first:
+      213: -5156549911192140642
+    second: env_sun_rays_11
+  - first:
+      213: 1073052449616394168
+    second: env_sun_rays_12
+  - first:
+      213: 9204034822458166574
+    second: env_sun_rays_13
+  - first:
+      213: -2887644317180138793
+    second: env_sun_rays_14
+  - first:
+      213: -4172832517559280373
+    second: env_sun_rays_15
+  - first:
+      213: 3504976367227826085
+    second: env_sun_rays_16
+  - first:
+      213: 812678392920269284
+    second: env_sun_rays_17
+  - first:
+      213: -733879042447793224
+    second: env_sun_rays_18
+  - first:
+      213: -1021263148448467318
+    second: env_sun_rays_19
+  - first:
+      213: 2189280867827943269
+    second: env_sun_rays_20
+  - first:
+      213: 4160376064773767580
+    second: env_sun_rays_21
+  - first:
+      213: -310716061046300273
+    second: env_sun_rays_22
+  - first:
+      213: 8917458483128371776
+    second: env_sun_rays_23
+  - first:
+      213: -4389282714901191114
+    second: env_sun_rays_24
+  - first:
+      213: -7238622607701745313
+    second: env_sun_rays_25
+  - first:
+      213: 184105307062541353
+    second: env_sun_rays_26
+  - first:
+      213: 2233647777846535427
+    second: env_sun_rays_27
+  - first:
+      213: -6041871135409700659
+    second: env_sun_rays_28
+  - first:
+      213: 7006760151121729063
+    second: env_sun_rays_29
+  - first:
+      213: 7950999498759258913
+    second: env_sun_rays_30
+  - first:
+      213: -3190912144900046291
+    second: env_sun_rays_31
+  - first:
+      213: -968782752388480713
+    second: env_sun_rays_32
+  - first:
+      213: 104809258587390730
+    second: env_sun_rays_33
+  - first:
+      213: -291198456440542045
+    second: env_sun_rays_34
+  - first:
+      213: 6167095234863893057
+    second: env_sun_rays_35
+  - first:
+      213: -3262337710527240355
+    second: env_sun_rays_36
+  - first:
+      213: -3792898959148910048
+    second: env_sun_rays_37
+  - first:
+      213: -7217931626248531434
+    second: env_sun_rays_38
+  - first:
+      213: -5513630749262125428
+    second: env_sun_rays_39
+  - first:
+      213: 5463342580980401100
+    second: env_sun_rays_40
+  - first:
+      213: -8100249933579044398
+    second: env_sun_rays_41
+  - first:
+      213: 2310554833487855109
+    second: env_sun_rays_42
+  - first:
+      213: 1249671304346599619
+    second: env_sun_rays_43
+  - first:
+      213: 5424409875178759004
+    second: env_sun_rays_44
+  - first:
+      213: -2798426344692226107
+    second: env_sun_rays_45
+  - first:
+      213: 7429604894139774389
+    second: env_sun_rays_46
+  - first:
+      213: 2909199689892001194
+    second: env_sun_rays_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_sun_rays_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 278
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10cff597b26ba20800000000000000
+      internalID: 3077695195655700966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 58
+        width: 277
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd7f4258eb99fb30800000000000000
+      internalID: 4321656739554360788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_2
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 56
+        width: 275
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1d94dae5e27e1c0800000000000000
+      internalID: -4474556720600198685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_3
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 53
+        width: 273
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9f66a8fccb1540800000000000000
+      internalID: 4979799181304503953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_4
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 50
+        width: 271
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf26d084333ef450800000000000000
+      internalID: 6124388843863289775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_5
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 49
+        width: 271
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce07c1517a941800800000000000000
+      internalID: 582260063331618501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_6
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 48
+        width: 273
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d47e98390ec8640800000000000000
+      internalID: 5083685003672898862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_7
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 47
+        width: 274
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a054942d3c1c340800000000000000
+      internalID: 4882398778986138179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_8
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 48
+        width: 275
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89f07e7333ccb10800000000000000
+      internalID: 2003032249465805036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_9
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 48
+        width: 276
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ac8bf1a492409a0800000000000000
+      internalID: -6267839383056364953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_10
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 50
+        width: 277
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f42aabd346674a00800000000000000
+      internalID: 740673105359938809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_11
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 52
+        width: 277
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9402d42d214078b0800000000000000
+      internalID: -5156549911192140642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_12
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 54
+        width: 276
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77fb4848f34ee00800000000000000
+      internalID: 1073052449616394168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_13
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 57
+        width: 276
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc1fce7ec4bbf70800000000000000
+      internalID: 9204034822458166574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_14
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 61
+        width: 275
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da6dccfac60de7d0800000000000000
+      internalID: -2887644317180138793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_15
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 65
+        width: 273
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d1ea31fee1716c0800000000000000
+      internalID: -4172832517559280373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_16
+      rect:
+        serializedVersion: 2
+        x: 6204
+        y: 69
+        width: 272
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe0c29f6d24a030800000000000000
+      internalID: 3504976367227826085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_17
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 74
+        width: 270
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1e5ae41b6374b00800000000000000
+      internalID: 812678392920269284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_18
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 78
+        width: 267
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3abce26ecb0d5f0800000000000000
+      internalID: -733879042447793224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_19
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 83
+        width: 265
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86388ec39eb3d1f0800000000000000
+      internalID: -1021263148448467318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_20
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 88
+        width: 262
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56781789953e16e10800000000000000
+      internalID: 2189280867827943269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_21
+      rect:
+        serializedVersion: 2
+        x: 8124
+        y: 93
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91c0e00dff9cb930800000000000000
+      internalID: 4160376064773767580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_22
+      rect:
+        serializedVersion: 2
+        x: 8508
+        y: 97
+        width: 257
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81a353836d10bbf0800000000000000
+      internalID: -310716061046300273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_23
+      rect:
+        serializedVersion: 2
+        x: 8892
+        y: 98
+        width: 254
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a09226e3d21cb70800000000000000
+      internalID: 8917458483128371776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_24
+      rect:
+        serializedVersion: 2
+        x: 9276
+        y: 96
+        width: 251
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6366d8f40a22613c0800000000000000
+      internalID: -4389282714901191114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_25
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 92
+        width: 249
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5163d4171f3b8b90800000000000000
+      internalID: -7238622607701745313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_26
+      rect:
+        serializedVersion: 2
+        x: 10044
+        y: 87
+        width: 248
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c1ab42dc21e8200800000000000000
+      internalID: 184105307062541353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_27
+      rect:
+        serializedVersion: 2
+        x: 10428
+        y: 82
+        width: 250
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30522efc1d28ffe10800000000000000
+      internalID: 2233647777846535427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_28
+      rect:
+        serializedVersion: 2
+        x: 10812
+        y: 77
+        width: 252
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0083ba636f62ca0800000000000000
+      internalID: -6041871135409700659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_29
+      rect:
+        serializedVersion: 2
+        x: 11196
+        y: 71
+        width: 255
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72619f9eb330d3160800000000000000
+      internalID: 7006760151121729063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_30
+      rect:
+        serializedVersion: 2
+        x: 11580
+        y: 66
+        width: 257
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123cadcfaef975e60800000000000000
+      internalID: 7950999498759258913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_31
+      rect:
+        serializedVersion: 2
+        x: 11964
+        y: 61
+        width: 260
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22c0c57f4a97b3d0800000000000000
+      internalID: -3190912144900046291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_32
+      rect:
+        serializedVersion: 2
+        x: 12348
+        y: 57
+        width: 262
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7310c5338313e82f0800000000000000
+      internalID: -968782752388480713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_33
+      rect:
+        serializedVersion: 2
+        x: 12732
+        y: 52
+        width: 265
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a030643277b547100800000000000000
+      internalID: 104809258587390730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_34
+      rect:
+        serializedVersion: 2
+        x: 13116
+        y: 48
+        width: 267
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac28b4fb8475fbf0800000000000000
+      internalID: -291198456440542045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_35
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 45
+        width: 270
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a0112017ce59550800000000000000
+      internalID: 6167095234863893057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_36
+      rect:
+        serializedVersion: 2
+        x: 13884
+        y: 42
+        width: 272
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a9aa0329d9b2d0800000000000000
+      internalID: -3262337710527240355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_37
+      rect:
+        serializedVersion: 2
+        x: 14268
+        y: 39
+        width: 274
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02afaf60e7aec5bc0800000000000000
+      internalID: -3792898959148910048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_38
+      rect:
+        serializedVersion: 2
+        x: 14652
+        y: 37
+        width: 276
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612166c9d61c4db90800000000000000
+      internalID: -7217931626248531434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_39
+      rect:
+        serializedVersion: 2
+        x: 15036
+        y: 36
+        width: 278
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c866f87cb06ab73b0800000000000000
+      internalID: -5513630749262125428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_40
+      rect:
+        serializedVersion: 2
+        x: 15420
+        y: 36
+        width: 279
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc34a91a121b1db40800000000000000
+      internalID: 5463342580980401100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_41
+      rect:
+        serializedVersion: 2
+        x: 15804
+        y: 36
+        width: 280
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b3253a91269f80800000000000000
+      internalID: -8100249933579044398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_42
+      rect:
+        serializedVersion: 2
+        x: 16188
+        y: 36
+        width: 281
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50efa14116db01020800000000000000
+      internalID: 2310554833487855109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_43
+      rect:
+        serializedVersion: 2
+        x: 16572
+        y: 38
+        width: 281
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c004952e69b75110800000000000000
+      internalID: 1249671304346599619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_44
+      rect:
+        serializedVersion: 2
+        x: 16956
+        y: 40
+        width: 281
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a62eaa00674b40800000000000000
+      internalID: 5424409875178759004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_45
+      rect:
+        serializedVersion: 2
+        x: 17340
+        y: 43
+        width: 281
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c76682f01ef929d0800000000000000
+      internalID: -2798426344692226107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_46
+      rect:
+        serializedVersion: 2
+        x: 17724
+        y: 46
+        width: 280
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b574b899424b1760800000000000000
+      internalID: 7429604894139774389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_sun_rays_47
+      rect:
+        serializedVersion: 2
+        x: 18108
+        y: 49
+        width: 279
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa570b054bd8f5820800000000000000
+      internalID: 2909199689892001194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_sun_rays_0: 3077695195655700966
+      env_sun_rays_1: 4321656739554360788
+      env_sun_rays_10: 740673105359938809
+      env_sun_rays_11: -5156549911192140642
+      env_sun_rays_12: 1073052449616394168
+      env_sun_rays_13: 9204034822458166574
+      env_sun_rays_14: -2887644317180138793
+      env_sun_rays_15: -4172832517559280373
+      env_sun_rays_16: 3504976367227826085
+      env_sun_rays_17: 812678392920269284
+      env_sun_rays_18: -733879042447793224
+      env_sun_rays_19: -1021263148448467318
+      env_sun_rays_2: -4474556720600198685
+      env_sun_rays_20: 2189280867827943269
+      env_sun_rays_21: 4160376064773767580
+      env_sun_rays_22: -310716061046300273
+      env_sun_rays_23: 8917458483128371776
+      env_sun_rays_24: -4389282714901191114
+      env_sun_rays_25: -7238622607701745313
+      env_sun_rays_26: 184105307062541353
+      env_sun_rays_27: 2233647777846535427
+      env_sun_rays_28: -6041871135409700659
+      env_sun_rays_29: 7006760151121729063
+      env_sun_rays_3: 4979799181304503953
+      env_sun_rays_30: 7950999498759258913
+      env_sun_rays_31: -3190912144900046291
+      env_sun_rays_32: -968782752388480713
+      env_sun_rays_33: 104809258587390730
+      env_sun_rays_34: -291198456440542045
+      env_sun_rays_35: 6167095234863893057
+      env_sun_rays_36: -3262337710527240355
+      env_sun_rays_37: -3792898959148910048
+      env_sun_rays_38: -7217931626248531434
+      env_sun_rays_39: -5513630749262125428
+      env_sun_rays_4: 6124388843863289775
+      env_sun_rays_40: 5463342580980401100
+      env_sun_rays_41: -8100249933579044398
+      env_sun_rays_42: 2310554833487855109
+      env_sun_rays_43: 1249671304346599619
+      env_sun_rays_44: 5424409875178759004
+      env_sun_rays_45: -2798426344692226107
+      env_sun_rays_46: 7429604894139774389
+      env_sun_rays_47: 2909199689892001194
+      env_sun_rays_5: 582260063331618501
+      env_sun_rays_6: 5083685003672898862
+      env_sun_rays_7: 4882398778986138179
+      env_sun_rays_8: 2003032249465805036
+      env_sun_rays_9: -6267839383056364953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

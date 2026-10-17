@@ -1,0 +1,3772 @@
+fileFormatVersion: 2
+guid: e6eeb38d2abbe144abb688067ea0282a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7262818910969383315
+    second: env_lightning_flash_0
+  - first:
+      213: -6517487144442574997
+    second: env_lightning_flash_1
+  - first:
+      213: -4626137438983007630
+    second: env_lightning_flash_2
+  - first:
+      213: 3328158286346468225
+    second: env_lightning_flash_3
+  - first:
+      213: -4349931621463420327
+    second: env_lightning_flash_4
+  - first:
+      213: -3279400376162194168
+    second: env_lightning_flash_5
+  - first:
+      213: 7403037313435316025
+    second: env_lightning_flash_6
+  - first:
+      213: 8251691677186557976
+    second: env_lightning_flash_7
+  - first:
+      213: 5035306137042965641
+    second: env_lightning_flash_8
+  - first:
+      213: 8061133592941699335
+    second: env_lightning_flash_9
+  - first:
+      213: 5213292142941406742
+    second: env_lightning_flash_10
+  - first:
+      213: -3063499108692563418
+    second: env_lightning_flash_11
+  - first:
+      213: 6729124699801411757
+    second: env_lightning_flash_12
+  - first:
+      213: -7543193611657731231
+    second: env_lightning_flash_13
+  - first:
+      213: -5847516560565711689
+    second: env_lightning_flash_14
+  - first:
+      213: -1414985689909953248
+    second: env_lightning_flash_15
+  - first:
+      213: -5834666729355459914
+    second: env_lightning_flash_16
+  - first:
+      213: -5899605951609895138
+    second: env_lightning_flash_17
+  - first:
+      213: -7594577454953421921
+    second: env_lightning_flash_18
+  - first:
+      213: 2234072446672820756
+    second: env_lightning_flash_19
+  - first:
+      213: -3698632049431995211
+    second: env_lightning_flash_20
+  - first:
+      213: -1706697983185149196
+    second: env_lightning_flash_21
+  - first:
+      213: -2204753164006203740
+    second: env_lightning_flash_22
+  - first:
+      213: -8872255189747271096
+    second: env_lightning_flash_23
+  - first:
+      213: 2298991115155807197
+    second: env_lightning_flash_24
+  - first:
+      213: 6671396941495496887
+    second: env_lightning_flash_25
+  - first:
+      213: 9100500991862743553
+    second: env_lightning_flash_26
+  - first:
+      213: 4800092503952047241
+    second: env_lightning_flash_27
+  - first:
+      213: 3120829001950525114
+    second: env_lightning_flash_28
+  - first:
+      213: -7017781916499123183
+    second: env_lightning_flash_29
+  - first:
+      213: 1344230711030164276
+    second: env_lightning_flash_30
+  - first:
+      213: 3981740141236236802
+    second: env_lightning_flash_31
+  - first:
+      213: -7551854442290583387
+    second: env_lightning_flash_32
+  - first:
+      213: -2652631368809977859
+    second: env_lightning_flash_33
+  - first:
+      213: 2290526685783860175
+    second: env_lightning_flash_34
+  - first:
+      213: -5275509012865835237
+    second: env_lightning_flash_35
+  - first:
+      213: -4449086389729785863
+    second: env_lightning_flash_36
+  - first:
+      213: -5602557105164804460
+    second: env_lightning_flash_37
+  - first:
+      213: 7310780393464765214
+    second: env_lightning_flash_38
+  - first:
+      213: 8517087248987453238
+    second: env_lightning_flash_39
+  - first:
+      213: -980483916000679293
+    second: env_lightning_flash_40
+  - first:
+      213: -6536880068925642542
+    second: env_lightning_flash_41
+  - first:
+      213: -3344359153472461072
+    second: env_lightning_flash_42
+  - first:
+      213: -6590133519773770962
+    second: env_lightning_flash_43
+  - first:
+      213: 4241951514171215543
+    second: env_lightning_flash_44
+  - first:
+      213: -2127490308338891007
+    second: env_lightning_flash_45
+  - first:
+      213: -4074865024928546466
+    second: env_lightning_flash_46
+  - first:
+      213: -2927064484368455935
+    second: env_lightning_flash_47
+  - first:
+      213: 3195477923651126807
+    second: env_lightning_flash_48
+  - first:
+      213: 1353264126611475785
+    second: env_lightning_flash_49
+  - first:
+      213: -2122912265192110781
+    second: env_lightning_flash_50
+  - first:
+      213: -3304530175418973865
+    second: env_lightning_flash_51
+  - first:
+      213: -3985137000356588159
+    second: env_lightning_flash_52
+  - first:
+      213: 7376318993722345430
+    second: env_lightning_flash_53
+  - first:
+      213: -3095637200121257080
+    second: env_lightning_flash_54
+  - first:
+      213: 5543644101574672172
+    second: env_lightning_flash_55
+  - first:
+      213: 7551387916995274319
+    second: env_lightning_flash_56
+  - first:
+      213: -4504416290481952381
+    second: env_lightning_flash_57
+  - first:
+      213: -3906377878275971180
+    second: env_lightning_flash_58
+  - first:
+      213: 8259280551972386757
+    second: env_lightning_flash_59
+  - first:
+      213: 7082947791628907486
+    second: env_lightning_flash_60
+  - first:
+      213: 6729428001270790681
+    second: env_lightning_flash_61
+  - first:
+      213: 6751248460844188012
+    second: env_lightning_flash_62
+  - first:
+      213: 4468220592848583029
+    second: env_lightning_flash_63
+  - first:
+      213: -6628987921037689862
+    second: env_lightning_flash_64
+  - first:
+      213: -5360164848599162380
+    second: env_lightning_flash_65
+  - first:
+      213: 2308351885990749662
+    second: env_lightning_flash_66
+  - first:
+      213: 3472234267495301539
+    second: env_lightning_flash_67
+  - first:
+      213: 1398759680854054594
+    second: env_lightning_flash_68
+  - first:
+      213: -7518600897696118112
+    second: env_lightning_flash_69
+  - first:
+      213: 5077333221694886307
+    second: env_lightning_flash_70
+  - first:
+      213: 6121806407186864100
+    second: env_lightning_flash_71
+  - first:
+      213: 4043659912349244372
+    second: env_lightning_flash_72
+  - first:
+      213: 4658757873625359947
+    second: env_lightning_flash_73
+  - first:
+      213: -2011141532621229417
+    second: env_lightning_flash_74
+  - first:
+      213: -8554185140323738225
+    second: env_lightning_flash_75
+  - first:
+      213: 5891052318860840376
+    second: env_lightning_flash_76
+  - first:
+      213: 1681659334265191489
+    second: env_lightning_flash_77
+  - first:
+      213: 7102106436516939363
+    second: env_lightning_flash_78
+  - first:
+      213: -8484545317777139865
+    second: env_lightning_flash_79
+  - first:
+      213: -3119544913406537888
+    second: env_lightning_flash_80
+  - first:
+      213: 4546526579747693613
+    second: env_lightning_flash_81
+  - first:
+      213: 5530827590173887684
+    second: env_lightning_flash_82
+  - first:
+      213: -2395206389851075951
+    second: env_lightning_flash_83
+  - first:
+      213: -5204327629919512933
+    second: env_lightning_flash_84
+  - first:
+      213: 9036739847742726
+    second: env_lightning_flash_85
+  - first:
+      213: 9092564122056710182
+    second: env_lightning_flash_86
+  - first:
+      213: 994056960852183764
+    second: env_lightning_flash_87
+  - first:
+      213: 2451298099978818151
+    second: env_lightning_flash_88
+  - first:
+      213: -2177635794482894114
+    second: env_lightning_flash_89
+  - first:
+      213: 1477354850245855063
+    second: env_lightning_flash_90
+  - first:
+      213: 8138454918510780334
+    second: env_lightning_flash_91
+  - first:
+      213: -8592748804789555477
+    second: env_lightning_flash_92
+  - first:
+      213: 8642990700330726042
+    second: env_lightning_flash_93
+  - first:
+      213: -8806035888903272638
+    second: env_lightning_flash_94
+  - first:
+      213: -3839467428728971030
+    second: env_lightning_flash_95
+  - first:
+      213: 7505550707783112137
+    second: env_lightning_flash_96
+  - first:
+      213: -5523568808516592611
+    second: env_lightning_flash_97
+  - first:
+      213: 619244455398268939
+    second: env_lightning_flash_98
+  - first:
+      213: -318068006765208589
+    second: env_lightning_flash_99
+  - first:
+      213: -112212042319554437
+    second: env_lightning_flash_100
+  - first:
+      213: 3748648366401408382
+    second: env_lightning_flash_101
+  - first:
+      213: -6690209576373949992
+    second: env_lightning_flash_102
+  - first:
+      213: -7057820115941473567
+    second: env_lightning_flash_103
+  - first:
+      213: 1620527027741848604
+    second: env_lightning_flash_104
+  - first:
+      213: -3281683927655706076
+    second: env_lightning_flash_105
+  - first:
+      213: 8587886921856050647
+    second: env_lightning_flash_106
+  - first:
+      213: -4429435874143649478
+    second: env_lightning_flash_107
+  - first:
+      213: 2354211800381137578
+    second: env_lightning_flash_108
+  - first:
+      213: 9204546820725647049
+    second: env_lightning_flash_109
+  - first:
+      213: 9194784310515499692
+    second: env_lightning_flash_110
+  - first:
+      213: -2379316240718367050
+    second: env_lightning_flash_111
+  - first:
+      213: 7918519806916036166
+    second: env_lightning_flash_112
+  - first:
+      213: -1154056321701957395
+    second: env_lightning_flash_113
+  - first:
+      213: -2353507431000383147
+    second: env_lightning_flash_114
+  - first:
+      213: -8932022721632457536
+    second: env_lightning_flash_115
+  - first:
+      213: -5354834045659361503
+    second: env_lightning_flash_116
+  - first:
+      213: -6339658989384636205
+    second: env_lightning_flash_117
+  - first:
+      213: 7760532251403478960
+    second: env_lightning_flash_118
+  - first:
+      213: -3308897711201971531
+    second: env_lightning_flash_119
+  - first:
+      213: 2425661105336248494
+    second: env_lightning_flash_120
+  - first:
+      213: -6674152360602755116
+    second: env_lightning_flash_121
+  - first:
+      213: -5886757612399805983
+    second: env_lightning_flash_122
+  - first:
+      213: 5170841734283753981
+    second: env_lightning_flash_123
+  - first:
+      213: -4525034865986383538
+    second: env_lightning_flash_124
+  - first:
+      213: -4391666525219385897
+    second: env_lightning_flash_125
+  - first:
+      213: -393576200406053723
+    second: env_lightning_flash_126
+  - first:
+      213: 645431667745645922
+    second: env_lightning_flash_127
+  - first:
+      213: 724740490753116408
+    second: env_lightning_flash_128
+  - first:
+      213: 7309586992688845374
+    second: env_lightning_flash_129
+  - first:
+      213: 2007063159224584831
+    second: env_lightning_flash_130
+  - first:
+      213: 1210589557692578195
+    second: env_lightning_flash_131
+  - first:
+      213: -2773975676754234023
+    second: env_lightning_flash_132
+  - first:
+      213: 4567976233098830824
+    second: env_lightning_flash_133
+  - first:
+      213: 1213633385127183683
+    second: env_lightning_flash_134
+  - first:
+      213: 5247002843669824454
+    second: env_lightning_flash_135
+  - first:
+      213: -7009746240619817756
+    second: env_lightning_flash_136
+  - first:
+      213: -5708044110307262417
+    second: env_lightning_flash_137
+  - first:
+      213: -6592676851486849086
+    second: env_lightning_flash_138
+  - first:
+      213: 5299232312895116488
+    second: env_lightning_flash_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_lightning_flash_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 82
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399c158c157bac460800000000000000
+      internalID: 7262818910969383315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 79
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67435729fb3d85a0800000000000000
+      internalID: -6517487144442574997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 93
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27258437288accfb0800000000000000
+      internalID: -4626137438983007630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 74
+        width: 105
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b34fdf35eff2e20800000000000000
+      internalID: 3328158286346468225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9521f69bc30f1a3c0800000000000000
+      internalID: -4349931621463420327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 73
+        width: 106
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80de19e9bba3d72d0800000000000000
+      internalID: -3279400376162194168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f264ea63fdcb660800000000000000
+      internalID: 7403037313435316025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 75
+        width: 105
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81880ce6cd5e38270800000000000000
+      internalID: 8251691677186557976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 79
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9845ac1e04001e540800000000000000
+      internalID: 5035306137042965641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 93
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70122460b46eedf60800000000000000
+      internalID: 8061133592941699335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 74
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6168b523595595840800000000000000
+      internalID: 5213292142941406742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 93
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a67a0bac34c75d0800000000000000
+      internalID: -3063499108692563418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_12
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 73
+        width: 106
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da068f41347a26d50800000000000000
+      internalID: 6729124699801411757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_13
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 93
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16325213061315790800000000000000
+      internalID: -7543193611657731231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_14
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 83
+        width: 107
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc444d6ba279dea0800000000000000
+      internalID: -5847516560565711689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_15
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 79
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02df7ae0306fc5ce0800000000000000
+      internalID: -1414985689909953248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b24af5e589170fa0800000000000000
+      internalID: -5834666729355459914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_17
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 75
+        width: 107
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17038bf4a3602ea0800000000000000
+      internalID: -5899605951609895138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_18
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93af42ea04aa9690800000000000000
+      internalID: -7594577454953421921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_19
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 73
+        width: 106
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41adb6abd05010f10800000000000000
+      internalID: 2234072446672820756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_20
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc1bba4fb1dbacc0800000000000000
+      internalID: -3698632049431995211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_21
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 83
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2af5d0a379058e0800000000000000
+      internalID: -1706697983185149196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_22
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 80
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeddf9bda42761e0800000000000000
+      internalID: -2204753164006203740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_23
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a7f7289ea6fd480800000000000000
+      internalID: -8872255189747271096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_24
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 82
+        width: 150
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb14a81d38a7ef10800000000000000
+      internalID: 2298991115155807197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_25
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 74
+        width: 150
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07775fb20959c50800000000000000
+      internalID: 6671396941495496887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_26
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 83
+        width: 150
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102a1128f697b4e70800000000000000
+      internalID: 9100500991862743553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_27
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 80
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb31b43ba5d9240800000000000000
+      internalID: 4800092503952047241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_28
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 75
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67ff141796f4b20800000000000000
+      internalID: 3120829001950525114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_29
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 79
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114e8eb5784db9e90800000000000000
+      internalID: -7017781916499123183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_30
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 81
+        width: 107
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43baf1ba5baa7a210800000000000000
+      internalID: 1344230711030164276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_31
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 93
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202bc42ff8bf14730800000000000000
+      internalID: 3981740141236236802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_32
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 80
+        width: 151
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a860db656c623790800000000000000
+      internalID: -7551854442290583387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_33
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 79
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7e50603d5ff2bd0800000000000000
+      internalID: -2652631368809977859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_34
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 78
+        width: 151
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc323be82e599cf10800000000000000
+      internalID: 2290526685783860175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_35
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 73
+        width: 107
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f92cee080a9c6b0800000000000000
+      internalID: -5275509012865835237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_36
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 93
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f78125308ba142c0800000000000000
+      internalID: -4449086389729785863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_37
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 83
+        width: 106
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e9fc81ff7bf32b0800000000000000
+      internalID: -5602557105164804460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_38
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 79
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b9b5f980c157560800000000000000
+      internalID: 7310780393464765214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_39
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 93
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f7ec3ab5c23670800000000000000
+      internalID: 8517087248987453238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_40
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 74
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aabceb21f9462f0800000000000000
+      internalID: -980483916000679293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_41
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 93
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d82b5016365845a0800000000000000
+      internalID: -6536880068925642542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_42
+      rect:
+        serializedVersion: 2
+        x: 4054
+        y: 73
+        width: 105
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6a2ffa1137691d0800000000000000
+      internalID: -3344359153472461072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_43
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 93
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b5d73da742b84a0800000000000000
+      internalID: -6590133519773770962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_44
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 83
+        width: 106
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be0b946d607eda30800000000000000
+      internalID: 4241951514171215543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_45
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 79
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107cf5426d2a972e0800000000000000
+      internalID: -2127490308338891007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_46
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 93
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51887179db2377c0800000000000000
+      internalID: -4074865024928546466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_47
+      rect:
+        serializedVersion: 2
+        x: 4438
+        y: 82
+        width: 105
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1076e861c5af067d0800000000000000
+      internalID: -2927064484368455935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_48
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71604debd3e985c20800000000000000
+      internalID: 3195477923651126807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_49
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 73
+        width: 104
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dc4f1ad82c7c210800000000000000
+      internalID: 1353264126611475785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_50
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 93
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34587efda86e982e0800000000000000
+      internalID: -2122912265192110781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_51
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 83
+        width: 104
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751c7984053f322d0800000000000000
+      internalID: -3304530175418973865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_52
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 80
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185da782303f1b8c0800000000000000
+      internalID: -3985137000356588159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_53
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d789ca1b03fd5660800000000000000
+      internalID: 7376318993722345430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_54
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 75
+        width: 105
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883a94d2e561a05d0800000000000000
+      internalID: -3095637200121257080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_55
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f3c8b50fafeec40800000000000000
+      internalID: 5543644101574672172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_56
+      rect:
+        serializedVersion: 2
+        x: 5207
+        y: 81
+        width: 104
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f462ea13d4bebc860800000000000000
+      internalID: 7551387916995274319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_57
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 93
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389275dcf391d71c0800000000000000
+      internalID: -4504416290481952381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_58
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 83
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497aaee3402c9c9c0800000000000000
+      internalID: -3906377878275971180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_59
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 80
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c73b9807ebde9270800000000000000
+      internalID: 8259280551972386757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_60
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 93
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3bdaa4d7fab4260800000000000000
+      internalID: 7082947791628907486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_61
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 82
+        width: 144
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aff45fc1bb36d50800000000000000
+      internalID: 6729428001270790681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_62
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 79
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61450b94b041bd50800000000000000
+      internalID: 6751248460844188012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_63
+      rect:
+        serializedVersion: 2
+        x: 5775
+        y: 74
+        width: 153
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57933de94fe420e30800000000000000
+      internalID: 4468220592848583029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_64
+      rect:
+        serializedVersion: 2
+        x: 5967
+        y: 62
+        width: 162
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb71329b9a1104a0800000000000000
+      internalID: -6628987921037689862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_65
+      rect:
+        serializedVersion: 2
+        x: 6159
+        y: 62
+        width: 162
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f126b5387edc95b0800000000000000
+      internalID: -5360164848599162380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_66
+      rect:
+        serializedVersion: 2
+        x: 6351
+        y: 63
+        width: 162
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5e4156fc9e80020800000000000000
+      internalID: 2308351885990749662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_67
+      rect:
+        serializedVersion: 2
+        x: 6553
+        y: 80
+        width: 152
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a10ffa6baadf2030800000000000000
+      internalID: 3472234267495301539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_68
+      rect:
+        serializedVersion: 2
+        x: 6745
+        y: 83
+        width: 142
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6d17fc484696310800000000000000
+      internalID: 1398759680854054594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_69
+      rect:
+        serializedVersion: 2
+        x: 6759
+        y: 79
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aac3ec915098a790800000000000000
+      internalID: -7518600897696118112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_70
+      rect:
+        serializedVersion: 2
+        x: 6937
+        y: 74
+        width: 142
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1d96d0aaf467640800000000000000
+      internalID: 5077333221694886307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_71
+      rect:
+        serializedVersion: 2
+        x: 7129
+        y: 80
+        width: 142
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7551c1e7605f450800000000000000
+      internalID: 6121806407186864100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_72
+      rect:
+        serializedVersion: 2
+        x: 7321
+        y: 83
+        width: 142
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db501c1447fd1830800000000000000
+      internalID: 4043659912349244372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_73
+      rect:
+        serializedVersion: 2
+        x: 7350
+        y: 79
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b466ef75a9b37a040800000000000000
+      internalID: 4658757873625359947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_74
+      rect:
+        serializedVersion: 2
+        x: 7512
+        y: 82
+        width: 144
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792b31b7e6df614e0800000000000000
+      internalID: -2011141532621229417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_75
+      rect:
+        serializedVersion: 2
+        x: 7704
+        y: 73
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d1418dfed694980800000000000000
+      internalID: -8554185140323738225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_76
+      rect:
+        serializedVersion: 2
+        x: 7895
+        y: 83
+        width: 145
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd01f23fd831c150800000000000000
+      internalID: 5891052318860840376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_77
+      rect:
+        serializedVersion: 2
+        x: 7903
+        y: 80
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cb8143144765710800000000000000
+      internalID: 1681659334265191489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_78
+      rect:
+        serializedVersion: 2
+        x: 8087
+        y: 75
+        width: 145
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3668b99ec20cf8260800000000000000
+      internalID: 7102106436516939363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_79
+      rect:
+        serializedVersion: 2
+        x: 8280
+        y: 74
+        width: 144
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767903d8cf6d04a80800000000000000
+      internalID: -8484545317777139865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_80
+      rect:
+        serializedVersion: 2
+        x: 8472
+        y: 83
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc687ed6625b4d0800000000000000
+      internalID: -3119544913406537888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_81
+      rect:
+        serializedVersion: 2
+        x: 8493
+        y: 80
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24abb3f5d1881f30800000000000000
+      internalID: 4546526579747693613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_82
+      rect:
+        serializedVersion: 2
+        x: 8574
+        y: 93
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc8e32c36271cc40800000000000000
+      internalID: 5530827590173887684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_83
+      rect:
+        serializedVersion: 2
+        x: 8663
+        y: 82
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a4e219a7482ced0800000000000000
+      internalID: -2395206389851075951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_84
+      rect:
+        serializedVersion: 2
+        x: 8685
+        y: 79
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9695e3289386c7b0800000000000000
+      internalID: -5204327629919512933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_85
+      rect:
+        serializedVersion: 2
+        x: 8766
+        y: 93
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6056d84fdda102000800000000000000
+      internalID: 9036739847742726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_86
+      rect:
+        serializedVersion: 2
+        x: 8854
+        y: 74
+        width: 105
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d6a005e64f2e70800000000000000
+      internalID: 9092564122056710182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_87
+      rect:
+        serializedVersion: 2
+        x: 8958
+        y: 93
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da49160a899bcd00800000000000000
+      internalID: 994056960852183764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_88
+      rect:
+        serializedVersion: 2
+        x: 9047
+        y: 80
+        width: 104
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762d3d762a2c40220800000000000000
+      internalID: 2451298099978818151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_89
+      rect:
+        serializedVersion: 2
+        x: 9150
+        y: 93
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaeba358cb77c1e0800000000000000
+      internalID: -2177635794482894114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_90
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 75
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757ca10b86e908410800000000000000
+      internalID: 1477354850245855063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_91
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 78
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf9d5601a991f070800000000000000
+      internalID: 8138454918510780334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_92
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 77
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee2b560d7c60c880800000000000000
+      internalID: -8592748804789555477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_93
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 78
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b73adf3212f770800000000000000
+      internalID: 8642990700330726042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_94
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 77
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2474492f30daac580800000000000000
+      internalID: -8806035888903272638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_95
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 76
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae06de747b877bac0800000000000000
+      internalID: -3839467428728971030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_96
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 78
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c518154a92192860800000000000000
+      internalID: 7505550707783112137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_97
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 77
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cd0fb0f675853b0800000000000000
+      internalID: -5523568808516592611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_98
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 76
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00e4212d8ff79800800000000000000
+      internalID: 619244455398268939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_99
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 78
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbd75245def59bf0800000000000000
+      internalID: -318068006765208589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_100
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 75
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b789506fdb7517ef0800000000000000
+      internalID: -112212042319554437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_101
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 77
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d443bf3dfd50430800000000000000
+      internalID: 3748648366401408382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_102
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 76
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9605726d99723a0800000000000000
+      internalID: -6690209576373949992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_103
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 74
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2c3bc9ff59d0e90800000000000000
+      internalID: -7057820115941473567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_104
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 77
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14f87deeb44d7610800000000000000
+      internalID: 1620527027741848604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_105
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 76
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42219fadadd1572d0800000000000000
+      internalID: -3281683927655706076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_106
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 75
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5e374a7ad4e2770800000000000000
+      internalID: 8587886921856050647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_107
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31cb466a8b7782c0800000000000000
+      internalID: -4429435874143649478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_108
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 77
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa220c7c827dba020800000000000000
+      internalID: 2354211800381137578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_109
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 75
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6adcfc09e1dbf70800000000000000
+      internalID: 9204546820725647049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_110
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 78
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca28c964d9f6a9f70800000000000000
+      internalID: 9194784310515499692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_111
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 77
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6f9a73c78fafed0800000000000000
+      internalID: -2379316240718367050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_112
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 76
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646002e6fcb34ed60800000000000000
+      internalID: 7918519806916036166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_113
+      rect:
+        serializedVersion: 2
+        x: 4454
+        y: 75
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0392ec3e7fbffe0800000000000000
+      internalID: -1154056321701957395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_114
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 78
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551eafef579a65fd0800000000000000
+      internalID: -2353507431000383147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_115
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 77
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc216798a41b0480800000000000000
+      internalID: -8932022721632457536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_116
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 76
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f4e4d7ececfa5b0800000000000000
+      internalID: -5354834045659361503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_117
+      rect:
+        serializedVersion: 2
+        x: 5022
+        y: 78
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8ed94fcb10508a0800000000000000
+      internalID: -6339658989384636205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_118
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 77
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7edd037f2f2bb60800000000000000
+      internalID: 7760532251403478960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_119
+      rect:
+        serializedVersion: 2
+        x: 5238
+        y: 74
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b214bd101f6412d0800000000000000
+      internalID: -3308897711201971531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_120
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 76
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea86c017ceda9a120800000000000000
+      internalID: 2425661105336248494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_121
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 75
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df10790ac5a063a0800000000000000
+      internalID: -6674152360602755116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_122
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9351214290e4ea0800000000000000
+      internalID: -5886757612399805983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_123
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 77
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df97fb9392582c740800000000000000
+      internalID: 5170841734283753981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_124
+      rect:
+        serializedVersion: 2
+        x: 6671
+        y: 68
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41df9893c8d331c0800000000000000
+      internalID: -4525034865986383538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_125
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 75
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd0358309aad03c0800000000000000
+      internalID: -4391666525219385897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_126
+      rect:
+        serializedVersion: 2
+        x: 6951
+        y: 78
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5accfbee78cb98af0800000000000000
+      internalID: -393576200406053723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_127
+      rect:
+        serializedVersion: 2
+        x: 7143
+        y: 77
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26564c2aea805f800800000000000000
+      internalID: 645431667745645922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_128
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 73
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f88ea1f2abce0a00800000000000000
+      internalID: 724740490753116408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_129
+      rect:
+        serializedVersion: 2
+        x: 7336
+        y: 76
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32d80a54aed07560800000000000000
+      internalID: 7309586992688845374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_130
+      rect:
+        serializedVersion: 2
+        x: 7528
+        y: 75
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aca573f458adb10800000000000000
+      internalID: 2007063159224584831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_131
+      rect:
+        serializedVersion: 2
+        x: 7542
+        y: 78
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399301be9c0ecc010800000000000000
+      internalID: 1210589557692578195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_132
+      rect:
+        serializedVersion: 2
+        x: 7734
+        y: 77
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9557d73b1dbd089d0800000000000000
+      internalID: -2773975676754234023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_133
+      rect:
+        serializedVersion: 2
+        x: 7926
+        y: 76
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3684c8e26b46f30800000000000000
+      internalID: 4567976233098830824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_134
+      rect:
+        serializedVersion: 2
+        x: 8095
+        y: 78
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3458f083221b7d010800000000000000
+      internalID: 1213633385127183683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_135
+      rect:
+        serializedVersion: 2
+        x: 8287
+        y: 77
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c38768594911d840800000000000000
+      internalID: 5247002843669824454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_136
+      rect:
+        serializedVersion: 2
+        x: 8479
+        y: 76
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4d932fee068be90800000000000000
+      internalID: -7009746240619817756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_137
+      rect:
+        serializedVersion: 2
+        x: 8671
+        y: 75
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2000eacf14f8c0b0800000000000000
+      internalID: -5708044110307262417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_138
+      rect:
+        serializedVersion: 2
+        x: 8877
+        y: 77
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c78f24455b1284a0800000000000000
+      internalID: -6592676851486849086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_lightning_flash_139
+      rect:
+        serializedVersion: 2
+        x: 9069
+        y: 76
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4926846b7aa8940800000000000000
+      internalID: 5299232312895116488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_lightning_flash_0: 7262818910969383315
+      env_lightning_flash_1: -6517487144442574997
+      env_lightning_flash_10: 5213292142941406742
+      env_lightning_flash_100: -112212042319554437
+      env_lightning_flash_101: 3748648366401408382
+      env_lightning_flash_102: -6690209576373949992
+      env_lightning_flash_103: -7057820115941473567
+      env_lightning_flash_104: 1620527027741848604
+      env_lightning_flash_105: -3281683927655706076
+      env_lightning_flash_106: 8587886921856050647
+      env_lightning_flash_107: -4429435874143649478
+      env_lightning_flash_108: 2354211800381137578
+      env_lightning_flash_109: 9204546820725647049
+      env_lightning_flash_11: -3063499108692563418
+      env_lightning_flash_110: 9194784310515499692
+      env_lightning_flash_111: -2379316240718367050
+      env_lightning_flash_112: 7918519806916036166
+      env_lightning_flash_113: -1154056321701957395
+      env_lightning_flash_114: -2353507431000383147
+      env_lightning_flash_115: -8932022721632457536
+      env_lightning_flash_116: -5354834045659361503
+      env_lightning_flash_117: -6339658989384636205
+      env_lightning_flash_118: 7760532251403478960
+      env_lightning_flash_119: -3308897711201971531
+      env_lightning_flash_12: 6729124699801411757
+      env_lightning_flash_120: 2425661105336248494
+      env_lightning_flash_121: -6674152360602755116
+      env_lightning_flash_122: -5886757612399805983
+      env_lightning_flash_123: 5170841734283753981
+      env_lightning_flash_124: -4525034865986383538
+      env_lightning_flash_125: -4391666525219385897
+      env_lightning_flash_126: -393576200406053723
+      env_lightning_flash_127: 645431667745645922
+      env_lightning_flash_128: 724740490753116408
+      env_lightning_flash_129: 7309586992688845374
+      env_lightning_flash_13: -7543193611657731231
+      env_lightning_flash_130: 2007063159224584831
+      env_lightning_flash_131: 1210589557692578195
+      env_lightning_flash_132: -2773975676754234023
+      env_lightning_flash_133: 4567976233098830824
+      env_lightning_flash_134: 1213633385127183683
+      env_lightning_flash_135: 5247002843669824454
+      env_lightning_flash_136: -7009746240619817756
+      env_lightning_flash_137: -5708044110307262417
+      env_lightning_flash_138: -6592676851486849086
+      env_lightning_flash_139: 5299232312895116488
+      env_lightning_flash_14: -5847516560565711689
+      env_lightning_flash_15: -1414985689909953248
+      env_lightning_flash_16: -5834666729355459914
+      env_lightning_flash_17: -5899605951609895138
+      env_lightning_flash_18: -7594577454953421921
+      env_lightning_flash_19: 2234072446672820756
+      env_lightning_flash_2: -4626137438983007630
+      env_lightning_flash_20: -3698632049431995211
+      env_lightning_flash_21: -1706697983185149196
+      env_lightning_flash_22: -2204753164006203740
+      env_lightning_flash_23: -8872255189747271096
+      env_lightning_flash_24: 2298991115155807197
+      env_lightning_flash_25: 6671396941495496887
+      env_lightning_flash_26: 9100500991862743553
+      env_lightning_flash_27: 4800092503952047241
+      env_lightning_flash_28: 3120829001950525114
+      env_lightning_flash_29: -7017781916499123183
+      env_lightning_flash_3: 3328158286346468225
+      env_lightning_flash_30: 1344230711030164276
+      env_lightning_flash_31: 3981740141236236802
+      env_lightning_flash_32: -7551854442290583387
+      env_lightning_flash_33: -2652631368809977859
+      env_lightning_flash_34: 2290526685783860175
+      env_lightning_flash_35: -5275509012865835237
+      env_lightning_flash_36: -4449086389729785863
+      env_lightning_flash_37: -5602557105164804460
+      env_lightning_flash_38: 7310780393464765214
+      env_lightning_flash_39: 8517087248987453238
+      env_lightning_flash_4: -4349931621463420327
+      env_lightning_flash_40: -980483916000679293
+      env_lightning_flash_41: -6536880068925642542
+      env_lightning_flash_42: -3344359153472461072
+      env_lightning_flash_43: -6590133519773770962
+      env_lightning_flash_44: 4241951514171215543
+      env_lightning_flash_45: -2127490308338891007
+      env_lightning_flash_46: -4074865024928546466
+      env_lightning_flash_47: -2927064484368455935
+      env_lightning_flash_48: 3195477923651126807
+      env_lightning_flash_49: 1353264126611475785
+      env_lightning_flash_5: -3279400376162194168
+      env_lightning_flash_50: -2122912265192110781
+      env_lightning_flash_51: -3304530175418973865
+      env_lightning_flash_52: -3985137000356588159
+      env_lightning_flash_53: 7376318993722345430
+      env_lightning_flash_54: -3095637200121257080
+      env_lightning_flash_55: 5543644101574672172
+      env_lightning_flash_56: 7551387916995274319
+      env_lightning_flash_57: -4504416290481952381
+      env_lightning_flash_58: -3906377878275971180
+      env_lightning_flash_59: 8259280551972386757
+      env_lightning_flash_6: 7403037313435316025
+      env_lightning_flash_60: 7082947791628907486
+      env_lightning_flash_61: 6729428001270790681
+      env_lightning_flash_62: 6751248460844188012
+      env_lightning_flash_63: 4468220592848583029
+      env_lightning_flash_64: -6628987921037689862
+      env_lightning_flash_65: -5360164848599162380
+      env_lightning_flash_66: 2308351885990749662
+      env_lightning_flash_67: 3472234267495301539
+      env_lightning_flash_68: 1398759680854054594
+      env_lightning_flash_69: -7518600897696118112
+      env_lightning_flash_7: 8251691677186557976
+      env_lightning_flash_70: 5077333221694886307
+      env_lightning_flash_71: 6121806407186864100
+      env_lightning_flash_72: 4043659912349244372
+      env_lightning_flash_73: 4658757873625359947
+      env_lightning_flash_74: -2011141532621229417
+      env_lightning_flash_75: -8554185140323738225
+      env_lightning_flash_76: 5891052318860840376
+      env_lightning_flash_77: 1681659334265191489
+      env_lightning_flash_78: 7102106436516939363
+      env_lightning_flash_79: -8484545317777139865
+      env_lightning_flash_8: 5035306137042965641
+      env_lightning_flash_80: -3119544913406537888
+      env_lightning_flash_81: 4546526579747693613
+      env_lightning_flash_82: 5530827590173887684
+      env_lightning_flash_83: -2395206389851075951
+      env_lightning_flash_84: -5204327629919512933
+      env_lightning_flash_85: 9036739847742726
+      env_lightning_flash_86: 9092564122056710182
+      env_lightning_flash_87: 994056960852183764
+      env_lightning_flash_88: 2451298099978818151
+      env_lightning_flash_89: -2177635794482894114
+      env_lightning_flash_9: 8061133592941699335
+      env_lightning_flash_90: 1477354850245855063
+      env_lightning_flash_91: 8138454918510780334
+      env_lightning_flash_92: -8592748804789555477
+      env_lightning_flash_93: 8642990700330726042
+      env_lightning_flash_94: -8806035888903272638
+      env_lightning_flash_95: -3839467428728971030
+      env_lightning_flash_96: 7505550707783112137
+      env_lightning_flash_97: -5523568808516592611
+      env_lightning_flash_98: 619244455398268939
+      env_lightning_flash_99: -318068006765208589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

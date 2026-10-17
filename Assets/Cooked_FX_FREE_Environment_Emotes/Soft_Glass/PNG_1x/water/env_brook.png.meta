@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 00895b81560216449a2fa0fa6f915a16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4683591277865290836
+    second: env_brook_0
+  - first:
+      213: -6369592712899201555
+    second: env_brook_1
+  - first:
+      213: 8849322211549058025
+    second: env_brook_2
+  - first:
+      213: 175548974604216046
+    second: env_brook_3
+  - first:
+      213: 1319396961649324200
+    second: env_brook_4
+  - first:
+      213: 8877623816440169230
+    second: env_brook_5
+  - first:
+      213: -9205527250741128607
+    second: env_brook_6
+  - first:
+      213: 7574768063464404086
+    second: env_brook_7
+  - first:
+      213: -318138474763884651
+    second: env_brook_8
+  - first:
+      213: -8570021790433298763
+    second: env_brook_9
+  - first:
+      213: 2560575507892486179
+    second: env_brook_10
+  - first:
+      213: 120102361114937975
+    second: env_brook_11
+  - first:
+      213: 7244047268334290934
+    second: env_brook_12
+  - first:
+      213: -2468195770899847912
+    second: env_brook_13
+  - first:
+      213: -1887957571250260459
+    second: env_brook_14
+  - first:
+      213: 6252520895082170038
+    second: env_brook_15
+  - first:
+      213: 2559181773851598960
+    second: env_brook_16
+  - first:
+      213: 3970643464860230399
+    second: env_brook_17
+  - first:
+      213: -1329318863274732101
+    second: env_brook_18
+  - first:
+      213: 3733929497356549894
+    second: env_brook_19
+  - first:
+      213: -3272890958503323736
+    second: env_brook_20
+  - first:
+      213: -2157741371253096655
+    second: env_brook_21
+  - first:
+      213: -1333712837580273976
+    second: env_brook_22
+  - first:
+      213: 9222188601930139742
+    second: env_brook_23
+  - first:
+      213: -5111901879963032118
+    second: env_brook_24
+  - first:
+      213: -7201111386801259391
+    second: env_brook_25
+  - first:
+      213: 7807545887007354878
+    second: env_brook_26
+  - first:
+      213: 531444418738768561
+    second: env_brook_27
+  - first:
+      213: -4780979017098785453
+    second: env_brook_28
+  - first:
+      213: -4900089949035255042
+    second: env_brook_29
+  - first:
+      213: -1501073204713921188
+    second: env_brook_30
+  - first:
+      213: 2848714216597641393
+    second: env_brook_31
+  - first:
+      213: -4541959173555314527
+    second: env_brook_32
+  - first:
+      213: 6588608572381947190
+    second: env_brook_33
+  - first:
+      213: 6020792589748159889
+    second: env_brook_34
+  - first:
+      213: 6752735431967332518
+    second: env_brook_35
+  - first:
+      213: -232111587959253006
+    second: env_brook_36
+  - first:
+      213: -1353582639378800684
+    second: env_brook_37
+  - first:
+      213: -6472550225444765705
+    second: env_brook_38
+  - first:
+      213: -1003163057585964218
+    second: env_brook_39
+  - first:
+      213: 8035609114218727863
+    second: env_brook_40
+  - first:
+      213: 4827078830392462229
+    second: env_brook_41
+  - first:
+      213: -3160958429928122001
+    second: env_brook_42
+  - first:
+      213: -4119338340292623323
+    second: env_brook_43
+  - first:
+      213: -2440925751887683879
+    second: env_brook_44
+  - first:
+      213: 4773455216951750524
+    second: env_brook_45
+  - first:
+      213: -7297028447683030440
+    second: env_brook_46
+  - first:
+      213: -7152220799778694135
+    second: env_brook_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_brook_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3b8b92c8a800fb0800000000000000
+      internalID: -4683591277865290836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f9b7dc29aa97a0800000000000000
+      internalID: -6369592712899201555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e31b5a6aab1fca70800000000000000
+      internalID: 8849322211549058025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6e7ffbcdcaf6200800000000000000
+      internalID: 175548974604216046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a076d0db807f4210800000000000000
+      internalID: 1319396961649324200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_5
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c67c43d7a33b70800000000000000
+      internalID: 8877623816440169230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_6
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16295690db56f3080800000000000000
+      internalID: -9205527250741128607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_7
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674f4cebb6bfe1960800000000000000
+      internalID: 7574768063464404086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_8
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59760562ebeb59bf0800000000000000
+      internalID: -318138474763884651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_9
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6bdd7669a211980800000000000000
+      internalID: -8570021790433298763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_10
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3204f70abddf88320800000000000000
+      internalID: 2560575507892486179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_11
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a01fa0670baa100800000000000000
+      internalID: 120102361114937975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_12
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f744352c96088460800000000000000
+      internalID: 7244047268334290934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_13
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a46ff5053fbdd0800000000000000
+      internalID: -2468195770899847912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_14
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5167e9e7790acc5e0800000000000000
+      internalID: -1887957571250260459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_15
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6841670aa65c650800000000000000
+      internalID: 6252520895082170038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_16
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0702412a34a048320800000000000000
+      internalID: 2559181773851598960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_17
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff268b4a13f8a1730800000000000000
+      internalID: 3970643464860230399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_18
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb59841798f4d8de0800000000000000
+      internalID: -1329318863274732101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_19
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f3a4a381591d330800000000000000
+      internalID: 3733929497356549894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_20
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a752d5830b5492d0800000000000000
+      internalID: -3272890958503323736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_21
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f7b41b7a92e02e0800000000000000
+      internalID: -2157741371253096655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_22
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c646a39d33bd7de0800000000000000
+      internalID: -1333712837580273976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_23
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c3b51cabcbff70800000000000000
+      internalID: 9222188601930139742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_24
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5e62ef250ee09b0800000000000000
+      internalID: -5111901879963032118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_25
+      rect:
+        serializedVersion: 2
+        x: 4813
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cb0b9c853801c90800000000000000
+      internalID: -7201111386801259391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_26
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa2aa3e99f95c60800000000000000
+      internalID: 7807545887007354878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_27
+      rect:
+        serializedVersion: 2
+        x: 5197
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac9c412e1106700800000000000000
+      internalID: 531444418738768561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_28
+      rect:
+        serializedVersion: 2
+        x: 5389
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d0b372aec86adb0800000000000000
+      internalID: -4780979017098785453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_29
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaaa4437226ffbb0800000000000000
+      internalID: -4900089949035255042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_30
+      rect:
+        serializedVersion: 2
+        x: 5773
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556b239fdd1b2be0800000000000000
+      internalID: -1501073204713921188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_31
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b858e2ac7aa88720800000000000000
+      internalID: 2848714216597641393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_32
+      rect:
+        serializedVersion: 2
+        x: 6157
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0a8eb2238b7f0c0800000000000000
+      internalID: -4541959173555314527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_33
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6356be0b6907f6b50800000000000000
+      internalID: 6588608572381947190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_34
+      rect:
+        serializedVersion: 2
+        x: 6541
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1954e3af5f62e8350800000000000000
+      internalID: 6020792589748159889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_35
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a85b9c091986bd50800000000000000
+      internalID: 6752735431967332518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_36
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7df639dbf57ccf0800000000000000
+      internalID: -232111587959253006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_37
+      rect:
+        serializedVersion: 2
+        x: 7117
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd0b5d2cb173de0800000000000000
+      internalID: -1353582639378800684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_38
+      rect:
+        serializedVersion: 2
+        x: 7309
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff7d7decd1ec26a0800000000000000
+      internalID: -6472550225444765705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_39
+      rect:
+        serializedVersion: 2
+        x: 7501
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b3bcc938c0412f0800000000000000
+      internalID: -1003163057585964218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_40
+      rect:
+        serializedVersion: 2
+        x: 7693
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b906e63ae7348f60800000000000000
+      internalID: 8035609114218727863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_41
+      rect:
+        serializedVersion: 2
+        x: 7885
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bc95c0f9a3df240800000000000000
+      internalID: 4827078830392462229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_42
+      rect:
+        serializedVersion: 2
+        x: 8077
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f699b523e050224d0800000000000000
+      internalID: -3160958429928122001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_43
+      rect:
+        serializedVersion: 2
+        x: 8269
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524063dca9b25d6c0800000000000000
+      internalID: -4119338340292623323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_44
+      rect:
+        serializedVersion: 2
+        x: 8461
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de91a316f6102ed0800000000000000
+      internalID: -2440925751887683879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_45
+      rect:
+        serializedVersion: 2
+        x: 8653
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fe4ad9a38be3240800000000000000
+      internalID: 4773455216951750524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_46
+      rect:
+        serializedVersion: 2
+        x: 8845
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852dee3c94fbbba90800000000000000
+      internalID: -7297028447683030440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_brook_47
+      rect:
+        serializedVersion: 2
+        x: 9037
+        y: 51
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cd702a3153ebc90800000000000000
+      internalID: -7152220799778694135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_brook_0: -4683591277865290836
+      env_brook_1: -6369592712899201555
+      env_brook_10: 2560575507892486179
+      env_brook_11: 120102361114937975
+      env_brook_12: 7244047268334290934
+      env_brook_13: -2468195770899847912
+      env_brook_14: -1887957571250260459
+      env_brook_15: 6252520895082170038
+      env_brook_16: 2559181773851598960
+      env_brook_17: 3970643464860230399
+      env_brook_18: -1329318863274732101
+      env_brook_19: 3733929497356549894
+      env_brook_2: 8849322211549058025
+      env_brook_20: -3272890958503323736
+      env_brook_21: -2157741371253096655
+      env_brook_22: -1333712837580273976
+      env_brook_23: 9222188601930139742
+      env_brook_24: -5111901879963032118
+      env_brook_25: -7201111386801259391
+      env_brook_26: 7807545887007354878
+      env_brook_27: 531444418738768561
+      env_brook_28: -4780979017098785453
+      env_brook_29: -4900089949035255042
+      env_brook_3: 175548974604216046
+      env_brook_30: -1501073204713921188
+      env_brook_31: 2848714216597641393
+      env_brook_32: -4541959173555314527
+      env_brook_33: 6588608572381947190
+      env_brook_34: 6020792589748159889
+      env_brook_35: 6752735431967332518
+      env_brook_36: -232111587959253006
+      env_brook_37: -1353582639378800684
+      env_brook_38: -6472550225444765705
+      env_brook_39: -1003163057585964218
+      env_brook_4: 1319396961649324200
+      env_brook_40: 8035609114218727863
+      env_brook_41: 4827078830392462229
+      env_brook_42: -3160958429928122001
+      env_brook_43: -4119338340292623323
+      env_brook_44: -2440925751887683879
+      env_brook_45: 4773455216951750524
+      env_brook_46: -7297028447683030440
+      env_brook_47: -7152220799778694135
+      env_brook_5: 8877623816440169230
+      env_brook_6: -9205527250741128607
+      env_brook_7: 7574768063464404086
+      env_brook_8: -318138474763884651
+      env_brook_9: -8570021790433298763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

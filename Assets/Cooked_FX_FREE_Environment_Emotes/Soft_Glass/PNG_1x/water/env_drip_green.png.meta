@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 266c32a90c618004c8d9755a3f8ca89c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -907750972058883262
+    second: env_drip_green_0
+  - first:
+      213: -4056253700412434411
+    second: env_drip_green_1
+  - first:
+      213: 5513124476057847215
+    second: env_drip_green_2
+  - first:
+      213: 8035751390774973006
+    second: env_drip_green_3
+  - first:
+      213: 4944813021821666302
+    second: env_drip_green_4
+  - first:
+      213: -6245175149120762334
+    second: env_drip_green_5
+  - first:
+      213: -6856886081152838035
+    second: env_drip_green_6
+  - first:
+      213: -4217704597855702755
+    second: env_drip_green_7
+  - first:
+      213: -7036047850797625378
+    second: env_drip_green_8
+  - first:
+      213: -4023829444285684820
+    second: env_drip_green_9
+  - first:
+      213: 6614487354639013450
+    second: env_drip_green_10
+  - first:
+      213: -7851499456139868802
+    second: env_drip_green_11
+  - first:
+      213: -2553236006639624363
+    second: env_drip_green_12
+  - first:
+      213: -1402202836018647653
+    second: env_drip_green_13
+  - first:
+      213: 7945265106308160368
+    second: env_drip_green_14
+  - first:
+      213: 8736107228063937108
+    second: env_drip_green_15
+  - first:
+      213: -1910511553813702533
+    second: env_drip_green_16
+  - first:
+      213: -6203877529601622564
+    second: env_drip_green_17
+  - first:
+      213: 8909667106944686663
+    second: env_drip_green_18
+  - first:
+      213: 7592571406982734325
+    second: env_drip_green_19
+  - first:
+      213: 8232603904186450219
+    second: env_drip_green_20
+  - first:
+      213: 2287237130360701649
+    second: env_drip_green_21
+  - first:
+      213: -4108630361515944793
+    second: env_drip_green_22
+  - first:
+      213: -3762810496379106436
+    second: env_drip_green_23
+  - first:
+      213: -3708245454268705405
+    second: env_drip_green_24
+  - first:
+      213: -1962188072522411359
+    second: env_drip_green_25
+  - first:
+      213: 4617987506492557759
+    second: env_drip_green_26
+  - first:
+      213: 7474520777414342372
+    second: env_drip_green_27
+  - first:
+      213: 4049945008312200914
+    second: env_drip_green_28
+  - first:
+      213: 6200339255456465777
+    second: env_drip_green_29
+  - first:
+      213: 3315884858120738890
+    second: env_drip_green_30
+  - first:
+      213: -5519378624127085706
+    second: env_drip_green_31
+  - first:
+      213: 4724911094884005695
+    second: env_drip_green_32
+  - first:
+      213: 7680960503982614422
+    second: env_drip_green_33
+  - first:
+      213: 7034828366039495853
+    second: env_drip_green_34
+  - first:
+      213: 2588110722326120779
+    second: env_drip_green_35
+  - first:
+      213: 4617542034177091593
+    second: env_drip_green_36
+  - first:
+      213: 4232662258956765290
+    second: env_drip_green_37
+  - first:
+      213: -340759729757928586
+    second: env_drip_green_38
+  - first:
+      213: -4182778100592110315
+    second: env_drip_green_39
+  - first:
+      213: -7187856297909306361
+    second: env_drip_green_40
+  - first:
+      213: 2260236414997923113
+    second: env_drip_green_41
+  - first:
+      213: 2588114772599054307
+    second: env_drip_green_42
+  - first:
+      213: -4971102381036327805
+    second: env_drip_green_43
+  - first:
+      213: -342836228076603430
+    second: env_drip_green_44
+  - first:
+      213: -99594296573131531
+    second: env_drip_green_45
+  - first:
+      213: -7585484273184022085
+    second: env_drip_green_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_drip_green_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2ae5ec450763f0800000000000000
+      internalID: -907750972058883262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 74
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5189d0c10ca45b7c0800000000000000
+      internalID: -4056253700412434411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 70
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa580fd408d828c40800000000000000
+      internalID: 5513124476057847215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 67
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e425e7e8059b48f60800000000000000
+      internalID: 8035751390774973006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 66
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3086e9e318f9440800000000000000
+      internalID: 4944813021821666302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 65
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e4f8c4a4ea459a0800000000000000
+      internalID: -6245175149120762334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 64
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669093407277d0a0800000000000000
+      internalID: -6856886081152838035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 63
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11774db304b775c0800000000000000
+      internalID: -4217704597855702755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 62
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf8e8e12cfea5e90800000000000000
+      internalID: -7036047850797625378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_9
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 61
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca32898807c7828c0800000000000000
+      internalID: -4023829444285684820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_10
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 58
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46529834316bcb50800000000000000
+      internalID: 6614487354639013450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_11
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 55
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e754c9af7ded90390800000000000000
+      internalID: -7851499456139868802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_12
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 50
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f128c2165119cd0800000000000000
+      internalID: -2553236006639624363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_13
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 92
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d201823ff5a8ce0800000000000000
+      internalID: -1402202836018647653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_14
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 92
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bddc3b480434e60800000000000000
+      internalID: 7945265106308160368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_15
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 92
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4523970fc33ec3970800000000000000
+      internalID: 8736107228063937108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_16
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 92
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7897a73ddf7c75e0800000000000000
+      internalID: -1910511553813702533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_17
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 95
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3112a14667e9a0800000000000000
+      internalID: -6203877529601622564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_18
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 96
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a9b60470f75ab70800000000000000
+      internalID: 8909667106944686663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_19
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 42
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f16efca77b3e5960800000000000000
+      internalID: 7592571406982734325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_20
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 33
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b210785f1a5104270800000000000000
+      internalID: 8232603904186450219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_21
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 21
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2cb304d06edbf10800000000000000
+      internalID: 2287237130360701649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_22
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 8
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4157464763bf6c0800000000000000
+      internalID: -4108630361515944793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_23
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 9
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b463e2acfc7cbc0800000000000000
+      internalID: -3762810496379106436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_24
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855b5e086aa98cc0800000000000000
+      internalID: -3708245454268705405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_25
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a21bca1858e4c4e0800000000000000
+      internalID: -1962188072522411359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_26
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb94ea58b23661040800000000000000
+      internalID: 4617987506492557759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_27
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6fe0c9b05dab760800000000000000
+      internalID: 7474520777414342372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_28
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dea05c078b443830800000000000000
+      internalID: 4049945008312200914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_29
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1738468b3b70c0650800000000000000
+      internalID: 6200339255456465777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_30
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48126cc5b3640e20800000000000000
+      internalID: 3315884858120738890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_31
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735500626a3763b0800000000000000
+      internalID: -5519378624127085706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_32
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37fcdd6b91429140800000000000000
+      internalID: 4724911094884005695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_33
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69760b502e0489a60800000000000000
+      internalID: 7680960503982614422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_34
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 8
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da430a5702bb0a160800000000000000
+      internalID: 7034828366039495853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_35
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 8
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49c0a35df0dae320800000000000000
+      internalID: 2588110722326120779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_36
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 11
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9086f8ae30ec41040800000000000000
+      internalID: 4617542034177091593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_37
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68025f16ef6dba30800000000000000
+      internalID: 4232662258956765290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_38
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673450ac4d0654bf0800000000000000
+      internalID: -340759729757928586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_39
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 10
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5159ce39a79c3f5c0800000000000000
+      internalID: -4182778100592110315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_40
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cbf8aa7ca9f3c90800000000000000
+      internalID: -7187856297909306361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_41
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 11
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9258a505b09fd5f10800000000000000
+      internalID: 2260236414997923113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_42
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 11
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef15ba5ca4dae320800000000000000
+      internalID: 2588114772599054307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_43
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 10
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c2b34f8b8130bb0800000000000000
+      internalID: -4971102381036327805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_44
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 9
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7fb5954400e3bf0800000000000000
+      internalID: -342836228076603430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_45
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 10
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f48a13d38b2e9ef0800000000000000
+      internalID: -99594296573131531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_drip_green_46
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 10
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1ed8f3e32fab690800000000000000
+      internalID: -7585484273184022085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_drip_green_0: -907750972058883262
+      env_drip_green_1: -4056253700412434411
+      env_drip_green_10: 6614487354639013450
+      env_drip_green_11: -7851499456139868802
+      env_drip_green_12: -2553236006639624363
+      env_drip_green_13: -1402202836018647653
+      env_drip_green_14: 7945265106308160368
+      env_drip_green_15: 8736107228063937108
+      env_drip_green_16: -1910511553813702533
+      env_drip_green_17: -6203877529601622564
+      env_drip_green_18: 8909667106944686663
+      env_drip_green_19: 7592571406982734325
+      env_drip_green_2: 5513124476057847215
+      env_drip_green_20: 8232603904186450219
+      env_drip_green_21: 2287237130360701649
+      env_drip_green_22: -4108630361515944793
+      env_drip_green_23: -3762810496379106436
+      env_drip_green_24: -3708245454268705405
+      env_drip_green_25: -1962188072522411359
+      env_drip_green_26: 4617987506492557759
+      env_drip_green_27: 7474520777414342372
+      env_drip_green_28: 4049945008312200914
+      env_drip_green_29: 6200339255456465777
+      env_drip_green_3: 8035751390774973006
+      env_drip_green_30: 3315884858120738890
+      env_drip_green_31: -5519378624127085706
+      env_drip_green_32: 4724911094884005695
+      env_drip_green_33: 7680960503982614422
+      env_drip_green_34: 7034828366039495853
+      env_drip_green_35: 2588110722326120779
+      env_drip_green_36: 4617542034177091593
+      env_drip_green_37: 4232662258956765290
+      env_drip_green_38: -340759729757928586
+      env_drip_green_39: -4182778100592110315
+      env_drip_green_4: 4944813021821666302
+      env_drip_green_40: -7187856297909306361
+      env_drip_green_41: 2260236414997923113
+      env_drip_green_42: 2588114772599054307
+      env_drip_green_43: -4971102381036327805
+      env_drip_green_44: -342836228076603430
+      env_drip_green_45: -99594296573131531
+      env_drip_green_46: -7585484273184022085
+      env_drip_green_5: -6245175149120762334
+      env_drip_green_6: -6856886081152838035
+      env_drip_green_7: -4217704597855702755
+      env_drip_green_8: -7036047850797625378
+      env_drip_green_9: -4023829444285684820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

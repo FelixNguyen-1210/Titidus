@@ -1,0 +1,1120 @@
+fileFormatVersion: 2
+guid: 352478542798b8e42b63b13df8aacefe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7261130171526776594
+    second: env_emote_idea_0
+  - first:
+      213: 933031990961936002
+    second: env_emote_idea_1
+  - first:
+      213: 7762343022359795298
+    second: env_emote_idea_2
+  - first:
+      213: -5030842459923895847
+    second: env_emote_idea_3
+  - first:
+      213: 5321323288481293478
+    second: env_emote_idea_4
+  - first:
+      213: 2997002330720185435
+    second: env_emote_idea_5
+  - first:
+      213: -4096534768131921507
+    second: env_emote_idea_6
+  - first:
+      213: 5471678395292638135
+    second: env_emote_idea_7
+  - first:
+      213: -4059143269739823932
+    second: env_emote_idea_8
+  - first:
+      213: 2507165244085116525
+    second: env_emote_idea_9
+  - first:
+      213: 6995968181322599818
+    second: env_emote_idea_10
+  - first:
+      213: -8643126816616917373
+    second: env_emote_idea_11
+  - first:
+      213: 1722015504293081338
+    second: env_emote_idea_12
+  - first:
+      213: -1997657013513790643
+    second: env_emote_idea_13
+  - first:
+      213: 6480897220053631063
+    second: env_emote_idea_14
+  - first:
+      213: 8882566033325046215
+    second: env_emote_idea_15
+  - first:
+      213: 9112478466174375355
+    second: env_emote_idea_16
+  - first:
+      213: 1546408564787599812
+    second: env_emote_idea_17
+  - first:
+      213: 4144954681194849605
+    second: env_emote_idea_18
+  - first:
+      213: 6867284393477651471
+    second: env_emote_idea_19
+  - first:
+      213: 5297886703234463264
+    second: env_emote_idea_20
+  - first:
+      213: -2269295729385543198
+    second: env_emote_idea_21
+  - first:
+      213: -4698098462222573603
+    second: env_emote_idea_22
+  - first:
+      213: -5951191465075177379
+    second: env_emote_idea_23
+  - first:
+      213: -6938342558138075826
+    second: env_emote_idea_24
+  - first:
+      213: -2211329266605153485
+    second: env_emote_idea_25
+  - first:
+      213: -718236455247133921
+    second: env_emote_idea_26
+  - first:
+      213: -5848721997472474655
+    second: env_emote_idea_27
+  - first:
+      213: -437617811058256259
+    second: env_emote_idea_28
+  - first:
+      213: -7529109957029720504
+    second: env_emote_idea_29
+  - first:
+      213: -5543881240084607071
+    second: env_emote_idea_30
+  - first:
+      213: 4145719649887694316
+    second: env_emote_idea_31
+  - first:
+      213: -8505048923080037841
+    second: env_emote_idea_32
+  - first:
+      213: 5004702809385486370
+    second: env_emote_idea_33
+  - first:
+      213: 5085353023579347057
+    second: env_emote_idea_34
+  - first:
+      213: -5630699469477501318
+    second: env_emote_idea_35
+  - first:
+      213: 7495896879914852949
+    second: env_emote_idea_36
+  - first:
+      213: 2606590846468375451
+    second: env_emote_idea_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_emote_idea_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 96
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21789bd7b67b4c460800000000000000
+      internalID: 7261130171526776594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 67
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2869c5107abc2fc00800000000000000
+      internalID: 933031990961936002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 55
+        width: 80
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266dc782ad169bb60800000000000000
+      internalID: 7762343022359795298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 63
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a84fef6bde2ab0800000000000000
+      internalID: -5030842459923895847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_4
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 67
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e0f8565329d940800000000000000
+      internalID: 5321323288481293478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_5
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 27
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c2891bdbd779920800000000000000
+      internalID: 2997002330720185435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_6
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 15
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a57f255f2627c0800000000000000
+      internalID: -4096534768131921507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_7
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 10
+        width: 222
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbd894a28e4feb40800000000000000
+      internalID: 5471678395292638135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_8
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 9
+        width: 226
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc7db2d3b60ba7c0800000000000000
+      internalID: -4059143269739823932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_9
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 11
+        width: 226
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e16e6818d3bc220800000000000000
+      internalID: 2507165244085116525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_10
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 14
+        width: 220
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4ba3aefba61160800000000000000
+      internalID: 6995968181322599818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_11
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 19
+        width: 212
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38655ea14f17d0880800000000000000
+      internalID: -8643126816616917373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_12
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 24
+        width: 204
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0ba1f3af3d5e710800000000000000
+      internalID: 1722015504293081338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_13
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 68
+        width: 154
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b517eb785e644e0800000000000000
+      internalID: -1997657013513790643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_14
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500d133fa5c0f950800000000000000
+      internalID: 6480897220053631063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_15
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 69
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c93a46deb6354b70800000000000000
+      internalID: 8882566033325046215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_16
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb558bf82e6067e70800000000000000
+      internalID: 9112478466174375355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_17
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 69
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c959cd7562f57510800000000000000
+      internalID: 1546408564787599812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_18
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 69
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54526b65256d58930800000000000000
+      internalID: 4144954681194849605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_19
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 69
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cb1dc75ce7d4f50800000000000000
+      internalID: 6867284393477651471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_20
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 67
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0263e8e13efd58940800000000000000
+      internalID: 5297886703234463264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_21
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 67
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9e9afae87d180e0800000000000000
+      internalID: -2269295729385543198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_22
+      rect:
+        serializedVersion: 2
+        x: 5192
+        y: 66
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf1a6717500dceb0800000000000000
+      internalID: -4698098462222573603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_23
+      rect:
+        serializedVersion: 2
+        x: 5448
+        y: 67
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d588bdda4ee196da0800000000000000
+      internalID: -5951191465075177379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_24
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 73
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45743c443e06bf90800000000000000
+      internalID: -6938342558138075826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_25
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 80
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33323968fb7cf41e0800000000000000
+      internalID: -2211329266605153485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_26
+      rect:
+        serializedVersion: 2
+        x: 6224
+        y: 91
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f134244dfbf4806f0800000000000000
+      internalID: -718236455247133921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 105
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d3a6c45a25dea0800000000000000
+      internalID: -5848721997472474655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_28
+      rect:
+        serializedVersion: 2
+        x: 6747
+        y: 112
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d761d706be44de9f0800000000000000
+      internalID: -437617811058256259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_29
+      rect:
+        serializedVersion: 2
+        x: 7007
+        y: 116
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e0360926a338790800000000000000
+      internalID: -7529109957029720504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_30
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 49
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0ec7826d2013b0800000000000000
+      internalID: -5543881240084607071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_31
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 49
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceda9ed7e0e888930800000000000000
+      internalID: 4145719649887694316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_32
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aee7ee01ff7f980800000000000000
+      internalID: -8505048923080037841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_33
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22842d760b6447540800000000000000
+      internalID: 5004702809385486370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_34
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178d7efa1adc29640800000000000000
+      internalID: 5085353023579347057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_35
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7620dc4aacbbd1b0800000000000000
+      internalID: -5630699469477501318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_36
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 93
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a8405f76c60860800000000000000
+      internalID: 7495896879914852949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_idea_37
+      rect:
+        serializedVersion: 2
+        x: 4285
+        y: 93
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93488680987c2420800000000000000
+      internalID: 2606590846468375451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_emote_idea_0: 7261130171526776594
+      env_emote_idea_1: 933031990961936002
+      env_emote_idea_10: 6995968181322599818
+      env_emote_idea_11: -8643126816616917373
+      env_emote_idea_12: 1722015504293081338
+      env_emote_idea_13: -1997657013513790643
+      env_emote_idea_14: 6480897220053631063
+      env_emote_idea_15: 8882566033325046215
+      env_emote_idea_16: 9112478466174375355
+      env_emote_idea_17: 1546408564787599812
+      env_emote_idea_18: 4144954681194849605
+      env_emote_idea_19: 6867284393477651471
+      env_emote_idea_2: 7762343022359795298
+      env_emote_idea_20: 5297886703234463264
+      env_emote_idea_21: -2269295729385543198
+      env_emote_idea_22: -4698098462222573603
+      env_emote_idea_23: -5951191465075177379
+      env_emote_idea_24: -6938342558138075826
+      env_emote_idea_25: -2211329266605153485
+      env_emote_idea_26: -718236455247133921
+      env_emote_idea_27: -5848721997472474655
+      env_emote_idea_28: -437617811058256259
+      env_emote_idea_29: -7529109957029720504
+      env_emote_idea_3: -5030842459923895847
+      env_emote_idea_30: -5543881240084607071
+      env_emote_idea_31: 4145719649887694316
+      env_emote_idea_32: -8505048923080037841
+      env_emote_idea_33: 5004702809385486370
+      env_emote_idea_34: 5085353023579347057
+      env_emote_idea_35: -5630699469477501318
+      env_emote_idea_36: 7495896879914852949
+      env_emote_idea_37: 2606590846468375451
+      env_emote_idea_4: 5321323288481293478
+      env_emote_idea_5: 2997002330720185435
+      env_emote_idea_6: -4096534768131921507
+      env_emote_idea_7: 5471678395292638135
+      env_emote_idea_8: -4059143269739823932
+      env_emote_idea_9: 2507165244085116525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

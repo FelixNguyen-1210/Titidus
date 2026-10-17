@@ -1,0 +1,2212 @@
+fileFormatVersion: 2
+guid: 67705ec7e09bc0446b8bf2313b120c13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9043617579987414690
+    second: env_embers_0
+  - first:
+      213: 3204391498670675034
+    second: env_embers_1
+  - first:
+      213: -5037995313486308096
+    second: env_embers_2
+  - first:
+      213: 1403856251472044379
+    second: env_embers_3
+  - first:
+      213: -720968597306194106
+    second: env_embers_4
+  - first:
+      213: 33646212390149750
+    second: env_embers_5
+  - first:
+      213: -5508859273256711467
+    second: env_embers_6
+  - first:
+      213: 3948769969699515706
+    second: env_embers_7
+  - first:
+      213: -4141965004216589970
+    second: env_embers_8
+  - first:
+      213: -4028746709804885384
+    second: env_embers_9
+  - first:
+      213: 5629752117874789364
+    second: env_embers_10
+  - first:
+      213: 6614014976205239534
+    second: env_embers_11
+  - first:
+      213: -433602533790072837
+    second: env_embers_12
+  - first:
+      213: 2217221312903032862
+    second: env_embers_13
+  - first:
+      213: -3635624880034095725
+    second: env_embers_14
+  - first:
+      213: 3272617788416390963
+    second: env_embers_15
+  - first:
+      213: -3431994163432851491
+    second: env_embers_16
+  - first:
+      213: 5985067214708607098
+    second: env_embers_17
+  - first:
+      213: -1065250405251297107
+    second: env_embers_18
+  - first:
+      213: 2028523515702391528
+    second: env_embers_19
+  - first:
+      213: 4154426597999887211
+    second: env_embers_20
+  - first:
+      213: -7931014106274504492
+    second: env_embers_21
+  - first:
+      213: -8481666677995722631
+    second: env_embers_22
+  - first:
+      213: 205454222586874084
+    second: env_embers_23
+  - first:
+      213: -1124239441631489818
+    second: env_embers_24
+  - first:
+      213: 140336967494405285
+    second: env_embers_25
+  - first:
+      213: -2847662905116064317
+    second: env_embers_26
+  - first:
+      213: 4947769947036954630
+    second: env_embers_27
+  - first:
+      213: 5667256994065153361
+    second: env_embers_28
+  - first:
+      213: 3415625266437990047
+    second: env_embers_29
+  - first:
+      213: 2537242064729319223
+    second: env_embers_30
+  - first:
+      213: -1132638951697048865
+    second: env_embers_31
+  - first:
+      213: 290585186435294663
+    second: env_embers_32
+  - first:
+      213: -3416973440293056845
+    second: env_embers_33
+  - first:
+      213: 2287530269772732991
+    second: env_embers_34
+  - first:
+      213: 458519489271336216
+    second: env_embers_35
+  - first:
+      213: -6987165504073275402
+    second: env_embers_36
+  - first:
+      213: -2415124099630133208
+    second: env_embers_37
+  - first:
+      213: 2704943031184399030
+    second: env_embers_38
+  - first:
+      213: 806632048717917326
+    second: env_embers_39
+  - first:
+      213: -4553010585518117621
+    second: env_embers_40
+  - first:
+      213: 6995018533741009401
+    second: env_embers_41
+  - first:
+      213: -783507453012113522
+    second: env_embers_42
+  - first:
+      213: -3841172270490849698
+    second: env_embers_43
+  - first:
+      213: -7276461582274125731
+    second: env_embers_44
+  - first:
+      213: 7923023411528804118
+    second: env_embers_45
+  - first:
+      213: 6472563473079334175
+    second: env_embers_46
+  - first:
+      213: -5293099800906406424
+    second: env_embers_47
+  - first:
+      213: 4599166903670487608
+    second: env_embers_48
+  - first:
+      213: -3068293024415661196
+    second: env_embers_49
+  - first:
+      213: 3744757973861334437
+    second: env_embers_50
+  - first:
+      213: -3945640626707568928
+    second: env_embers_51
+  - first:
+      213: -2638515637514289747
+    second: env_embers_52
+  - first:
+      213: -3208069475873601283
+    second: env_embers_53
+  - first:
+      213: 908595012726236255
+    second: env_embers_54
+  - first:
+      213: -528436186522827653
+    second: env_embers_55
+  - first:
+      213: -7902491761694034836
+    second: env_embers_56
+  - first:
+      213: -5558256436338692695
+    second: env_embers_57
+  - first:
+      213: -3834344996968128395
+    second: env_embers_58
+  - first:
+      213: -973847184454083726
+    second: env_embers_59
+  - first:
+      213: 842400928835100499
+    second: env_embers_60
+  - first:
+      213: 1016599028576626415
+    second: env_embers_61
+  - first:
+      213: -631862790469062876
+    second: env_embers_62
+  - first:
+      213: -8140294426113605424
+    second: env_embers_63
+  - first:
+      213: -6324567904809819456
+    second: env_embers_64
+  - first:
+      213: 5351598833435895725
+    second: env_embers_65
+  - first:
+      213: -8641770292024654070
+    second: env_embers_66
+  - first:
+      213: 1712008177838274314
+    second: env_embers_67
+  - first:
+      213: -4119975457527380669
+    second: env_embers_68
+  - first:
+      213: -2912459764484009349
+    second: env_embers_69
+  - first:
+      213: 4778535526718134363
+    second: env_embers_70
+  - first:
+      213: -4211264790678561201
+    second: env_embers_71
+  - first:
+      213: 3328809298775657620
+    second: env_embers_72
+  - first:
+      213: -6730422299269330277
+    second: env_embers_73
+  - first:
+      213: 4538838480333022975
+    second: env_embers_74
+  - first:
+      213: -7379800150225354334
+    second: env_embers_75
+  - first:
+      213: 4781012283516342044
+    second: env_embers_76
+  - first:
+      213: 3075134608808409569
+    second: env_embers_77
+  - first:
+      213: -4920627232405834571
+    second: env_embers_78
+  - first:
+      213: -411769624929686356
+    second: env_embers_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_embers_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515f54e9bd9e7280800000000000000
+      internalID: -9043617579987414690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 177
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a541c872719487c20800000000000000
+      internalID: 3204391498670675034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 131
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd09f64f1751ab0800000000000000
+      internalID: -5037995313486308096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 44
+        width: 118
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51e3b0a2df7b7310800000000000000
+      internalID: 1403856251472044379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 48
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6474a5f61ea9ef5f0800000000000000
+      internalID: -720968597306194106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_5
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 57
+        width: 149
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e5d894d09877000800000000000000
+      internalID: 33646212390149750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_6
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 63
+        width: 140
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dacaeb9da99c83b0800000000000000
+      internalID: -5508859273256711467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_7
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 68
+        width: 138
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d6bafad59dcc630800000000000000
+      internalID: 3948769969699515706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_8
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 93
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61229316c8c486c0800000000000000
+      internalID: -4141965004216589970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_9
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 20
+        width: 128
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a5e0076340718c0800000000000000
+      internalID: -4028746709804885384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_10
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 150
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb0e6739b5e02e40800000000000000
+      internalID: 5629752117874789364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_11
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 23
+        width: 106
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4b3db0493b9cb50800000000000000
+      internalID: 6614014976205239534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_12
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 156
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffbbb7fac88bf9f0800000000000000
+      internalID: -433602533790072837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_13
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 27
+        width: 112
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10b208690725ce10800000000000000
+      internalID: 2217221312903032862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_14
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 94
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ddef81f6aab8dc0800000000000000
+      internalID: -3635624880034095725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_15
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 19
+        width: 118
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337fe2c1a8caa6d20800000000000000
+      internalID: 3272617788416390963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_16
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 99
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7fe59ed7b1f50d0800000000000000
+      internalID: -3431994163432851491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_17
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 25
+        width: 106
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a780b89ebea3f0350800000000000000
+      internalID: 5985067214708607098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_18
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 144
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0d72e76687731f0800000000000000
+      internalID: -1065250405251297107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_19
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 36
+        width: 106
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2b7f3d363c62c10800000000000000
+      internalID: 2028523515702391528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_20
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 156
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c733dafc77a930800000000000000
+      internalID: 4154426597999887211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_21
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 48
+        width: 149
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d065eec0b06fe190800000000000000
+      internalID: -7931014106274504492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_22
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 166
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9782cca18111b4a80800000000000000
+      internalID: -8481666677995722631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_23
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 20
+        width: 147
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e805e2e68be9d200800000000000000
+      internalID: 205454222586874084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_24
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 175
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0521f2f26e560f0800000000000000
+      internalID: -1124239441631489818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_25
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 24
+        width: 151
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac0c587ab392f100800000000000000
+      internalID: 140336967494405285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_26
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 185
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c50084eca11b78d0800000000000000
+      internalID: -2847662905116064317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_27
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 67
+        width: 152
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600bd7b6d820aa440800000000000000
+      internalID: 4947769947036954630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_28
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 74
+        width: 151
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15df91ea53426ae40800000000000000
+      internalID: 5667256994065153361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_29
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 21
+        width: 151
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96a2e3451db66f20800000000000000
+      internalID: 3415625266437990047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_30
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 23
+        width: 116
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ae590738163320800000000000000
+      internalID: 2537242064729319223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_31
+      rect:
+        serializedVersion: 2
+        x: 5300
+        y: 170
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda9359dfde0840f0800000000000000
+      internalID: -1132638951697048865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_32
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 28
+        width: 146
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5677effad580400800000000000000
+      internalID: 290585186435294663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_33
+      rect:
+        serializedVersion: 2
+        x: 5713
+        y: 35
+        width: 142
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be436c82c87490d0800000000000000
+      internalID: -3416973440293056845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_34
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 42
+        width: 133
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ad1c619a0febf10800000000000000
+      internalID: 2287530269772732991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_35
+      rect:
+        serializedVersion: 2
+        x: 6230
+        y: 66
+        width: 132
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d8c90db0dfc5600800000000000000
+      internalID: 458519489271336216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_36
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 29
+        width: 166
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f769de5ef9980f90800000000000000
+      internalID: -6987165504073275402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_37
+      rect:
+        serializedVersion: 2
+        x: 6730
+        y: 39
+        width: 163
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8209f016d61cb7ed0800000000000000
+      internalID: -2415124099630133208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_38
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 52
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba1a6ffa53e98520800000000000000
+      internalID: 2704943031184399030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_39
+      rect:
+        serializedVersion: 2
+        x: 7101
+        y: 177
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ce648139bb13b00800000000000000
+      internalID: 806632048717917326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_40
+      rect:
+        serializedVersion: 2
+        x: 7238
+        y: 64
+        width: 134
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d699fcef470d0c0800000000000000
+      internalID: -4553010585518117621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_41
+      rect:
+        serializedVersion: 2
+        x: 7359
+        y: 187
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f918e49b4c431160800000000000000
+      internalID: 6995018533741009401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_42
+      rect:
+        serializedVersion: 2
+        x: 7482
+        y: 75
+        width: 147
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8787586f1c6025f0800000000000000
+      internalID: -783507453012113522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_43
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 81
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eef40eb2a61bac0800000000000000
+      internalID: -3841172270490849698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_44
+      rect:
+        serializedVersion: 2
+        x: 8024
+        y: 85
+        width: 123
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5026c64eb0d40b90800000000000000
+      internalID: -7276461582274125731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_45
+      rect:
+        serializedVersion: 2
+        x: 8279
+        y: 88
+        width: 123
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617274790db34fd60800000000000000
+      internalID: 7923023411528804118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_46
+      rect:
+        serializedVersion: 2
+        x: 8561
+        y: 93
+        width: 97
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15ff078f2a23d950800000000000000
+      internalID: 6472563473079334175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_47
+      rect:
+        serializedVersion: 2
+        x: 8751
+        y: 24
+        width: 164
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5684e66c12b86b0800000000000000
+      internalID: -5293099800906406424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_48
+      rect:
+        serializedVersion: 2
+        x: 9016
+        y: 30
+        width: 151
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a33047ee583df30800000000000000
+      internalID: 4599166903670487608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_49
+      rect:
+        serializedVersion: 2
+        x: 9111
+        y: 173
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47345e430cb3b65d0800000000000000
+      internalID: -3068293024415661196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 34
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adf0d1698d08f330800000000000000
+      internalID: 3744757973861334437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6eeb141c44e39c0800000000000000
+      internalID: -3945640626707568928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_52
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 28
+        width: 139
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadb5a3d10c126bd0800000000000000
+      internalID: -2638515637514289747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_53
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 77
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8c7cb0fc5aa73d0800000000000000
+      internalID: -3208069475873601283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_54
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 82
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f542d32a95afb9c00800000000000000
+      internalID: 908595012726236255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_55
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 89
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7448df861e9aa8f0800000000000000
+      internalID: -528436186522827653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_56
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 103
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64b6c7ac95b45290800000000000000
+      internalID: -7902491761694034836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_57
+      rect:
+        serializedVersion: 2
+        x: 7726
+        y: 22
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ade085583b1dd2b0800000000000000
+      internalID: -5558256436338692695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_58
+      rect:
+        serializedVersion: 2
+        x: 7974
+        y: 27
+        width: 111
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5702b6d5a8ba9cac0800000000000000
+      internalID: -3834344996968128395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_59
+      rect:
+        serializedVersion: 2
+        x: 8231
+        y: 33
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b991935233c72f0800000000000000
+      internalID: -973847184454083726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_60
+      rect:
+        serializedVersion: 2
+        x: 8358
+        y: 52
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fdca97e2fc0bb00800000000000000
+      internalID: 842400928835100499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_61
+      rect:
+        serializedVersion: 2
+        x: 8490
+        y: 20
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe621592e6fab1e00800000000000000
+      internalID: 1016599028576626415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_62
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 56
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fed4bc32c2b37f0800000000000000
+      internalID: -631862790469062876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0086c395dd70f80800000000000000
+      internalID: -8140294426113605424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_64
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 35
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c269f3effe9a38a0800000000000000
+      internalID: -6324567904809819456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_65
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 20
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76757f8c2b44a40800000000000000
+      internalID: 5351598833435895725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_66
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 23
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07c85994b3421880800000000000000
+      internalID: -8641770292024654070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_67
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 19
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073d9cfd5642c710800000000000000
+      internalID: 1712008177838274314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_68
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 41
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345c0c26628e2d6c0800000000000000
+      internalID: -4119975457527380669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_69
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 47
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72105b664dd497d0800000000000000
+      internalID: -2912459764484009349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_70
+      rect:
+        serializedVersion: 2
+        x: 4474
+        y: 29
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b585e986eb4c05240800000000000000
+      internalID: 4778535526718134363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_71
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 34
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e9e703cf49e85c0800000000000000
+      internalID: -4211264790678561201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_72
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 20
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c4a82ab6e423e20800000000000000
+      internalID: 3328809298775657620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_73
+      rect:
+        serializedVersion: 2
+        x: 6813
+        y: 21
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a0faff39cb892a0800000000000000
+      internalID: -6730422299269330277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_74
+      rect:
+        serializedVersion: 2
+        x: 7072
+        y: 24
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6af11dc813dfe30800000000000000
+      internalID: 4538838480333022975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_75
+      rect:
+        serializedVersion: 2
+        x: 7331
+        y: 28
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1817cfcdea59990800000000000000
+      internalID: -7379800150225354334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_76
+      rect:
+        serializedVersion: 2
+        x: 7505
+        y: 19
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f45c94751995240800000000000000
+      internalID: 4781012283516342044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_77
+      rect:
+        serializedVersion: 2
+        x: 7590
+        y: 35
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9f88a42a21daa20800000000000000
+      internalID: 3075134608808409569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_78
+      rect:
+        serializedVersion: 2
+        x: 7848
+        y: 41
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4365c4a9b66bbb0800000000000000
+      internalID: -4920627232405834571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_embers_79
+      rect:
+        serializedVersion: 2
+        x: 8104
+        y: 47
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac25c035b9194af0800000000000000
+      internalID: -411769624929686356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_embers_0: -9043617579987414690
+      env_embers_1: 3204391498670675034
+      env_embers_10: 5629752117874789364
+      env_embers_11: 6614014976205239534
+      env_embers_12: -433602533790072837
+      env_embers_13: 2217221312903032862
+      env_embers_14: -3635624880034095725
+      env_embers_15: 3272617788416390963
+      env_embers_16: -3431994163432851491
+      env_embers_17: 5985067214708607098
+      env_embers_18: -1065250405251297107
+      env_embers_19: 2028523515702391528
+      env_embers_2: -5037995313486308096
+      env_embers_20: 4154426597999887211
+      env_embers_21: -7931014106274504492
+      env_embers_22: -8481666677995722631
+      env_embers_23: 205454222586874084
+      env_embers_24: -1124239441631489818
+      env_embers_25: 140336967494405285
+      env_embers_26: -2847662905116064317
+      env_embers_27: 4947769947036954630
+      env_embers_28: 5667256994065153361
+      env_embers_29: 3415625266437990047
+      env_embers_3: 1403856251472044379
+      env_embers_30: 2537242064729319223
+      env_embers_31: -1132638951697048865
+      env_embers_32: 290585186435294663
+      env_embers_33: -3416973440293056845
+      env_embers_34: 2287530269772732991
+      env_embers_35: 458519489271336216
+      env_embers_36: -6987165504073275402
+      env_embers_37: -2415124099630133208
+      env_embers_38: 2704943031184399030
+      env_embers_39: 806632048717917326
+      env_embers_4: -720968597306194106
+      env_embers_40: -4553010585518117621
+      env_embers_41: 6995018533741009401
+      env_embers_42: -783507453012113522
+      env_embers_43: -3841172270490849698
+      env_embers_44: -7276461582274125731
+      env_embers_45: 7923023411528804118
+      env_embers_46: 6472563473079334175
+      env_embers_47: -5293099800906406424
+      env_embers_48: 4599166903670487608
+      env_embers_49: -3068293024415661196
+      env_embers_5: 33646212390149750
+      env_embers_50: 3744757973861334437
+      env_embers_51: -3945640626707568928
+      env_embers_52: -2638515637514289747
+      env_embers_53: -3208069475873601283
+      env_embers_54: 908595012726236255
+      env_embers_55: -528436186522827653
+      env_embers_56: -7902491761694034836
+      env_embers_57: -5558256436338692695
+      env_embers_58: -3834344996968128395
+      env_embers_59: -973847184454083726
+      env_embers_6: -5508859273256711467
+      env_embers_60: 842400928835100499
+      env_embers_61: 1016599028576626415
+      env_embers_62: -631862790469062876
+      env_embers_63: -8140294426113605424
+      env_embers_64: -6324567904809819456
+      env_embers_65: 5351598833435895725
+      env_embers_66: -8641770292024654070
+      env_embers_67: 1712008177838274314
+      env_embers_68: -4119975457527380669
+      env_embers_69: -2912459764484009349
+      env_embers_7: 3948769969699515706
+      env_embers_70: 4778535526718134363
+      env_embers_71: -4211264790678561201
+      env_embers_72: 3328809298775657620
+      env_embers_73: -6730422299269330277
+      env_embers_74: 4538838480333022975
+      env_embers_75: -7379800150225354334
+      env_embers_76: 4781012283516342044
+      env_embers_77: 3075134608808409569
+      env_embers_78: -4920627232405834571
+      env_embers_79: -411769624929686356
+      env_embers_8: -4141965004216589970
+      env_embers_9: -4028746709804885384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

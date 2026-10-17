@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: 37ff7ead210a6b4408f2dd83d6487947
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1019771193915069204
+    second: env_emote_question_0
+  - first:
+      213: 2533448911625703890
+    second: env_emote_question_1
+  - first:
+      213: 7656732889617881008
+    second: env_emote_question_2
+  - first:
+      213: 1830330095211772763
+    second: env_emote_question_3
+  - first:
+      213: 7195169198624830867
+    second: env_emote_question_4
+  - first:
+      213: 4941529927267039691
+    second: env_emote_question_5
+  - first:
+      213: -8788298916243706450
+    second: env_emote_question_6
+  - first:
+      213: 8173166169224916525
+    second: env_emote_question_7
+  - first:
+      213: 1169905620314099796
+    second: env_emote_question_8
+  - first:
+      213: -4030085919009200133
+    second: env_emote_question_9
+  - first:
+      213: -7557136560414212110
+    second: env_emote_question_10
+  - first:
+      213: 1196017943543137375
+    second: env_emote_question_11
+  - first:
+      213: 2133520255643109122
+    second: env_emote_question_12
+  - first:
+      213: -9061634770011379039
+    second: env_emote_question_13
+  - first:
+      213: 429768794186753012
+    second: env_emote_question_14
+  - first:
+      213: -3093601109705533368
+    second: env_emote_question_15
+  - first:
+      213: -961179268070460177
+    second: env_emote_question_16
+  - first:
+      213: -9215319991964779580
+    second: env_emote_question_17
+  - first:
+      213: 4316520385424626812
+    second: env_emote_question_18
+  - first:
+      213: -8515720455523607030
+    second: env_emote_question_19
+  - first:
+      213: 1610064201391459701
+    second: env_emote_question_20
+  - first:
+      213: -3200461019808074283
+    second: env_emote_question_21
+  - first:
+      213: 2209530466126808302
+    second: env_emote_question_22
+  - first:
+      213: -6102641491071327402
+    second: env_emote_question_23
+  - first:
+      213: -634499015876284535
+    second: env_emote_question_24
+  - first:
+      213: -6292159929308357103
+    second: env_emote_question_25
+  - first:
+      213: 4025522245572565845
+    second: env_emote_question_26
+  - first:
+      213: -8597638810054915084
+    second: env_emote_question_27
+  - first:
+      213: 5541048318541856026
+    second: env_emote_question_28
+  - first:
+      213: -8206968199388803204
+    second: env_emote_question_29
+  - first:
+      213: 9101350252922229565
+    second: env_emote_question_30
+  - first:
+      213: 6186484815977416757
+    second: env_emote_question_31
+  - first:
+      213: 807009952643965599
+    second: env_emote_question_32
+  - first:
+      213: 8325582138297269232
+    second: env_emote_question_33
+  - first:
+      213: -8607362565476390449
+    second: env_emote_question_34
+  - first:
+      213: -988231332280093603
+    second: env_emote_question_35
+  - first:
+      213: 6682982775469370869
+    second: env_emote_question_36
+  - first:
+      213: -1137749602688869533
+    second: env_emote_question_37
+  - first:
+      213: 3767350200921599794
+    second: env_emote_question_38
+  - first:
+      213: -4069035952673065115
+    second: env_emote_question_39
+  - first:
+      213: -5543742377890511751
+    second: env_emote_question_40
+  - first:
+      213: 6132884103049908514
+    second: env_emote_question_41
+  - first:
+      213: 4398259770172690766
+    second: env_emote_question_42
+  - first:
+      213: 5067813682619936014
+    second: env_emote_question_43
+  - first:
+      213: -2261886976749429307
+    second: env_emote_question_44
+  - first:
+      213: 5307404278625437886
+    second: env_emote_question_45
+  - first:
+      213: -8256392721637528201
+    second: env_emote_question_46
+  - first:
+      213: 5478531909584228660
+    second: env_emote_question_47
+  - first:
+      213: 5728503794939652007
+    second: env_emote_question_48
+  - first:
+      213: -5221064304620266585
+    second: env_emote_question_49
+  - first:
+      213: 7301290582872641367
+    second: env_emote_question_50
+  - first:
+      213: 5267472127795059093
+    second: env_emote_question_51
+  - first:
+      213: 5562162720031989273
+    second: env_emote_question_52
+  - first:
+      213: -2733858980272106692
+    second: env_emote_question_53
+  - first:
+      213: 5426364479195236953
+    second: env_emote_question_54
+  - first:
+      213: -2479890086609411083
+    second: env_emote_question_55
+  - first:
+      213: 89452580170401521
+    second: env_emote_question_56
+  - first:
+      213: -4918841845529871976
+    second: env_emote_question_57
+  - first:
+      213: -4467567612223657418
+    second: env_emote_question_58
+  - first:
+      213: -505348143908945460
+    second: env_emote_question_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_emote_question_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413db757f74f62e00800000000000000
+      internalID: 1019771193915069204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 28
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1dc02cc5e982320800000000000000
+      internalID: 2533448911625703890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 66
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b759b9fefd224a60800000000000000
+      internalID: 7656732889617881008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 28
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bfdca2683a66910800000000000000
+      internalID: 1830330095211772763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 67
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957dd6b3406ad360800000000000000
+      internalID: 7195169198624830867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 29
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9b6b99947d39440800000000000000
+      internalID: 4941529927267039691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eade755b2b0b90680800000000000000
+      internalID: -8788298916243706450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 29
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e24eed35bec6170800000000000000
+      internalID: 8173166169224916525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4501e8796f65c3010800000000000000
+      internalID: 1169905620314099796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 30
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7272f75324218c0800000000000000
+      internalID: -4030085919009200133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffb4657658af1790800000000000000
+      internalID: -7557136560414212110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 31
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c1ed9bfb199010800000000000000
+      internalID: 1196017943543137375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 31
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20745be5e59cb9d10800000000000000
+      internalID: 2133520255643109122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_13
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 32
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaa421ff2b9e3280800000000000000
+      internalID: -9061634770011379039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 32
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ac09f078d6f500800000000000000
+      internalID: 429768794186753012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_15
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 32
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8485f3b6e225115d0800000000000000
+      internalID: -3093601109705533368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_16
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 32
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4b0395c8439a2f0800000000000000
+      internalID: -961179268070460177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_17
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 32
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb326bca4b9c1080800000000000000
+      internalID: -9215319991964779580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_18
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 31
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7497feab6c57eb30800000000000000
+      internalID: 4316520385424626812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_19
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 31
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0edcf92d5512d980800000000000000
+      internalID: -8515720455523607030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_20
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 30
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dc2855cd8185610800000000000000
+      internalID: 1610064201391459701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_21
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 29
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5fad4c8ada593d0800000000000000
+      internalID: -3200461019808074283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_22
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 64
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee444e99044d9ae10800000000000000
+      internalID: 2209530466126808302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_23
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 29
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6532225a5ef0f4ba0800000000000000
+      internalID: -6102641491071327402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_24
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 64
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98feb5cb18ec137f0800000000000000
+      internalID: -634499015876284535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_25
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 28
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed0afa1e1cda8a0800000000000000
+      internalID: -6292159929308357103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_26
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 64
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b19ca77278dd730800000000000000
+      internalID: 4025522245572565845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_27
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 28
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb8093fd0d0fa880800000000000000
+      internalID: -8597638810054915084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_28
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 64
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d76f58612c5ec40800000000000000
+      internalID: 5541048318541856026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_29
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 28
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc080b7edfa1e80800000000000000
+      internalID: -8206968199388803204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_30
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 65
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3357d185dd7e4e70800000000000000
+      internalID: 9101350252922229565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_31
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 29
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5388ea8a92fcad550800000000000000
+      internalID: 6186484815977416757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_32
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 66
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f926c85b643133b00800000000000000
+      internalID: 807009952643965599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_33
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 29
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbbb8d08d86a8370800000000000000
+      internalID: 8325582138297269232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_34
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 67
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9e8c7b9518c8880800000000000000
+      internalID: -8607362565476390449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_35
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 58
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54b883d6d81942f0800000000000000
+      internalID: -988231332280093603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_36
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 30
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fde7e32d69bebc50800000000000000
+      internalID: 6682982775469370869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_37
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 69
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b5360b3c6e530f0800000000000000
+      internalID: -1137749602688869533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_38
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 31
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fad662c01584430800000000000000
+      internalID: 3767350200921599794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_39
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567f0a61c51e787c0800000000000000
+      internalID: -4069035952673065115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_40
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 31
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9748e87edaba013b0800000000000000
+      internalID: -5543742377890511751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_41
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 32
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2211eea29916c1550800000000000000
+      internalID: 6132884103049908514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_42
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 32
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41d80f35f1c90d30800000000000000
+      internalID: 4398259770172690766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_43
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 32
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dec64a1bd745640800000000000000
+      internalID: 5067813682619936014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_44
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 32
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd94c457c92c90e0800000000000000
+      internalID: -2261886976749429307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_45
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 32
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88bd25210b7a940800000000000000
+      internalID: 5307404278625437886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_46
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 31
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dacac50966b6d80800000000000000
+      internalID: -8256392721637528201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_47
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 64
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4311969ceb7a70c40800000000000000
+      internalID: 5478531909584228660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_48
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 31
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7eadfb9dbbf7f40800000000000000
+      internalID: 5728503794939652007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_49
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 64
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab13a56dad0b87b0800000000000000
+      internalID: -5221064304620266585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_50
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 30
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f470ae915635560800000000000000
+      internalID: 7301290582872641367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_51
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 65
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599de71fdf1d91940800000000000000
+      internalID: 5267472127795059093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_52
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 29
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e5d663685c03d40800000000000000
+      internalID: 5562162720031989273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_53
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 65
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c339ed6fdb16f0ad0800000000000000
+      internalID: -2733858980272106692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_54
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 29
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aca346eb15e4b40800000000000000
+      internalID: 5426364479195236953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_55
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 65
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f322a1fa19a59dd0800000000000000
+      internalID: -2479890086609411083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_56
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 28
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f68c41d5accd3100800000000000000
+      internalID: 89452580170401521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 58
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8997dd21763ccbbb0800000000000000
+      internalID: -4918841845529871976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_58
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 57
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a6e574de20002c0800000000000000
+      internalID: -4467567612223657418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_question_59
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc187626a84acf8f0800000000000000
+      internalID: -505348143908945460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_emote_question_0: 1019771193915069204
+      env_emote_question_1: 2533448911625703890
+      env_emote_question_10: -7557136560414212110
+      env_emote_question_11: 1196017943543137375
+      env_emote_question_12: 2133520255643109122
+      env_emote_question_13: -9061634770011379039
+      env_emote_question_14: 429768794186753012
+      env_emote_question_15: -3093601109705533368
+      env_emote_question_16: -961179268070460177
+      env_emote_question_17: -9215319991964779580
+      env_emote_question_18: 4316520385424626812
+      env_emote_question_19: -8515720455523607030
+      env_emote_question_2: 7656732889617881008
+      env_emote_question_20: 1610064201391459701
+      env_emote_question_21: -3200461019808074283
+      env_emote_question_22: 2209530466126808302
+      env_emote_question_23: -6102641491071327402
+      env_emote_question_24: -634499015876284535
+      env_emote_question_25: -6292159929308357103
+      env_emote_question_26: 4025522245572565845
+      env_emote_question_27: -8597638810054915084
+      env_emote_question_28: 5541048318541856026
+      env_emote_question_29: -8206968199388803204
+      env_emote_question_3: 1830330095211772763
+      env_emote_question_30: 9101350252922229565
+      env_emote_question_31: 6186484815977416757
+      env_emote_question_32: 807009952643965599
+      env_emote_question_33: 8325582138297269232
+      env_emote_question_34: -8607362565476390449
+      env_emote_question_35: -988231332280093603
+      env_emote_question_36: 6682982775469370869
+      env_emote_question_37: -1137749602688869533
+      env_emote_question_38: 3767350200921599794
+      env_emote_question_39: -4069035952673065115
+      env_emote_question_4: 7195169198624830867
+      env_emote_question_40: -5543742377890511751
+      env_emote_question_41: 6132884103049908514
+      env_emote_question_42: 4398259770172690766
+      env_emote_question_43: 5067813682619936014
+      env_emote_question_44: -2261886976749429307
+      env_emote_question_45: 5307404278625437886
+      env_emote_question_46: -8256392721637528201
+      env_emote_question_47: 5478531909584228660
+      env_emote_question_48: 5728503794939652007
+      env_emote_question_49: -5221064304620266585
+      env_emote_question_5: 4941529927267039691
+      env_emote_question_50: 7301290582872641367
+      env_emote_question_51: 5267472127795059093
+      env_emote_question_52: 5562162720031989273
+      env_emote_question_53: -2733858980272106692
+      env_emote_question_54: 5426364479195236953
+      env_emote_question_55: -2479890086609411083
+      env_emote_question_56: 89452580170401521
+      env_emote_question_57: -4918841845529871976
+      env_emote_question_58: -4467567612223657418
+      env_emote_question_59: -505348143908945460
+      env_emote_question_6: -8788298916243706450
+      env_emote_question_7: 8173166169224916525
+      env_emote_question_8: 1169905620314099796
+      env_emote_question_9: -4030085919009200133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 3384b4c92564dd44f8cd8c140bccabe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5974114674428713351
+    second: env_waterfall_foam_0
+  - first:
+      213: -3121361512699012491
+    second: env_waterfall_foam_1
+  - first:
+      213: -1931535888882883652
+    second: env_waterfall_foam_2
+  - first:
+      213: 200774357200589808
+    second: env_waterfall_foam_3
+  - first:
+      213: -4377181400926136892
+    second: env_waterfall_foam_4
+  - first:
+      213: 3041570851505847331
+    second: env_waterfall_foam_5
+  - first:
+      213: 93212836886188809
+    second: env_waterfall_foam_6
+  - first:
+      213: 8743094613159994710
+    second: env_waterfall_foam_7
+  - first:
+      213: 8018399350404048907
+    second: env_waterfall_foam_8
+  - first:
+      213: 2648228593171099569
+    second: env_waterfall_foam_9
+  - first:
+      213: 7810318519420332351
+    second: env_waterfall_foam_10
+  - first:
+      213: 2092405313409563613
+    second: env_waterfall_foam_11
+  - first:
+      213: -5029027831478758278
+    second: env_waterfall_foam_12
+  - first:
+      213: 8105211061868889655
+    second: env_waterfall_foam_13
+  - first:
+      213: 3352358083015255847
+    second: env_waterfall_foam_14
+  - first:
+      213: 6224933828625320870
+    second: env_waterfall_foam_15
+  - first:
+      213: 3095636299232045595
+    second: env_waterfall_foam_16
+  - first:
+      213: 3140409621091530273
+    second: env_waterfall_foam_17
+  - first:
+      213: -738292130472750698
+    second: env_waterfall_foam_18
+  - first:
+      213: 5530762988340881560
+    second: env_waterfall_foam_19
+  - first:
+      213: -9166175759270963866
+    second: env_waterfall_foam_20
+  - first:
+      213: -6105104032890470441
+    second: env_waterfall_foam_21
+  - first:
+      213: 3742119281201784295
+    second: env_waterfall_foam_22
+  - first:
+      213: -7233281770749562112
+    second: env_waterfall_foam_23
+  - first:
+      213: 8021034908935425742
+    second: env_waterfall_foam_24
+  - first:
+      213: 5122799328750887477
+    second: env_waterfall_foam_25
+  - first:
+      213: -6474125291535013406
+    second: env_waterfall_foam_26
+  - first:
+      213: -4492390911723191803
+    second: env_waterfall_foam_27
+  - first:
+      213: 899025411840265110
+    second: env_waterfall_foam_28
+  - first:
+      213: 7771170230625385555
+    second: env_waterfall_foam_29
+  - first:
+      213: 3365327786661772532
+    second: env_waterfall_foam_30
+  - first:
+      213: -4848291087489263997
+    second: env_waterfall_foam_31
+  - first:
+      213: -2448192505895786637
+    second: env_waterfall_foam_32
+  - first:
+      213: -2679836132509109299
+    second: env_waterfall_foam_33
+  - first:
+      213: -5334554288601733487
+    second: env_waterfall_foam_34
+  - first:
+      213: -4440178803071749602
+    second: env_waterfall_foam_35
+  - first:
+      213: 9190098889546415414
+    second: env_waterfall_foam_36
+  - first:
+      213: 3063295751667529852
+    second: env_waterfall_foam_37
+  - first:
+      213: -1229894407006149474
+    second: env_waterfall_foam_38
+  - first:
+      213: -3424160155862559556
+    second: env_waterfall_foam_39
+  - first:
+      213: 4635675155201162743
+    second: env_waterfall_foam_40
+  - first:
+      213: 1968177377550200637
+    second: env_waterfall_foam_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_waterfall_foam_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 147
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78995c8e4a158e250800000000000000
+      internalID: 5974114674428713351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52
+        width: 282
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57adffbed32bea4d0800000000000000
+      internalID: -3121361512699012491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 147
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3a730c75ec135e0800000000000000
+      internalID: -1931535888882883652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 147
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3d2f0d63b49c200800000000000000
+      internalID: 200774357200589808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 52
+        width: 282
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d95805b02143c0800000000000000
+      internalID: -4377181400926136892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_5
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 147
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c30331394d53a20800000000000000
+      internalID: 3041570851505847331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 149
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039b1fc4982b4100800000000000000
+      internalID: 93212836886188809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 48
+        width: 282
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655680f4a36b55970800000000000000
+      internalID: 8743094613159994710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_8
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 149
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b086e04d9b3174f60800000000000000
+      internalID: 8018399350404048907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_9
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 151
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfeef3efd560c420800000000000000
+      internalID: 2648228593171099569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_10
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 47
+        width: 282
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3924b40053d36c60800000000000000
+      internalID: 7810318519420332351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_11
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 151
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbbae7eb87b90d10800000000000000
+      internalID: 2092405313409563613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_12
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74d72b05dd453ab0800000000000000
+      internalID: -5029027831478758278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_13
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 48
+        width: 282
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736034c748e7b7070800000000000000
+      internalID: 8105211061868889655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_14
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727a80a3ae7f58e20800000000000000
+      internalID: 3352358083015255847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_15
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 153
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab46850658636650800000000000000
+      internalID: 6224933828625320870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_16
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 52
+        width: 282
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae78110d8e5fa20800000000000000
+      internalID: 3095636299232045595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_17
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 153
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126316a69e9f49b20800000000000000
+      internalID: 3140409621091530273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_18
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 155
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69194be083f01c5f0800000000000000
+      internalID: -738292130472750698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_19
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 51
+        width: 282
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898afe872a731cc40800000000000000
+      internalID: 5530762988340881560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_20
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 155
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6659bdf16b33bc080800000000000000
+      internalID: -9166175759270963866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_21
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 156
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df32c27a30564ba0800000000000000
+      internalID: -6105104032890470441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_22
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 52
+        width: 282
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e52c2fd8adaee330800000000000000
+      internalID: 3742119281201784295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_23
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 156
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003f9269d883e9b90800000000000000
+      internalID: -7233281770749562112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_24
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 157
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece8a1e90c0705f60800000000000000
+      internalID: 8021034908935425742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_25
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 55
+        width: 282
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5326ec509d6d71740800000000000000
+      internalID: 5122799328750887477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_26
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 157
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9eea649594726a0800000000000000
+      internalID: -6474125291535013406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_27
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 52
+        width: 370
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502cb8a7442d7a1c0800000000000000
+      internalID: -4492390911723191803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_28
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 50
+        width: 368
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bc9cc49daf97c00800000000000000
+      internalID: 899025411840265110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_29
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 50
+        width: 364
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c348db62eb8db60800000000000000
+      internalID: 7771170230625385555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_30
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 52
+        width: 284
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcf9bcaacb04be20800000000000000
+      internalID: 3365327786661772532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_31
+      rect:
+        serializedVersion: 2
+        x: 5041
+        y: 52
+        width: 286
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386928a71f867bcb0800000000000000
+      internalID: -4848291087489263997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_32
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 48
+        width: 288
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377ee4013e5460ed0800000000000000
+      internalID: -2448192505895786637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_33
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 47
+        width: 288
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3b9816c3f4fcad0800000000000000
+      internalID: -2679836132509109299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_34
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 48
+        width: 288
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1966bd0632bd7f5b0800000000000000
+      internalID: -5334554288601733487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_35
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 52
+        width: 304
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1270b757e05162c0800000000000000
+      internalID: -4440178803071749602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_36
+      rect:
+        serializedVersion: 2
+        x: 6946
+        y: 51
+        width: 316
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d3022bf3ac98f70800000000000000
+      internalID: 9190098889546415414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_37
+      rect:
+        serializedVersion: 2
+        x: 7324
+        y: 52
+        width: 328
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783b109143038a20800000000000000
+      internalID: 3063295751667529852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_38
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 55
+        width: 338
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94a8279d898eeee0800000000000000
+      internalID: -1229894407006149474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_39
+      rect:
+        serializedVersion: 2
+        x: 8083
+        y: 52
+        width: 346
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb414cfea70fa70d0800000000000000
+      internalID: -3424160155862559556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_40
+      rect:
+        serializedVersion: 2
+        x: 8464
+        y: 50
+        width: 352
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd7ed72ef9355040800000000000000
+      internalID: 4635675155201162743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_waterfall_foam_41
+      rect:
+        serializedVersion: 2
+        x: 8845
+        y: 50
+        width: 358
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fe6d3a5ee505b10800000000000000
+      internalID: 1968177377550200637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_waterfall_foam_0: 5974114674428713351
+      env_waterfall_foam_1: -3121361512699012491
+      env_waterfall_foam_10: 7810318519420332351
+      env_waterfall_foam_11: 2092405313409563613
+      env_waterfall_foam_12: -5029027831478758278
+      env_waterfall_foam_13: 8105211061868889655
+      env_waterfall_foam_14: 3352358083015255847
+      env_waterfall_foam_15: 6224933828625320870
+      env_waterfall_foam_16: 3095636299232045595
+      env_waterfall_foam_17: 3140409621091530273
+      env_waterfall_foam_18: -738292130472750698
+      env_waterfall_foam_19: 5530762988340881560
+      env_waterfall_foam_2: -1931535888882883652
+      env_waterfall_foam_20: -9166175759270963866
+      env_waterfall_foam_21: -6105104032890470441
+      env_waterfall_foam_22: 3742119281201784295
+      env_waterfall_foam_23: -7233281770749562112
+      env_waterfall_foam_24: 8021034908935425742
+      env_waterfall_foam_25: 5122799328750887477
+      env_waterfall_foam_26: -6474125291535013406
+      env_waterfall_foam_27: -4492390911723191803
+      env_waterfall_foam_28: 899025411840265110
+      env_waterfall_foam_29: 7771170230625385555
+      env_waterfall_foam_3: 200774357200589808
+      env_waterfall_foam_30: 3365327786661772532
+      env_waterfall_foam_31: -4848291087489263997
+      env_waterfall_foam_32: -2448192505895786637
+      env_waterfall_foam_33: -2679836132509109299
+      env_waterfall_foam_34: -5334554288601733487
+      env_waterfall_foam_35: -4440178803071749602
+      env_waterfall_foam_36: 9190098889546415414
+      env_waterfall_foam_37: 3063295751667529852
+      env_waterfall_foam_38: -1229894407006149474
+      env_waterfall_foam_39: -3424160155862559556
+      env_waterfall_foam_4: -4377181400926136892
+      env_waterfall_foam_40: 4635675155201162743
+      env_waterfall_foam_41: 1968177377550200637
+      env_waterfall_foam_5: 3041570851505847331
+      env_waterfall_foam_6: 93212836886188809
+      env_waterfall_foam_7: 8743094613159994710
+      env_waterfall_foam_8: 8018399350404048907
+      env_waterfall_foam_9: 2648228593171099569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

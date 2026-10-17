@@ -1,0 +1,5436 @@
+fileFormatVersion: 2
+guid: 5707069dab1f42741b42279b77160b87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6110584253213577037
+    second: env_hail_side_0
+  - first:
+      213: 7891635750789187064
+    second: env_hail_side_1
+  - first:
+      213: -7934975256466770489
+    second: env_hail_side_2
+  - first:
+      213: 8228055824507176062
+    second: env_hail_side_3
+  - first:
+      213: -903911366426257714
+    second: env_hail_side_4
+  - first:
+      213: -2511242817833161309
+    second: env_hail_side_5
+  - first:
+      213: -2209298061892994482
+    second: env_hail_side_6
+  - first:
+      213: 885321405355918389
+    second: env_hail_side_7
+  - first:
+      213: 2012042014087429990
+    second: env_hail_side_8
+  - first:
+      213: 2703899577382548693
+    second: env_hail_side_9
+  - first:
+      213: -180729957314430045
+    second: env_hail_side_10
+  - first:
+      213: -3286454662483422666
+    second: env_hail_side_11
+  - first:
+      213: 2650156052535307121
+    second: env_hail_side_12
+  - first:
+      213: -2010355951451410504
+    second: env_hail_side_13
+  - first:
+      213: -229306445470135254
+    second: env_hail_side_14
+  - first:
+      213: -5274248107173642499
+    second: env_hail_side_15
+  - first:
+      213: 5250812421820474811
+    second: env_hail_side_16
+  - first:
+      213: -5756316452027329520
+    second: env_hail_side_17
+  - first:
+      213: 5410615278706511972
+    second: env_hail_side_18
+  - first:
+      213: -5831180081402683443
+    second: env_hail_side_19
+  - first:
+      213: 8588283419491528403
+    second: env_hail_side_20
+  - first:
+      213: -8554342111438923953
+    second: env_hail_side_21
+  - first:
+      213: -4998719448539066436
+    second: env_hail_side_22
+  - first:
+      213: -3868233483989148538
+    second: env_hail_side_23
+  - first:
+      213: 848429352202090559
+    second: env_hail_side_24
+  - first:
+      213: -51838389932100290
+    second: env_hail_side_25
+  - first:
+      213: 2364557740513541160
+    second: env_hail_side_26
+  - first:
+      213: 2380658281062571297
+    second: env_hail_side_27
+  - first:
+      213: -2560455431546117712
+    second: env_hail_side_28
+  - first:
+      213: 7380027012116500255
+    second: env_hail_side_29
+  - first:
+      213: 3015386064820923104
+    second: env_hail_side_30
+  - first:
+      213: 7802308825057247604
+    second: env_hail_side_31
+  - first:
+      213: -439088240865921374
+    second: env_hail_side_32
+  - first:
+      213: 3854723314504750775
+    second: env_hail_side_33
+  - first:
+      213: -4181684717802075965
+    second: env_hail_side_34
+  - first:
+      213: 5510219381869161146
+    second: env_hail_side_35
+  - first:
+      213: 5106071856202045145
+    second: env_hail_side_36
+  - first:
+      213: -2402336102809645525
+    second: env_hail_side_37
+  - first:
+      213: 27817874612415412
+    second: env_hail_side_38
+  - first:
+      213: -1390256709231201277
+    second: env_hail_side_39
+  - first:
+      213: 4162455032617459017
+    second: env_hail_side_40
+  - first:
+      213: -4574240271113302306
+    second: env_hail_side_41
+  - first:
+      213: -855069772268177155
+    second: env_hail_side_42
+  - first:
+      213: 7091885595021808301
+    second: env_hail_side_43
+  - first:
+      213: -432193464838153099
+    second: env_hail_side_44
+  - first:
+      213: -8199990153543526595
+    second: env_hail_side_45
+  - first:
+      213: -2392460727866170678
+    second: env_hail_side_46
+  - first:
+      213: -1710926643747452887
+    second: env_hail_side_47
+  - first:
+      213: 4603697731416809145
+    second: env_hail_side_48
+  - first:
+      213: 1121258820487702773
+    second: env_hail_side_49
+  - first:
+      213: -2498769993994516503
+    second: env_hail_side_50
+  - first:
+      213: 4907095124943330320
+    second: env_hail_side_51
+  - first:
+      213: 2386794632735766607
+    second: env_hail_side_52
+  - first:
+      213: -6503311915436783064
+    second: env_hail_side_53
+  - first:
+      213: -4603654773682746192
+    second: env_hail_side_54
+  - first:
+      213: -8762052060582498337
+    second: env_hail_side_55
+  - first:
+      213: 9145227366848406732
+    second: env_hail_side_56
+  - first:
+      213: 8354643760493708025
+    second: env_hail_side_57
+  - first:
+      213: -4159026299573948625
+    second: env_hail_side_58
+  - first:
+      213: 8631667764619748695
+    second: env_hail_side_59
+  - first:
+      213: -2060194014048746100
+    second: env_hail_side_60
+  - first:
+      213: -9127162483935964724
+    second: env_hail_side_61
+  - first:
+      213: -4795265996280842600
+    second: env_hail_side_62
+  - first:
+      213: -2434654648427044067
+    second: env_hail_side_63
+  - first:
+      213: 8886361066322204589
+    second: env_hail_side_64
+  - first:
+      213: 5586497297453106136
+    second: env_hail_side_65
+  - first:
+      213: -7571025940535788946
+    second: env_hail_side_66
+  - first:
+      213: -8366124128682636492
+    second: env_hail_side_67
+  - first:
+      213: -8488418529404751235
+    second: env_hail_side_68
+  - first:
+      213: -331691637083087774
+    second: env_hail_side_69
+  - first:
+      213: -8957126265254110207
+    second: env_hail_side_70
+  - first:
+      213: -109425873703936096
+    second: env_hail_side_71
+  - first:
+      213: -3460524679504675767
+    second: env_hail_side_72
+  - first:
+      213: 6098758346806683045
+    second: env_hail_side_73
+  - first:
+      213: -1486669058694938647
+    second: env_hail_side_74
+  - first:
+      213: 1827195938625145195
+    second: env_hail_side_75
+  - first:
+      213: -8281231189269930174
+    second: env_hail_side_76
+  - first:
+      213: -3833072995048208468
+    second: env_hail_side_77
+  - first:
+      213: -8789151601889834042
+    second: env_hail_side_78
+  - first:
+      213: 6096542881414363926
+    second: env_hail_side_79
+  - first:
+      213: -263859293183557681
+    second: env_hail_side_80
+  - first:
+      213: -2968227778526823567
+    second: env_hail_side_81
+  - first:
+      213: 2745034650900384617
+    second: env_hail_side_82
+  - first:
+      213: -824030683376948915
+    second: env_hail_side_83
+  - first:
+      213: -3685085772667335476
+    second: env_hail_side_84
+  - first:
+      213: 5334213776767557857
+    second: env_hail_side_85
+  - first:
+      213: -6414464743546320048
+    second: env_hail_side_86
+  - first:
+      213: 1654237320915685910
+    second: env_hail_side_87
+  - first:
+      213: -3926921278527327866
+    second: env_hail_side_88
+  - first:
+      213: -5303178969271143093
+    second: env_hail_side_89
+  - first:
+      213: -8805203322209466634
+    second: env_hail_side_90
+  - first:
+      213: -5940670600351711990
+    second: env_hail_side_91
+  - first:
+      213: 6251560895190271828
+    second: env_hail_side_92
+  - first:
+      213: 6012793208873585120
+    second: env_hail_side_93
+  - first:
+      213: 4833177736702482416
+    second: env_hail_side_94
+  - first:
+      213: 7204560739646818696
+    second: env_hail_side_95
+  - first:
+      213: -8338071944374682639
+    second: env_hail_side_96
+  - first:
+      213: -5943794733733468352
+    second: env_hail_side_97
+  - first:
+      213: 513437584202866968
+    second: env_hail_side_98
+  - first:
+      213: 7351245709258523876
+    second: env_hail_side_99
+  - first:
+      213: 7102514732129499231
+    second: env_hail_side_100
+  - first:
+      213: 434653027808258695
+    second: env_hail_side_101
+  - first:
+      213: 4665508774230480658
+    second: env_hail_side_102
+  - first:
+      213: -7037342536937964598
+    second: env_hail_side_103
+  - first:
+      213: 4220834217198740893
+    second: env_hail_side_104
+  - first:
+      213: 1886633977861745799
+    second: env_hail_side_105
+  - first:
+      213: 2143175610130017489
+    second: env_hail_side_106
+  - first:
+      213: -5788973913738475161
+    second: env_hail_side_107
+  - first:
+      213: -2882769744347345880
+    second: env_hail_side_108
+  - first:
+      213: -1524423617536672936
+    second: env_hail_side_109
+  - first:
+      213: -286183250288602350
+    second: env_hail_side_110
+  - first:
+      213: 1243635954607992409
+    second: env_hail_side_111
+  - first:
+      213: 6825675275616641052
+    second: env_hail_side_112
+  - first:
+      213: 732106742418302991
+    second: env_hail_side_113
+  - first:
+      213: -4762044671519906282
+    second: env_hail_side_114
+  - first:
+      213: 3461488058685903396
+    second: env_hail_side_115
+  - first:
+      213: -6408950716058697513
+    second: env_hail_side_116
+  - first:
+      213: 4266624374363869638
+    second: env_hail_side_117
+  - first:
+      213: 8938306436132241511
+    second: env_hail_side_118
+  - first:
+      213: -3954024151844201949
+    second: env_hail_side_119
+  - first:
+      213: -4591491693087269887
+    second: env_hail_side_120
+  - first:
+      213: 8697959162137033498
+    second: env_hail_side_121
+  - first:
+      213: 1366407925840207331
+    second: env_hail_side_122
+  - first:
+      213: -8091257569704218494
+    second: env_hail_side_123
+  - first:
+      213: -4456876931675011346
+    second: env_hail_side_124
+  - first:
+      213: 2526034571701136481
+    second: env_hail_side_125
+  - first:
+      213: -7463043213538303613
+    second: env_hail_side_126
+  - first:
+      213: 8664568787207905247
+    second: env_hail_side_127
+  - first:
+      213: -7981914216939744030
+    second: env_hail_side_128
+  - first:
+      213: 4966173762738142447
+    second: env_hail_side_129
+  - first:
+      213: -8748996860457277729
+    second: env_hail_side_130
+  - first:
+      213: 2935334016161663191
+    second: env_hail_side_131
+  - first:
+      213: 2746497155344779609
+    second: env_hail_side_132
+  - first:
+      213: -7611536929179990581
+    second: env_hail_side_133
+  - first:
+      213: -6485316243601302235
+    second: env_hail_side_134
+  - first:
+      213: -8937813640204975077
+    second: env_hail_side_135
+  - first:
+      213: 2527889134827124442
+    second: env_hail_side_136
+  - first:
+      213: 4471755631916728840
+    second: env_hail_side_137
+  - first:
+      213: -1980482702996702146
+    second: env_hail_side_138
+  - first:
+      213: 2566947762578822081
+    second: env_hail_side_139
+  - first:
+      213: 4767946076189508221
+    second: env_hail_side_140
+  - first:
+      213: 8984709618085047217
+    second: env_hail_side_141
+  - first:
+      213: 7911085226672720925
+    second: env_hail_side_142
+  - first:
+      213: -7003215357456815469
+    second: env_hail_side_143
+  - first:
+      213: -4361829937589309681
+    second: env_hail_side_144
+  - first:
+      213: 4249426974744097154
+    second: env_hail_side_145
+  - first:
+      213: -3864180276776575357
+    second: env_hail_side_146
+  - first:
+      213: -5192679104246120106
+    second: env_hail_side_147
+  - first:
+      213: -3850426627295193979
+    second: env_hail_side_148
+  - first:
+      213: -4052865878519184096
+    second: env_hail_side_149
+  - first:
+      213: -5551721087194603577
+    second: env_hail_side_150
+  - first:
+      213: 7416102102546246389
+    second: env_hail_side_151
+  - first:
+      213: 7081544769019079179
+    second: env_hail_side_152
+  - first:
+      213: -140515881621488121
+    second: env_hail_side_153
+  - first:
+      213: -5613777996343191000
+    second: env_hail_side_154
+  - first:
+      213: 3321649335839579542
+    second: env_hail_side_155
+  - first:
+      213: -6136446127558833770
+    second: env_hail_side_156
+  - first:
+      213: -3775066738482856580
+    second: env_hail_side_157
+  - first:
+      213: -8777548361066401220
+    second: env_hail_side_158
+  - first:
+      213: -2925020935658749437
+    second: env_hail_side_159
+  - first:
+      213: 6822189486560546834
+    second: env_hail_side_160
+  - first:
+      213: -4245950625189813900
+    second: env_hail_side_161
+  - first:
+      213: 6256041970455378063
+    second: env_hail_side_162
+  - first:
+      213: 2618980998219014435
+    second: env_hail_side_163
+  - first:
+      213: 4725590366839151527
+    second: env_hail_side_164
+  - first:
+      213: -8759104213205017148
+    second: env_hail_side_165
+  - first:
+      213: -5181116566089445740
+    second: env_hail_side_166
+  - first:
+      213: 8665849439001270577
+    second: env_hail_side_167
+  - first:
+      213: -1372800576364586675
+    second: env_hail_side_168
+  - first:
+      213: 8523725185422311684
+    second: env_hail_side_169
+  - first:
+      213: -4428291199378879153
+    second: env_hail_side_170
+  - first:
+      213: -9072748068055731144
+    second: env_hail_side_171
+  - first:
+      213: -6523613457836653083
+    second: env_hail_side_172
+  - first:
+      213: 3309795915766919457
+    second: env_hail_side_173
+  - first:
+      213: -4907239228379509625
+    second: env_hail_side_174
+  - first:
+      213: 7002518795915394750
+    second: env_hail_side_175
+  - first:
+      213: 6219041233335539892
+    second: env_hail_side_176
+  - first:
+      213: 9191531089586892681
+    second: env_hail_side_177
+  - first:
+      213: -7692265211969645111
+    second: env_hail_side_178
+  - first:
+      213: -4508914555991888133
+    second: env_hail_side_179
+  - first:
+      213: -8803352445427254139
+    second: env_hail_side_180
+  - first:
+      213: -6492419079588347399
+    second: env_hail_side_181
+  - first:
+      213: -7854387089773331706
+    second: env_hail_side_182
+  - first:
+      213: -8201551130684812981
+    second: env_hail_side_183
+  - first:
+      213: -4568267591352316504
+    second: env_hail_side_184
+  - first:
+      213: 5374381540075715310
+    second: env_hail_side_185
+  - first:
+      213: -3327344576493147388
+    second: env_hail_side_186
+  - first:
+      213: -4581688973358639863
+    second: env_hail_side_187
+  - first:
+      213: -7517739723847940147
+    second: env_hail_side_188
+  - first:
+      213: -5702394136672709911
+    second: env_hail_side_189
+  - first:
+      213: -3313030824481931348
+    second: env_hail_side_190
+  - first:
+      213: 373217254024028260
+    second: env_hail_side_191
+  - first:
+      213: 1373032029682231108
+    second: env_hail_side_192
+  - first:
+      213: -6247453694387222987
+    second: env_hail_side_193
+  - first:
+      213: 7247571158196962429
+    second: env_hail_side_194
+  - first:
+      213: -2024034345847772836
+    second: env_hail_side_195
+  - first:
+      213: 5982340672189564519
+    second: env_hail_side_196
+  - first:
+      213: 5341480919898149003
+    second: env_hail_side_197
+  - first:
+      213: 6301090427450770355
+    second: env_hail_side_198
+  - first:
+      213: -6094065165899259489
+    second: env_hail_side_199
+  - first:
+      213: -6664010543578706211
+    second: env_hail_side_200
+  - first:
+      213: 8470127362728256484
+    second: env_hail_side_201
+  - first:
+      213: -7849559345312869590
+    second: env_hail_side_202
+  - first:
+      213: 8541196862983304121
+    second: env_hail_side_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_hail_side_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 151
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f04e6c0082dc450800000000000000
+      internalID: 6110584253213577037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 196
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5009657e8b48d60800000000000000
+      internalID: 7891635750789187064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 173
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5b8c8ab0e41e190800000000000000
+      internalID: -7934975256466770489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_3
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 152
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7485d3ad2def2270800000000000000
+      internalID: 8228055824507176062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_4
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 195
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec699bfb669a473f0800000000000000
+      internalID: -903911366426257714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 173
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adad4a56f5462dd0800000000000000
+      internalID: -2511242817833161309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_6
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 151
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ab8e93e1ff651e0800000000000000
+      internalID: -2209298061892994482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_7
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 195
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5340a46a02b494c00800000000000000
+      internalID: 885321405355918389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_8
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 172
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb7d23d853ceb10800000000000000
+      internalID: 2012042014087429990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_9
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 151
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4373af65e268520800000000000000
+      internalID: 2703899577382548693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_10
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 195
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7006bf0bed7df0800000000000000
+      internalID: -180729957314430045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_11
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 173
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632df3895ea2462d0800000000000000
+      internalID: -3286454662483422666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_12
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 153
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17be7be73ee37c420800000000000000
+      internalID: 2650156052535307121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_13
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf65a9d9e7c914e0800000000000000
+      internalID: -2010355951451410504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_14
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 172
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c8b05b00751dcf0800000000000000
+      internalID: -229306445470135254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_15
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 149
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe73aa6a4b1ec6b0800000000000000
+      internalID: -5274248107173642499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_16
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 195
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb561d0e312aed840800000000000000
+      internalID: 5250812421820474811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_17
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 173
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0149c266fa47d10b0800000000000000
+      internalID: -5756316452027329520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_18
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 151
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4605a97eded561b40800000000000000
+      internalID: 5410615278706511972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_19
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 194
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd8a26c9c731fa0800000000000000
+      internalID: -5831180081402683443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_20
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 173
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de6b217446bf2770800000000000000
+      internalID: 8588283419491528403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_21
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 152
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4794882c2fd84980800000000000000
+      internalID: -8554342111438923953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_22
+      rect:
+        serializedVersion: 2
+        x: 5768
+        y: 194
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0ef9552bf0aab0800000000000000
+      internalID: -4998719448539066436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_23
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 173
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c1e8e1426415ac0800000000000000
+      internalID: -3868233483989148538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 83
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38350b200a36cb00800000000000000
+      internalID: 848429352202090559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e357e5e4245d74ff0800000000000000
+      internalID: -51838389932100290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 106
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb53eacb890d020800000000000000
+      internalID: 2364557740513541160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_27
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 85
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d9356e71cc90120800000000000000
+      internalID: 2380658281062571297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_28
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 129
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b16973d95f677cd0800000000000000
+      internalID: -2560455431546117712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_29
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 107
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fcdf9677f1b6660800000000000000
+      internalID: 7380027012116500255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_30
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 85
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea605656adc8d920800000000000000
+      internalID: 3015386064820923104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_31
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 129
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ce69b98e574c60800000000000000
+      internalID: 7802308825057247604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_32
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 106
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6b222429b08e9f0800000000000000
+      internalID: -439088240865921374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_33
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 86
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6d87c6e6abe7530800000000000000
+      internalID: 3854723314504750775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_34
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 129
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c84ab897eba7f5c0800000000000000
+      internalID: -4181684717802075965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_35
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 107
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa8ca555b387c40800000000000000
+      internalID: 5510219381869161146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_36
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 84
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6da82dc496cd640800000000000000
+      internalID: 5106071856202045145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_37
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 130
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e4fe8ea0039aed0800000000000000
+      internalID: -2402336102809645525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_38
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 106
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbeda6a534d26000800000000000000
+      internalID: 27817874612415412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_39
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 85
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304bbab83e0d4bce0800000000000000
+      internalID: -1390256709231201277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_40
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 129
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d53bc6cc204c930800000000000000
+      internalID: 4162455032617459017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_41
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 105
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede410375b80580c0800000000000000
+      internalID: -4574240271113302306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_42
+      rect:
+        serializedVersion: 2
+        x: 4741
+        y: 84
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8f7cd829e2224f0800000000000000
+      internalID: -855069772268177155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_43
+      rect:
+        serializedVersion: 2
+        x: 5051
+        y: 127
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21cfecf507b6260800000000000000
+      internalID: 7091885595021808301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_44
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 105
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c9316655a800af0800000000000000
+      internalID: -432193464838153099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_45
+      rect:
+        serializedVersion: 2
+        x: 5571
+        y: 85
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3756589668c33e80800000000000000
+      internalID: -8199990153543526595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_46
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 129
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2e670d4a54cced0800000000000000
+      internalID: -2392460727866170678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_47
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 105
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9288eaa48419148e0800000000000000
+      internalID: -1710926643747452887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 82
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bede5ef1be93ef30800000000000000
+      internalID: 4603697731416809145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f86170e4f28f8f00800000000000000
+      internalID: 1121258820487702773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_50
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 84
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e74d84fde5925dd0800000000000000
+      internalID: -2498769993994516503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_51
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 70
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c5c496401891440800000000000000
+      internalID: 4907095124943330320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_52
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 76
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48360c92199f1120800000000000000
+      internalID: 2386794632735766607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_53
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 83
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a43d8d4489fb5a0800000000000000
+      internalID: -6503311915436783064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_54
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 82
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bccb12ef588c10c0800000000000000
+      internalID: -4603654773682746192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_55
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 60
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf20810310f66680800000000000000
+      internalID: -8762052060582498337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_56
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 75
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc42e2f26df5aee70800000000000000
+      internalID: 9145227366848406732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_57
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 70
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f249214c38a1f370800000000000000
+      internalID: 8354643760493708025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_58
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 77
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f2362bd9b2846c0800000000000000
+      internalID: -4159026299573948625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_59
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 64
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a9517918d9c770800000000000000
+      internalID: 8631667764619748695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_60
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 78
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c850d38a578b863e0800000000000000
+      internalID: -2060194014048746100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_61
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 70
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc199b1241ec55180800000000000000
+      internalID: -9127162483935964724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_62
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 73
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896bb289bfac37db0800000000000000
+      internalID: -4795265996280842600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_63
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 80
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a0c12f7e563ed0800000000000000
+      internalID: -2434654648427044067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_64
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 82
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71fffce42b25b70800000000000000
+      internalID: 8886361066322204589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_65
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 64
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d34f5981b9378d40800000000000000
+      internalID: 5586497297453106136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_66
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 74
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ab81525005ee690800000000000000
+      internalID: -7571025940535788946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_67
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 69
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b0c0b3e6e85eb80800000000000000
+      internalID: -8366124128682636492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_68
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 76
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d727cf13254133a80800000000000000
+      internalID: -8488418529404751235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_69
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 79
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cd1b4a638956bf0800000000000000
+      internalID: -331691637083087774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_70
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 63
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c153f5e15e1b380800000000000000
+      internalID: -8957126265254110207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_71
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 72
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd3a46fbd3b7ef0800000000000000
+      internalID: -109425873703936096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_72
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 72
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cb6ad732fb9ffc0800000000000000
+      internalID: -3460524679504675767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_73
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 82
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a56c50676423a450800000000000000
+      internalID: 6098758346806683045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_74
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 60
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef7ce92e5a4e5be0800000000000000
+      internalID: -1486669058694938647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_75
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 82
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69c9c876018b5910800000000000000
+      internalID: 1827195938625145195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_76
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 71
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f1ea4fb18231d80800000000000000
+      internalID: -8281231189269930174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_77
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 73
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca742046b603ecac0800000000000000
+      internalID: -3833072995048208468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_78
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 80
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb0d4c5f29a60680800000000000000
+      internalID: -8789151601889834042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_79
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 82
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb3a423754b9450800000000000000
+      internalID: 6096542881414363926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_80
+      rect:
+        serializedVersion: 2
+        x: 5001
+        y: 63
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfbb1fee55965cf0800000000000000
+      internalID: -263859293183557681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_81
+      rect:
+        serializedVersion: 2
+        x: 5212
+        y: 72
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b3670df8cbec6d0800000000000000
+      internalID: -2968227778526823567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_82
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 71
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b4e0f9872581620800000000000000
+      internalID: 2745034650900384617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_83
+      rect:
+        serializedVersion: 2
+        x: 5522
+        y: 80
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d496b4995747094f0800000000000000
+      internalID: -824030683376948915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_84
+      rect:
+        serializedVersion: 2
+        x: 5779
+        y: 82
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4151a302fbdcc0800000000000000
+      internalID: -3685085772667335476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_85
+      rect:
+        serializedVersion: 2
+        x: 5827
+        y: 64
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0a9380b2fe60a40800000000000000
+      internalID: 5334213776767557857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_86
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 74
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b87a01d4e3bf6a0800000000000000
+      internalID: -6414464743546320048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_87
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 73
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6129f5f241805f610800000000000000
+      internalID: 1654237320915685910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b47427e5c089c0800000000000000
+      internalID: -3926921278527327866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 54
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45754c23d25766b0800000000000000
+      internalID: -5303178969271143093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_90
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 54
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f68d9cfa32adc580800000000000000
+      internalID: -8805203322209466634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 65
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dfd62609f7e8da0800000000000000
+      internalID: -5940670600351711990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_92
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4570a81138102c650800000000000000
+      internalID: 6251560895190271828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_93
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e98acaf09bb17350800000000000000
+      internalID: 6012793208873585120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_94
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 54
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f75a745b85e21340800000000000000
+      internalID: 4833177736702482416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_95
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 55
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889cf5142ddbbf360800000000000000
+      internalID: 7204560739646818696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_96
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 65
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb75eb5eb7394c80800000000000000
+      internalID: -8338071944374682639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_97
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047aaf56e26638da0800000000000000
+      internalID: -5943794733733468352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_98
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 62
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8112fb433c8102700800000000000000
+      internalID: 513437584202866968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_99
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 54
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e408f4260fd40660800000000000000
+      internalID: 7351245709258523876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_100
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 54
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58be84a483319260800000000000000
+      internalID: 7102514732129499231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_101
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a2f0b30a2380600800000000000000
+      internalID: 434653027808258695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_102
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217d970e2873fb040800000000000000
+      internalID: 4665508774230480658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_103
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 54
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbf0138f36565e90800000000000000
+      internalID: -7037342536937964598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_104
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 54
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95e1fb8b5a639a30800000000000000
+      internalID: 4220834217198740893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_105
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ca1a76b9bae2a10800000000000000
+      internalID: 1886633977861745799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_106
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dca415ccd61ebd10800000000000000
+      internalID: 2143175610130017489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_107
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 54
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7698d9195ee69afa0800000000000000
+      internalID: -5788973913738475161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_108
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 55
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cceeae0385ef7d0800000000000000
+      internalID: -2882769744347345880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_109
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb28debc828dae0800000000000000
+      internalID: -1524423617536672936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_110
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 62
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21391e1a9d5470cf0800000000000000
+      internalID: -286183250288602350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_111
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 54
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e2058cf48424110800000000000000
+      internalID: 1243635954607992409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_112
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 54
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10eb4bcf7ba9be50800000000000000
+      internalID: 6825675275616641052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_113
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08e28f0437f82a00800000000000000
+      internalID: 732106742418302991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_114
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616a3850a91d9edb0800000000000000
+      internalID: -4762044671519906282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_115
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422da34bc0da90030800000000000000
+      internalID: 3461488058685903396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_116
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 64
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d00652a745de07a0800000000000000
+      internalID: -6408950716058697513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_117
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 54
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c15bff4348163b30800000000000000
+      internalID: 4266624374363869638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_118
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 55
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7600043b85e3b0c70800000000000000
+      internalID: 8938306436132241511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_119
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ad204bbfb7029c0800000000000000
+      internalID: -3954024151844201949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_120
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 64
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c5064c1aeb740c0800000000000000
+      internalID: -4591491693087269887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_121
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 54
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b380236cb55b870800000000000000
+      internalID: 8697959162137033498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_122
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 54
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eddbfdd4c476f210800000000000000
+      internalID: 1366407925840207331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_123
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280f6931c1416bf80800000000000000
+      internalID: -8091257569704218494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_124
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 54
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c0ef4b0ef522c0800000000000000
+      internalID: -4456876931675011346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_125
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 54
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c2a983f074e0320800000000000000
+      internalID: 2526034571701136481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_126
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381e8a9fcb1fd6890800000000000000
+      internalID: -7463043213538303613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_127
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 63
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfd675b76bbe3870800000000000000
+      internalID: 8664568787207905247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_128
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e49aa74f4b8a3190800000000000000
+      internalID: -7981914216939744030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_129
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 65
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3fdca9b46be440800000000000000
+      internalID: 4966173762738142447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_130
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 54
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6af67a5b1559680800000000000000
+      internalID: -8748996860457277729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_131
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 55
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8cf625cb66cb820800000000000000
+      internalID: 2935334016161663191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_132
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 63
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95942f87c948d1620800000000000000
+      internalID: 2746497155344779609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_133
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc585759d736e5690800000000000000
+      internalID: -7611536929179990581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_134
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 64
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd214bc378ff5a0800000000000000
+      internalID: -6485316243601302235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_135
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 54
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1401fa49d186f380800000000000000
+      internalID: -8937813640204975077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_136
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 54
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6b0f856cdd41320800000000000000
+      internalID: 2527889134827124442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_137
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802cfba0e0ede0e30800000000000000
+      internalID: 4471755631916728840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_138
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 64
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c73148979e384e0800000000000000
+      internalID: -1980482702996702146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_139
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c39e79c361af9320800000000000000
+      internalID: 2566947762578822081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_140
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 65
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d724e73d1b52b2240800000000000000
+      internalID: 4767946076189508221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_141
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 54
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbaefb6bc910bc70800000000000000
+      internalID: 8984709618085047217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_142
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0ba35912d9cd60800000000000000
+      internalID: 7911085226672720925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_143
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ae93dacb49fce90800000000000000
+      internalID: -7003215357456815469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_144
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f235f18caa773c0800000000000000
+      internalID: -4361829937589309681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_145
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 54
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281b590b15ff8fa30800000000000000
+      internalID: 4249426974744097154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_146
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 55
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e59a6f28caf5ac0800000000000000
+      internalID: -3864180276776575357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_147
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65101deddd5efe7b0800000000000000
+      internalID: -5192679104246120106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_148
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 63
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5845d560269809ac0800000000000000
+      internalID: -3850426627295193979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_149
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 54
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025009cd4f351c7c0800000000000000
+      internalID: -4052865878519184096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_150
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 54
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf58b1e51354f2b0800000000000000
+      internalID: -5551721087194603577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_151
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faeb40f1994be660800000000000000
+      internalID: 7416102102546246389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_152
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 64
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6862a273b64260800000000000000
+      internalID: 7081544769019079179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_153
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e76a6dc89cc0ef0800000000000000
+      internalID: -140515881621488121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_154
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 65
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a5f08c7aad712b0800000000000000
+      internalID: -5613777996343191000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_155
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 54
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d512bd87ed81e20800000000000000
+      internalID: 3321649335839579542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_156
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 55
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699c88f52c6f6daa0800000000000000
+      internalID: -6136446127558833770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_157
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d36517dc44c9bc0800000000000000
+      internalID: -3775066738482856580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_158
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 69
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3233d36542ef2680800000000000000
+      internalID: -8777548361066401220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_159
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ca79d4fc3867d0800000000000000
+      internalID: -2925020935658749437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_160
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 54
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21098d841394dae50800000000000000
+      internalID: 6822189486560546834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_161
+      rect:
+        serializedVersion: 2
+        x: 4674
+        y: 54
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471a6b3076a5315c0800000000000000
+      internalID: -4245950625189813900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_162
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887de4b60de1d650800000000000000
+      internalID: 6256041970455378063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_163
+      rect:
+        serializedVersion: 2
+        x: 4757
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321a758875d785420800000000000000
+      internalID: 2618980998219014435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_164
+      rect:
+        serializedVersion: 2
+        x: 4771
+        y: 54
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab9471c66ba49140800000000000000
+      internalID: 4725590366839151527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_165
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 54
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd99453029617680800000000000000
+      internalID: -8759104213205017148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_166
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ec8521fe9f818b0800000000000000
+      internalID: -5181116566089445740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_167
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 65
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13950b0b628434870800000000000000
+      internalID: 8665849439001270577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_168
+      rect:
+        serializedVersion: 2
+        x: 5183
+        y: 54
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4956523625d2fce0800000000000000
+      internalID: -1372800576364586675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_169
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 55
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401c52045ea5a4670800000000000000
+      internalID: 8523725185422311684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_170
+      rect:
+        serializedVersion: 2
+        x: 5287
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d8803cd9c8b82c0800000000000000
+      internalID: -4428291199378879153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_171
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8343dea93bf171280800000000000000
+      internalID: -9072748068055731144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_172
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 54
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e540b9af187775a0800000000000000
+      internalID: -6523613457836653083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_173
+      rect:
+        serializedVersion: 2
+        x: 5506
+        y: 54
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121735e69d1ceed20800000000000000
+      internalID: 3309795915766919457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_174
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cc394ebebf5ebb0800000000000000
+      internalID: -4907239228379509625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_175
+      rect:
+        serializedVersion: 2
+        x: 5557
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe78837eb1fd2160800000000000000
+      internalID: 7002518795915394750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_176
+      rect:
+        serializedVersion: 2
+        x: 5723
+        y: 64
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8d8744d097e4650800000000000000
+      internalID: 6219041233335539892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_177
+      rect:
+        serializedVersion: 2
+        x: 5732
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f29c0c3d0ee8f70800000000000000
+      internalID: 9191531089586892681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_178
+      rect:
+        serializedVersion: 2
+        x: 5741
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5547a8b859f3590800000000000000
+      internalID: -7692265211969645111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_179
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 54
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee38fb91e1d61c0800000000000000
+      internalID: -4508914555991888133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_180
+      rect:
+        serializedVersion: 2
+        x: 5977
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cfdb1d79534d580800000000000000
+      internalID: -8803352445427254139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_181
+      rect:
+        serializedVersion: 2
+        x: 5988
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f10b24de3b46e5a0800000000000000
+      internalID: -6492419079588347399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_182
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 63
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b75a16e8c9ff290800000000000000
+      internalID: -7854387089773331706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_183
+      rect:
+        serializedVersion: 2
+        x: 6015
+        y: 54
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41145843bc3e2e80800000000000000
+      internalID: -8201551130684812981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_184
+      rect:
+        serializedVersion: 2
+        x: 6081
+        y: 55
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad048254d04a90c0800000000000000
+      internalID: -4568267591352316504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_185
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 61
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea31a73983a59a40800000000000000
+      internalID: 5374381540075715310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_186
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 60
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40badc89cb5e2d1d0800000000000000
+      internalID: -3327344576493147388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_187
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90552af47229a60c0800000000000000
+      internalID: -4581688973358639863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_188
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc743364d8f9ba790800000000000000
+      internalID: -7517739723847940147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_189
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e25a5aceb60dd0b0800000000000000
+      internalID: -5702394136672709911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_190
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 60
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafb5d0b400c502d0800000000000000
+      internalID: -3313030824481931348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_191
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 60
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460262a7d1fed2500800000000000000
+      internalID: 373217254024028260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_192
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 62
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447617a3b5dfd0310800000000000000
+      internalID: 1373032029682231108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_193
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536095327f59c49a0800000000000000
+      internalID: -6247453694387222987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_194
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7442b0b19b849460800000000000000
+      internalID: 7247571158196962429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_195
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 62
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ad8a7c7f29e3e0800000000000000
+      internalID: -2024034345847772836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_196
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7660b33452b850350800000000000000
+      internalID: 5982340672189564519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_197
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b805e05a890c02a40800000000000000
+      internalID: 5341480919898149003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_198
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 61
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b341d1fb58f17750800000000000000
+      internalID: 6301090427450770355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_199
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f912e74f4088d6ba0800000000000000
+      internalID: -6094065165899259489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_200
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8882d7bda483a0800000000000000
+      internalID: -6664010543578706211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_201
+      rect:
+        serializedVersion: 2
+        x: 4988
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3ebb1b5ffeb8570800000000000000
+      internalID: 8470127362728256484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_202
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23574b3d53c01390800000000000000
+      internalID: -7849559345312869590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_hail_side_203
+      rect:
+        serializedVersion: 2
+        x: 5814
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3fcce2b4d688670800000000000000
+      internalID: 8541196862983304121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_hail_side_0: 6110584253213577037
+      env_hail_side_1: 7891635750789187064
+      env_hail_side_10: -180729957314430045
+      env_hail_side_100: 7102514732129499231
+      env_hail_side_101: 434653027808258695
+      env_hail_side_102: 4665508774230480658
+      env_hail_side_103: -7037342536937964598
+      env_hail_side_104: 4220834217198740893
+      env_hail_side_105: 1886633977861745799
+      env_hail_side_106: 2143175610130017489
+      env_hail_side_107: -5788973913738475161
+      env_hail_side_108: -2882769744347345880
+      env_hail_side_109: -1524423617536672936
+      env_hail_side_11: -3286454662483422666
+      env_hail_side_110: -286183250288602350
+      env_hail_side_111: 1243635954607992409
+      env_hail_side_112: 6825675275616641052
+      env_hail_side_113: 732106742418302991
+      env_hail_side_114: -4762044671519906282
+      env_hail_side_115: 3461488058685903396
+      env_hail_side_116: -6408950716058697513
+      env_hail_side_117: 4266624374363869638
+      env_hail_side_118: 8938306436132241511
+      env_hail_side_119: -3954024151844201949
+      env_hail_side_12: 2650156052535307121
+      env_hail_side_120: -4591491693087269887
+      env_hail_side_121: 8697959162137033498
+      env_hail_side_122: 1366407925840207331
+      env_hail_side_123: -8091257569704218494
+      env_hail_side_124: -4456876931675011346
+      env_hail_side_125: 2526034571701136481
+      env_hail_side_126: -7463043213538303613
+      env_hail_side_127: 8664568787207905247
+      env_hail_side_128: -7981914216939744030
+      env_hail_side_129: 4966173762738142447
+      env_hail_side_13: -2010355951451410504
+      env_hail_side_130: -8748996860457277729
+      env_hail_side_131: 2935334016161663191
+      env_hail_side_132: 2746497155344779609
+      env_hail_side_133: -7611536929179990581
+      env_hail_side_134: -6485316243601302235
+      env_hail_side_135: -8937813640204975077
+      env_hail_side_136: 2527889134827124442
+      env_hail_side_137: 4471755631916728840
+      env_hail_side_138: -1980482702996702146
+      env_hail_side_139: 2566947762578822081
+      env_hail_side_14: -229306445470135254
+      env_hail_side_140: 4767946076189508221
+      env_hail_side_141: 8984709618085047217
+      env_hail_side_142: 7911085226672720925
+      env_hail_side_143: -7003215357456815469
+      env_hail_side_144: -4361829937589309681
+      env_hail_side_145: 4249426974744097154
+      env_hail_side_146: -3864180276776575357
+      env_hail_side_147: -5192679104246120106
+      env_hail_side_148: -3850426627295193979
+      env_hail_side_149: -4052865878519184096
+      env_hail_side_15: -5274248107173642499
+      env_hail_side_150: -5551721087194603577
+      env_hail_side_151: 7416102102546246389
+      env_hail_side_152: 7081544769019079179
+      env_hail_side_153: -140515881621488121
+      env_hail_side_154: -5613777996343191000
+      env_hail_side_155: 3321649335839579542
+      env_hail_side_156: -6136446127558833770
+      env_hail_side_157: -3775066738482856580
+      env_hail_side_158: -8777548361066401220
+      env_hail_side_159: -2925020935658749437
+      env_hail_side_16: 5250812421820474811
+      env_hail_side_160: 6822189486560546834
+      env_hail_side_161: -4245950625189813900
+      env_hail_side_162: 6256041970455378063
+      env_hail_side_163: 2618980998219014435
+      env_hail_side_164: 4725590366839151527
+      env_hail_side_165: -8759104213205017148
+      env_hail_side_166: -5181116566089445740
+      env_hail_side_167: 8665849439001270577
+      env_hail_side_168: -1372800576364586675
+      env_hail_side_169: 8523725185422311684
+      env_hail_side_17: -5756316452027329520
+      env_hail_side_170: -4428291199378879153
+      env_hail_side_171: -9072748068055731144
+      env_hail_side_172: -6523613457836653083
+      env_hail_side_173: 3309795915766919457
+      env_hail_side_174: -4907239228379509625
+      env_hail_side_175: 7002518795915394750
+      env_hail_side_176: 6219041233335539892
+      env_hail_side_177: 9191531089586892681
+      env_hail_side_178: -7692265211969645111
+      env_hail_side_179: -4508914555991888133
+      env_hail_side_18: 5410615278706511972
+      env_hail_side_180: -8803352445427254139
+      env_hail_side_181: -6492419079588347399
+      env_hail_side_182: -7854387089773331706
+      env_hail_side_183: -8201551130684812981
+      env_hail_side_184: -4568267591352316504
+      env_hail_side_185: 5374381540075715310
+      env_hail_side_186: -3327344576493147388
+      env_hail_side_187: -4581688973358639863
+      env_hail_side_188: -7517739723847940147
+      env_hail_side_189: -5702394136672709911
+      env_hail_side_19: -5831180081402683443
+      env_hail_side_190: -3313030824481931348
+      env_hail_side_191: 373217254024028260
+      env_hail_side_192: 1373032029682231108
+      env_hail_side_193: -6247453694387222987
+      env_hail_side_194: 7247571158196962429
+      env_hail_side_195: -2024034345847772836
+      env_hail_side_196: 5982340672189564519
+      env_hail_side_197: 5341480919898149003
+      env_hail_side_198: 6301090427450770355
+      env_hail_side_199: -6094065165899259489
+      env_hail_side_2: -7934975256466770489
+      env_hail_side_20: 8588283419491528403
+      env_hail_side_200: -6664010543578706211
+      env_hail_side_201: 8470127362728256484
+      env_hail_side_202: -7849559345312869590
+      env_hail_side_203: 8541196862983304121
+      env_hail_side_21: -8554342111438923953
+      env_hail_side_22: -4998719448539066436
+      env_hail_side_23: -3868233483989148538
+      env_hail_side_24: 848429352202090559
+      env_hail_side_25: -51838389932100290
+      env_hail_side_26: 2364557740513541160
+      env_hail_side_27: 2380658281062571297
+      env_hail_side_28: -2560455431546117712
+      env_hail_side_29: 7380027012116500255
+      env_hail_side_3: 8228055824507176062
+      env_hail_side_30: 3015386064820923104
+      env_hail_side_31: 7802308825057247604
+      env_hail_side_32: -439088240865921374
+      env_hail_side_33: 3854723314504750775
+      env_hail_side_34: -4181684717802075965
+      env_hail_side_35: 5510219381869161146
+      env_hail_side_36: 5106071856202045145
+      env_hail_side_37: -2402336102809645525
+      env_hail_side_38: 27817874612415412
+      env_hail_side_39: -1390256709231201277
+      env_hail_side_4: -903911366426257714
+      env_hail_side_40: 4162455032617459017
+      env_hail_side_41: -4574240271113302306
+      env_hail_side_42: -855069772268177155
+      env_hail_side_43: 7091885595021808301
+      env_hail_side_44: -432193464838153099
+      env_hail_side_45: -8199990153543526595
+      env_hail_side_46: -2392460727866170678
+      env_hail_side_47: -1710926643747452887
+      env_hail_side_48: 4603697731416809145
+      env_hail_side_49: 1121258820487702773
+      env_hail_side_5: -2511242817833161309
+      env_hail_side_50: -2498769993994516503
+      env_hail_side_51: 4907095124943330320
+      env_hail_side_52: 2386794632735766607
+      env_hail_side_53: -6503311915436783064
+      env_hail_side_54: -4603654773682746192
+      env_hail_side_55: -8762052060582498337
+      env_hail_side_56: 9145227366848406732
+      env_hail_side_57: 8354643760493708025
+      env_hail_side_58: -4159026299573948625
+      env_hail_side_59: 8631667764619748695
+      env_hail_side_6: -2209298061892994482
+      env_hail_side_60: -2060194014048746100
+      env_hail_side_61: -9127162483935964724
+      env_hail_side_62: -4795265996280842600
+      env_hail_side_63: -2434654648427044067
+      env_hail_side_64: 8886361066322204589
+      env_hail_side_65: 5586497297453106136
+      env_hail_side_66: -7571025940535788946
+      env_hail_side_67: -8366124128682636492
+      env_hail_side_68: -8488418529404751235
+      env_hail_side_69: -331691637083087774
+      env_hail_side_7: 885321405355918389
+      env_hail_side_70: -8957126265254110207
+      env_hail_side_71: -109425873703936096
+      env_hail_side_72: -3460524679504675767
+      env_hail_side_73: 6098758346806683045
+      env_hail_side_74: -1486669058694938647
+      env_hail_side_75: 1827195938625145195
+      env_hail_side_76: -8281231189269930174
+      env_hail_side_77: -3833072995048208468
+      env_hail_side_78: -8789151601889834042
+      env_hail_side_79: 6096542881414363926
+      env_hail_side_8: 2012042014087429990
+      env_hail_side_80: -263859293183557681
+      env_hail_side_81: -2968227778526823567
+      env_hail_side_82: 2745034650900384617
+      env_hail_side_83: -824030683376948915
+      env_hail_side_84: -3685085772667335476
+      env_hail_side_85: 5334213776767557857
+      env_hail_side_86: -6414464743546320048
+      env_hail_side_87: 1654237320915685910
+      env_hail_side_88: -3926921278527327866
+      env_hail_side_89: -5303178969271143093
+      env_hail_side_9: 2703899577382548693
+      env_hail_side_90: -8805203322209466634
+      env_hail_side_91: -5940670600351711990
+      env_hail_side_92: 6251560895190271828
+      env_hail_side_93: 6012793208873585120
+      env_hail_side_94: 4833177736702482416
+      env_hail_side_95: 7204560739646818696
+      env_hail_side_96: -8338071944374682639
+      env_hail_side_97: -5943794733733468352
+      env_hail_side_98: 513437584202866968
+      env_hail_side_99: 7351245709258523876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

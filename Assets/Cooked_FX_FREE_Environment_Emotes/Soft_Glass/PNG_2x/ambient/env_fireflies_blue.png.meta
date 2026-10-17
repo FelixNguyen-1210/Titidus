@@ -1,0 +1,2628 @@
+fileFormatVersion: 2
+guid: 0032e9312c112194193fcfca009e0e34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4819556337838177768
+    second: env_fireflies_blue_0
+  - first:
+      213: 1940452564075815216
+    second: env_fireflies_blue_1
+  - first:
+      213: -8208899102480409712
+    second: env_fireflies_blue_2
+  - first:
+      213: -4145857563252344765
+    second: env_fireflies_blue_3
+  - first:
+      213: -6202593005632632722
+    second: env_fireflies_blue_4
+  - first:
+      213: -6014654028586802359
+    second: env_fireflies_blue_5
+  - first:
+      213: -5620106802718700829
+    second: env_fireflies_blue_6
+  - first:
+      213: -8295101973683592045
+    second: env_fireflies_blue_7
+  - first:
+      213: 7677191802257980672
+    second: env_fireflies_blue_8
+  - first:
+      213: 7414620659482495315
+    second: env_fireflies_blue_9
+  - first:
+      213: -6101098603121368639
+    second: env_fireflies_blue_10
+  - first:
+      213: -2063317827700525034
+    second: env_fireflies_blue_11
+  - first:
+      213: 4328908121236658202
+    second: env_fireflies_blue_12
+  - first:
+      213: -8306084178099550950
+    second: env_fireflies_blue_13
+  - first:
+      213: -8781484884804050246
+    second: env_fireflies_blue_14
+  - first:
+      213: 8085651451295661600
+    second: env_fireflies_blue_15
+  - first:
+      213: 5026512379761373453
+    second: env_fireflies_blue_16
+  - first:
+      213: 1934191755571649605
+    second: env_fireflies_blue_17
+  - first:
+      213: -3582960768274864297
+    second: env_fireflies_blue_18
+  - first:
+      213: 9113645658848158724
+    second: env_fireflies_blue_19
+  - first:
+      213: -7840703571549503608
+    second: env_fireflies_blue_20
+  - first:
+      213: 7828514166659327312
+    second: env_fireflies_blue_21
+  - first:
+      213: -8986053936216689974
+    second: env_fireflies_blue_22
+  - first:
+      213: -3227284945399108908
+    second: env_fireflies_blue_23
+  - first:
+      213: -4757680371405037009
+    second: env_fireflies_blue_24
+  - first:
+      213: 2829113481194081019
+    second: env_fireflies_blue_25
+  - first:
+      213: -1051944541289520580
+    second: env_fireflies_blue_26
+  - first:
+      213: -2460818647794762526
+    second: env_fireflies_blue_27
+  - first:
+      213: -6604787764302916242
+    second: env_fireflies_blue_28
+  - first:
+      213: -5994425805415121604
+    second: env_fireflies_blue_29
+  - first:
+      213: -1795072166324355935
+    second: env_fireflies_blue_30
+  - first:
+      213: -5043014971504408409
+    second: env_fireflies_blue_31
+  - first:
+      213: 2669115943739454327
+    second: env_fireflies_blue_32
+  - first:
+      213: -7283384172643419829
+    second: env_fireflies_blue_33
+  - first:
+      213: 631505051328615185
+    second: env_fireflies_blue_34
+  - first:
+      213: 6476662663268882132
+    second: env_fireflies_blue_35
+  - first:
+      213: 7767328589857509194
+    second: env_fireflies_blue_36
+  - first:
+      213: 640572190295023808
+    second: env_fireflies_blue_37
+  - first:
+      213: 8309838986705490291
+    second: env_fireflies_blue_38
+  - first:
+      213: 5392426931434453707
+    second: env_fireflies_blue_39
+  - first:
+      213: -5552515443231254088
+    second: env_fireflies_blue_40
+  - first:
+      213: -387903320352292820
+    second: env_fireflies_blue_41
+  - first:
+      213: 1934757362976246186
+    second: env_fireflies_blue_42
+  - first:
+      213: 7450725169610856420
+    second: env_fireflies_blue_43
+  - first:
+      213: 3072518355760892104
+    second: env_fireflies_blue_44
+  - first:
+      213: 7790267237382240013
+    second: env_fireflies_blue_45
+  - first:
+      213: 3664705976744678231
+    second: env_fireflies_blue_46
+  - first:
+      213: 510920501666503336
+    second: env_fireflies_blue_47
+  - first:
+      213: -4379906421656976485
+    second: env_fireflies_blue_48
+  - first:
+      213: -4484168840999957610
+    second: env_fireflies_blue_49
+  - first:
+      213: -4646435253562155942
+    second: env_fireflies_blue_50
+  - first:
+      213: 8644317542875021650
+    second: env_fireflies_blue_51
+  - first:
+      213: 7469049427409941692
+    second: env_fireflies_blue_52
+  - first:
+      213: 7962239443157531827
+    second: env_fireflies_blue_53
+  - first:
+      213: -4962581096695709272
+    second: env_fireflies_blue_54
+  - first:
+      213: -5060772989859620751
+    second: env_fireflies_blue_55
+  - first:
+      213: 7740766759328095907
+    second: env_fireflies_blue_56
+  - first:
+      213: 1745765568122935991
+    second: env_fireflies_blue_57
+  - first:
+      213: 2857880143693190777
+    second: env_fireflies_blue_58
+  - first:
+      213: -2842042437965745797
+    second: env_fireflies_blue_59
+  - first:
+      213: 5561386188886313799
+    second: env_fireflies_blue_60
+  - first:
+      213: -400415022281879275
+    second: env_fireflies_blue_61
+  - first:
+      213: 1566812494879771866
+    second: env_fireflies_blue_62
+  - first:
+      213: -8884150915537611931
+    second: env_fireflies_blue_63
+  - first:
+      213: 5554039115418786193
+    second: env_fireflies_blue_64
+  - first:
+      213: 2999641478629127551
+    second: env_fireflies_blue_65
+  - first:
+      213: -1596189288685849323
+    second: env_fireflies_blue_66
+  - first:
+      213: 3826027789174490675
+    second: env_fireflies_blue_67
+  - first:
+      213: -7494859646516980651
+    second: env_fireflies_blue_68
+  - first:
+      213: -2253996795174042765
+    second: env_fireflies_blue_69
+  - first:
+      213: 4787031011684086048
+    second: env_fireflies_blue_70
+  - first:
+      213: -212469563514631941
+    second: env_fireflies_blue_71
+  - first:
+      213: -7327081221996050762
+    second: env_fireflies_blue_72
+  - first:
+      213: 7510921033494350601
+    second: env_fireflies_blue_73
+  - first:
+      213: 7087409349575783150
+    second: env_fireflies_blue_74
+  - first:
+      213: 4052035696036807728
+    second: env_fireflies_blue_75
+  - first:
+      213: 1015195912615197934
+    second: env_fireflies_blue_76
+  - first:
+      213: -684450255039136450
+    second: env_fireflies_blue_77
+  - first:
+      213: -8142104987250817877
+    second: env_fireflies_blue_78
+  - first:
+      213: -8747337886260587414
+    second: env_fireflies_blue_79
+  - first:
+      213: -1120324071804494556
+    second: env_fireflies_blue_80
+  - first:
+      213: -182442260165059901
+    second: env_fireflies_blue_81
+  - first:
+      213: 2622328343980893781
+    second: env_fireflies_blue_82
+  - first:
+      213: -2225248429922775423
+    second: env_fireflies_blue_83
+  - first:
+      213: 3261380477942719309
+    second: env_fireflies_blue_84
+  - first:
+      213: 7103690822843745738
+    second: env_fireflies_blue_85
+  - first:
+      213: 2292600164962310021
+    second: env_fireflies_blue_86
+  - first:
+      213: -4926735732237662758
+    second: env_fireflies_blue_87
+  - first:
+      213: -3204390067701851690
+    second: env_fireflies_blue_88
+  - first:
+      213: -1950062358029359053
+    second: env_fireflies_blue_89
+  - first:
+      213: 5156578187328443387
+    second: env_fireflies_blue_90
+  - first:
+      213: 5609142686281760110
+    second: env_fireflies_blue_91
+  - first:
+      213: -3067848031063558730
+    second: env_fireflies_blue_92
+  - first:
+      213: 2686925612725428214
+    second: env_fireflies_blue_93
+  - first:
+      213: -1390470171947254330
+    second: env_fireflies_blue_94
+  - first:
+      213: -9021353416536380646
+    second: env_fireflies_blue_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_fireflies_blue_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69
+        width: 190
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edb3d344f082e240800000000000000
+      internalID: 4819556337838177768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 63
+        width: 187
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0312c39735fddea10800000000000000
+      internalID: 1940452564075815216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 60
+        width: 191
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd1a742c1241e80800000000000000
+      internalID: -8208899102480409712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 101
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3483afc0384f676c0800000000000000
+      internalID: -4145857563252344765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 58
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68c1fc2686fbe9a0800000000000000
+      internalID: -6202593005632632722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_5
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 103
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943263b2708a78ca0800000000000000
+      internalID: -6014654028586802359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_6
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 58
+        width: 105
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea0238b3ae5102b0800000000000000
+      internalID: -5620106802718700829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_7
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 105
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394a2fa44b0e1ec80800000000000000
+      internalID: -8295101973683592045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_8
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 57
+        width: 97
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00db026c44dda8a60800000000000000
+      internalID: 7677191802257980672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_9
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 105
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3590ab8943606e660800000000000000
+      internalID: 7414620659482495315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_10
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 57
+        width: 81
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a15d352b845ba0800000000000000
+      internalID: -6101098603121368639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_11
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 104
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618fd2d1e5f9d53e0800000000000000
+      internalID: -2063317827700525034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_12
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 55
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a185d9f200f531c30800000000000000
+      internalID: 4328908121236658202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_13
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 101
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1542e1927cdabc80800000000000000
+      internalID: -8306084178099550950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_14
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 53
+        width: 81
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2eac80606e12680800000000000000
+      internalID: -8781484884804050246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_15
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 96
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e7914c721063070800000000000000
+      internalID: 8085651451295661600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_16
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 52
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01b7c6b062c1c540800000000000000
+      internalID: 5026512379761373453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_17
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 91
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c56566721a7da10800000000000000
+      internalID: 1934191755571649605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_18
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 58
+        width: 78
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757e0d22a24c64ec0800000000000000
+      internalID: -3582960768274864297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_19
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 76
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404ec68c07c2a7e70800000000000000
+      internalID: 9113645658848158724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_20
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 54
+        width: 76
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb7acb4a9303390800000000000000
+      internalID: -7840703571549503608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_21
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 68
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055a7d6482874ac60800000000000000
+      internalID: 7828514166659327312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_22
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 51
+        width: 73
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2bd4f1e8f1b4380800000000000000
+      internalID: -8986053936216689974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_23
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 63
+        width: 122
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da2588e0716633d0800000000000000
+      internalID: -3227284945399108908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_24
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 50
+        width: 69
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22ed83d8e259fdb0800000000000000
+      internalID: -4757680371405037009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_25
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 60
+        width: 127
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa87dbc8b7034720800000000000000
+      internalID: 2829113481194081019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_26
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 51
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32e60d530eb661f0800000000000000
+      internalID: -1051944541289520580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_27
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 58
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec39815a7a69ddd0800000000000000
+      internalID: -2460818647794762526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_28
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 53
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d0e3a5841754a0800000000000000
+      internalID: -6604787764302916242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_29
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 56
+        width: 187
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dfbc36d758fcca0800000000000000
+      internalID: -5994425805415121604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_30
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 57
+        width: 164
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acbb0c106f9617e0800000000000000
+      internalID: -1795072166324355935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_31
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 57
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c08a3a9c930ab0800000000000000
+      internalID: -5043014971504408409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_32
+      rect:
+        serializedVersion: 2
+        x: 4889
+        y: 55
+        width: 149
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773fbea2fca9a0520800000000000000
+      internalID: 2669115943739454327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_33
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 53
+        width: 140
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49f2ea1fa83cea90800000000000000
+      internalID: -7283384172643419829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_34
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 52
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1139e429f7e83c800800000000000000
+      internalID: 631505051328615185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_35
+      rect:
+        serializedVersion: 2
+        x: 5685
+        y: 58
+        width: 121
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d65d2e906ab1e950800000000000000
+      internalID: 6476662663268882132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_36
+      rect:
+        serializedVersion: 2
+        x: 5936
+        y: 54
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f413c03381bcb60800000000000000
+      internalID: 7767328589857509194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_37
+      rect:
+        serializedVersion: 2
+        x: 6188
+        y: 51
+        width: 128
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0678f5305c3e800800000000000000
+      internalID: 640572190295023808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_38
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 50
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371d54fe78a725370800000000000000
+      internalID: 8309838986705490291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_39
+      rect:
+        serializedVersion: 2
+        x: 6704
+        y: 51
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca766d49bfb5da40800000000000000
+      internalID: 5392426931434453707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_40
+      rect:
+        serializedVersion: 2
+        x: 6956
+        y: 53
+        width: 134
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b994547f9081f2b0800000000000000
+      internalID: -5552515443231254088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_41
+      rect:
+        serializedVersion: 2
+        x: 7210
+        y: 56
+        width: 138
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20053f3cf3ed9af0800000000000000
+      internalID: -387903320352292820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_42
+      rect:
+        serializedVersion: 2
+        x: 7325
+        y: 68
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa945c22293a9da10800000000000000
+      internalID: 1934757362976246186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_43
+      rect:
+        serializedVersion: 2
+        x: 7465
+        y: 60
+        width: 192
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e797bde01b466760800000000000000
+      internalID: 7450725169610856420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_44
+      rect:
+        serializedVersion: 2
+        x: 7720
+        y: 78
+        width: 188
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8cef86a27c3aa20800000000000000
+      internalID: 3072518355760892104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_45
+      rect:
+        serializedVersion: 2
+        x: 7976
+        y: 78
+        width: 183
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07388d17c69c1c60800000000000000
+      internalID: 7790267237382240013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_46
+      rect:
+        serializedVersion: 2
+        x: 8232
+        y: 73
+        width: 178
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531e1e5ba6abd230800000000000000
+      internalID: 3664705976744678231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_47
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 133
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aadb424d77271700800000000000000
+      internalID: 510920501666503336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_48
+      rect:
+        serializedVersion: 2
+        x: 8533
+        y: 71
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b930fa3b0527733c0800000000000000
+      internalID: -4379906421656976485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_49
+      rect:
+        serializedVersion: 2
+        x: 8744
+        y: 137
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b825f723805c1c0800000000000000
+      internalID: -4484168840999957610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_50
+      rect:
+        serializedVersion: 2
+        x: 8794
+        y: 70
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c539731cb848fb0800000000000000
+      internalID: -4646435253562155942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_51
+      rect:
+        serializedVersion: 2
+        x: 8999
+        y: 141
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2514eb47109c6f770800000000000000
+      internalID: 8644317542875021650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_52
+      rect:
+        serializedVersion: 2
+        x: 9055
+        y: 71
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4ba9aa1e467a760800000000000000
+      internalID: 7469049427409941692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_53
+      rect:
+        serializedVersion: 2
+        x: 9254
+        y: 143
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc320a769e8f7e60800000000000000
+      internalID: 7962239443157531827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_54
+      rect:
+        serializedVersion: 2
+        x: 9317
+        y: 74
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1426219ce512bb0800000000000000
+      internalID: -4962581096695709272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_55
+      rect:
+        serializedVersion: 2
+        x: 9508
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178968267c584c9b0800000000000000
+      internalID: -5060772989859620751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_56
+      rect:
+        serializedVersion: 2
+        x: 9578
+        y: 79
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae17e2fa5abc6b60800000000000000
+      internalID: 7740766759328095907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_57
+      rect:
+        serializedVersion: 2
+        x: 9763
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5315e8843a3810800000000000000
+      internalID: 1745765568122935991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_58
+      rect:
+        serializedVersion: 2
+        x: 9838
+        y: 84
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976997759da39a720800000000000000
+      internalID: 2857880143693190777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_59
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 62
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b717770e5790f88d0800000000000000
+      internalID: -2842042437965745797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_60
+      rect:
+        serializedVersion: 2
+        x: 10098
+        y: 90
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b0557f5430e2d40800000000000000
+      internalID: 5561386188886313799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_61
+      rect:
+        serializedVersion: 2
+        x: 10259
+        y: 68
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5119822a8a0717af0800000000000000
+      internalID: -400415022281879275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_62
+      rect:
+        serializedVersion: 2
+        x: 10357
+        y: 95
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc3faa9af6eb510800000000000000
+      internalID: 1566812494879771866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_63
+      rect:
+        serializedVersion: 2
+        x: 10515
+        y: 73
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5635b6400d725b480800000000000000
+      internalID: -8884150915537611931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_64
+      rect:
+        serializedVersion: 2
+        x: 10615
+        y: 100
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199592f1629e31d40800000000000000
+      internalID: 5554039115418786193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_65
+      rect:
+        serializedVersion: 2
+        x: 10771
+        y: 78
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f757733380ed0a920800000000000000
+      internalID: 2999641478629127551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_66
+      rect:
+        serializedVersion: 2
+        x: 10874
+        y: 105
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b8958c4239d9e0800000000000000
+      internalID: -1596189288685849323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_67
+      rect:
+        serializedVersion: 2
+        x: 11029
+        y: 82
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c48ac008c81530800000000000000
+      internalID: 3826027789174490675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_68
+      rect:
+        serializedVersion: 2
+        x: 11122
+        y: 104
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55412f76cd8ecf790800000000000000
+      internalID: -7494859646516980651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_69
+      rect:
+        serializedVersion: 2
+        x: 11289
+        y: 86
+        width: 85
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37348c26bd138b0e0800000000000000
+      internalID: -2253996795174042765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_70
+      rect:
+        serializedVersion: 2
+        x: 11378
+        y: 101
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0217534a753fe6240800000000000000
+      internalID: 4787031011684086048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_71
+      rect:
+        serializedVersion: 2
+        x: 11550
+        y: 88
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c025ce082d0df0800000000000000
+      internalID: -212469563514631941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_72
+      rect:
+        serializedVersion: 2
+        x: 11635
+        y: 96
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b68d7af27af05a90800000000000000
+      internalID: -7327081221996050762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_73
+      rect:
+        serializedVersion: 2
+        x: 11813
+        y: 98
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bc079a2e62c3860800000000000000
+      internalID: 7510921033494350601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_74
+      rect:
+        serializedVersion: 2
+        x: 11893
+        y: 91
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee23f33b0498b5260800000000000000
+      internalID: 7087409349575783150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_75
+      rect:
+        serializedVersion: 2
+        x: 12076
+        y: 76
+        width: 190
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0340a773ff8bb3830800000000000000
+      internalID: 4052035696036807728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_76
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 60
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec7bd4cd43b61e00800000000000000
+      internalID: 1015195912615197934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_77
+      rect:
+        serializedVersion: 2
+        x: 4769
+        y: 62
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d77f19e185086f0800000000000000
+      internalID: -684450255039136450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_78
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 64
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba48afe17ae610f80800000000000000
+      internalID: -8142104987250817877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_79
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 65
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a641f1fa9863b9680800000000000000
+      internalID: -8747337886260587414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_80
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 65
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d16c2413fc370f0800000000000000
+      internalID: -1120324071804494556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_81
+      rect:
+        serializedVersion: 2
+        x: 5816
+        y: 65
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca97d22bb5d77df0800000000000000
+      internalID: -182442260165059901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_82
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 55
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5566b633cb1646420800000000000000
+      internalID: 2622328343980893781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_83
+      rect:
+        serializedVersion: 2
+        x: 6317
+        y: 54
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e0575c7545e11e0800000000000000
+      internalID: -2225248429922775423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_84
+      rect:
+        serializedVersion: 2
+        x: 6569
+        y: 55
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d436b21e340c24d20800000000000000
+      internalID: 3261380477942719309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_85
+      rect:
+        serializedVersion: 2
+        x: 6822
+        y: 58
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5cdc99a21659260800000000000000
+      internalID: 7103690822843745738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_86
+      rect:
+        serializedVersion: 2
+        x: 7073
+        y: 62
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587949c04b3f0df10800000000000000
+      internalID: 2292600164962310021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_87
+      rect:
+        serializedVersion: 2
+        x: 7728
+        y: 62
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad500c954f7b0abb0800000000000000
+      internalID: -4926735732237662758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_88
+      rect:
+        serializedVersion: 2
+        x: 7977
+        y: 64
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d957d40638b783d0800000000000000
+      internalID: -3204390067701851690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_89
+      rect:
+        serializedVersion: 2
+        x: 8227
+        y: 65
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338acc30e9cffe4e0800000000000000
+      internalID: -1950062358029359053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_90
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 65
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf35d386a88df8740800000000000000
+      internalID: 5156578187328443387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_91
+      rect:
+        serializedVersion: 2
+        x: 8730
+        y: 65
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dfd4efd8da7dd40800000000000000
+      internalID: 5609142686281760110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_92
+      rect:
+        serializedVersion: 2
+        x: 8974
+        y: 55
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5339b4870dc65d0800000000000000
+      internalID: -3067848031063558730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_93
+      rect:
+        serializedVersion: 2
+        x: 9227
+        y: 54
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffd56cdb90e94520800000000000000
+      internalID: 2686925612725428214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_94
+      rect:
+        serializedVersion: 2
+        x: 9482
+        y: 55
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdbe42eebe04bce0800000000000000
+      internalID: -1390470171947254330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_fireflies_blue_95
+      rect:
+        serializedVersion: 2
+        x: 9740
+        y: 58
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ba7166dd6bdc280800000000000000
+      internalID: -9021353416536380646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_fireflies_blue_0: 4819556337838177768
+      env_fireflies_blue_1: 1940452564075815216
+      env_fireflies_blue_10: -6101098603121368639
+      env_fireflies_blue_11: -2063317827700525034
+      env_fireflies_blue_12: 4328908121236658202
+      env_fireflies_blue_13: -8306084178099550950
+      env_fireflies_blue_14: -8781484884804050246
+      env_fireflies_blue_15: 8085651451295661600
+      env_fireflies_blue_16: 5026512379761373453
+      env_fireflies_blue_17: 1934191755571649605
+      env_fireflies_blue_18: -3582960768274864297
+      env_fireflies_blue_19: 9113645658848158724
+      env_fireflies_blue_2: -8208899102480409712
+      env_fireflies_blue_20: -7840703571549503608
+      env_fireflies_blue_21: 7828514166659327312
+      env_fireflies_blue_22: -8986053936216689974
+      env_fireflies_blue_23: -3227284945399108908
+      env_fireflies_blue_24: -4757680371405037009
+      env_fireflies_blue_25: 2829113481194081019
+      env_fireflies_blue_26: -1051944541289520580
+      env_fireflies_blue_27: -2460818647794762526
+      env_fireflies_blue_28: -6604787764302916242
+      env_fireflies_blue_29: -5994425805415121604
+      env_fireflies_blue_3: -4145857563252344765
+      env_fireflies_blue_30: -1795072166324355935
+      env_fireflies_blue_31: -5043014971504408409
+      env_fireflies_blue_32: 2669115943739454327
+      env_fireflies_blue_33: -7283384172643419829
+      env_fireflies_blue_34: 631505051328615185
+      env_fireflies_blue_35: 6476662663268882132
+      env_fireflies_blue_36: 7767328589857509194
+      env_fireflies_blue_37: 640572190295023808
+      env_fireflies_blue_38: 8309838986705490291
+      env_fireflies_blue_39: 5392426931434453707
+      env_fireflies_blue_4: -6202593005632632722
+      env_fireflies_blue_40: -5552515443231254088
+      env_fireflies_blue_41: -387903320352292820
+      env_fireflies_blue_42: 1934757362976246186
+      env_fireflies_blue_43: 7450725169610856420
+      env_fireflies_blue_44: 3072518355760892104
+      env_fireflies_blue_45: 7790267237382240013
+      env_fireflies_blue_46: 3664705976744678231
+      env_fireflies_blue_47: 510920501666503336
+      env_fireflies_blue_48: -4379906421656976485
+      env_fireflies_blue_49: -4484168840999957610
+      env_fireflies_blue_5: -6014654028586802359
+      env_fireflies_blue_50: -4646435253562155942
+      env_fireflies_blue_51: 8644317542875021650
+      env_fireflies_blue_52: 7469049427409941692
+      env_fireflies_blue_53: 7962239443157531827
+      env_fireflies_blue_54: -4962581096695709272
+      env_fireflies_blue_55: -5060772989859620751
+      env_fireflies_blue_56: 7740766759328095907
+      env_fireflies_blue_57: 1745765568122935991
+      env_fireflies_blue_58: 2857880143693190777
+      env_fireflies_blue_59: -2842042437965745797
+      env_fireflies_blue_6: -5620106802718700829
+      env_fireflies_blue_60: 5561386188886313799
+      env_fireflies_blue_61: -400415022281879275
+      env_fireflies_blue_62: 1566812494879771866
+      env_fireflies_blue_63: -8884150915537611931
+      env_fireflies_blue_64: 5554039115418786193
+      env_fireflies_blue_65: 2999641478629127551
+      env_fireflies_blue_66: -1596189288685849323
+      env_fireflies_blue_67: 3826027789174490675
+      env_fireflies_blue_68: -7494859646516980651
+      env_fireflies_blue_69: -2253996795174042765
+      env_fireflies_blue_7: -8295101973683592045
+      env_fireflies_blue_70: 4787031011684086048
+      env_fireflies_blue_71: -212469563514631941
+      env_fireflies_blue_72: -7327081221996050762
+      env_fireflies_blue_73: 7510921033494350601
+      env_fireflies_blue_74: 7087409349575783150
+      env_fireflies_blue_75: 4052035696036807728
+      env_fireflies_blue_76: 1015195912615197934
+      env_fireflies_blue_77: -684450255039136450
+      env_fireflies_blue_78: -8142104987250817877
+      env_fireflies_blue_79: -8747337886260587414
+      env_fireflies_blue_8: 7677191802257980672
+      env_fireflies_blue_80: -1120324071804494556
+      env_fireflies_blue_81: -182442260165059901
+      env_fireflies_blue_82: 2622328343980893781
+      env_fireflies_blue_83: -2225248429922775423
+      env_fireflies_blue_84: 3261380477942719309
+      env_fireflies_blue_85: 7103690822843745738
+      env_fireflies_blue_86: 2292600164962310021
+      env_fireflies_blue_87: -4926735732237662758
+      env_fireflies_blue_88: -3204390067701851690
+      env_fireflies_blue_89: -1950062358029359053
+      env_fireflies_blue_9: 7414620659482495315
+      env_fireflies_blue_90: 5156578187328443387
+      env_fireflies_blue_91: 5609142686281760110
+      env_fireflies_blue_92: -3067848031063558730
+      env_fireflies_blue_93: 2686925612725428214
+      env_fireflies_blue_94: -1390470171947254330
+      env_fireflies_blue_95: -9021353416536380646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: dbdc6c1a4cb3300429843892ae6d1c73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8750624586881493987
+    second: env_emote_gloom_0
+  - first:
+      213: -233143750901832930
+    second: env_emote_gloom_1
+  - first:
+      213: 3572673152795563349
+    second: env_emote_gloom_2
+  - first:
+      213: 5958239162615762417
+    second: env_emote_gloom_3
+  - first:
+      213: -7726042638577469885
+    second: env_emote_gloom_4
+  - first:
+      213: -7761759509720338825
+    second: env_emote_gloom_5
+  - first:
+      213: -8356244298692862977
+    second: env_emote_gloom_6
+  - first:
+      213: -8795050897963916210
+    second: env_emote_gloom_7
+  - first:
+      213: -54371598862846757
+    second: env_emote_gloom_8
+  - first:
+      213: 4515485117448329123
+    second: env_emote_gloom_9
+  - first:
+      213: 8265071489469412684
+    second: env_emote_gloom_10
+  - first:
+      213: -6908378359720891360
+    second: env_emote_gloom_11
+  - first:
+      213: -5436426860203555613
+    second: env_emote_gloom_12
+  - first:
+      213: 4435771111969805215
+    second: env_emote_gloom_13
+  - first:
+      213: 3305137757974035841
+    second: env_emote_gloom_14
+  - first:
+      213: -4665804659123565536
+    second: env_emote_gloom_15
+  - first:
+      213: 2463882591132202710
+    second: env_emote_gloom_16
+  - first:
+      213: 186562228670495478
+    second: env_emote_gloom_17
+  - first:
+      213: -8945459085730002943
+    second: env_emote_gloom_18
+  - first:
+      213: 1827651161727482102
+    second: env_emote_gloom_19
+  - first:
+      213: 5321556527446355373
+    second: env_emote_gloom_20
+  - first:
+      213: -6915970264478069045
+    second: env_emote_gloom_21
+  - first:
+      213: 1955186207006431913
+    second: env_emote_gloom_22
+  - first:
+      213: 655252889516684534
+    second: env_emote_gloom_23
+  - first:
+      213: 488150055739375006
+    second: env_emote_gloom_24
+  - first:
+      213: 8432981747798534565
+    second: env_emote_gloom_25
+  - first:
+      213: -1143665715288732853
+    second: env_emote_gloom_26
+  - first:
+      213: 7606544414771209602
+    second: env_emote_gloom_27
+  - first:
+      213: -1415188017323689433
+    second: env_emote_gloom_28
+  - first:
+      213: -6984361735824209584
+    second: env_emote_gloom_29
+  - first:
+      213: -894094679077147555
+    second: env_emote_gloom_30
+  - first:
+      213: 1922796165925171991
+    second: env_emote_gloom_31
+  - first:
+      213: -7656968252027205548
+    second: env_emote_gloom_32
+  - first:
+      213: 8122110185571120537
+    second: env_emote_gloom_33
+  - first:
+      213: -5982828561710962676
+    second: env_emote_gloom_34
+  - first:
+      213: 5733438287114598941
+    second: env_emote_gloom_35
+  - first:
+      213: 316548599214048307
+    second: env_emote_gloom_36
+  - first:
+      213: -5729221692947097299
+    second: env_emote_gloom_37
+  - first:
+      213: -7044558849038100841
+    second: env_emote_gloom_38
+  - first:
+      213: 3575116089256293823
+    second: env_emote_gloom_39
+  - first:
+      213: 8305269390101492514
+    second: env_emote_gloom_40
+  - first:
+      213: -7618268998615134356
+    second: env_emote_gloom_41
+  - first:
+      213: 2675989612012590028
+    second: env_emote_gloom_42
+  - first:
+      213: 6593734803081683780
+    second: env_emote_gloom_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_emote_gloom_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 38
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebeedfe2b6707970800000000000000
+      internalID: 8750624586881493987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13e4e96ef4b3ccf0800000000000000
+      internalID: -233143750901832930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55554fabd4fa49130800000000000000
+      internalID: 3572673152795563349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 71
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd888643faefa250800000000000000
+      internalID: 5958239162615762417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 37
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3467110972597c490800000000000000
+      internalID: -7726042638577469885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 37
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eeb1779d0b84490800000000000000
+      internalID: -7761759509720338825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 36
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb57086518a80c80800000000000000
+      internalID: -8356244298692862977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 36
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4461657ec3b1f580800000000000000
+      internalID: -8795050897963916210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_8
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 37
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4f8e3a155de3ff0800000000000000
+      internalID: -54371598862846757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_9
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 37
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7121e4ac93aae30800000000000000
+      internalID: 4515485117448329123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 37
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45780dbabe63b270800000000000000
+      internalID: 8265071489469412684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 36
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c27d6eb728020a0800000000000000
+      internalID: -6908378359720891360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_12
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 36
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4cc26f29eed84b0800000000000000
+      internalID: -5436426860203555613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_13
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 37
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9356e913560f8d30800000000000000
+      internalID: 4435771111969805215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_14
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 37
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18df5cd87453edd20800000000000000
+      internalID: 3305137757974035841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_15
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 38
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc39d026bbf3fb0800000000000000
+      internalID: -4665804659123565536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_16
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 39
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d634b49928713220800000000000000
+      internalID: 2463882591132202710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_17
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 39
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faf868cb5dc69200800000000000000
+      internalID: 186562228670495478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_18
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 40
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108c54a4b585bd380800000000000000
+      internalID: -8945459085730002943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_19
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 41
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8b81c5c0f1d5910800000000000000
+      internalID: 1827651161727482102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_20
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 68
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dade9968777f9d940800000000000000
+      internalID: 5321556527446355373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_21
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 42
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcece94dfa98500a0800000000000000
+      internalID: -6915970264478069045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_22
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 69
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa9c5a0f77322b10800000000000000
+      internalID: 1955186207006431913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_23
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 43
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4b0b5080de71900800000000000000
+      internalID: 655252889516684534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_24
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dbe6da3e146c600800000000000000
+      internalID: 488150055739375006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_25
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 44
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a962e24838f70570800000000000000
+      internalID: 8432981747798534565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_26
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b0c626712e020f0800000000000000
+      internalID: -1143665715288732853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_27
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 43
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2856ba218dfdf8960800000000000000
+      internalID: 7606544414771209602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_28
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 44
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a38090ffd3c5ce0800000000000000
+      internalID: -1415188017323689433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_29
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 44
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0590e598100921f90800000000000000
+      internalID: -6984361735824209584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_30
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 43
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c2a0260a98793f0800000000000000
+      internalID: -894094679077147555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_31
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 43
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f37dece42faa10800000000000000
+      internalID: 1922796165925171991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_32
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 47
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458897171fbfcb590800000000000000
+      internalID: -7656968252027205548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_33
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 41
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9957c855e2887b070800000000000000
+      internalID: 8122110185571120537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_34
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 46
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08282b1f19b8fca0800000000000000
+      internalID: -5982828561710962676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_35
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 45
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1af61dbeb3419f40800000000000000
+      internalID: 5733438287114598941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_36
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 44
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3340d4a164b946400800000000000000
+      internalID: 316548599214048307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_37
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 43
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291d689937bd70b0800000000000000
+      internalID: -5729221692947097299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_38
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 42
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796dfbbec03bc3e90800000000000000
+      internalID: -7044558849038100841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_39
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 41
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5b7e2342d5d9130800000000000000
+      internalID: 3575116089256293823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_40
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 40
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223bce0d18e324370800000000000000
+      internalID: 8305269390101492514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_41
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 68
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f8c2685b8764690800000000000000
+      internalID: -7618268998615134356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_42
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 39
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc355a6cf56032520800000000000000
+      internalID: 2675989612012590028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_gloom_43
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44360d84ed6a18b50800000000000000
+      internalID: 6593734803081683780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_emote_gloom_0: 8750624586881493987
+      env_emote_gloom_1: -233143750901832930
+      env_emote_gloom_10: 8265071489469412684
+      env_emote_gloom_11: -6908378359720891360
+      env_emote_gloom_12: -5436426860203555613
+      env_emote_gloom_13: 4435771111969805215
+      env_emote_gloom_14: 3305137757974035841
+      env_emote_gloom_15: -4665804659123565536
+      env_emote_gloom_16: 2463882591132202710
+      env_emote_gloom_17: 186562228670495478
+      env_emote_gloom_18: -8945459085730002943
+      env_emote_gloom_19: 1827651161727482102
+      env_emote_gloom_2: 3572673152795563349
+      env_emote_gloom_20: 5321556527446355373
+      env_emote_gloom_21: -6915970264478069045
+      env_emote_gloom_22: 1955186207006431913
+      env_emote_gloom_23: 655252889516684534
+      env_emote_gloom_24: 488150055739375006
+      env_emote_gloom_25: 8432981747798534565
+      env_emote_gloom_26: -1143665715288732853
+      env_emote_gloom_27: 7606544414771209602
+      env_emote_gloom_28: -1415188017323689433
+      env_emote_gloom_29: -6984361735824209584
+      env_emote_gloom_3: 5958239162615762417
+      env_emote_gloom_30: -894094679077147555
+      env_emote_gloom_31: 1922796165925171991
+      env_emote_gloom_32: -7656968252027205548
+      env_emote_gloom_33: 8122110185571120537
+      env_emote_gloom_34: -5982828561710962676
+      env_emote_gloom_35: 5733438287114598941
+      env_emote_gloom_36: 316548599214048307
+      env_emote_gloom_37: -5729221692947097299
+      env_emote_gloom_38: -7044558849038100841
+      env_emote_gloom_39: 3575116089256293823
+      env_emote_gloom_4: -7726042638577469885
+      env_emote_gloom_40: 8305269390101492514
+      env_emote_gloom_41: -7618268998615134356
+      env_emote_gloom_42: 2675989612012590028
+      env_emote_gloom_43: 6593734803081683780
+      env_emote_gloom_5: -7761759509720338825
+      env_emote_gloom_6: -8356244298692862977
+      env_emote_gloom_7: -8795050897963916210
+      env_emote_gloom_8: -54371598862846757
+      env_emote_gloom_9: 4515485117448329123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

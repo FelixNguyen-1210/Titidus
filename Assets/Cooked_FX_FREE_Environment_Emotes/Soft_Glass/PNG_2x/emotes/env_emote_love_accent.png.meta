@@ -1,0 +1,2004 @@
+fileFormatVersion: 2
+guid: ee48b5ff4ef8f1a42b6f500f91434bb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9081431995599445226
+    second: env_emote_love_accent_0
+  - first:
+      213: 5561949657070570625
+    second: env_emote_love_accent_1
+  - first:
+      213: -431356834942109608
+    second: env_emote_love_accent_2
+  - first:
+      213: -8308485133741838802
+    second: env_emote_love_accent_3
+  - first:
+      213: 9188931985596182515
+    second: env_emote_love_accent_4
+  - first:
+      213: 6327302604871195689
+    second: env_emote_love_accent_5
+  - first:
+      213: 4560962399864901380
+    second: env_emote_love_accent_6
+  - first:
+      213: 6438782137178050763
+    second: env_emote_love_accent_7
+  - first:
+      213: 1464499609933061970
+    second: env_emote_love_accent_8
+  - first:
+      213: 870695298753336392
+    second: env_emote_love_accent_9
+  - first:
+      213: -5673170617196006952
+    second: env_emote_love_accent_10
+  - first:
+      213: -6524653016088459096
+    second: env_emote_love_accent_11
+  - first:
+      213: -4070927526109535676
+    second: env_emote_love_accent_12
+  - first:
+      213: 3939011239618342653
+    second: env_emote_love_accent_13
+  - first:
+      213: -2000106849961441338
+    second: env_emote_love_accent_14
+  - first:
+      213: 7881973086186806063
+    second: env_emote_love_accent_15
+  - first:
+      213: -252831159289669485
+    second: env_emote_love_accent_16
+  - first:
+      213: -2471026546618143493
+    second: env_emote_love_accent_17
+  - first:
+      213: -4941054905953277325
+    second: env_emote_love_accent_18
+  - first:
+      213: -7958034327606941266
+    second: env_emote_love_accent_19
+  - first:
+      213: -7578150802494724125
+    second: env_emote_love_accent_20
+  - first:
+      213: -3395787389488798352
+    second: env_emote_love_accent_21
+  - first:
+      213: -9045450464672586380
+    second: env_emote_love_accent_22
+  - first:
+      213: -5920665770167626933
+    second: env_emote_love_accent_23
+  - first:
+      213: 8216900042866836872
+    second: env_emote_love_accent_24
+  - first:
+      213: -3590474225267656813
+    second: env_emote_love_accent_25
+  - first:
+      213: -5382327932675212891
+    second: env_emote_love_accent_26
+  - first:
+      213: -6077219332082469285
+    second: env_emote_love_accent_27
+  - first:
+      213: 6959976049098309105
+    second: env_emote_love_accent_28
+  - first:
+      213: 5850951011596763153
+    second: env_emote_love_accent_29
+  - first:
+      213: 1128741591620491688
+    second: env_emote_love_accent_30
+  - first:
+      213: 4509312409572318951
+    second: env_emote_love_accent_31
+  - first:
+      213: -5930137824913320089
+    second: env_emote_love_accent_32
+  - first:
+      213: -7407922397525254654
+    second: env_emote_love_accent_33
+  - first:
+      213: -6613591082767919763
+    second: env_emote_love_accent_34
+  - first:
+      213: 192858564152652642
+    second: env_emote_love_accent_35
+  - first:
+      213: 1940179158469960163
+    second: env_emote_love_accent_36
+  - first:
+      213: 8773251179404220426
+    second: env_emote_love_accent_37
+  - first:
+      213: 4230212430665636775
+    second: env_emote_love_accent_38
+  - first:
+      213: 8347456443677347808
+    second: env_emote_love_accent_39
+  - first:
+      213: 5657556147331707294
+    second: env_emote_love_accent_40
+  - first:
+      213: -6501920207931465120
+    second: env_emote_love_accent_41
+  - first:
+      213: -1643953347206503115
+    second: env_emote_love_accent_42
+  - first:
+      213: -7020981422467387613
+    second: env_emote_love_accent_43
+  - first:
+      213: 1727272949066549509
+    second: env_emote_love_accent_44
+  - first:
+      213: 2581005636484175891
+    second: env_emote_love_accent_45
+  - first:
+      213: 6949906017813819270
+    second: env_emote_love_accent_46
+  - first:
+      213: 4247578619034547065
+    second: env_emote_love_accent_47
+  - first:
+      213: 8051188801181425513
+    second: env_emote_love_accent_48
+  - first:
+      213: 3239122011469706096
+    second: env_emote_love_accent_49
+  - first:
+      213: -3982624239995391239
+    second: env_emote_love_accent_50
+  - first:
+      213: -6839908784657939896
+    second: env_emote_love_accent_51
+  - first:
+      213: 1855921443086822880
+    second: env_emote_love_accent_52
+  - first:
+      213: 3430012683753587885
+    second: env_emote_love_accent_53
+  - first:
+      213: 8872191626202357639
+    second: env_emote_love_accent_54
+  - first:
+      213: 4458338830540026543
+    second: env_emote_love_accent_55
+  - first:
+      213: 6531365148027177019
+    second: env_emote_love_accent_56
+  - first:
+      213: 3643912203682068015
+    second: env_emote_love_accent_57
+  - first:
+      213: -3621507582325628200
+    second: env_emote_love_accent_58
+  - first:
+      213: 2319688451615109401
+    second: env_emote_love_accent_59
+  - first:
+      213: 7822287459716848456
+    second: env_emote_love_accent_60
+  - first:
+      213: -6419271702320073375
+    second: env_emote_love_accent_61
+  - first:
+      213: -3031623946318927236
+    second: env_emote_love_accent_62
+  - first:
+      213: -8108922421398224850
+    second: env_emote_love_accent_63
+  - first:
+      213: -4460914209538199217
+    second: env_emote_love_accent_64
+  - first:
+      213: -1871836675794337992
+    second: env_emote_love_accent_65
+  - first:
+      213: -4275153611578841467
+    second: env_emote_love_accent_66
+  - first:
+      213: -7517663663176069995
+    second: env_emote_love_accent_67
+  - first:
+      213: 6777342182292633728
+    second: env_emote_love_accent_68
+  - first:
+      213: 3732099003305109844
+    second: env_emote_love_accent_69
+  - first:
+      213: -9091745858958291699
+    second: env_emote_love_accent_70
+  - first:
+      213: -6022595014294838703
+    second: env_emote_love_accent_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_emote_love_accent_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec5295d84ab70e70800000000000000
+      internalID: 9081431995599445226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0c40aeb3003d40800000000000000
+      internalID: 5561949657070570625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858b6d97e33830af0800000000000000
+      internalID: -431356834942109608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 60
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e24b58ac452bc80800000000000000
+      internalID: -8308485133741838802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff6fa2b4f4a58f70800000000000000
+      internalID: 9188931985596182515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 55
+        width: 87
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c50c512381fc750800000000000000
+      internalID: 6327302604871195689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4cdd332bcb4f30800000000000000
+      internalID: 4560962399864901380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 56
+        width: 88
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d0a85d362b5950800000000000000
+      internalID: 6438782137178050763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f12cfc2a2f25410800000000000000
+      internalID: 1464499609933061970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 62
+        width: 93
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8449bc5d2c4551c00800000000000000
+      internalID: 870695298753336392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_10
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 178
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d139d3a169d441b0800000000000000
+      internalID: -5673170617196006952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_11
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 68
+        width: 95
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8cd55a6a6c375a0800000000000000
+      internalID: -6524653016088459096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_12
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442a1e3dbf82187c0800000000000000
+      internalID: -4070927526109535676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_13
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 74
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfee8b74add2aa630800000000000000
+      internalID: 3939011239618342653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_14
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 61
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7093fba613e34e0800000000000000
+      internalID: -2000106849961441338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_15
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b9a5be2c4626d60800000000000000
+      internalID: 7881973086186806063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_16
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 59
+        width: 92
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39893627663cd7cf0800000000000000
+      internalID: -252831159289669485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_17
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfce34aa27625bdd0800000000000000
+      internalID: -2471026546618143493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_18
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 61
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a24faedb8dd6bb0800000000000000
+      internalID: -4941054905953277325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_19
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9af9841f16f8190800000000000000
+      internalID: -7958034327606941266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_20
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 67
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7e5f2fefff4d690800000000000000
+      internalID: -7578150802494724125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_21
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e4c46c5dbfd0d0800000000000000
+      internalID: -3395787389488798352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_22
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 73
+        width: 97
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4756ccb2aba187280800000000000000
+      internalID: -9045450464672586380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_23
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43185fd9d195dda0800000000000000
+      internalID: -5920665770167626933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_24
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 79
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88548f1dd0b480270800000000000000
+      internalID: 8216900042866836872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_25
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397b9bb17b21c2ec0800000000000000
+      internalID: -3590474225267656813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_26
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a93b3413412e45b0800000000000000
+      internalID: -5382327932675212891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_27
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 62
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b567619473169aba0800000000000000
+      internalID: -6077219332082469285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_28
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd3bb3575dc69060800000000000000
+      internalID: 6959976049098309105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_29
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 61
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110007402f0c23150800000000000000
+      internalID: 5850951011596763153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_30
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a99fbb4f781aaf00800000000000000
+      internalID: 1128741591620491688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_31
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 64
+        width: 87
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee91d1cebb449e30800000000000000
+      internalID: 4509312409572318951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_32
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7671fe4411be3bda0800000000000000
+      internalID: -5930137824913320089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_33
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 70
+        width: 88
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ed8db04d5c13990800000000000000
+      internalID: -7407922397525254654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_34
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 178
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d655de553fdc734a0800000000000000
+      internalID: -6613591082767919763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_35
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 76
+        width: 90
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f530a7db2da200800000000000000
+      internalID: 192858564152652642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_36
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1e7354aa6ecea10800000000000000
+      internalID: 1940179158469960163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_37
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 82
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a085aa90779d0c970800000000000000
+      internalID: 8773251179404220426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_38
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 60
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab54460bcbb4ba30800000000000000
+      internalID: 4230212430665636775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_39
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef0f67a86f18d370800000000000000
+      internalID: 8347456443677347808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_40
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 55
+        width: 87
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91b88a475da38e40800000000000000
+      internalID: 5657556147331707294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_41
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062af40050a84c5a0800000000000000
+      internalID: -6501920207931465120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_42
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 56
+        width: 88
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535217804218f29e0800000000000000
+      internalID: -1643953347206503115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_43
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fe6335896709e90800000000000000
+      internalID: -7020981422467387613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_44
+      rect:
+        serializedVersion: 2
+        x: 5721
+        y: 62
+        width: 93
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509c04f789188f710800000000000000
+      internalID: 1727272949066549509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_45
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189bed93f291d320800000000000000
+      internalID: 2581005636484175891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_46
+      rect:
+        serializedVersion: 2
+        x: 5970
+        y: 68
+        width: 95
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f642673b6037060800000000000000
+      internalID: 6949906017813819270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_47
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9733917df3e62fa30800000000000000
+      internalID: 4247578619034547065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_48
+      rect:
+        serializedVersion: 2
+        x: 6219
+        y: 74
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f9502ce819bbf60800000000000000
+      internalID: 8051188801181425513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_49
+      rect:
+        serializedVersion: 2
+        x: 6326
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073fccdce4ca3fc20800000000000000
+      internalID: 3239122011469706096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_50
+      rect:
+        serializedVersion: 2
+        x: 6462
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f635ca50eab8c0800000000000000
+      internalID: -3982624239995391239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_51
+      rect:
+        serializedVersion: 2
+        x: 6467
+        y: 61
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c3622333c311a0800000000000000
+      internalID: -6839908784657939896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_52
+      rect:
+        serializedVersion: 2
+        x: 6715
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed683a28be81c910800000000000000
+      internalID: 1855921443086822880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_53
+      rect:
+        serializedVersion: 2
+        x: 6722
+        y: 59
+        width: 92
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da48736ec5ad99f20800000000000000
+      internalID: 3430012683753587885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_54
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f9cf2f64b502b70800000000000000
+      internalID: 8872191626202357639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_55
+      rect:
+        serializedVersion: 2
+        x: 6976
+        y: 61
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa23baa8b833fdd30800000000000000
+      internalID: 4458338830540026543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_56
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c68a5ff114aa50800000000000000
+      internalID: 6531365148027177019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_57
+      rect:
+        serializedVersion: 2
+        x: 7234
+        y: 67
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f263e2dc7d6c19230800000000000000
+      internalID: 3643912203682068015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_58
+      rect:
+        serializedVersion: 2
+        x: 7482
+        y: 178
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2e81c9a02ddbdc0800000000000000
+      internalID: -3621507582325628200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_59
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 73
+        width: 97
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91138144b50313020800000000000000
+      internalID: 2319688451615109401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_60
+      rect:
+        serializedVersion: 2
+        x: 7742
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b5a6710095e8c60800000000000000
+      internalID: 7822287459716848456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_61
+      rect:
+        serializedVersion: 2
+        x: 7757
+        y: 79
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165be72c56a2ae6a0800000000000000
+      internalID: -6419271702320073375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_62
+      rect:
+        serializedVersion: 2
+        x: 8020
+        y: 62
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa71345128de5d0800000000000000
+      internalID: -3031623946318927236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_63
+      rect:
+        serializedVersion: 2
+        x: 8118
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20cb594502577f80800000000000000
+      internalID: -8108922421398224850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_64
+      rect:
+        serializedVersion: 2
+        x: 8283
+        y: 61
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41bbfe4926a712c0800000000000000
+      internalID: -4460914209538199217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_65
+      rect:
+        serializedVersion: 2
+        x: 8371
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ffab5f576e506e0800000000000000
+      internalID: -1871836675794337992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_66
+      rect:
+        serializedVersion: 2
+        x: 8548
+        y: 64
+        width: 87
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5866d95e07a9ba4c0800000000000000
+      internalID: -4275153611578841467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_67
+      rect:
+        serializedVersion: 2
+        x: 8624
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c47878ab4eba790800000000000000
+      internalID: -7517663663176069995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_68
+      rect:
+        serializedVersion: 2
+        x: 8801
+        y: 70
+        width: 88
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088b2d09ec4fd0e50800000000000000
+      internalID: 6777342182292633728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_69
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459279e15441bc330800000000000000
+      internalID: 3732099003305109844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_70
+      rect:
+        serializedVersion: 2
+        x: 9050
+        y: 76
+        width: 90
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d89a8bf41a3d180800000000000000
+      internalID: -9091745858958291699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_emote_love_accent_71
+      rect:
+        serializedVersion: 2
+        x: 9138
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152eaea5eb17b6ca0800000000000000
+      internalID: -6022595014294838703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_emote_love_accent_0: 9081431995599445226
+      env_emote_love_accent_1: 5561949657070570625
+      env_emote_love_accent_10: -5673170617196006952
+      env_emote_love_accent_11: -6524653016088459096
+      env_emote_love_accent_12: -4070927526109535676
+      env_emote_love_accent_13: 3939011239618342653
+      env_emote_love_accent_14: -2000106849961441338
+      env_emote_love_accent_15: 7881973086186806063
+      env_emote_love_accent_16: -252831159289669485
+      env_emote_love_accent_17: -2471026546618143493
+      env_emote_love_accent_18: -4941054905953277325
+      env_emote_love_accent_19: -7958034327606941266
+      env_emote_love_accent_2: -431356834942109608
+      env_emote_love_accent_20: -7578150802494724125
+      env_emote_love_accent_21: -3395787389488798352
+      env_emote_love_accent_22: -9045450464672586380
+      env_emote_love_accent_23: -5920665770167626933
+      env_emote_love_accent_24: 8216900042866836872
+      env_emote_love_accent_25: -3590474225267656813
+      env_emote_love_accent_26: -5382327932675212891
+      env_emote_love_accent_27: -6077219332082469285
+      env_emote_love_accent_28: 6959976049098309105
+      env_emote_love_accent_29: 5850951011596763153
+      env_emote_love_accent_3: -8308485133741838802
+      env_emote_love_accent_30: 1128741591620491688
+      env_emote_love_accent_31: 4509312409572318951
+      env_emote_love_accent_32: -5930137824913320089
+      env_emote_love_accent_33: -7407922397525254654
+      env_emote_love_accent_34: -6613591082767919763
+      env_emote_love_accent_35: 192858564152652642
+      env_emote_love_accent_36: 1940179158469960163
+      env_emote_love_accent_37: 8773251179404220426
+      env_emote_love_accent_38: 4230212430665636775
+      env_emote_love_accent_39: 8347456443677347808
+      env_emote_love_accent_4: 9188931985596182515
+      env_emote_love_accent_40: 5657556147331707294
+      env_emote_love_accent_41: -6501920207931465120
+      env_emote_love_accent_42: -1643953347206503115
+      env_emote_love_accent_43: -7020981422467387613
+      env_emote_love_accent_44: 1727272949066549509
+      env_emote_love_accent_45: 2581005636484175891
+      env_emote_love_accent_46: 6949906017813819270
+      env_emote_love_accent_47: 4247578619034547065
+      env_emote_love_accent_48: 8051188801181425513
+      env_emote_love_accent_49: 3239122011469706096
+      env_emote_love_accent_5: 6327302604871195689
+      env_emote_love_accent_50: -3982624239995391239
+      env_emote_love_accent_51: -6839908784657939896
+      env_emote_love_accent_52: 1855921443086822880
+      env_emote_love_accent_53: 3430012683753587885
+      env_emote_love_accent_54: 8872191626202357639
+      env_emote_love_accent_55: 4458338830540026543
+      env_emote_love_accent_56: 6531365148027177019
+      env_emote_love_accent_57: 3643912203682068015
+      env_emote_love_accent_58: -3621507582325628200
+      env_emote_love_accent_59: 2319688451615109401
+      env_emote_love_accent_6: 4560962399864901380
+      env_emote_love_accent_60: 7822287459716848456
+      env_emote_love_accent_61: -6419271702320073375
+      env_emote_love_accent_62: -3031623946318927236
+      env_emote_love_accent_63: -8108922421398224850
+      env_emote_love_accent_64: -4460914209538199217
+      env_emote_love_accent_65: -1871836675794337992
+      env_emote_love_accent_66: -4275153611578841467
+      env_emote_love_accent_67: -7517663663176069995
+      env_emote_love_accent_68: 6777342182292633728
+      env_emote_love_accent_69: 3732099003305109844
+      env_emote_love_accent_7: 6438782137178050763
+      env_emote_love_accent_70: -9091745858958291699
+      env_emote_love_accent_71: -6022595014294838703
+      env_emote_love_accent_8: 1464499609933061970
+      env_emote_love_accent_9: 870695298753336392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2394 @@
+fileFormatVersion: 2
+guid: 10b6422a6f60ff2499f2741dac50818f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2194771390047069110
+    second: env_dandelion_seeds_0
+  - first:
+      213: 1611471897467653321
+    second: env_dandelion_seeds_1
+  - first:
+      213: 4688114325556396133
+    second: env_dandelion_seeds_2
+  - first:
+      213: 2685847431355672615
+    second: env_dandelion_seeds_3
+  - first:
+      213: 2358295126980948015
+    second: env_dandelion_seeds_4
+  - first:
+      213: 8770983856241521945
+    second: env_dandelion_seeds_5
+  - first:
+      213: -9103282239146192984
+    second: env_dandelion_seeds_6
+  - first:
+      213: 4578022007960719589
+    second: env_dandelion_seeds_7
+  - first:
+      213: -3661671255106433766
+    second: env_dandelion_seeds_8
+  - first:
+      213: 60540011340567609
+    second: env_dandelion_seeds_9
+  - first:
+      213: -3161285456817945046
+    second: env_dandelion_seeds_10
+  - first:
+      213: -5287453149823998704
+    second: env_dandelion_seeds_11
+  - first:
+      213: -5610744225308414233
+    second: env_dandelion_seeds_12
+  - first:
+      213: -7127883735669202541
+    second: env_dandelion_seeds_13
+  - first:
+      213: 8508201696759430824
+    second: env_dandelion_seeds_14
+  - first:
+      213: -7150348788785392559
+    second: env_dandelion_seeds_15
+  - first:
+      213: -5443165350045340299
+    second: env_dandelion_seeds_16
+  - first:
+      213: 6177299557243040095
+    second: env_dandelion_seeds_17
+  - first:
+      213: 8881917213984718405
+    second: env_dandelion_seeds_18
+  - first:
+      213: -8131647764885832380
+    second: env_dandelion_seeds_19
+  - first:
+      213: -4643332214671288082
+    second: env_dandelion_seeds_20
+  - first:
+      213: -964500997976327635
+    second: env_dandelion_seeds_21
+  - first:
+      213: -3978250530577940964
+    second: env_dandelion_seeds_22
+  - first:
+      213: 3860952805204644591
+    second: env_dandelion_seeds_23
+  - first:
+      213: 4084883747349986518
+    second: env_dandelion_seeds_24
+  - first:
+      213: -2072075927390732576
+    second: env_dandelion_seeds_25
+  - first:
+      213: 637285415425012858
+    second: env_dandelion_seeds_26
+  - first:
+      213: 7981204254490189614
+    second: env_dandelion_seeds_27
+  - first:
+      213: -174609094580223424
+    second: env_dandelion_seeds_28
+  - first:
+      213: 6558367740183746907
+    second: env_dandelion_seeds_29
+  - first:
+      213: -3782828138122955609
+    second: env_dandelion_seeds_30
+  - first:
+      213: 8667028133393668171
+    second: env_dandelion_seeds_31
+  - first:
+      213: -2732525923648391520
+    second: env_dandelion_seeds_32
+  - first:
+      213: -3990607099431762857
+    second: env_dandelion_seeds_33
+  - first:
+      213: -8903517182154304853
+    second: env_dandelion_seeds_34
+  - first:
+      213: 311034356603561728
+    second: env_dandelion_seeds_35
+  - first:
+      213: -8091413331543139036
+    second: env_dandelion_seeds_36
+  - first:
+      213: 3708197045749395240
+    second: env_dandelion_seeds_37
+  - first:
+      213: 585952023302724646
+    second: env_dandelion_seeds_38
+  - first:
+      213: -3048064711637304296
+    second: env_dandelion_seeds_39
+  - first:
+      213: 3834367918034032222
+    second: env_dandelion_seeds_40
+  - first:
+      213: -2011635343383205537
+    second: env_dandelion_seeds_41
+  - first:
+      213: -9143045012288799131
+    second: env_dandelion_seeds_42
+  - first:
+      213: 207458506539071781
+    second: env_dandelion_seeds_43
+  - first:
+      213: 4781521855084846832
+    second: env_dandelion_seeds_44
+  - first:
+      213: 6798467322727542812
+    second: env_dandelion_seeds_45
+  - first:
+      213: -1328885221432647433
+    second: env_dandelion_seeds_46
+  - first:
+      213: -5965429788624691009
+    second: env_dandelion_seeds_47
+  - first:
+      213: -3941226646479782913
+    second: env_dandelion_seeds_48
+  - first:
+      213: 3811677930538352330
+    second: env_dandelion_seeds_49
+  - first:
+      213: -7330547824764490568
+    second: env_dandelion_seeds_50
+  - first:
+      213: -5961271983081844947
+    second: env_dandelion_seeds_51
+  - first:
+      213: 4221478387116046829
+    second: env_dandelion_seeds_52
+  - first:
+      213: -2874528408930398613
+    second: env_dandelion_seeds_53
+  - first:
+      213: 832411509620583494
+    second: env_dandelion_seeds_54
+  - first:
+      213: -8689271884911917982
+    second: env_dandelion_seeds_55
+  - first:
+      213: 7164737859241192669
+    second: env_dandelion_seeds_56
+  - first:
+      213: -4014399691184145021
+    second: env_dandelion_seeds_57
+  - first:
+      213: -7164216920601417419
+    second: env_dandelion_seeds_58
+  - first:
+      213: 4856414979240838924
+    second: env_dandelion_seeds_59
+  - first:
+      213: -2256574450369354842
+    second: env_dandelion_seeds_60
+  - first:
+      213: -6052798777101406716
+    second: env_dandelion_seeds_61
+  - first:
+      213: -8429141887066624161
+    second: env_dandelion_seeds_62
+  - first:
+      213: 23263332585307396
+    second: env_dandelion_seeds_63
+  - first:
+      213: 8599486034344277541
+    second: env_dandelion_seeds_64
+  - first:
+      213: 8363051143775328134
+    second: env_dandelion_seeds_65
+  - first:
+      213: 6442285699133969539
+    second: env_dandelion_seeds_66
+  - first:
+      213: 568461637934252694
+    second: env_dandelion_seeds_67
+  - first:
+      213: -7349784163436052111
+    second: env_dandelion_seeds_68
+  - first:
+      213: -5885503966418692968
+    second: env_dandelion_seeds_69
+  - first:
+      213: 6337379910785023158
+    second: env_dandelion_seeds_70
+  - first:
+      213: 3733691397813390267
+    second: env_dandelion_seeds_71
+  - first:
+      213: 1507401490936855245
+    second: env_dandelion_seeds_72
+  - first:
+      213: -8932973999118660243
+    second: env_dandelion_seeds_73
+  - first:
+      213: 5885820645315351847
+    second: env_dandelion_seeds_74
+  - first:
+      213: -3235669389253295491
+    second: env_dandelion_seeds_75
+  - first:
+      213: 7329942103046308981
+    second: env_dandelion_seeds_76
+  - first:
+      213: 5382301497921553667
+    second: env_dandelion_seeds_77
+  - first:
+      213: 2060821687174541922
+    second: env_dandelion_seeds_78
+  - first:
+      213: -4331300161648102233
+    second: env_dandelion_seeds_79
+  - first:
+      213: -349744806303932058
+    second: env_dandelion_seeds_80
+  - first:
+      213: 279899966269617050
+    second: env_dandelion_seeds_81
+  - first:
+      213: 1275977089220304581
+    second: env_dandelion_seeds_82
+  - first:
+      213: -6731658671706384649
+    second: env_dandelion_seeds_83
+  - first:
+      213: -7820837271305076649
+    second: env_dandelion_seeds_84
+  - first:
+      213: 1890584336006328404
+    second: env_dandelion_seeds_85
+  - first:
+      213: 3908150564563809513
+    second: env_dandelion_seeds_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_dandelion_seeds_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 39
+        width: 97
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b322fa63f4657e10800000000000000
+      internalID: 2194771390047069110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 40
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc851e17291d5610800000000000000
+      internalID: 1611471897467653321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 41
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5608531f3278f0140800000000000000
+      internalID: 4688114325556396133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 42
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728a9d2320c064520800000000000000
+      internalID: 2685847431355672615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 44
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20fb375ce85ab020800000000000000
+      internalID: 2358295126980948015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 46
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91536f9b85bc8b970800000000000000
+      internalID: 8770983856241521945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_6
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 48
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af8195e805aaa180800000000000000
+      internalID: -9103282239146192984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 49
+        width: 90
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e05b66c2c6688f30800000000000000
+      internalID: 4578022007960719589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_8
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 51
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d4f13d4612f2dc0800000000000000
+      internalID: -3661671255106433766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_9
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 52
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93417aec1d417d000800000000000000
+      internalID: 60540011340567609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_10
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 53
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2602c050abd024d0800000000000000
+      internalID: -3161285456817945046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_11
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 72
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0156836df513f96b0800000000000000
+      internalID: -5287453149823998704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_12
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 53
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeeae4aad1a222b0800000000000000
+      internalID: -5610744225308414233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_13
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 73
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391272fe18ba41d90800000000000000
+      internalID: -7127883735669202541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_14
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 53
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeb8b46d54331670800000000000000
+      internalID: 8508201696759430824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_15
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 74
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1545d4829abd4cc90800000000000000
+      internalID: -7150348788785392559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_16
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 53
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d25d804fdf574b0800000000000000
+      internalID: -5443165350045340299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 73
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5136a4f73d2ab550800000000000000
+      internalID: 6177299557243040095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_18
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 53
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e7cffc5a8e24b70800000000000000
+      internalID: 8881917213984718405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_19
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 52
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d716fe075962f80800000000000000
+      internalID: -8131647764885832380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_20
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 52
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8d362c3f19f8fb0800000000000000
+      internalID: -4643332214671288082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_21
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 22
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a7c16d3776d92f0800000000000000
+      internalID: -964500997976327635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_22
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 24
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e7469583a6ac8c0800000000000000
+      internalID: -3978250530577940964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_23
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 26
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe255c0ce1cd49530800000000000000
+      internalID: 3860952805204644591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_24
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 27
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcff85202c60b830800000000000000
+      internalID: 4084883747349986518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_25
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 29
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eebc302ce18e33e0800000000000000
+      internalID: -2072075927390732576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_26
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 30
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f1f675b718d800800000000000000
+      internalID: 637285415425012858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_27
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 30
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f59b4bbfee2ce60800000000000000
+      internalID: 7981204254490189614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_28
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 29
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0424efe14f9a39df0800000000000000
+      internalID: -174609094580223424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_29
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 29
+        width: 104
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59980446b0040b50800000000000000
+      internalID: 6558367740183746907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_30
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 28
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a434d4c9d1b08bc0800000000000000
+      internalID: -3782828138122955609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_31
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 46
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b481f3dda28774870800000000000000
+      internalID: 8667028133393668171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 47
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63465662e141ad0800000000000000
+      internalID: -2732525923648391520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_33
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 49
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c7387cf38e98c0800000000000000
+      internalID: -3990607099431762857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_34
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 41
+        width: 102
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba21b12bb4a507480800000000000000
+      internalID: -8903517182154304853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_35
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 43
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0072c427914015400800000000000000
+      internalID: 311034356603561728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_36
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 44
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dd282f17685bf80800000000000000
+      internalID: -8091413331543139036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_37
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 45
+        width: 105
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fab05f099267330800000000000000
+      internalID: 3708197045749395240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_38
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 45
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c516cb248b12800800000000000000
+      internalID: 585952023302724646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_39
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 78
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c747a4b4913b5d0800000000000000
+      internalID: -3048064711637304296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_40
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 44
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56929c5e49663530800000000000000
+      internalID: 3834367918034032222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_41
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 80
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59e504305c3514e0800000000000000
+      internalID: -2011635343383205537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_42
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 25
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7e15d0016d1180800000000000000
+      internalID: -9143045012288799131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_43
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 82
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529f4eb996a01e200800000000000000
+      internalID: 207458506539071781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_44
+      rect:
+        serializedVersion: 2
+        x: 4753
+        y: 26
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe591a2bc06b5240800000000000000
+      internalID: 4781521855084846832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_45
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 83
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10b64c9202095e50800000000000000
+      internalID: 6798467322727542812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_46
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 27
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0ad3d8ee9de8de0800000000000000
+      internalID: -1328885221432647433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_47
+      rect:
+        serializedVersion: 2
+        x: 5013
+        y: 29
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0ed74a639863da0800000000000000
+      internalID: -5965429788624691009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_48
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 30
+        width: 107
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbb44d1f33fd49c0800000000000000
+      internalID: -3941226646479782913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_49
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 78
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace3fe7f1ecc5e430800000000000000
+      internalID: 3811677930538352330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_50
+      rect:
+        serializedVersion: 2
+        x: 5258
+        y: 32
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc66ef9799a44a90800000000000000
+      internalID: -7330547824764490568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_51
+      rect:
+        serializedVersion: 2
+        x: 5386
+        y: 34
+        width: 111
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f0bee27be454da0800000000000000
+      internalID: -5961271983081844947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_52
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 39
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de97a0b0a34b59a30800000000000000
+      internalID: 4221478387116046829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_53
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 36
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e4fe854af9b18d0800000000000000
+      internalID: -2874528408930398613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_54
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 38
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ca1e19bd15d8b00800000000000000
+      internalID: 832411509620583494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_55
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 38
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26449072241896780800000000000000
+      internalID: -8689271884911917982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_56
+      rect:
+        serializedVersion: 2
+        x: 5902
+        y: 38
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc2dd06f134e6360800000000000000
+      internalID: 7164737859241192669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_57
+      rect:
+        serializedVersion: 2
+        x: 6031
+        y: 38
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38df78400ccf948c0800000000000000
+      internalID: -4014399691184145021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 27
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539a5b91ba6939c90800000000000000
+      internalID: -7164216920601417419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_59
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 20
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07498771b3756340800000000000000
+      internalID: 4856414979240838924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_60
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 20
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a323844e790fa0e0800000000000000
+      internalID: -2256574450369354842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_61
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 19
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ea3f1d493200ca0800000000000000
+      internalID: -6052798777101406716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_62
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 18
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f270cfc1ca50b80800000000000000
+      internalID: -8429141887066624161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_63
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 17
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40df903b0e5a25000800000000000000
+      internalID: 23263332585307396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_64
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 16
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526f5087cf2875770800000000000000
+      internalID: 8599486034344277541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_65
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 16
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6871727b4b68f0470800000000000000
+      internalID: 8363051143775328134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_66
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 15
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384957ee5b8976950800000000000000
+      internalID: 6442285699133969539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_67
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 15
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692028d09d493e700800000000000000
+      internalID: 568461637934252694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_68
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 15
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1714a928e32500a90800000000000000
+      internalID: -7349784163436052111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_69
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 16
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8941675435d725ea0800000000000000
+      internalID: -5885503966418692968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_70
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 17
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcb905b375e2f750800000000000000
+      internalID: 6337379910785023158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_71
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 19
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb499b5b8cb0d330800000000000000
+      internalID: 3733691397813390267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_72
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 20
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca7f216bad5be410800000000000000
+      internalID: 1507401490936855245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_73
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 45
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d4bba0a73b70480800000000000000
+      internalID: -8932973999118660243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_74
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 45
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7259ea741b2aea150800000000000000
+      internalID: 5885820645315351847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_75
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 27
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72c3f275d79813d0800000000000000
+      internalID: -3235669389253295491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_76
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 26
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574414cc18f29b560800000000000000
+      internalID: 7329942103046308981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_77
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 26
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305caa912b6c1ba40800000000000000
+      internalID: 5382301497921553667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_78
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 26
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262b571e762899c10800000000000000
+      internalID: 2060821687174541922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_79
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 27
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47f51837124e3c0800000000000000
+      internalID: -4331300161648102233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_80
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 26
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6616732a3f4752bf0800000000000000
+      internalID: -349744806303932058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_81
+      rect:
+        serializedVersion: 2
+        x: 4282
+        y: 26
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93f42e498762e300800000000000000
+      internalID: 279899966269617050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_82
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 25
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce5388f66e25b110800000000000000
+      internalID: 1275977089220304581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_83
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 25
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f653cb9a185492a0800000000000000
+      internalID: -6731658671706384649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_84
+      rect:
+        serializedVersion: 2
+        x: 5713
+        y: 38
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750c9b530fdc67390800000000000000
+      internalID: -7820837271305076649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_85
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 40
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4503395df64bc3a10800000000000000
+      internalID: 1890584336006328404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_dandelion_seeds_86
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 51
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e471917b3a8c3630800000000000000
+      internalID: 3908150564563809513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      env_dandelion_seeds_0: 2194771390047069110
+      env_dandelion_seeds_1: 1611471897467653321
+      env_dandelion_seeds_10: -3161285456817945046
+      env_dandelion_seeds_11: -5287453149823998704
+      env_dandelion_seeds_12: -5610744225308414233
+      env_dandelion_seeds_13: -7127883735669202541
+      env_dandelion_seeds_14: 8508201696759430824
+      env_dandelion_seeds_15: -7150348788785392559
+      env_dandelion_seeds_16: -5443165350045340299
+      env_dandelion_seeds_17: 6177299557243040095
+      env_dandelion_seeds_18: 8881917213984718405
+      env_dandelion_seeds_19: -8131647764885832380
+      env_dandelion_seeds_2: 4688114325556396133
+      env_dandelion_seeds_20: -4643332214671288082
+      env_dandelion_seeds_21: -964500997976327635
+      env_dandelion_seeds_22: -3978250530577940964
+      env_dandelion_seeds_23: 3860952805204644591
+      env_dandelion_seeds_24: 4084883747349986518
+      env_dandelion_seeds_25: -2072075927390732576
+      env_dandelion_seeds_26: 637285415425012858
+      env_dandelion_seeds_27: 7981204254490189614
+      env_dandelion_seeds_28: -174609094580223424
+      env_dandelion_seeds_29: 6558367740183746907
+      env_dandelion_seeds_3: 2685847431355672615
+      env_dandelion_seeds_30: -3782828138122955609
+      env_dandelion_seeds_31: 8667028133393668171
+      env_dandelion_seeds_32: -2732525923648391520
+      env_dandelion_seeds_33: -3990607099431762857
+      env_dandelion_seeds_34: -8903517182154304853
+      env_dandelion_seeds_35: 311034356603561728
+      env_dandelion_seeds_36: -8091413331543139036
+      env_dandelion_seeds_37: 3708197045749395240
+      env_dandelion_seeds_38: 585952023302724646
+      env_dandelion_seeds_39: -3048064711637304296
+      env_dandelion_seeds_4: 2358295126980948015
+      env_dandelion_seeds_40: 3834367918034032222
+      env_dandelion_seeds_41: -2011635343383205537
+      env_dandelion_seeds_42: -9143045012288799131
+      env_dandelion_seeds_43: 207458506539071781
+      env_dandelion_seeds_44: 4781521855084846832
+      env_dandelion_seeds_45: 6798467322727542812
+      env_dandelion_seeds_46: -1328885221432647433
+      env_dandelion_seeds_47: -5965429788624691009
+      env_dandelion_seeds_48: -3941226646479782913
+      env_dandelion_seeds_49: 3811677930538352330
+      env_dandelion_seeds_5: 8770983856241521945
+      env_dandelion_seeds_50: -7330547824764490568
+      env_dandelion_seeds_51: -5961271983081844947
+      env_dandelion_seeds_52: 4221478387116046829
+      env_dandelion_seeds_53: -2874528408930398613
+      env_dandelion_seeds_54: 832411509620583494
+      env_dandelion_seeds_55: -8689271884911917982
+      env_dandelion_seeds_56: 7164737859241192669
+      env_dandelion_seeds_57: -4014399691184145021
+      env_dandelion_seeds_58: -7164216920601417419
+      env_dandelion_seeds_59: 4856414979240838924
+      env_dandelion_seeds_6: -9103282239146192984
+      env_dandelion_seeds_60: -2256574450369354842
+      env_dandelion_seeds_61: -6052798777101406716
+      env_dandelion_seeds_62: -8429141887066624161
+      env_dandelion_seeds_63: 23263332585307396
+      env_dandelion_seeds_64: 8599486034344277541
+      env_dandelion_seeds_65: 8363051143775328134
+      env_dandelion_seeds_66: 6442285699133969539
+      env_dandelion_seeds_67: 568461637934252694
+      env_dandelion_seeds_68: -7349784163436052111
+      env_dandelion_seeds_69: -5885503966418692968
+      env_dandelion_seeds_7: 4578022007960719589
+      env_dandelion_seeds_70: 6337379910785023158
+      env_dandelion_seeds_71: 3733691397813390267
+      env_dandelion_seeds_72: 1507401490936855245
+      env_dandelion_seeds_73: -8932973999118660243
+      env_dandelion_seeds_74: 5885820645315351847
+      env_dandelion_seeds_75: -3235669389253295491
+      env_dandelion_seeds_76: 7329942103046308981
+      env_dandelion_seeds_77: 5382301497921553667
+      env_dandelion_seeds_78: 2060821687174541922
+      env_dandelion_seeds_79: -4331300161648102233
+      env_dandelion_seeds_8: -3661671255106433766
+      env_dandelion_seeds_80: -349744806303932058
+      env_dandelion_seeds_81: 279899966269617050
+      env_dandelion_seeds_82: 1275977089220304581
+      env_dandelion_seeds_83: -6731658671706384649
+      env_dandelion_seeds_84: -7820837271305076649
+      env_dandelion_seeds_85: 1890584336006328404
+      env_dandelion_seeds_86: 3908150564563809513
+      env_dandelion_seeds_9: 60540011340567609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
