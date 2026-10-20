@@ -26,4 +26,17 @@ namespace Titidus
         AvatarIndex,
         Language
     }
+
+    public enum Party
+    {
+        Human,
+        Wolf,
+        Couple,
+    }
+    public struct PlayerProfile
+    {
+        public string name;
+        public string avatarIndex;
+        
+    }
 }

@@ -153,7 +153,7 @@ TextureImporter:
         width: 183
         height: 227
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -167,72 +167,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Colorful Leaf Sprite and Wind Trail Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 11
-        width: 237
-        height: 226
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4729c2dc3110d750800000000000000
-      internalID: 6327576429387654990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Colorful Leaf Sprite and Wind Trail Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 445
-        y: 0
-        width: 139
-        height: 217
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c54b6329902c4260800000000000000
-      internalID: 7083072156043265472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Colorful Leaf Sprite and Wind Trail Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 601
-        y: 7
-        width: 188
-        height: 228
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79600a72b29d855d0800000000000000
-      internalID: -3073467966308743529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Colorful Leaf Sprite and Wind Trail Sheet_4
       rect:
         serializedVersion: 2
@@ -241,7 +175,7 @@ TextureImporter:
         width: 211
         height: 172
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -255,116 +189,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Colorful Leaf Sprite and Wind Trail Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 1014
-        y: 0
-        width: 179
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 927effd661d8796a0800000000000000
-      internalID: -6442525614455920855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Colorful Leaf Sprite and Wind Trail Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 1130
-        y: 0
-        width: 192
-        height: 183
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 953c16302490fbf00800000000000000
-      internalID: 1134635810249884505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Colorful Leaf Sprite and Wind Trail Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 1349
-        y: 13
-        width: 201
-        height: 156
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 725a1b4ef4c61fa10800000000000000
-      internalID: 1941452004768458023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Colorful Leaf Sprite and Wind Trail Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 1575
-        y: 7
-        width: 174
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8935a107ab3e622b0800000000000000
-      internalID: -5609545895959178344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Colorful Leaf Sprite and Wind Trail Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 1731
-        y: 0
-        width: 237
-        height: 201
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ba9e3830e4c43890800000000000000
-      internalID: -7479136613860205901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Colorful Leaf Sprite and Wind Trail Sheet_10
       rect:
         serializedVersion: 2
@@ -373,7 +197,7 @@ TextureImporter:
         width: 170
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -390,7 +214,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 02fd57bc3e5f97f4487401d9887263c1
     internalID: 0
     vertices: []
     indices: 
