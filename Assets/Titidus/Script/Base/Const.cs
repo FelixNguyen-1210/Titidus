@@ -33,10 +33,4 @@ namespace Titidus
         Wolf,
         Couple,
     }
-    public struct PlayerProfile
-    {
-        public string name;
-        public string avatarIndex;
-        
-    }
 }

@@ -6,17 +6,15 @@ namespace Titidus
     using Unity.Netcode;
     using Unity.Collections;
 
-    public class NPlayerProfile : NetworkBehaviour
+    public class NPlayer : NetworkBehaviour
     {
 
         
-        public NetworkVariable<FixedString64Bytes> PlayerName = new();
-        public NetworkVariable<int> AvatarIndex = new();
+        public NetworkVariable<PlayerProfile> playerProfile = new();
 
         public override void OnNetworkSpawn()
         {
-            PlayerName.OnValueChanged += OnNameChanged;
-            AvatarIndex.OnValueChanged += OnAvatarChanged;
+            playerProfile.OnValueChanged += OnProfileChanged;
 
             RefreshUI();
 
@@ -46,45 +44,40 @@ namespace Titidus
         {
             playerName = (playerName ?? "").Trim();
 
+            PlayerProfile profile = playerProfile.Value;
 
-            // Host cập nhật dữ liệu để NGO tự đồng bộ.
-            PlayerName.Value = new FixedString64Bytes(playerName);
-            AvatarIndex.Value = avatarIndex;
+            profile.name = new FixedString64Bytes(playerName);
+            profile.avt_index = avatarIndex;
+
+            playerProfile.Value = profile;
         }
 
-        private void OnNameChanged(
-            FixedString64Bytes previous,
-            FixedString64Bytes current)
+        private void OnProfileChanged(PlayerProfile previous, PlayerProfile current)
         {
             RefreshUI();
-        }
 
-        private void OnAvatarChanged(int previous, int current)
-        {
-            RefreshUI();
         }
-
         public void RefreshUI()
         {
             if (!IsSpawned || SlotManager.Instance == null)
                 return;
 
-            string playerName = PlayerName.Value.ToString();
-
+            string playerName = playerProfile.Value.name.ToString();
+            int avtIndex = playerProfile.Value.avt_index;
             if (string.IsNullOrEmpty(playerName))
                 return;
 
             SlotManager.Instance.SetPlayer(
                 OwnerClientId,
                 playerName,
-                AvatarIndex.Value
+                avtIndex
             );
         }
 
         public override void OnNetworkDespawn()
         {
-            PlayerName.OnValueChanged -= OnNameChanged;
-            AvatarIndex.OnValueChanged -= OnAvatarChanged;
+            playerProfile.OnValueChanged -= OnProfileChanged;
+
 
             if (SlotManager.Instance != null)
                 SlotManager.Instance.RemovePlayer(OwnerClientId);

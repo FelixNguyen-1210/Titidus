@@ -33,14 +33,12 @@ namespace Titidus
         string GetPlayerName(ulong senderId)
         {
 
-            var profile = FindObjectsByType<NPlayerProfile>().FirstOrDefault(p =>
+            var profile = FindObjectsByType<NPlayer>().FirstOrDefault(p =>
                 p.IsSpawned &&
                 p.OwnerClientId == senderId
             );
 
-            return profile == null
-                ? ""
-                : profile.PlayerName.Value.ToString();
+            return profile == null ? "" : profile.playerProfile.Value.name.ToString();
         }
 
         [Rpc(SendTo.Everyone)]

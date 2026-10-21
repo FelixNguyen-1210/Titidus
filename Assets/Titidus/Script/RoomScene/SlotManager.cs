@@ -46,7 +46,7 @@ namespace Titidus
             // missing in the UI when the Profile calls RefreshUI()
             // before this script is initialized.
 
-            var profiles = FindObjectsByType<NPlayerProfile>();
+            var profiles = FindObjectsByType<NPlayer>();
 
             foreach (var profile in profiles)
                 profile.RefreshUI();
