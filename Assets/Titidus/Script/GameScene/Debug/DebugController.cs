@@ -15,6 +15,10 @@ namespace Titidus
         {
             simulation = new GameSimulation();
 
+            simulation.InitializePhases();
+
+            
+
             for (int i = 0; i < playerCount; i++)
             {
                 var player = new GamePlayer(
@@ -28,6 +32,8 @@ namespace Titidus
             Debug.Log(
                 $"Simulation started: {simulation.Players.Count} players"
             );
+
+
         }
 
         [ContextMenu("Test Kill Player")]
@@ -51,5 +57,22 @@ namespace Titidus
             simulation?.Reset();
             Debug.Log("Simulation reset");
         }
+
+        [ContextMenu("Next Phase")]
+        public void NextPhase()
+        {
+            if(simulation == null) return;
+
+            simulation.NextPhase();
+
+        }
+
+        [ContextMenu("Force End")]
+        public void ForceEnd()
+        {
+            simulation?.PhaseMachine?
+                .ChangeState(GamePhase.End);
+        }
+
     }
 }

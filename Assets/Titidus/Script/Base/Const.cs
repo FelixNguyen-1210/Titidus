@@ -5,10 +5,12 @@ namespace Titidus
 
     public enum GamePhase
     {
-        Prepare,
+        Preparation,
         Morning,
         Discussion,
         Voting,
+        Resolution,
+
         Night,
         End
     }
