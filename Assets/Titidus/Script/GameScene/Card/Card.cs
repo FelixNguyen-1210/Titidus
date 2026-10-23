@@ -25,5 +25,10 @@ namespace Titidus
 
             abilities.Add(ability);
         }
+
+        public override string ToString()
+        {
+            return $"{Profile.Id}";
+        }
     }
 }

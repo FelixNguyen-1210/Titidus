@@ -10,7 +10,7 @@ namespace Titidus
         public readonly Dictionary<ulong, GamePlayer> Players = new Dictionary<ulong, GamePlayer>();
 
         public PhaseStateMachine PhaseMachine { get; private set; }
-
+        public Deck GameDeck { get; set; }
 
         public void InitializePhases()
         {
@@ -62,7 +62,10 @@ namespace Titidus
                 throw new InvalidOperationException(
                     $"Player {player.Id} already exists.");
         }
-
+        public void CreateDeck(List<CardId> cards)
+        {
+            Deck GameDeck = new Deck(cards);
+        }
         public void Reset()
         {
             Players.Clear();
