@@ -8,6 +8,10 @@ namespace Titidus
     {
         public ulong Id { get; }
         public string Name { get; }
+
+        public Card Card { get; private set; }
+
+
         public bool IsAlive { get; private set; }
 
         public GamePlayer(ulong id, string name)
@@ -26,7 +30,14 @@ namespace Titidus
         {
             IsAlive = true;
         }
+        public void AssignCard(Card card)
+        {
+            Card = card;
+        }
 
-
+        public override string ToString()
+        {
+            return $"({Id}) {Name}: [Role: {Card.Profile.Id}] [Status: {IsAlive}]";
+        }
     }
 }

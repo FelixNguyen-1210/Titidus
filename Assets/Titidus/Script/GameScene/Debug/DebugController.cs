@@ -73,6 +73,41 @@ namespace Titidus
             simulation?.PhaseMachine?
                 .ChangeState(GamePhase.End);
         }
+        [ContextMenu("Test Card Factory")]
+        public void TestCardFactory()
+        {
+            Card card = CardFactory.CreateCard(CardId.Seer);
 
+            Debug.Log($"Card: {card.Profile.Name}");
+            Debug.Log($"Party: {card.Profile.Party}");
+            Debug.Log($"Point: {card.Profile.Point}");
+        }
+
+        [ContextMenu("Test Ability")]
+
+        public void TestAbility()
+        {
+
+            GamePlayer werewolf = new GamePlayer(0, "werewolf");
+            GamePlayer village = new GamePlayer(1, "village");
+            GamePlayer seer = new GamePlayer(2, "seer");
+
+
+
+            werewolf.AssignCard(CardFactory.CreateCard(CardId.Werewolf));
+            village.AssignCard(CardFactory.CreateCard(CardId.Villager));
+            seer.AssignCard(CardFactory.CreateCard(CardId.Seer));
+
+            IAbility seerAbility = seer.Card.Abilities[0];
+            IAbility werewolfAbility = werewolf.Card.Abilities[0];
+
+            Debug.Log("Before");
+            
+            seerAbility.Execute(simulation, seer, werewolf);
+            werewolfAbility.Execute(simulation, werewolf, village);
+
+            Debug.Log(village.ToString());
+
+        }
     }
 }

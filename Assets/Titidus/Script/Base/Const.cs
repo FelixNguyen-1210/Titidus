@@ -31,8 +31,15 @@ namespace Titidus
 
     public enum Party
     {
-        Human,
+        Village,
         Wolf,
-        Couple,
+        Neutral,
+    }
+    public enum CardId
+    {
+        Villager,
+        Werewolf,
+        Seer,
+        Guard
     }
 }
