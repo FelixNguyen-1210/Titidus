@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using Titidus;
 
@@ -12,7 +13,7 @@ public interface IAbility
         List<GamePlayer> targets
     );
 
-    void Execute(
+    public IEnumerable<AbilityEffect> Execute(
         GameSimulation simulation,
         GamePlayer user,
         List<GamePlayer> targets

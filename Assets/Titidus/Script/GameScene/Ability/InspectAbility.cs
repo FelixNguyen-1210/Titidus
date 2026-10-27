@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using System.Collections.Generic;
+using System.Linq;
 using Titidus;
 using UnityEngine;
 
@@ -17,15 +18,9 @@ public class InspectAbility : IAbility
         return true;
     }
 
-    public void Execute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
+    public IEnumerable<AbilityEffect> Execute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {
-        if (!CanExecute(simulation, user, targets)) return;
-
-        Party result = targets[0].Card.Profile.Party;
-
-        Debug.Log(
-            $"[INSPECT] {user.Name} inspected " +
-            $"{targets[0].Name}: {result}"
-        );
+        if (!CanExecute(simulation, user, targets)) yield return null;
+        else  yield return new InspectEffect(user.Id, targets[0].Id);
     }
 }

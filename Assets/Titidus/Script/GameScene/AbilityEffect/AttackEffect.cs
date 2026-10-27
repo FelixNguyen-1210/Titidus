@@ -4,11 +4,11 @@ using static UnityEngine.GraphicsBuffer;
 namespace Titidus
 {
 
-    public class KillEffect: AbilityEffect
+    public class AttackEffect: AbilityEffect
     {
 
 
-        public KillEffect(ulong source, ulong target) : base(source, target)
+        public AttackEffect(ulong source, ulong target) : base(source, target)
         {
         }
     }

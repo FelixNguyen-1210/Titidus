@@ -8,7 +8,7 @@ public class KillAbility : IAbility
 
     public int MinTarger => 0;
 
-    public int MaxTarger => 1;
+    public int MaxTarger => 2;
 
     public bool CanExecute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {
@@ -17,11 +17,17 @@ public class KillAbility : IAbility
         return true;
     }
 
-    public void Execute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
+    public IEnumerable<AbilityEffect> Execute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {
-        if (!CanExecute(simulation, user, targets)) return;
+        if (!CanExecute(simulation, user, targets)) yield return null;
 
-        targets[0].Kill();
+        else
+        {
+            foreach (var target in targets)
+            {
+                yield return new AttackEffect(user.Id, target.Id);
+            }
+        }
     }
 
 }
