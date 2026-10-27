@@ -6,6 +6,10 @@ public class KillAbility : IAbility
 {
     public string Name => "Kill";
 
+    public int MinTarger => 0;
+
+    public int MaxTarger => 1;
+
     public bool CanExecute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {
         return true;

@@ -6,6 +6,8 @@ using UnityEngine;
 public interface IAbility
 {
     string Name { get;}
+    int MinTarger { get; }
+    int MaxTarger { get; }
     bool CanExecute(
         GameSimulation simulation,
         GamePlayer user,

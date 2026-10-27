@@ -1,8 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using Titudus;
-using static UnityEngine.GraphicsBuffer;
 
 
 namespace Titidus
@@ -30,6 +27,8 @@ namespace Titidus
             PhaseMachine.RegisterState(new EndState(this));
 
             PhaseMachine.RegisterState(new VoteState(this));
+            PhaseMachine.RegisterState(new ResolutionState(this));
+
 
             PhaseMachine.ChangeState(GamePhase.Preparation);
         }
@@ -95,6 +94,8 @@ namespace Titidus
             foreach (var id in targetIds)
             {
                 GamePlayer target = GetPlayer(id);
+                targets.Add(target);
+
             }
 
 
@@ -134,6 +135,7 @@ namespace Titidus
             foreach (var id in targetIds)
             {
                 GamePlayer target = GetPlayer(id);
+                targets.Add(target);
             }
 
 

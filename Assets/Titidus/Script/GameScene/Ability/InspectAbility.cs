@@ -7,6 +7,9 @@ public class InspectAbility : IAbility
 {
     public string Name => "Inspect";
 
+    public int MinTarger => 1;
+
+    public int MaxTarger => 1;
 
     public bool CanExecute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {

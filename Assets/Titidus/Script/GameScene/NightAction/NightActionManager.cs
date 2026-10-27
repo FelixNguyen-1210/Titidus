@@ -1,44 +1,32 @@
 using NUnit.Framework;
 using System.Collections.Generic;
+using System.Linq;
 using Titidus;
-using Titudus;
 using UnityEngine;
 
 public class NightActionManager : MonoBehaviour
 {
-    private readonly List<NightAction> actions = new();
+    private readonly Dictionary<(ulong, int), NightAction> actions = new();
 
-    public IReadOnlyList<NightAction> Actions => actions;
+    public IEnumerable<NightAction> Actions => actions.Values;
 
     public bool Submit(NightAction action)
     {
-        actions.Add(action);
+        var key = (action.UserId, action.AbilityIndex);
+
+        actions[key] = action;
+
         return true;
     }
 
-    public bool Cancel(
-        ulong userId,
-        int abilityIndex,
-        List<ulong> targetIds)
+    public bool Cancel(ulong userId, int abilityIndex)
     {
-        for (int i = 0; i < actions.Count; i++)
-        {
-            NightAction action = actions[i];
-
-            if (action.UserId == userId &&
-                action.AbilityIndex == abilityIndex &&
-                action.TargetIds == targetIds)
-            {
-                actions.RemoveAt(i);
-                return true;
-            }
-        }
-
-        return false;
+        return actions.Remove((userId, abilityIndex));
     }
 
     public void Clear()
     {
         actions.Clear();
     }
+
 }

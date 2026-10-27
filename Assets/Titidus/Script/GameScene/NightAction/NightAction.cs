@@ -1,21 +1,20 @@
 using System.Collections.Generic;
-using UnityEngine;
-namespace Titudus
+namespace Titidus
 {
     public readonly struct NightAction
     {
         public ulong UserId { get; }
         public int AbilityIndex { get; }
-        public List<ulong> TargetIds { get; }
+        public IReadOnlyList<ulong> TargetIds { get; }
 
         public NightAction(
             ulong userId,
             int abilityIndex,
-            List<ulong> targetIds)
+            IEnumerable<ulong> targetIds)
         {
             UserId = userId;
             AbilityIndex = abilityIndex;
-            TargetIds = targetIds;
+            TargetIds = new List<ulong>(targetIds).AsReadOnly();
         }
     }
 }
