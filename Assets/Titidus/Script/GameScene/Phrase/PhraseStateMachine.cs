@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PhaseStateMachine
 {
-    public IState currentState;
+    public IState CurrentState;
     public event Action<GamePhase> OnPhaseChanged;
 
     public readonly Dictionary<GamePhase, IState> states = new();
@@ -30,9 +30,9 @@ public class PhaseStateMachine
                 $"State {phrase} not registered");
         }
 
-        currentState?.Exit();
-        currentState = nextState;
-        currentState.Enter();
+        CurrentState?.Exit();
+        CurrentState = nextState;
+        CurrentState.Enter();
         OnPhaseChanged?.Invoke(phrase);
     }
 

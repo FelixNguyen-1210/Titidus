@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Titidus;
 using UnityEngine;
 
@@ -5,15 +6,16 @@ public class KillAbility : IAbility
 {
     public string Name => "Kill";
 
-    public bool CanExecute(GameSimulation simulation, GamePlayer user, GamePlayer target)
+    public bool CanExecute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {
         return true;
     }
 
-    public void Execute(GameSimulation simulation, GamePlayer user, GamePlayer target)
+    public void Execute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {
-        if (!CanExecute(simulation, user, target)) return;
-        target.Kill();
+        if (!CanExecute(simulation, user, targets)) return;
+
+        targets[0].Kill();
     }
 
 }

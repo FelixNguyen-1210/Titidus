@@ -1,5 +1,4 @@
 
-using NUnit.Framework;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,7 +8,7 @@ namespace Titidus
     {
         [SerializeField, UnityEngine.Range(4, 12)]
         private int playerCount = 5;
-
+        [SerializeField] List<CardId> cards = new();
         private GameSimulation simulation;
 
         [ContextMenu("Start Simulation")]
@@ -64,9 +63,16 @@ namespace Titidus
         [ContextMenu("Create Deck And Assign Role")]
         public void CreatePlayerAndAssignRole()
         {
-            Deck deck = new Deck(new List<CardId> { CardId.Villager, CardId.Villager, CardId.Villager, CardId.Werewolf, CardId.Seer });
+            Deck deck = new Deck(cards);
 
             deck.Shuffle();
+
+            if(simulation == null)
+            {
+                Debug.LogError("Simulatoin has not been created/assgined");
+
+                return;
+            } 
 
             if (deck.Cards.Count != simulation.Players.Count)
             {
@@ -81,7 +87,8 @@ namespace Titidus
                 Debug.Log($"{player.Name}: {player.Card.ToString()}");
                 index++;
             }
-
         }
+
+
     }
 }

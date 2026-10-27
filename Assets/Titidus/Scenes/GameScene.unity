@@ -285,7 +285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 007805fda2da37b468642a47572e6d83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Titidus.DebugGameController
-  playerCount: 4
+  playerCount: 5
 --- !u!4 &638036093
 Transform:
   m_ObjectHideFlags: 0
