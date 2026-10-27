@@ -13,6 +13,7 @@ public class InspectAbility : IAbility
 
     public bool CanExecute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {
+        if (targets.Count != 1) { return false; }
         return true;
     }
 

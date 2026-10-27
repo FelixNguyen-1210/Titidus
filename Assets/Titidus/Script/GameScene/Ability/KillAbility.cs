@@ -12,6 +12,8 @@ public class KillAbility : IAbility
 
     public bool CanExecute(GameSimulation simulation, GamePlayer user, List<GamePlayer> targets)
     {
+        if (targets.Count <= 0) { return false; }
+
         return true;
     }
 
