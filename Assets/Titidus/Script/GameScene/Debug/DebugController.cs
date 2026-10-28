@@ -136,5 +136,27 @@ namespace Titidus
             Debug.Log(simulation.ResolveNight());
 
         }
+
+        [ContextMenu("TestVote")]
+
+        public void TestVote()
+        {
+            CreatePlayerAndAssignRole();
+
+            simulation.PhaseMachine.ChangeState(GamePhase.Voting);
+
+            ulong firstPlayerId = simulation.Players.ElementAt(0).Key;
+            ulong secondPlayerId = simulation.Players.ElementAt(1).Key;
+            ulong thirdPlayerId = simulation.Players.ElementAt(2).Key;
+
+            simulation.SubmitVote(firstPlayerId, true, secondPlayerId);
+
+            simulation.SubmitVote(thirdPlayerId, false, secondPlayerId);
+
+
+            Debug.Log(simulation.ResolveMorning());
+        }
+
+
     }
 }

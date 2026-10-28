@@ -14,6 +14,8 @@ namespace Titidus
 
         public readonly NightActionManager nightActionManager = new();
         private readonly NightActionResolver nightResolver = new();
+        public readonly VoteManager voteManager = new();
+
         public void InitializePhases()
         {
             PhaseMachine = new PhaseStateMachine();
@@ -167,6 +169,38 @@ namespace Titidus
             nightActionManager.Clear();
 
             PhaseMachine.ChangeState(GamePhase.Morning);
+
+            return result;
+        }
+
+        public bool SubmitVote(ulong sourceId, bool status, ulong targetId)
+        {
+            if (!(PhaseMachine?.CurrentState?.Phase == GamePhase.Voting))
+            {
+                Debug.LogWarning("Can not submit vote unless in VotingPhase");
+                return false;
+            }
+            if (sourceId == targetId)
+            {
+                Debug.LogWarning("Source and Target can not be same");
+                return false;
+            }
+
+            GamePlayer source = GetPlayer(sourceId);
+            GamePlayer target = GetPlayer(targetId);
+
+
+
+
+            if (source == null || target == null) return false;
+
+
+            return voteManager.Submit(new Vote(sourceId, status, targetId));
+        }
+
+        public MorningResult ResolveMorning()
+        {
+            MorningResult result = new MorningResult(voteManager.Resolve());
 
             return result;
         }

@@ -16,6 +16,11 @@ namespace Titidus
         {
             base.Enter();
         }
+        public override void Exit()
+        {
+            simulation.nightActionManager.Clear();
+            base.Exit();
+        }
 
     }
 }
