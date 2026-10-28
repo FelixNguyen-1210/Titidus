@@ -16,5 +16,9 @@ namespace Titidus
             AbilityIndex = abilityIndex;
             TargetIds = new List<ulong>(targetIds).AsReadOnly();
         }
+        public override string ToString()
+        {
+            return $"[Source: {UserId} by {AbilityIndex}] to ({string.Join("," , TargetIds)})";
+        }
     }
 }

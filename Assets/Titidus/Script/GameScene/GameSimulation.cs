@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using UnityEngine;
 
 
 namespace Titidus
@@ -12,6 +13,7 @@ namespace Titidus
         public Deck GameDeck { get; set; }
 
         public readonly NightActionManager nightActionManager = new();
+        private readonly NightActionResolver nightResolver = new();
         public void InitializePhases()
         {
             PhaseMachine = new PhaseStateMachine();
@@ -73,42 +75,42 @@ namespace Titidus
             Players.Clear();
         }
 
-        public bool ExcuteAbility(int abilityIndex, ulong userId, List<ulong> targetIds)
-        {
-            GamePlayer user = GetPlayer(userId);
+        //public bool ExcuteAbility(int abilityIndex, ulong userId, List<ulong> targetIds)
+        //{
+        //    GamePlayer user = GetPlayer(userId);
 
 
 
-            if (user == null || targetIds == null)
-                return false;
+        //    if (user == null || targetIds == null)
+        //        return false;
 
-            if (!user.IsAlive || user.Card == null)
-                return false;
+        //    if (!user.IsAlive || user.Card == null)
+        //        return false;
 
-            if (abilityIndex < 0 ||
-                abilityIndex >= user.Card.Abilities.Count)
-                return false;
-
-
-            List<GamePlayer> targets = new();
-            foreach (var id in targetIds)
-            {
-                GamePlayer target = GetPlayer(id);
-                targets.Add(target);
-
-            }
+        //    if (abilityIndex < 0 ||
+        //        abilityIndex >= user.Card.Abilities.Count)
+        //        return false;
 
 
+        //    List<GamePlayer> targets = new();
+        //    foreach (var id in targetIds)
+        //    {
+        //        GamePlayer target = GetPlayer(id);
+        //        targets.Add(target);
 
-            IAbility ability = user.Card.Abilities[abilityIndex];
+        //    }
 
-            if (!ability.CanExecute(this, user, targets))
-                return false;
 
-            ability.Execute(this, user, targets);
 
-            return true;
-        }
+        //    IAbility ability = user.Card.Abilities[abilityIndex];
+
+        //    if (!ability.CanExecute(this, user, targets))
+        //        return false;
+
+        //    ability.Execute(this, user, targets);
+
+        //    return true;
+        //}
 
         public bool SubmitNightAction(ulong userId, int abilityIndex, List<ulong> targetIds)
         {
@@ -130,6 +132,7 @@ namespace Titidus
                 abilityIndex >= user.Card.Abilities.Count)
                 return false;
 
+
             List<GamePlayer> targets = new();
 
             foreach (var id in targetIds)
@@ -146,8 +149,26 @@ namespace Titidus
 
             NightAction action = new(userId, abilityIndex, targetIds);
 
-
             return nightActionManager.Submit(action);
+        }
+
+        public NightResult ResolveNight()
+        {
+            if (PhaseMachine?.CurrentState?.Phase != GamePhase.Night)
+                throw new InvalidOperationException("Cannot resolve outside Night phase");
+
+            NightResult result = nightResolver.Resolve(this, nightActionManager.Actions);
+
+            foreach (ulong playerId in result.DeadPlayers)
+            {
+                GetPlayer(playerId)?.Kill();
+            }
+
+            nightActionManager.Clear();
+
+            PhaseMachine.ChangeState(GamePhase.Morning);
+
+            return result;
         }
     }
 }

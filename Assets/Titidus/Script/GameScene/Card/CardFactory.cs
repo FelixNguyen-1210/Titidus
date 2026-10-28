@@ -29,6 +29,13 @@ namespace Titidus
                 case CardId.Seer:
                     card.AddAbility(new InspectAbility() );
                     break;
+                case CardId.Guard:
+                    card.AddAbility(new ProtectAbility());
+                    break;
+
+                default:
+                    Debug.Log($"Ability for card {card.Profile.Name} is Unknown");
+                    break;
             }
 
 

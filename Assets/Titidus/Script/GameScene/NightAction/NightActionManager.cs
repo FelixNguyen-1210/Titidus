@@ -4,7 +4,7 @@ using System.Linq;
 using Titidus;
 using UnityEngine;
 
-public class NightActionManager : MonoBehaviour
+public class NightActionManager
 {
     private readonly Dictionary<(ulong, int), NightAction> actions = new();
 
@@ -15,6 +15,8 @@ public class NightActionManager : MonoBehaviour
         var key = (action.UserId, action.AbilityIndex);
 
         actions[key] = action;
+
+        Debug.Log("Summit: " + action.ToString());
 
         return true;
     }

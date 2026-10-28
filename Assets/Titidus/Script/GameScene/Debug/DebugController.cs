@@ -1,5 +1,6 @@
 
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 namespace Titidus
@@ -63,16 +64,18 @@ namespace Titidus
         [ContextMenu("Create Deck And Assign Role")]
         public void CreatePlayerAndAssignRole()
         {
+            StartSimulation();
+
             Deck deck = new Deck(cards);
 
             deck.Shuffle();
 
-            if(simulation == null)
+            if (simulation == null)
             {
                 Debug.LogError("Simulatoin has not been created/assgined");
 
                 return;
-            } 
+            }
 
             if (deck.Cards.Count != simulation.Players.Count)
             {
@@ -89,6 +92,49 @@ namespace Titidus
             }
         }
 
+        [ContextMenu("Night 1 Action Test")]
+        public void TestNight1()
+        {
+            CreatePlayerAndAssignRole();
 
+            simulation.PhaseMachine.ChangeState(GamePhase.Night);
+
+            ulong firstVillagerId = 0;
+            ulong firstWolfId = 0;
+            ulong firstSeerId = 0;
+            ulong firstGuard = 0;
+
+            foreach (var player_pair in simulation.Players)
+            {
+                switch (player_pair.Value.Card.Profile.Id)
+                {
+                    case CardId.Villager:
+                        firstVillagerId = player_pair.Key;
+                        break;
+                    case CardId.Werewolf:
+                        firstWolfId = player_pair.Key;
+                        break;
+                    case CardId.Seer:
+                        firstSeerId = player_pair.Key;
+                        break;
+                    case CardId.Guard:
+                        firstGuard = player_pair.Key;
+                        break;
+
+
+                }
+            }
+
+            Debug.Log($"village: {firstVillagerId}, wolf: {firstWolfId}, seer: {firstSeerId}, guard: {firstGuard}");
+            simulation.SubmitNightAction(firstWolfId, 0, new List<ulong> { firstVillagerId });
+            simulation.SubmitNightAction(firstGuard, 0, new List<ulong> { firstVillagerId });
+            simulation.SubmitNightAction(firstSeerId, 0, new List<ulong> { firstWolfId });
+
+
+
+            Debug.Log("Actions amount: " + simulation.nightActionManager.Actions.Count<NightAction>());
+            Debug.Log(simulation.ResolveNight());
+
+        }
     }
 }
