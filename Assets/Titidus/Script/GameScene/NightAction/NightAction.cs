@@ -18,7 +18,7 @@ namespace Titidus
         }
         public override string ToString()
         {
-            return $"[Source: {UserId} by {AbilityIndex}] to ({string.Join("," , TargetIds)})";
+            return $"[{UserId} use it's ability at {AbilityIndex}] on [{string.Join("," , TargetIds)}]";
         }
     }
 }

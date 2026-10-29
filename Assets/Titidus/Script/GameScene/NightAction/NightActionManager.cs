@@ -15,9 +15,6 @@ public class NightActionManager
         var key = (action.UserId, action.AbilityIndex);
 
         actions[key] = action;
-
-        Debug.Log("Summit: " + action.ToString());
-
         return true;
     }
 

@@ -18,7 +18,10 @@ namespace Titidus
         }
         public override void Exit()
         {
-            simulation.nightActionManager.Clear();
+            NightResult nightResult = simulation.ResolveNight();
+
+            Debug.Log("Deadplayers tonight: " + nightResult.DeadPlayers.Count.ToString());
+
             base.Exit();
         }
 

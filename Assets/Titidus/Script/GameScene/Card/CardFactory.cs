@@ -32,7 +32,8 @@ namespace Titidus
                 case CardId.Guard:
                     card.AddAbility(new ProtectAbility());
                     break;
-
+                case CardId.Villager:
+                    break;
                 default:
                     Debug.Log($"Ability for card {card.Profile.Name} is Unknown");
                     break;

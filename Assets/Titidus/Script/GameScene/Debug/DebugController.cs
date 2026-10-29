@@ -1,4 +1,6 @@
 
+using NUnit.Framework.Internal.Execution;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -7,8 +9,6 @@ namespace Titidus
 {
     public class DebugGameController : MonoBehaviour
     {
-        [SerializeField, UnityEngine.Range(4, 12)]
-        private int playerCount = 5;
         [SerializeField] List<CardId> cards = new();
         private GameSimulation simulation;
 
@@ -19,9 +19,7 @@ namespace Titidus
 
             simulation.InitializePhases();
 
-
-
-            for (int i = 0; i < playerCount; i++)
+            for (int i = 0; i < cards.Count; i++)
             {
                 var player = new GamePlayer(
                     (ulong)i,
@@ -64,8 +62,6 @@ namespace Titidus
         [ContextMenu("Create Deck And Assign Role")]
         public void CreatePlayerAndAssignRole()
         {
-            StartSimulation();
-
             Deck deck = new Deck(cards);
 
             deck.Shuffle();
@@ -87,7 +83,7 @@ namespace Titidus
             foreach (GamePlayer player in simulation.Players.Values)
             {
                 player.AssignCard(CardFactory.CreateCard(deck.Cards[index]));
-                Debug.Log($"{player.Name}: {player.Card.ToString()}");
+                Debug.Log($"{player.Name} assigned {player.Card.ToString()}");
                 index++;
             }
         }
@@ -157,6 +153,49 @@ namespace Titidus
             Debug.Log(simulation.ResolveMorning());
         }
 
+        [ContextMenu("TestRealGame")]
 
+        public void TestARealGame()
+        {
+            StartSimulation();
+
+            CreatePlayerAndAssignRole();
+
+            simulation.NextPhase();
+
+            ulong firstVillagerId = GetPlayerByRole(CardId.Villager);
+            ulong firstWolfId = GetPlayerByRole(CardId.Werewolf);
+            ulong firstSeerId = GetPlayerByRole(CardId.Seer);
+            ulong firstGuard = GetPlayerByRole(CardId.Guard);
+
+
+            Debug.Log($"village: {firstVillagerId}, wolf: {firstWolfId}, seer: {firstSeerId}, guard: {firstGuard}");
+
+            simulation.SubmitNightAction(firstWolfId, 0, new List<ulong> { firstVillagerId });
+            simulation.SubmitNightAction(firstGuard, 0, new List<ulong> { firstSeerId });
+            simulation.SubmitNightAction(firstSeerId, 0, new List<ulong> { firstWolfId });
+
+            simulation.NextPhase();
+            simulation.NextPhase();
+            simulation.NextPhase();
+
+
+            simulation.SubmitVote(firstWolfId, true, firstSeerId);
+            simulation.SubmitVote(firstGuard, true, firstSeerId);
+
+
+            simulation.NextPhase();
+
+        }
+        ulong GetPlayerByRole(CardId role)
+        {
+            foreach (var pair in simulation.Players)
+            {
+                if (pair.Value.Card.Profile.Id == role)
+                    return pair.Key;
+            }
+
+            throw new Exception($"No player with role {role}");
+        }
     }
 }

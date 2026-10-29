@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEngine.InputSystem.HID.HID;
 
 
 namespace Titidus
@@ -8,6 +9,9 @@ namespace Titidus
     public class GameSimulation
     {
         public readonly Dictionary<ulong, GamePlayer> Players = new Dictionary<ulong, GamePlayer>();
+
+        public List<ulong> wolfId { get; private set; } = new();
+        public List<ulong> villageId { get; private set; } = new();
 
         public PhaseStateMachine PhaseMachine { get; private set; }
         public Deck GameDeck { get; set; }
@@ -57,9 +61,7 @@ namespace Titidus
 
         public GamePlayer GetPlayer(ulong playerId)
         {
-            return Players.TryGetValue(playerId, out var player)
-                ? player
-                : null;
+            return Players.TryGetValue(playerId, out var player) ? player : null;
         }
 
         public void AddPlayer(GamePlayer player)
@@ -117,7 +119,7 @@ namespace Titidus
         public bool SubmitNightAction(ulong userId, int abilityIndex, List<ulong> targetIds)
         {
             if (PhaseMachine?.CurrentState?.Phase != GamePhase.Night)
-                return false;
+                throw new InvalidOperationException("Cannot sumbit NightAction unless in NightPhase");
 
             GamePlayer user = GetPlayer(userId);
 
@@ -168,8 +170,6 @@ namespace Titidus
 
             nightActionManager.Clear();
 
-            PhaseMachine.ChangeState(GamePhase.Morning);
-
             return result;
         }
 
@@ -177,8 +177,7 @@ namespace Titidus
         {
             if (!(PhaseMachine?.CurrentState?.Phase == GamePhase.Voting))
             {
-                Debug.LogWarning("Can not submit vote unless in VotingPhase");
-                return false;
+                throw new InvalidOperationException("Can not submit vote unless in VotingPhase");
             }
             if (sourceId == targetId)
             {
@@ -192,7 +191,11 @@ namespace Titidus
 
 
 
-            if (source == null || target == null) return false;
+            if (source == null || target == null || !source.IsAlive || !target.IsAlive)
+            {
+                Debug.LogWarning("Source or target submitted is invalid");
+                return false;
+            }
 
 
             return voteManager.Submit(new Vote(sourceId, status, targetId));
@@ -200,9 +203,28 @@ namespace Titidus
 
         public MorningResult ResolveMorning()
         {
+            if (PhaseMachine?.CurrentState?.Phase != GamePhase.Resolution)
+                throw new InvalidOperationException("Cannot ResolveMorning unless in Resolution");
+
             MorningResult result = new MorningResult(voteManager.Resolve());
+            GetPlayer(result.deadPlayerId.Value).Kill();
+            voteManager.Clear();
 
             return result;
+        }
+
+        public int CountPartyMembers(Party party)
+        {
+            int count = 0;
+            foreach(var (id,player) in Players)
+            {
+                if (player.Card.Profile.Party != party) continue;
+                if (!player.IsAlive) continue;
+
+                count += 1;
+            }
+
+            return count;
         }
     }
 }
